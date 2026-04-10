@@ -51,6 +51,12 @@ Mahasiswa diminta untuk:
 Mengidentifikasi bagian yang mengatur fitur aplikasi
 Memahami bagaimana aplikasi membedakan fitur biasa dan fitur “premium” (simulasi)
 Menjelaskan alur logika tersebut dalam laporan
+🔍 Analisis Perilaku Instalasi & Redirect
+
+Dalam APK dummy yang diberikan, terdapat simulasi mekanisme yang:
+
+Mengarahkan pengguna ke halaman eksternal (misalnya store)
+Menggunakan intent tertentu untuk membuka link
 4. Modifikasi (Simulasi)
 
 Lakukan modifikasi sederhana pada APK untuk:
@@ -66,6 +72,16 @@ java -jar apktool_3.0.1.jar b app
 6. Sign APK
 java -jar uber-apk-signer-1.3.0.jar --apks app/dist/
 📊 Output yang Harus Dikumpulkan
+
+📌 Langkah Pengujian
+
+Install APK hasil rebuild menggunakan:
+
+adb install app.apk
+Pastikan:
+Aplikasi dapat berjalan normal
+Tidak terjadi crash saat dibuka
+Semua fitur dummy dapat diakses sesuai hasil modifikasi
 
 Mahasiswa wajib mengumpulkan:
 
