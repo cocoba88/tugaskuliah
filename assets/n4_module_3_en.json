@@ -1,0 +1,382 @@
+[
+  {
+    "id": "question_n4_3_001",
+    "question": "「片付ける」はどういう意味ですか？",
+    "furigana": "「片付[かたづ]ける」はどういう意味[いみ]ですか？",
+    "romaji": "'Katadzukeru' wa dou iu imi desu ka?",
+    "level": "N4",
+    "category": "VOCABULARY",
+    "options": [
+      "To tidy up / to organize",
+      "To mess up / to make dirty",
+      "To move / to transport",
+      "To arrange / to assemble"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "What is the meaning of '片付ける'?",
+    "answerExplanation": "'片付ける' (katadzukeru) means 'to tidy up' or 'to clean up', for example tidying a room or desk. Example: '部屋を片付ける' (to tidy up the room). Option B 'to make dirty' is wrong (that's '汚す'). Option C 'to move/transport' is wrong (that's '移す'). Option D 'to assemble/arrange' is wrong (that's '組み立てる'). Although C and D also involve objects, their meanings differ from 'to tidy up'.",
+    "hint": "This word is often used after eating or when a room is messy. It relates to making something neat again.",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_3_002",
+    "question": "「親切」に似た意味の言葉はどれですか？",
+    "furigana": "「親切[しんせつ]」に似[に]た意味[いみ]の言葉[ことば]はどれですか？",
+    "romaji": "'Shinsetsu' ni nita imi no kotoba wa dore desu ka?",
+    "level": "N4",
+    "category": "VOCABULARY",
+    "options": [
+      "正直（しょうじき）",
+      "丁寧（ていねい）",
+      "真剣（しんけん）",
+      "優しい（やさしい）"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "Which word has a meaning most similar to '親切'?",
+    "answerExplanation": "'親切' (shinsetsu) means kind-hearted/friendly in the sense of liking to help others. The closest word is '優しい' (yasashii) = gentle/kind. Nuance difference: 親切 emphasizes concrete helpful actions, while 優しい is more about a fundamentally gentle nature. Other options have different meanings: '正直' (shoujiki) = honest, '丁寧' (teinei) = polite/careful, '真剣' (shinken) = serious/earnest.",
+    "hint": "親切 focuses on the trait of 'kind-hearted and likes to help'. All four options are positive traits, but only one is truly close in meaning to 'kind-hearted'.",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n4_3_003",
+    "question": "「褒める」はどういう意味ですか？",
+    "furigana": "「褒[ほ]める」はどういう意味[いみ]ですか？",
+    "romaji": "'Homeru' wa dou iu imi desu ka?",
+    "level": "N4",
+    "category": "VOCABULARY",
+    "options": [
+      "To scold / to reprimand",
+      "To praise / to compliment",
+      "To comfort / to console",
+      "To encourage / to motivate"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "What is the meaning of '褒める'?",
+    "answerExplanation": "'褒める' (homeru) means 'to praise' or 'to compliment' someone. Example: '先生が学生を褒めた' (The teacher praised the student). Option A 'to scold' is wrong (that's '叱る'). Option C 'to comfort' is wrong (that's '慰める'). Option D 'to encourage' is wrong (that's '励ます'). All options are actions directed toward others, but each has a different meaning.",
+    "hint": "This word describes a positive reaction to someone's achievement. When a child gets good grades, parents usually do this.",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_3_004",
+    "question": "「参る」はどういう意味ですか？",
+    "furigana": "「参[まい]る」はどういう意味[いみ]ですか？",
+    "romaji": "'Mairu' wa dou iu imi desu ka?",
+    "level": "N4",
+    "category": "VOCABULARY",
+    "options": [
+      "To go / to come (humble form)",
+      "To return / to go back (humble form)",
+      "To wait / to be patient (polite form)",
+      "To receive / to get (humble form)"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "What is the meaning of '参る'?",
+    "answerExplanation": "'参る' (mairu) is the kenjougo (謙譲語 / humble language) form of '行く' (to go) and '来る' (to come). Used to humble oneself when speaking to someone of higher status. Example: '明日、そちらに参ります' (Tomorrow I will come there). Option B is wrong (humble return is not 参る). Option C is wrong (polite waiting = お待ちになる). Option D is wrong (humble receiving = いただく).",
+    "hint": "This is kenjougo (humble language). This word replaces two basic verbs related to movement/travel.",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n4_3_005",
+    "question": "「触る」はどういう意味ですか？",
+    "furigana": "「触[さわ]る」はどういう意味[いみ]ですか？",
+    "romaji": "'Sawaru' wa dou iu imi desu ka?",
+    "level": "N4",
+    "category": "VOCABULARY",
+    "options": [
+      "To grip / to hold tightly",
+      "To point / to direct",
+      "To touch / to feel",
+      "To reach for / to grab"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "What is the meaning of '触る'?",
+    "answerExplanation": "'触る' (sawaru) means 'to touch' or 'to feel' — light physical contact with the surface of something. Example: '美術館で絵に触らないでください' (Please don't touch the paintings in the museum). Option A 'to grip' is wrong (that's '握る'). Option B 'to point' is wrong (that's '指す'). Option D 'to reach for' is wrong (that's '取る/つかむ'). All options relate to hand actions, but only 触る means light contact without taking.",
+    "hint": "This word describes light physical contact using the hand. In museums, there are often signs prohibiting this action toward exhibits.",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_3_006",
+    "question": "私はコーヒー___ジュースのほうが好きです。",
+    "furigana": "私[わたし]はコーヒー___ジュースのほうが好[す]きです。",
+    "romaji": "Watashi wa koohii ___ juusu no hou ga suki desu.",
+    "level": "N4",
+    "category": "GRAMMAR",
+    "options": [
+      "ほど",
+      "より",
+      "ほか",
+      "しか"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "I prefer juice over coffee.",
+    "answerExplanation": "Comparison pattern: 'AよりBのほうが~' = B is more ~ than A. The particle 'より' (yori) marks the point of comparison (the 'lesser' one). Here: コーヒーより (than coffee) → ジュースのほうが好き (prefer juice). Other options: 'ほど' (hodo) is used in negative comparisons 'AほどBではない'; 'ほか' (hoka) = besides that; 'しか' (shika) = only (followed by negative).",
+    "hint": "Comparison pattern: A ___ B のほうが~. Which particle marks the 'lesser point of reference' in a comparison?",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_3_007",
+    "question": "先生が教室に___います。",
+    "furigana": "先生[せんせい]が教室[きょうしつ]に___います。",
+    "romaji": "Sensei ga kyoushitsu ni ___ imasu.",
+    "level": "N4",
+    "category": "GRAMMAR",
+    "options": [
+      "来ます",
+      "来る",
+      "来て",
+      "来られ"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "The teacher has come and is (now) in the classroom.",
+    "answerExplanation": "The pattern '~ている' after state-change verbs (来る, 行く, 帰る etc.) expresses the RESULTING STATE of an action, not an ongoing action. '来ている' = has come and is now there. The te-form '来て' is needed before 'います'. Other options: '来ます/来る' are final predicate forms (cannot directly + います), '来られ' is potential/passive form which doesn't fit here.",
+    "hint": "The pattern ~ている for the verb 来る expresses the RESULT of a change. The te-form of 来る (irregular verb) = ?",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n4_3_008",
+    "question": "電車に___、本を読みました。",
+    "furigana": "電車[でんしゃ]に___、本[ほん]を読[よ]みました。",
+    "romaji": "Densha ni ___, hon wo yomimashita.",
+    "level": "N4",
+    "category": "GRAMMAR",
+    "options": [
+      "乗ったら",
+      "乗って",
+      "乗れば",
+      "乗るなら"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "After getting on the train, I read a book.",
+    "answerExplanation": "Te-form (~て) expresses SEQUENTIAL ACTIONS — A then B. '電車に乗って、本を読みました' = Got on the train then read a book. Other options: '乗ったら' (tara) = conditional 'if/after getting on'; '乗れば' (ba) = formal conditional; '乗るなら' = if you're going to ride. In a natural sequential narrative, te-form is most appropriate.",
+    "hint": "This sentence describes two naturally sequential actions: A → B. What form connects two actions in a single narrative? (Not conditional)",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_3_009",
+    "question": "このかばんは重くて、___にくいです。",
+    "furigana": "このかばんは重[おも]くて、___にくいです。",
+    "romaji": "Kono kaban wa omokute, ___ nikui desu.",
+    "level": "N4",
+    "category": "GRAMMAR",
+    "options": [
+      "持つ",
+      "持った",
+      "持って",
+      "持ち"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "This bag is heavy and difficult to carry.",
+    "answerExplanation": "The pattern '~にくい' (nikui) = 'difficult to ~', formed with MASU-STEM + にくい. The verb '持つ' (motsu) → masu-form: 持ちます → masu-stem: '持ち'. So: 持ちにくい = difficult to carry. Similar patterns: 読みにくい (difficult to read), 使いにくい (difficult to use). Other options: 持つ = dictionary form, 持った = ta-form, 持って = te-form — none fit the ~にくい pattern.",
+    "hint": "The pattern ~にくい requires the MASU-STEM (the part before ます). For 持つ → 持ちます → the part before ます is?",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n4_3_010",
+    "question": "約束したから、必ず___ください。",
+    "furigana": "約束[やくそく]したから、必[かなら]ず___ください。",
+    "romaji": "Yakusoku shita kara, kanarazu ___ kudasai.",
+    "level": "N4",
+    "category": "GRAMMAR",
+    "options": [
+      "来た",
+      "来られて",
+      "来て",
+      "来るの"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Since you promised, please be sure to come.",
+    "answerExplanation": "The polite request pattern '~てください' is formed with te-form + ください. The te-form of 来る (kuru, irregular) is '来て' (kite). So: '必ず来てください' = please be sure to come. Other options: '来た' = past form not a command; '来られて' = te-form of potential 来られる, meaning 'can come' doesn't fit; '来るの' = nominalization, doesn't form a polite command.",
+    "hint": "The pattern ~てください requires te-form. 来る is an irregular verb — its te-form is not 来って but a special form.",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_3_011",
+    "question": "「教育」の読み方として正しいのはどれですか？",
+    "furigana": "「教育[きょういく]」の読[よ]み方[かた]として正[ただ]しいのはどれですか？",
+    "romaji": "'Kyouiku' no yomikata to shite tadashii no wa dore desu ka?",
+    "level": "N4",
+    "category": "KANJI",
+    "options": [
+      "きょうしつ",
+      "きょういく",
+      "きょうかい",
+      "きょうみ"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Which is the correct reading for '教育'?",
+    "answerExplanation": "'教育' is read as 'きょういく' (kyouiku) = education. Kanji '教' (kyou) = teach, '育' (iku) = nurture/raise. Other options use the same '教' kanji: 'きょうしつ' = 教室 (classroom), 'きょうかい' = 教会 (church), 'きょうみ' = 興味 (interest) — this actually uses a different kanji (興) but sounds similar. It's important to distinguish kanji compounds starting with 'きょう'.",
+    "hint": "The first kanji '教' is read 'きょう'. The second kanji '育' often appears in '体育' (taiiku). What is the standalone reading of '育'?",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_3_012",
+    "question": "「運転」の読み方として正しいのはどれですか？",
+    "furigana": "「運転[うんてん]」の読[よ]み方[かた]として正[ただ]しいのはどれですか？",
+    "romaji": "'Unten' no yomikata to shite tadashii no wa dore desu ka?",
+    "level": "N4",
+    "category": "KANJI",
+    "options": [
+      "うんどう",
+      "うんめい",
+      "うんてん",
+      "うんそう"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Which is the correct reading for '運転'?",
+    "answerExplanation": "'運転' is read as 'うんてん' (unten) = driving/operating. Kanji '運' (un) = carry/fate, '転' (ten) = turn/roll. Other options use the same '運' kanji: 'うんどう' = 運動 (exercise/movement), 'うんめい' = 運命 (fate/destiny), 'うんそう' = 運送 (transportation/shipping). All start with 'うん' because of kanji 運.",
+    "hint": "All options start with 'うん' (from kanji 運). Focus on the second kanji '転'. This kanji also appears in '自転車' (jitensha = bicycle).",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_3_013",
+    "question": "「旅行」の読み方として正しいのはどれですか？",
+    "furigana": "「旅行[りょこう]」の読[よ]み方[かた]として正[ただ]しいのはどれですか？",
+    "romaji": "'Ryokou' no yomikata to shite tadashii no wa dore desu ka?",
+    "level": "N4",
+    "category": "KANJI",
+    "options": [
+      "りょかん",
+      "りょじん",
+      "りょこう",
+      "りょきゃく"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Which is the correct reading for '旅行'?",
+    "answerExplanation": "'旅行' is read as 'りょこう' (ryokou) = travel/trip. Kanji '旅' (ryo) = journey, '行' (kou) = go. Other options: 'りょかん' = 旅館 (traditional inn), 'りょじん' is not a common word, 'りょきゃく' = 旅客 (passenger). Important to distinguish: 旅行 (trip) ≠ 旅館 (inn).",
+    "hint": "All options start with 'りょ' (from kanji 旅). Focus on how the second kanji '行' is read in this combination.",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_3_014",
+    "question": "「工場」の読み方として正しいのはどれですか？",
+    "furigana": "「工場[こうじょう]」の読[よ]み方[かた]として正[ただ]しいのはどれですか？",
+    "romaji": "'Koujou' no yomikata to shite tadashii no wa dore desu ka?",
+    "level": "N4",
+    "category": "KANJI",
+    "options": [
+      "こうえん",
+      "こうつう",
+      "こうちょう",
+      "こうじょう"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "Which is the correct reading for '工場'?",
+    "answerExplanation": "'工場' is read as 'こうじょう' (koujou) = factory. Kanji '工' (kou) = craft/industry, '場' (jou) = place. Other options use similar-sounding 'こう' prefixes: 'こうえん' = 公園 (park), 'こうつう' = 交通 (traffic), 'こうちょう' = 校長 (school principal). All first kanji are different despite sounding the same 'こう'.",
+    "hint": "Kanji '場' is often read 'じょう' in compound words (like 駐車場 = ちゅうしゃじょう). The first kanji '工' is read 'こう'. Combine both.",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n4_3_015",
+    "question": "「手紙」の読み方として正しいのはどれですか？",
+    "furigana": "「手紙[てがみ]」の読[よ]み方[かた]として正[ただ]しいのはどれですか？",
+    "romaji": "'Tegami' no yomikata to shite tadashii no wa dore desu ka?",
+    "level": "N4",
+    "category": "KANJI",
+    "options": [
+      "てじゅん",
+      "てほん",
+      "てがき",
+      "てがみ"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "Which is the correct reading for '手紙'?",
+    "answerExplanation": "'手紙' is read as 'てがみ' (tegami) = letter. The kanji '紙' is usually read 'かみ' (paper), but in '手紙' it becomes 'がみ' due to rendaku (voicing change). Other options use kanji '手' (te): 'てじゅん' = 手順 (procedure), 'てほん' = 手本 (model/example), 'てがき' = 手書き (handwriting).",
+    "hint": "All options start with 'て' (from kanji 手). Focus on kanji '紙' — its basic reading is 'かみ' but it can change in compounds due to rendaku.",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_3_016",
+    "question": "昨日、家族で動物園へ行きました。いろいろな動物を見ました。象は大きくて、猿は面白かったです。一番好きだったのはパンダです。とてもかわいかったです。\n\n質問：この人が動物園について言っていないことはどれですか。",
+    "furigana": "昨日[きのう]、家族[かぞく]で動物園[どうぶつえん]へ行[い]きました。いろいろな動物[どうぶつ]を見[み]ました。象[ぞう]は大[おお]きくて、猿[さる]は面白[おもしろ]かったです。一番[いちばん]好[す]きだったのはパンダです。とてもかわいかったです。\n\n質問[しつもん]：この人[ひと]が動物園[どうぶつえん]について言[い]っていないことはどれですか。",
+    "romaji": "Kinou, kazoku de doubutsuen e ikimashita. Iroiro na doubutsu wo mimashita. Zou wa ookikute, saru wa omoshirokatta desu. Ichiban suki datta no wa panda desu. Totemo kawaikatta desu.\n\nShitsumon: Kono hito ga doubutsuen ni tsuite itte inai koto wa dore desu ka.",
+    "level": "N4",
+    "category": "READING",
+    "options": [
+      "パンダが一番好きだった",
+      "象は大きかった",
+      "動物園は混んでいた",
+      "猿は面白かった"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Yesterday, I went to the zoo with my family. I saw various animals. The elephant was big, and the monkey was interesting. My favorite was the panda. It was very cute.\n\nQuestion: Which thing did this person NOT mention about the zoo?",
+    "answerExplanation": "The question looks for info NOT in the text. (A) パンダが一番好き ✓ mentioned; (B) 象は大きい ✓ mentioned; (D) 猿は面白い ✓ mentioned. What's NOT mentioned: (C) 動物園は混んでいた (the zoo was crowded) — not in the text at all.",
+    "hint": "Read the text carefully and eliminate options that are actually mentioned. One option discusses the condition of the place that the author never touched on.",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_3_017",
+    "question": "来週の水曜日、学校で音楽会があります。午後2時から4時までです。参加したい人は、今週中に先生に言ってください。\n\n質問：参加したい人はどうしなければなりませんか。",
+    "furigana": "来週[らいしゅう]の水曜日[すいようび]、学校[がっこう]で音楽会[おんがくかい]があります。午後[ごご]2時[にじ]から4時[よじ]までです。参加[さんか]したい人[ひと]は、今週[こんしゅう]中[じゅう]に先生[せんせい]に言[い]ってください。\n\n質問[しつもん]：参加[さんか]したい人[ひと]はどうしなければなりませんか。",
+    "romaji": "Raishuu no suiyoubi, gakkou de ongakukai ga arimasu. Gogo ni-ji kara yo-ji made desu. Sanka shitai hito wa, konshuuchuu ni sensei ni itte kudasai.\n\nShitsumon: Sanka shitai hito wa dou shinakereba narimasen ka.",
+    "level": "N4",
+    "category": "READING",
+    "options": [
+      "来週の水曜日に学校へ行く",
+      "今週中に先生に知らせる",
+      "午後2時前に学校に着く",
+      "友達を誘って一緒に参加する"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Next Wednesday, there will be a music concert at school. From 2 PM to 4 PM. Those who want to participate, please tell the teacher by the end of this week.\n\nQuestion: What must those who want to participate do?",
+    "answerExplanation": "The text states: '参加したい人は、今週中に先生に言ってください' = those who want to participate must tell the teacher this week. (A) is wrong — going to school on Wednesday is not a special requirement for participants; (C) arrival time is not mentioned; (D) inviting friends is not mentioned.",
+    "hint": "Look for the sentence with specific instructions for '参加したい人は~'. The keyword is in the last sentence of the text.",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_3_018",
+    "question": "田中さんへ\n先週借りた本を返します。ありがとうございました。とても面白かったです。今度、一緒に映画を見に行きませんか。\n山田より\n\n質問：この手紙について正しいのはどれですか。",
+    "furigana": "田中[たなか]さんへ\n先週[せんしゅう]借[か]りた本[ほん]を返[かえ]します。ありがとうございました。とても面白[おもしろ]かったです。今度[こんど]、一緒[いっしょ]に映画[えいが]を見[み]に行[い]きませんか。\n山田[やまだ]より\n\n質問[しつもん]：この手紙[てがみ]について正[ただ]しいのはどれですか。",
+    "romaji": "Tanaka-san e\nSenshuu karita hon wo kaeshimasu. Arigatou gozaimashita. Totemo omoshirokatta desu. Kondo, issho ni eiga wo mi ni ikimasen ka.\nYamada yori\n\nShitsumon: Kono tegami ni tsuite tadashii no wa dore desu ka.",
+    "level": "N4",
+    "category": "READING",
+    "options": [
+      "山田さんは田中さんに本を借りたい",
+      "山田さんは田中さんと映画を見に行くつもりだ",
+      "山田さんは田中さんに本を返し、映画に誘っている",
+      "山田さんは田中さんへのお礼だけを伝えている"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Dear Tanaka-san,\nI am returning the book I borrowed last week. Thank you very much. It was very interesting. Next time, would you like to go see a movie together?\nFrom Yamada\n\nQuestion: Which is correct about this letter?",
+    "answerExplanation": "The letter has two purposes: (1) returning the book '先週借りた本を返します' and (2) inviting to watch a movie '映画を見に行きませんか'. (A) is wrong — Yamada is returning, not borrowing; (B) 'つもり' implies certainty, but this is just an invitation; (D) is incomplete — there is also a movie invitation.",
+    "hint": "Read the entire letter. Yamada conveys more than one thing. Which option covers ALL the contents of the letter accurately?",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_3_019",
+    "question": "駅前の新しいカフェは、コーヒーがおいしくて、値段も安いです。それに、静かで勉強しやすいです。学生がよく利用しています。\n\n質問：このカフェについて正しくないのはどれですか。",
+    "furigana": "駅前[えきまえ]の新[あたら]しいカフェは、コーヒーがおいしくて、値段[ねだん]も安[やす]いです。それに、静[しず]かで勉強[べんきょう]しやすいです。学生[がくせい]がよく利用[りよう]しています。\n\n質問[しつもん]：このカフェについて正[ただ]しくないのはどれですか。",
+    "romaji": "Ekimae no atarashii kafe wa, koohii ga oishikute, nedan mo yasui desu. Sore ni, shizuka de benkyou shiyasui desu. Gakusei ga yoku riyou shite imasu.\n\nShitsumon: Kono kafe ni tsuite tadashikunai no wa dore desu ka.",
+    "level": "N4",
+    "category": "READING",
+    "options": [
+      "コーヒーがおいしい",
+      "値段が安い",
+      "駅から遠い場所にある",
+      "学生がよく使っている"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "The new cafe in front of the station has delicious coffee and the prices are cheap too. Moreover, it's quiet and easy to study. Students often use it.\n\nQuestion: Which is NOT correct about this cafe?",
+    "answerExplanation": "The text mentions '駅前' (in front of the station) = NEAR the station. (A) コーヒーがおいしい ✓; (B) 値段も安い ✓; (D) 学生がよく利用している ✓. (C) '駅から遠い' (far from the station) directly contradicts '駅前'.",
+    "hint": "This is a 'which is WRONG' question. Pay attention to the word '駅前' in the first sentence — what does it mean and does it match one of the options?",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_3_020",
+    "question": "A: 「今週末、海へ行きませんか。」\nB: 「いいですね。でも、天気が心配です。」\nA: 「大丈夫ですよ。天気予報によると、晴れるそうです。」\n\n質問：この会話から正しいことはどれですか。",
+    "furigana": "A: 「今週末[こんしゅうまつ]、海[うみ]へ行[い]きませんか。」\nB: 「いいですね。でも、天気[てんき]が心配[しんぱい]です。」\nA: 「大丈夫[だいじょうぶ]ですよ。天気予報[てんきよほう]によると、晴[は]れるそうです。」\n\n質問[しつもん]：この会話[かいわ]から正[ただ]しいことはどれですか。",
+    "romaji": "A: 'Konshuumatsu, umi e ikimasen ka.'\nB: 'Ii desu ne. Demo, tenki ga shinpai desu.'\nA: 'Daijoubu desu yo. Tenkiyohou ni yoru to, hareru sou desu.'\n\nShitsumon: Kono kaiwa kara tadashii koto wa dore desu ka.",
+    "level": "N4",
+    "category": "READING",
+    "options": [
+      "Bは海に行きたくない",
+      "Aは天気予報を確認した",
+      "天気予報では雨になるそうだ",
+      "BはAの誘いを断った"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "A: 'This weekend, would you like to go to the beach?'\nB: 'That sounds nice. But I'm worried about the weather.'\nA: 'It's fine. According to the weather forecast, it will be sunny.'\n\nQuestion: Which is correct based on this conversation?",
+    "answerExplanation": "(B) is correct: A quotes the weather forecast '天気予報によると' which means A has checked it. (A) is wrong — B said 'いいですね' = interested, not refusing; (C) is wrong — the forecast says 晴れる (sunny), not rain; (D) is wrong — B didn't refuse, just worried.",
+    "hint": "Pay attention to A's last sentence: '天気予報によると~'. The phrase 'によると' means 'according to (a source)'. What can be concluded from the fact that A quotes the weather forecast?",
+    "difficultyScore": 3
+  }
+]

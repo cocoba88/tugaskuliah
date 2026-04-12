@@ -1,0 +1,572 @@
+[
+  {
+    "id": "question_n2_4_001",
+    "question": "長期間の残業は社員の健康に様々な＿＿＿をもたらす。",
+    "furigana": "長期間[ちょうきかん]の残業[ざんぎょう]は社員[しゃいん]の健康[けんこう]に様々[さまざま]な＿＿＿をもたらす。",
+    "romaji": "Choukikan no zangyou wa shain no kenkou ni samazama na ___ wo motarasu.",
+    "level": "N2",
+    "category": "VOCABULARY",
+    "options": [
+      "弊害",
+      "障害",
+      "被害",
+      "損害"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Lam them gio trong thoi gian dai gay ra nhieu ___ doi voi suc khoe nhan vien.",
+    "answerExplanation": "「弊害」(へいがい/heigai) co nghia la tac hai hoac hau qua tieu cuc phat sinh tu mot he thong hoac thoi quen. Khac voi '障害' (tro ngai/can tro), '被害' (thiet hai do thien tai/toi pham), va '損害' (ton that tai chinh), '弊害' dac biet chi hau qua tieu cuc phat sinh tu mot cau truc hoac thuc hanh lau doi. Vi du: 過度な競争の弊害 (tac hai tu canh tranh qua muc).",
+    "hint": "Hau qua tieu cuc tu mot he thong hoac thoi quen",
+    "difficultyScore": 6
+  },
+  {
+    "id": "question_n2_4_002",
+    "question": "「融通」の意味は？",
+    "furigana": "「融通[ゆうずう]」の意味[いみ]は？",
+    "romaji": "'Yuuzuu' no imi wa?",
+    "level": "N2",
+    "category": "VOCABULARY",
+    "options": [
+      "Sự kiên quyết",
+      "Bạo lực",
+      "Sự linh hoạt",
+      "Sự thờ ơ"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "'融通' có nghĩa là gì?",
+    "answerExplanation": "'融通' (yuuzuu) có nghĩa là linh hoat hoac kha nang thich ung. Trong hoi thoai hang ngay thuong duoc su dung trong the '融通が利く' (yuuzuu ga kiku) co nghia la 'linh hoat' hoac '融通が利かない' co nghia la 'cung nhac/khong linh hoat'.",
+    "hint": "Kha nang thich ung voi tinh huong",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_4_003",
+    "question": "「概要」の意味は？",
+    "furigana": "「概要[がいよう]」の意味[いみ]は？",
+    "romaji": "'Gaiyou' no imi wa?",
+    "level": "N2",
+    "category": "VOCABULARY",
+    "options": [
+      "Chi tiết đầy đủ",
+      "Phê bình gay gắt",
+      "Tóm tắt",
+      "Kết luận cuối cùng"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "'概要' có nghĩa là gì?",
+    "answerExplanation": "'概要' (gaiyou) co nghia la tom tat hoac khai quat. Tu nay thuong duoc su dung trong ngu canh kinh doanh va hoc thuat de trinh bay dai cuong cua mot chu de hoac tai lieu. Gom kanji '概' (dai cuong) va '要' (quan trong/cot loi).",
+    "hint": "Dai cuong cua mot viec gi do, khong phai chi tiet day du",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_4_004",
+    "question": "「依存」の意味は？",
+    "furigana": "「依存[いぞん]」の意味[いみ]は？",
+    "romaji": "'Izon' no imi wa?",
+    "level": "N2",
+    "category": "VOCABULARY",
+    "options": [
+      "Sự độc lập",
+      "Sự phụ thuộc",
+      "Tự do",
+      "Sự cân bằng"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "'依存' có nghĩa là gì?",
+    "answerExplanation": "'依存' (izon) có nghĩa là su phu thuoc. Thuong duoc dung trong cum tu nhu 'スマホ依存' (nghien dien thoai) hoac 'アルコール依存' (nghien ruou). Kanji '依' co nghia la dua vao va '存' co nghia la ton tai.",
+    "hint": "Tinh trang ma ai do khong the thoat khoi dieu gi do",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_4_005",
+    "question": "「概況」の読み方は？",
+    "furigana": "「概況[がいきょう]」の読[よ]み方[かた]は？",
+    "romaji": "'Gaikyou' no yomikata wa?",
+    "level": "N2",
+    "category": "KANJI",
+    "options": [
+      "がいきょう",
+      "がいじょう",
+      "かいきょう",
+      "かいじょう"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Cách đọc '概況' là gì?",
+    "answerExplanation": "「概況」duoc doc la 'がいきょう' (gaikyou) co nghia la khai quat tinh hinh hoac dieu kien tong quan. Kanji '概' (がい) co nghia la tong quan va '況' (きょう) co nghia la dieu kien/tinh hinh. Vi du: '経済の概況を報告する' (bao cao tinh hinh kinh te tong quan). Tu nay thuong duoc su dung trong bao cao kinh doanh va tin tuc.",
+    "hint": "Gai + kyou",
+    "difficultyScore": 6
+  },
+  {
+    "id": "question_n2_4_006",
+    "question": "「誇張」の読み方は？",
+    "furigana": "「誇張[こちょう]」の読[よ]み方[かた]は？",
+    "romaji": "'Kochou' no yomikata wa?",
+    "level": "N2",
+    "category": "KANJI",
+    "options": [
+      "ごちょう",
+      "こちょう",
+      "きちょう",
+      "かちょう"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Cách đọc '誇張' là gì?",
+    "answerExplanation": "'誇張' duoc doc la 'こちょう' (kochou) co nghia la phong dai hoac cuong dieu. '誇' (ko) co nghia la tu hao va '張' (chou) co nghia la keo giang. Tu nay duoc dung de mo ta dieu gi do bi phong dai.",
+    "hint": "Ko + Chou",
+    "difficultyScore": 6
+  },
+  {
+    "id": "question_n2_4_007",
+    "question": "「恩恵」の読み方は？",
+    "furigana": "「恩恵[おんけい]」の読[よ]み方[かた]は？",
+    "romaji": "'Onkei' no yomikata wa?",
+    "level": "N2",
+    "category": "KANJI",
+    "options": [
+      "おんけい",
+      "おんえ",
+      "えんけい",
+      "おんめぐみ"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Cách đọc '恩恵' là gì?",
+    "answerExplanation": "'恩恵' duoc doc la 'おんけい' (onkei) co nghia la an hue, phuc lanh, hoac loi ich. '恩' (on) co nghia la on/long tot va '恵' (kei) co nghia la ban phuoc/an hue. Vi du: '自然の恩恵' (an hue cua thien nhien).",
+    "hint": "On + Kei",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_4_008",
+    "question": "「契機」の読み方は？",
+    "furigana": "「契機[けいき]」の読[よ]み方[かた]は？",
+    "romaji": "'Keiki' no yomikata wa?",
+    "level": "N2",
+    "category": "KANJI",
+    "options": [
+      "ちぎき",
+      "せいき",
+      "けいき",
+      "けっき"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Cách đọc '契機' là gì?",
+    "answerExplanation": "'契機' được đọc là 'けいき' (keiki) ma có nghĩa là co hoi hoac buoc ngoat. Thuong duoc dung trong the '〜を契機に' co nghia la 'nhan co hoi tu~'. Dung nham voi '景気' (keiki) co nghia la tinh hinh kinh te.",
+    "hint": "Kei + Ki",
+    "difficultyScore": 6
+  },
+  {
+    "id": "question_n2_4_009",
+    "question": "「遵守」の読み方は？",
+    "furigana": "「遵守[じゅんしゅ]」の読[よ]み方[かた]は？",
+    "romaji": "'Junshu' no yomikata wa?",
+    "level": "N2",
+    "category": "KANJI",
+    "options": [
+      "そんしゅ",
+      "じゅんしゅ",
+      "しゅんす",
+      "じゅんす"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Cách đọc '遵守' là gì?",
+    "answerExplanation": "'遵守' duoc doc la 'じゅんしゅ' (junshu) co nghia la tuan thu hoac chap hanh. Tu nay thuong duoc su dung trong ngu canh phap luat va quy tac, vi du '法律を遵守する' (tuan thu phap luat) hoac 'ルールを遵守する' (tuan thu quy tac).",
+    "hint": "Jun + Shu",
+    "difficultyScore": 7
+  },
+  {
+    "id": "question_n2_4_010",
+    "question": "「普及」の読み方は？",
+    "furigana": "「普及[ふきゅう]」の読[よ]み方[かた]は？",
+    "romaji": "'Fukyuu' no yomikata wa?",
+    "level": "N2",
+    "category": "KANJI",
+    "options": [
+      "ふきゅう",
+      "ふぎゅう",
+      "ほきゅう",
+      "ぶきゅう"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Cách đọc '普及' là gì?",
+    "answerExplanation": "「普及」duoc doc la 'ふきゅう' (fukyuu) co nghia la su lan rong, pho bien, hoac pho cap. Vi du: 'スマートフォンの普及' (su pho bien cua dien thoai thong minh), 'インターネットが普及する' (internet lan rong). Kanji '普' (ふ) co nghia la chung/rong va '及' (きゅう) co nghia la dat toi/vuon toi. Dung nham voi '補給' (ほきゅう/hokyuu) co nghia la cung cap/bo sung.",
+    "hint": "Fu + kyuu = lan rong ra toan xa hoi",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_4_011",
+    "question": "天候___、イベントは開催されます。",
+    "furigana": "天候[てんこう]___、イベントは開催[かいさい]されます。",
+    "romaji": "Tenkou ___, ibento wa kaisai saremasu.",
+    "level": "N2",
+    "category": "GRAMMAR",
+    "options": [
+      "にかかわらず",
+      "にもとづいて",
+      "にしたがって",
+      "につれて"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Bat ke thoi tiet the nao, su kien van duoc to chuc.",
+    "answerExplanation": "'〜にかかわらず' co nghia la 'bat ke~' hoac 'khong phu thuoc vao~'. Mau cau nay duoc dung de dien ta rang dieu gi do xay ra ma khong bi anh huong boi dieu kien duoc de cap. Vi du khac: '年齢にかかわらず' (bat ke tuoi tac).",
+    "hint": "Mau dien ta 'du dieu kien nhu the nao di nua'",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_4_012",
+    "question": "散々迷った___、結局何も買わなかった。",
+    "furigana": "散々[さんざん]迷[まよ]った___、結局[けっきょく]何[なに]も買[か]わなかった。",
+    "romaji": "Sanzan mayotta ___, kekkyoku nani mo kawanakatta.",
+    "level": "N2",
+    "category": "GRAMMAR",
+    "options": [
+      "ついでに",
+      "あげく",
+      "ばかりに",
+      "くせに"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Sau khi phan van keo dai, cuoi cung khong mua gi ca.",
+    "answerExplanation": "'〜あげく' (ageku) co nghia la 'cuoi cung' hoac 'sau mot thoi gian dai~'. Mau cau nay duoc dung khi ket qua cuoi cung thuong tieu cuc hoac khong mong doi sau qua trinh dai. Dang thuc: dong tu the qua khu + あげく.",
+    "hint": "Mau cho thay ket qua cuoi cung (thuong tieu cuc) sau no luc/qua trinh dai",
+    "difficultyScore": 6
+  },
+  {
+    "id": "question_n2_4_013",
+    "question": "あんなに勉強して、落ちる___。",
+    "furigana": "あんなに勉強[べんきょう]して、落[お]ちる___。",
+    "romaji": "Anna ni benkyou shite, ochiru ___.",
+    "level": "N2",
+    "category": "GRAMMAR",
+    "options": [
+      "ものだ",
+      "ことだ",
+      "わけがない",
+      "はずだ"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Da hoc nhieu nhu vay, khong the that bai.",
+    "answerExplanation": "'〜わけがない' có nghĩa là 'khong the~' hoac 'khong co ly do gi~'. Mau cau nay duoc dung de phu nhan mot kha nang mot cach manh me dua tren ly do logic. Khac voi 'はずがない' ma thieng ve phan doan, 'わけがない' nhan manh hon vao ly do/logic.",
+    "hint": "mau dien ta su khong the dua tren logic",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_4_014",
+    "question": "予想___、売り上げが大幅に伸びた。",
+    "furigana": "予想[よそう]___、売[う]り上[あ]げが大幅[おおはば]に伸[の]びた。",
+    "romaji": "Yosou ___, uriage ga oohaba ni nobita.",
+    "level": "N2",
+    "category": "GRAMMAR",
+    "options": [
+      "に関して",
+      "に対して",
+      "に反して",
+      "について"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Trai nguoc voi du doan, doanh so tang mot cach dang ke.",
+    "answerExplanation": "'〜に反して' (ni hanshite) có nghĩa là 'trai nguoc voi~' hoac 'nguoc lai voi~'. Mau cau nay duoc dung khi ket qua xay ra khac hoac hoan toan nguoc lai voi dieu duoc ky vong hoac du doan. Vi du khac: '期待に反して' (trai nguoc voi ky vong).",
+    "hint": "mau dien ta dieu gi do xay ra hoan toan nguoc lai",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_4_015",
+    "question": "実話___、この映画が作られた。",
+    "furigana": "実話[じつわ]___、この映画[えいが]が作[つく]られた。",
+    "romaji": "Jitsuwa ___, kono eiga ga tsukurareta.",
+    "level": "N2",
+    "category": "GRAMMAR",
+    "options": [
+      "をこめて",
+      "をもとに",
+      "をめぐって",
+      "をかねて"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Dựa trên kisah nyata, film ini dibuat.",
+    "answerExplanation": "'〜をもとに' co nghia la 'dua tren~' hoac 'voi ~ lam co so'. Mau cau nay duoc dung de dien ta rang dieu gi do duoc tao ra hoac thuc hien dua tren nguon nhat dinh. Tuong tu voi '〜に基づいて' (ni motozuite), nhung 'をもとに' thuong duoc su dung cho tac pham sang tao.",
+    "hint": "Mau dien ta nguon hoac co so cua dieu gi do",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_4_016",
+    "question": "経験___、給料が決まる。",
+    "furigana": "経験[けいけん]___、給料[きゅうりょう]が決[き]まる。",
+    "romaji": "Keiken ___, kyuuryou ga kimaru.",
+    "level": "N2",
+    "category": "GRAMMAR",
+    "options": [
+      "に応じて",
+      "に際して",
+      "に先立って",
+      "にわたって"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Luong duoc quyet dinh tuy theo kinh nghiem.",
+    "answerExplanation": "'〜に応じて' (ni oujite) có nghĩa là 'tuy theo~' hoac 'tuy thuoc vao~'. Mau cau nay duoc dung de dien ta rang dieu gi do thay doi hoac duoc dieu chinh dua tren yeu to nhat dinh. Vi du khac: '能力に応じて' (tuy theo kha nang), '状況に応じて' (tuy theo tinh huong).",
+    "hint": "mau dien ta su dieu chinh dua tren mot yeu to",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_4_017",
+    "question": "引き受けた___、最後までやり遂げるべきだ。",
+    "furigana": "引[ひ]き受[う]けた___、最後[さいご]までやり遂[と]げるべきだ。",
+    "romaji": "Hikiuketa ___, saigo made yaritogeru beki da.",
+    "level": "N2",
+    "category": "GRAMMAR",
+    "options": [
+      "以上",
+      "上で",
+      "次第",
+      "限り"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Vi da nhan trach nhiem do, nen hoan thanh den cung.",
+    "answerExplanation": "'〜以上' (ijou) trong ngữ cảnh tata bahasa có nghĩa là 'vi da~' hoac 'mot khi da~'. Mau cau nay duoc dung de dien ta rang vi mot quyet dinh hoac tinh huong da xay ra, thi co hau qua hoac trach nhiem phai chiu. Thuong duoc theo sau boi cau dien ta nghia vu hoac quyet tam.",
+    "hint": "mau trang trong dien ta 'vi da nhan roi...'",
+    "difficultyScore": 6
+  },
+  {
+    "id": "question_n2_4_018",
+    "question": "次の社内メモを読んで、質問に答えてください。\n\n【社内メモ】\n件名：リモートワーク新規定について\n\n4月1日より、以下の新しいリモートワーク規定を実施いたします。\n\n1. リモートワークは週3日まで可能です。\n2. リモートワーク中は、必ず会社支給のパソコンを使用してください。\n3. 勤務時間中はチャットツールで連絡が取れる状態にしてください。\n4. 機密情報を扱う業務は、必ずオフィスで行ってください。\n5. カフェなど公共の場所での業務は禁止です。\n\nなお、チーム会議がある日は原則出社をお願いします。\n\nこの規定で許可されていないことはどれですか？",
+    "furigana": "次[つぎ]の社内[しゃない]メモを読[よ]んで、質問[しつもん]に答[こた]えてください。\n\n【社内[しゃない]メモ】\n件名[けんめい]：リモートワーク新[しん]規定[きてい]について\n\n4月[がつ]1日[にち]より、以下[いか]の新[あたら]しいリモートワーク規定[きてい]を実施[じっし]いたします。\n\n1. リモートワークは週[しゅう]3日[にち]まで可能[かのう]です。\n2. リモートワーク中[ちゅう]は、必[かなら]ず会社[かいしゃ]支給[しきゅう]のパソコンを使用[しよう]してください。\n3. 勤務[きんむ]時間中[じかんちゅう]はチャットツールで連絡[れんらく]が取[と]れる状態[じょうたい]にしてください。\n4. 機密[きみつ]情報[じょうほう]を扱[あつか]う業務[ぎょうむ]は、必[かなら]ずオフィスで行[おこな]ってください。\n5. カフェなど公共[こうきょう]の場所[ばしょ]での業務[ぎょうむ]は禁止[きんし]です。\n\nなお、チーム会議[かいぎ]がある日[ひ]は原則[げんそく]出社[しゅっしゃ]をお願[ねが]いします。\n\nこの規定[きてい]で許可[きょか]されていないことはどれですか？",
+    "romaji": "Tsugi no shanai memo wo yonde, shitsumon ni kotaete kudasai. [...] Kono kitei de kyoka sarete inai koto wa dore desu ka?",
+    "level": "N2",
+    "category": "READING",
+    "options": [
+      "週に2日リモートワークをすること",
+      "自分のパソコンでリモートワークをすること",
+      "チャットツールで連絡を取ること",
+      "オフィスで機密情報を扱うこと"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Doc ban ghi nho noi bo sau day va tra loi cau hoi.\n\n[Ban ghi nho Noi bo]\nChu de: Ve Quy dinh Moi Lam viec Tu xa\n\nTu ngay 1 thang 4, cac quy dinh lam viec tu xa sau day se duoc ap dung:\n1. Lam viec tu xa duoc phep toi da 3 ngay moi tuan.\n2. Khi lam viec tu xa, bat buoc su dung may tinh do cong ty cap.\n3. Trong gio lam viec, phai co the lien lac duoc qua cong cu chat.\n4. Cong viec lien quan den thong tin bi mat phai thuc hien tai van phong.\n5. Lam viec o noi cong cong nhu quan ca phe bi cam.\n\nNgoai ra, vao ngay co hop nhom, ve nguyen tac duoc yeu cau den van phong.\n\nDieu gi KHONG duoc phep trong quy dinh nay?",
+    "answerExplanation": "Theo quy dinh diem 2, khi lam viec tu xa, nhan vien BAT BUOC su dung may tinh do cong ty cap (会社支給のパソコン). Nghia la, su dung may tinh ca nhan de lam viec tu xa KHONG duoc phep. Cac lua chon khac deu duoc phep hoac la bat buoc theo quy dinh.",
+    "hint": "Luu y quy tac ve thiet bi duoc phep su dung khi lam viec tu nha",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_4_019",
+    "question": "次の記事を読んで、質問に答えてください。\n\nキャッシュレス社会が急速に広がっている。クレジットカードやスマートフォン決済の普及により、現金を使わない生活が当たり前になりつつある。政府もキャッシュレス化を推進しており、多くの店舗がキャッシュレス決済に対応するようになった。\n\nしかし、課題も多い。特に高齢者の中には、新しい技術に慣れていない人が多く、キャッシュレス決済を使いこなせないケースがある。また、災害時に停電が起きた場合、電子決済が一切使えなくなるというリスクも指摘されている。さらに、個人情報の流出やセキュリティの問題も懸念されている。\n\nこの記事で述べられている主な課題はどれですか？",
+    "furigana": "次[つぎ]の記事[きじ]を読[よ]んで、質問[しつもん]に答[こた]えてください。\n\nキャッシュレス社会[しゃかい]が急速[きゅうそく]に広[ひろ]がっている。クレジットカードやスマートフォン決済[けっさい]の普及[ふきゅう]により、現金[げんきん]を使[つか]わない生活[せいかつ]が当[あ]たり前[まえ]になりつつある。政府[せいふ]もキャッシュレス化[か]を推進[すいしん]しており、多[おお]くの店舗[てんぽ]がキャッシュレス決済[けっさい]に対応[たいおう]するようになった。\n\nしかし、課題[かだい]も多[おお]い。特[とく]に高齢者[こうれいしゃ]の中[なか]には、新[あたら]しい技術[ぎじゅつ]に慣[な]れていない人[ひと]が多[おお]く、キャッシュレス決済[けっさい]を使[つか]いこなせないケースがある。また、災害[さいがい]時[じ]に停電[ていでん]が起[お]きた場合[ばあい]、電子[でんし]決済[けっさい]が一切[いっさい]使[つか]えなくなるというリスクも指摘[してき]されている。さらに、個人[こじん]情報[じょうほう]の流出[りゅうしゅつ]やセキュリティの問題[もんだい]も懸念[けねん]されている。\n\nこの記事[きじ]で述[の]べられている主[おも]な課題[かだい]はどれですか？",
+    "romaji": "Tsugi no kiji wo yonde, shitsumon ni kotaete kudasai. [...] Kono kiji de noberarete iru omo na kadai wa dore desu ka?",
+    "level": "N2",
+    "category": "READING",
+    "options": [
+      "キャッシュレス決済の手数料が高いこと",
+      "高齢者が新技術に対応できないこと",
+      "現金の製造コストが増加していること",
+      "店舗がキャッシュレスに対応しないこと"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Doc bai bao sau day va tra loi cau hoi.\n\nXa hoi khong dung tien mat (cashless) dang phat trien nhanh chong. Voi su pho bien cua thanh toan the tin dung va dien thoai thong minh, cuoc song khong dung tien mat dang tro thanh binh thuong. Chinh phu cung thuc day cashless, va nhieu cua hang bat dau chap nhan thanh toan cashless.\n\nTuy nhien, co nhieu thach thuc. Dac biet trong nhom nguoi gia, nhieu nguoi chua quen voi cong nghe moi va khong the su dung thanh toan cashless. Ngoai ra, co rui ro rang khi xay ra thien tai va mat dien, thanh toan dien tu hoan toan khong the su dung duoc. Hon nua, lo lot thong tin ca nhan va van de an ninh cung tro thanh moi lo ngai.\n\nThach thuc chinh duoc de cap trong bai bao nay la gi?",
+    "answerExplanation": "Bai bao nay de cap ba thach thuc chinh cua xa hoi cashless: (1) nguoi gia gap kho khan su dung cong nghe moi, (2) rui ro khi thien tai/mat dien, va (3) an ninh du lieu. Thach thuc duoc de cap dau tien va nhan manh nhat (voi tu '特に'/dac biet) la van de nguoi gia chua quen voi cong nghe moi. Cac lua chon khac khong duoc de cap trong bai bao.",
+    "hint": "Luu y tu '特に' (dac biet) danh dau su nhan manh vao thach thuc nhat dinh",
+    "difficultyScore": 6
+  },
+  {
+    "id": "question_n2_4_020",
+    "question": "次の文章を読んで、質問に答えてください。\n\n都市化が進む中で、伝統的な地域社会は大きな変化を経験している。若者が仕事を求めて都市に移住することで、地方では人口減少と高齢化が急速に進んでいる。かつては祭りや農作業を通じて強い絆で結ばれていたコミュニティも、人手不足により伝統行事の維持が困難になっている。\n\n一方で、近年ではテレワークの普及やUターン・Iターンの増加により、地方に新たな活力が生まれ始めている例もある。デジタル技術を活用して伝統文化を発信する取り組みも注目されている。ただし、こうした動きはまだ限定的であり、伝統的なコミュニティの本質的な再生には、経済的な基盤整備と文化的価値の再認識の両方が不可欠であると専門家は指摘している。\n\n筆者の結論として最も適切なものはどれですか？",
+    "furigana": "次[つぎ]の文章[ぶんしょう]を読[よ]んで、質問[しつもん]に答[こた]えてください。\n\n都市化[としか]が進[すす]む中[なか]で、伝統的[でんとうてき]な地域[ちいき]社会[しゃかい]は大[おお]きな変化[へんか]を経験[けいけん]している。若者[わかもの]が仕事[しごと]を求[もと]めて都市[とし]に移住[いじゅう]することで、地方[ちほう]では人口[じんこう]減少[げんしょう]と高齢化[こうれいか]が急速[きゅうそく]に進[すす]んでいる。かつては祭[まつ]りや農作業[のうさぎょう]を通[つう]じて強[つよ]い絆[きずな]で結[むす]ばれていたコミュニティも、人手[ひとで]不足[ぶそく]により伝統[でんとう]行事[ぎょうじ]の維持[いじ]が困難[こんなん]になっている。\n\n一方[いっぽう]で、近年[きんねん]ではテレワークの普及[ふきゅう]やUターン・Iターンの増加[ぞうか]により、地方[ちほう]に新[あら]たな活力[かつりょく]が生[う]まれ始[はじ]めている例[れい]もある。デジタル技術[ぎじゅつ]を活用[かつよう]して伝統[でんとう]文化[ぶんか]を発信[はっしん]する取[と]り組[く]みも注目[ちゅうもく]されている。ただし、こうした動[うご]きはまだ限定的[げんていてき]であり、伝統的[でんとうてき]なコミュニティの本質的[ほんしつてき]な再生[さいせい]には、経済的[けいざいてき]な基盤[きばん]整備[せいび]と文化的[ぶんかてき]価値[かち]の再[さい]認識[にんしき]の両方[りょうほう]が不可欠[ふかけつ]であると専門家[せんもんか]は指摘[してき]している。\n\n筆者[ひっしゃ]の結論[けつろん]として最[もっと]も適切[てきせつ]なものはどれですか？",
+    "romaji": "Tsugi no bunshou wo yonde, shitsumon ni kotaete kudasai. [...] Hissha no ketsuron toshite mottomo tekisetsu na mono wa dore desu ka?",
+    "level": "N2",
+    "category": "READING",
+    "options": [
+      "都市化は完全に止めるべきである",
+      "デジタル技術だけで伝統文化を守れる",
+      "伝統的コミュニティの再生には経済基盤と文化的価値の再認識の両方が必要である",
+      "地方の問題はテレワークの普及で完全に解決できる"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Doc van ban sau day va tra loi cau hoi.\n\nGiua qua trinh do thi hoa, xa hoi truyen thong trai qua nhung thay doi lon. Vi thanh nien chuyen den thanh pho de tim viec lam, giam dan so va gia hoa xay ra nhanh chong o nong thon. Cong dong truoc day gan bo chat che qua le hoi va hoat dong nong nghiep cung gap kho khan trong viec duy tri su kien truyen thong vi thieu nhan luc.\n\nMat khac, gan day co nhung vi du ve suc song moi bat dau xuat hien o nong thon nho su pho bien cua lam viec tu xa va su gia tang U-turn/I-turn. No luc quang ba van hoa truyen thong su dung cong nghe so cung duoc chu y. Tuy nhien, nhung dong thai nay van con han che, va cac chuyen gia chi ra rang de phuc hung that su cong dong truyen thong, can ca xay dung nen tang kinh te va cong nhan lai gia tri van hoa.\n\nDap an nao chinh xac nhat la ket luan cua tac gia?",
+    "answerExplanation": "Ket luan cua tac gia duoc neu o cau cuoi cung: phuc hung cong dong truyen thong can HAI dieu cung luc, tuc la xay dung nen tang kinh te (経済的な基盤整備) VA cong nhan lai gia tri van hoa (文化的価値の再認識). Tac gia nhan manh rang ca hai khia canh nay '不可欠' (khong the thieu/tuyet doi can thiet). Cac lua chon khac qua cuc doan hoac chi bao gom mot phan luan diem cua tac gia.",
+    "hint": "Luu y cau cuoi cung su dung tu '両方が不可欠' (ca hai deu tuyet doi can thiet)",
+    "difficultyScore": 7
+  },
+  {
+    "id": "question_n2_4_021",
+    "question": "証拠がある以上、彼の無実を認め___。",
+    "furigana": "証拠[しょうこ]がある以上[いじょう]、彼[かれ]の無実[むじつ]を認[みと]め___。",
+    "romaji": "Shouko ga aru ijou, kare no mujitsu wo mitome ___.",
+    "level": "N2",
+    "category": "GRAMMAR",
+    "options": [
+      "ざるを得ない",
+      "っぽい",
+      "がちだ",
+      "かねない"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Vì có bằng chứng, chúng ta không còn cách nào khác ngoài việc thừa nhận anh ấy vô tội.",
+    "answerExplanation": "'〜ざるを得ない' (~zaru wo enai) có nghĩa là 'không thể không làm~' hoặc 'không còn cách nào khác ngoài việc~'. Mẫu này diễn đạt rằng mặc dù không muốn nhưng phải làm do tình huống. Cách chia: động từ dạng ない (bỏ ない) + ざるを得ない. Ngoại lệ: する → せざるを得ない.",
+    "hint": "Mẫu câu diễn đạt sự bắt buộc phải làm do hoàn cảnh",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_4_022",
+    "question": "技術の発展___、新たな問題も生じてきた。",
+    "furigana": "技術[ぎじゅつ]の発展[はってん]___、新[あら]たな問題[もんだい]も生[しょう]じてきた。",
+    "romaji": "Gijutsu no hatten ___, arata na mondai mo shoujite kita.",
+    "level": "N2",
+    "category": "GRAMMAR",
+    "options": [
+      "に関して",
+      "に伴って",
+      "にかけて",
+      "に加えて"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Cùng với sự phát triển của công nghệ, các vấn đề mới cũng xuất hiện.",
+    "answerExplanation": "'〜に伴って' (~ni tomonatte) có nghĩa là 'đi kèm với~' hoặc 'cùng với~'. Mẫu này diễn đạt khi một điều thay đổi, điều khác cũng thay đổi theo. Cách dùng: danh từ + に伴って / động từ dạng từ điển + に伴って.",
+    "hint": "Hai điều thay đổi đồng thời",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_4_023",
+    "question": "長時間の議論の___、ようやく合意に達した。",
+    "furigana": "長時間[ちょうじかん]の議論[ぎろん]の___、ようやく合意[ごうい]に達[たっ]した。",
+    "romaji": "Choujikan no giron no ___, youyaku goui ni tasshita.",
+    "level": "N2",
+    "category": "GRAMMAR",
+    "options": [
+      "末に",
+      "上で",
+      "際に",
+      "途中で"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Sau cuộc thảo luận kéo dài, cuối cùng đã đạt được thỏa thuận.",
+    "answerExplanation": "'〜の末に' (~no sue ni) có nghĩa là 'sau quá trình dài~' hoặc 'cuối cùng sau khi~'. Mẫu này nhấn mạnh rằng kết quả đạt được sau một quá trình dài và vất vả. Cách dùng: danh từ + の末に / động từ quá khứ + 末に.",
+    "hint": "Kết quả đạt được sau quá trình dài và khó khăn",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_4_024",
+    "question": "環境の維持には、一人一人の努力が欠かせない。「維持」の意味は？",
+    "furigana": "環境[かんきょう]の維持[いじ]には、一人[ひとり]一人[ひとり]の努力[どりょく]が欠[か]かせない。「維持[いじ]」の意味[いみ]は？",
+    "romaji": "Kankyou no iji ni wa, hitori hitori no doryoku ga kakasenai. 'Iji' no imi wa?",
+    "level": "N2",
+    "category": "VOCABULARY",
+    "options": [
+      "Giữ nguyên trạng thái",
+      "Thay đổi mạnh mẽ",
+      "Phá hủy hoàn toàn",
+      "Tạo mới từ đầu"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Nỗ lực của từng cá nhân là không thể thiếu để duy trì môi trường. '維持' có nghĩa là gì?",
+    "answerExplanation": "'維持' (iji) có nghĩa là duy trì hoặc giữ cho tình trạng không thay đổi. Chữ Hán 維 (i) nghĩa là bảo tồn và 持 (ji) nghĩa là giữ. Ví dụ: 健康を維持する (duy trì sức khỏe), 秩序を維持する (duy trì trật tự).",
+    "hint": "Giữ cho điều gì đó không thay đổi so với hiện tại",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_4_025",
+    "question": "政府は経済成長の促進を目指している。「促進」の意味は？",
+    "furigana": "政府[せいふ]は経済[けいざい]成長[せいちょう]の促進[そくしん]を目指[めざ]している。「促進[そくしん]」の意味[いみ]は？",
+    "romaji": "Seifu wa keizai seichou no sokushin wo mezashite iru. 'Sokushin' no imi wa?",
+    "level": "N2",
+    "category": "VOCABULARY",
+    "options": [
+      "Cản trở sự phát triển",
+      "Khuyến khích và thúc đẩy",
+      "Dừng hẳn",
+      "Giám sát từ xa"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Chính phủ đang hướng tới việc thúc đẩy tăng trưởng kinh tế. '促進' có nghĩa là gì?",
+    "answerExplanation": "'促進' (sokushin) có nghĩa là thúc đẩy, đẩy nhanh hoặc khuyến khích điều gì đó phát triển. Chữ Hán 促 (soku) nghĩa là thúc giục và 進 (shin) nghĩa là tiến lên. Thường dùng trong ngữ cảnh trang trọng: 健康促進 (thúc đẩy sức khỏe), 販売促進 (khuyến mại).",
+    "hint": "Làm cho điều gì đó diễn ra nhanh hơn hoặc phát triển",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_4_026",
+    "question": "不正な慣行を是正する必要がある。「是正」の意味は？",
+    "furigana": "不正[ふせい]な慣行[かんこう]を是正[ぜせい]する必要[ひつよう]がある。「是正[ぜせい]」の意味[いみ]は？",
+    "romaji": "Fusei na kankou wo zesei suru hitsuyou ga aru. 'Zesei' no imi wa?",
+    "level": "N2",
+    "category": "VOCABULARY",
+    "options": [
+      "Để nguyên như vậy",
+      "Sửa điều sai thành đúng",
+      "Thêm nhiều vấn đề hơn",
+      "Giấu khỏi công chúng"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Cần phải sửa chữa những thói quen không đúng. '是正' có nghĩa là gì?",
+    "answerExplanation": "'是正' (zesei) có nghĩa là sửa chữa hoặc chỉnh sửa điều sai thành đúng. Chữ Hán 是 (ze) nghĩa là đúng và 正 (sei) cũng nghĩa là đúng/sửa. Thường dùng trong ngữ cảnh chính thức: 不平等を是正する (sửa bất bình đẳng), 問題を是正する (khắc phục vấn đề).",
+    "hint": "Thay đổi điều sai để làm cho đúng",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_4_027",
+    "question": "「制度改革」の読み方は？",
+    "furigana": "「制度[せいど]改革[かいかく]」の読[よ]み方[かた]は？",
+    "romaji": "'Seido kaikaku' no yomikata wa?",
+    "level": "N2",
+    "category": "KANJI",
+    "options": [
+      "せいどかいかく",
+      "せいどかいがく",
+      "せいとかいかく",
+      "しどかいかく"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Cách đọc '制度改革' là gì?",
+    "answerExplanation": "'制度改革' được đọc là 'seido kaikaku' có nghĩa là cải cách hệ thống/thể chế. 制度 (seido) nghĩa là hệ thống và 改革 (kaikaku) nghĩa là cải cách. Ví dụ: 教育制度改革 (cải cách hệ thống giáo dục).",
+    "hint": "Sei + do + kai + kaku",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_4_028",
+    "question": "「医療制度」の読み方は？",
+    "furigana": "「医療[いりょう]制度[せいど]」の読[よ]み方[かた]は？",
+    "romaji": "'Iryou seido' no yomikata wa?",
+    "level": "N2",
+    "category": "KANJI",
+    "options": [
+      "いりょうせいど",
+      "いりょうせいと",
+      "いりゅうせいど",
+      "えりょうせいど"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Cách đọc '医療制度' là gì?",
+    "answerExplanation": "'医療制度' được đọc là 'iryou seido' có nghĩa là hệ thống y tế. 医療 (iryou) nghĩa là chăm sóc y tế và 制度 (seido) nghĩa là hệ thống. Ví dụ: Hệ thống y tế Nhật Bản được đánh giá cao trên thế giới.",
+    "hint": "I + ryou + sei + do",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_4_029",
+    "question": "読解：次の文章を読んで、質問に答えなさい。\n\n「たとえ失敗しても、挑戦すること自体に価値がある」という考え方が注目されている。従来の日本社会では、失敗を避けることが重要視されてきた。就職活動においても、安定した大企業に入ることが最善とされ、起業やベンチャーへの挑戦は「危険な選択」とみなされがちであった。\n\nしかし、グローバル化が進む中で、この価値観は変わりつつある。イノベーションは失敗の積み重ねから生まれるものであり、失敗を恐れていては新しいものは何も生み出せない。近年の調査によると、20代の若者の約4割が「将来起業したい」と回答しており、挑戦を肯定的に捉える風潮が広がっている。\n\n質問：この文章の主張として最も適切なものはどれか。",
+    "furigana": "読解[どっかい]：次[つぎ]の文章[ぶんしょう]を読[よ]んで、質問[しつもん]に答[こた]えなさい。",
+    "romaji": "Dokkai: Tsugi no bunshou wo yonde, shitsumon ni kotaenasai.",
+    "level": "N2",
+    "category": "READING",
+    "options": [
+      "日本では起業する若者がほとんどいない",
+      "失敗を避けることが依然として最も重要だ",
+      "挑戦することの価値を認める考え方が広がっている",
+      "大企業への就職が最も正しい選択である"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Đọc đoạn văn sau và trả lời câu hỏi.\n\nQuan điểm 'cho dù thất bại, bản thân việc thử thách đã có giá trị' đang được chú ý. Luận điểm chính của đoạn văn này là gì?",
+    "answerExplanation": "Đoạn văn thảo luận về sự thay đổi giá trị trong xã hội Nhật Bản từ 'tránh thất bại' sang 'trân trọng thử thách'. Câu mở đầu nêu rằng quan điểm này đang được chú ý và đoạn thứ hai hỗ trợ bằng dữ liệu khảo sát. Đáp án đúng là quan điểm công nhận giá trị của thử thách đang lan rộng.",
+    "hint": "Chú ý câu mở đầu và dữ liệu khảo sát ở đoạn thứ hai",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_4_030",
+    "question": "読解：次の文章を読んで、質問に答えなさい。\n\n会社の業績が悪化し、コスト削減が避けられない状況となった。経営陣は人件費の削減を検討せざるを得なかったが、大規模なリストラは社員の士気を著しく低下させる恐れがあった。\n\nそこで経営陣は、まず役員報酬の20%カットを実施し、次に全社員の残業を制限することで人件費を抑える方針を打ち出した。さらに、希望退職制度を設け、退職者には通常より手厚い退職金を支給することとした。この結果、強制的な解雇を行うことなく、目標としていたコスト削減を達成することができた。\n\n質問：経営陣が最初に行ったコスト削減策は何か。",
+    "furigana": "読解[どっかい]：次[つぎ]の文章[ぶんしょう]を読[よ]んで、質問[しつもん]に答[こた]えなさい。",
+    "romaji": "Dokkai: Tsugi no bunshou wo yonde, shitsumon ni kotaenasai.",
+    "level": "N2",
+    "category": "READING",
+    "options": [
+      "全社員の給料を一律にカットした",
+      "役員報酬を20%カットした",
+      "大規模なリストラを実施した",
+      "希望退職制度を設けた"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Đọc đoạn văn sau và trả lời câu hỏi.\n\nHiệu suất công ty xấu đi và cắt giảm chi phí là không thể tránh khỏi. Biện pháp cắt giảm chi phí đầu tiên mà ban lãnh đạo thực hiện là gì?",
+    "answerExplanation": "Đoạn văn nêu rằng ban lãnh đạo đầu tiên cắt giảm lương điều hành 20% ('まず役員報酬の20％カットを実施し'). Từ 'まず' (trước tiên) chỉ thứ tự hành động. Các bước tiếp theo là hạn chế làm thêm giờ và chương trình nghỉ hưu tự nguyện.",
+    "hint": "Chú ý từ 'まず' chỉ hành động đầu tiên",
+    "difficultyScore": 4
+  }
+]

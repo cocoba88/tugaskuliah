@@ -1,0 +1,382 @@
+[
+  {
+    "id": "question_n1_1_001",
+    "question": "「殲滅」の正しい使い方はどれか。",
+    "furigana": "「殲滅[せんめつ]」の正[ただ]しい使[つか]い方[かた]はどれか。",
+    "romaji": "'Senmetsu' no tadashii tsukaikata wa dore ka.",
+    "level": "N1",
+    "category": "VOCABULARY",
+    "options": [
+      "敵軍を殲滅するための作戦が立案された。",
+      "花壇の花を殲滅して新しく植え替えた。",
+      "彼女の笑顔は周囲を殲滅した。",
+      "古い書類を殲滅してファイルに整理した。"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Which is the correct usage of '殲滅'?",
+    "answerExplanation": "'殲滅' (senmetsu) means total annihilation, usually used in military context or battle. The first option is correct because it describes a military operation to annihilate enemy forces. The other options are wrong because '殲滅' is not used for flowers, smiles, or documents.",
+    "hint": "This word is related to military context or warfare",
+    "difficultyScore": 7
+  },
+  {
+    "id": "question_n1_1_002",
+    "question": "労使間の対話を___する第三者機関が設置された。",
+    "furigana": "労使間[ろうしかん]の対話[たいわ]を___する第三者[だいさんしゃ]機関[きかん]が設置[せっち]された。",
+    "romaji": "Roushikan no taiwa wo ___ suru daisansha kikan ga secchi sareta.",
+    "level": "N1",
+    "category": "VOCABULARY",
+    "options": [
+      "介入",
+      "斡旋",
+      "干渉",
+      "仲裁"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "A third-party organization to ___ dialogue between labor and management has been established.",
+    "answerExplanation": "'斡旋' (assen) means to mediate or facilitate, referring to a third party's effort to bring both sides together for dialogue. The context of this sentence emphasizes facilitating dialogue, not dispute resolution, so '斡旋' is more appropriate than '仲裁' (arbitration) which involves deciding a case. '介入' (kainyuu) means intervention, and '干渉' (kanshou) means interference, both having more negative connotations.",
+    "hint": "A formal term for facilitating dialogue between parties without imposing a decision",
+    "difficultyScore": 8
+  },
+  {
+    "id": "question_n1_1_003",
+    "question": "運命に___されるままに生きるのは、もうやめたい。",
+    "furigana": "運命[うんめい]に___されるままに生[い]きるのは、もうやめたい。",
+    "romaji": "Unmei ni ___ sareru mama ni ikiru no wa, mou yametai.",
+    "level": "N1",
+    "category": "VOCABULARY",
+    "options": [
+      "翻弄",
+      "攪乱",
+      "支配",
+      "圧倒"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "I want to stop living being toyed with by fate.",
+    "answerExplanation": "'翻弄' (honrou) means to be toyed with or tossed about, often used in a literary context to describe someone powerless in the face of greater forces like fate or destiny. '攪乱' (kakuran) means to disrupt, '支配' (shihai) means to dominate, '圧倒' (attou) means to overwhelm.",
+    "hint": "A literary expression describing someone's helplessness in the face of greater forces",
+    "difficultyScore": 7
+  },
+  {
+    "id": "question_n1_1_004",
+    "question": "都市化が進むにつれ、地域社会からの___を感じる人が増加している。",
+    "furigana": "都市化[としか]が進[すす]むにつれ、地域[ちいき]社会[しゃかい]からの___を感[かん]じる人[ひと]が増加[ぞうか]している。",
+    "romaji": "Toshika ga susumu ni tsure, chiiki shakai kara no ___ wo kanjiru hito ga zouka shite iru.",
+    "level": "N1",
+    "category": "VOCABULARY",
+    "options": [
+      "排除",
+      "隔離",
+      "疎外",
+      "追放"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "As urbanization progresses, more and more people feel ___ from the local community.",
+    "answerExplanation": "'疎外' (sogai) means exclusion or alienation, referring to the feeling of being estranged from one's social environment. This term is often used in sociology and psychology. '排除' (haijo) means active removal, '隔離' (kakuri) means physical separation, '追放' (tsuihou) means banishment. '疎外' is most appropriate because it describes the subjective feeling of being alienated.",
+    "hint": "A sociological term describing the feeling of being estranged from one's social environment",
+    "difficultyScore": 7
+  },
+  {
+    "id": "question_n1_1_005",
+    "question": "社内規定からの___が発覚し、当該社員は厳重注意を受けた。",
+    "furigana": "社内[しゃない]規定[きてい]からの___が発覚[はっかく]し、当該[とうがい]社員[しゃいん]は厳重[げんじゅう]注意[ちゅうい]を受[う]けた。",
+    "romaji": "Shanai kitei kara no ___ ga hakkaku shi, tougai shain wa genjuu chuui wo uketa.",
+    "level": "N1",
+    "category": "VOCABULARY",
+    "options": [
+      "違反",
+      "逸脱",
+      "背反",
+      "脱線"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "When ___ from the company's internal regulations was discovered, the employee in question received a stern warning.",
+    "answerExplanation": "'逸脱' (itsudatsu) means deviation from norms or established rules. Unlike '違反' (ihan/violation) which is more direct, '逸脱' has the nuance of gradually straying from standards. '背反' (haihan) means to contradict in principle, '脱線' (dassen) means to go off track and is more informal.",
+    "hint": "This word indicates the act of going beyond the bounds of established norms",
+    "difficultyScore": 7
+  },
+  {
+    "id": "question_n1_1_006",
+    "question": "「脆弱」の読み方として正しいものはどれか。",
+    "furigana": "「脆弱」の読[よ]み方[かた]として正[ただ]しいものはどれか。",
+    "romaji": "'Zeijaku' no yomikata toshite tadashii mono wa dore ka.",
+    "level": "N1",
+    "category": "KANJI",
+    "options": [
+      "きじゃく",
+      "ぜいじゃく",
+      "すいじゃく",
+      "もろじゃく"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Which is the correct reading of '脆弱'?",
+    "answerExplanation": "'脆弱' is read 'ぜいじゃく' (zeijaku) and means fragile or vulnerable. '脆' (zei) means fragile/easily broken, and '弱' (jaku) means weak. This word is often used in cybersecurity context (脆弱性/zeijaku-sei = vulnerability) as well as to describe weak foundations or structures.",
+    "hint": "The first character '脆' has an on'yomi reading starting with 'ぜ'",
+    "difficultyScore": 7
+  },
+  {
+    "id": "question_n1_1_007",
+    "question": "「恣意」の読み方として正しいものはどれか。",
+    "furigana": "「恣意」の読[よ]み方[かた]として正[ただ]しいものはどれか。",
+    "romaji": "'Shii' no yomikata toshite tadashii mono wa dore ka.",
+    "level": "N1",
+    "category": "KANJI",
+    "options": [
+      "じい",
+      "しい",
+      "きい",
+      "ちい"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Which is the correct reading of '恣意'?",
+    "answerExplanation": "'恣意' is read 'しい' (shii) and means arbitrary or willful. '恣意的' (shiiteki) is the na-adjective form meaning arbitrary in nature. This word often appears in legal contexts and policy criticism, for example '恣意的な解釈' (arbitrary interpretation).",
+    "hint": "The character '恣' has an on'yomi reading that is the same as the number four in Japanese",
+    "difficultyScore": 8
+  },
+  {
+    "id": "question_n1_1_008",
+    "question": "「瓦解」の読み方として正しいものはどれか。",
+    "furigana": "「瓦解」の読[よ]み方[かた]として正[ただ]しいものはどれか。",
+    "romaji": "'Gakai' no yomikata toshite tadashii mono wa dore ka.",
+    "level": "N1",
+    "category": "KANJI",
+    "options": [
+      "がかい",
+      "かわげ",
+      "がげ",
+      "かかい"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Which is the correct reading of '瓦解'?",
+    "answerExplanation": "'瓦解' is read 'がかい' (gakai) and means collapse or total destruction. It literally derives from the image of roof tiles (瓦/kawara) shattering apart. This word is used to describe the collapse of organizations, systems, or regimes entirely, for example '政権の瓦解' (collapse of a government).",
+    "hint": "The character '瓦', usually read 'かわら', has the on'yomi reading 'が'",
+    "difficultyScore": 7
+  },
+  {
+    "id": "question_n1_1_009",
+    "question": "「齟齬」の読み方として正しいものはどれか。",
+    "furigana": "「齟齬」の読[よ]み方[かた]として正[ただ]しいものはどれか。",
+    "romaji": "'Sogo' no yomikata toshite tadashii mono wa dore ka.",
+    "level": "N1",
+    "category": "KANJI",
+    "options": [
+      "しょご",
+      "そご",
+      "さご",
+      "じょご"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Which is the correct reading of '齟齬'?",
+    "answerExplanation": "'齟齬' is read 'そご' (sogo) and means discrepancy, disagreement, or inconsistency. Both kanji contain the radical 歯 (tooth) and literally describe upper and lower teeth that don't align. It is used in expressions like '齟齬が生じる' (a discrepancy arises).",
+    "hint": "Both kanji contain the radical 歯 (tooth) and are read with the vowel 'o'",
+    "difficultyScore": 9
+  },
+  {
+    "id": "question_n1_1_010",
+    "question": "「遡及」の読み方として正しいものはどれか。",
+    "furigana": "「遡及」の読[よ]み方[かた]として正[ただ]しいものはどれか。",
+    "romaji": "'Sokyuu' no yomikata toshite tadashii mono wa dore ka.",
+    "level": "N1",
+    "category": "KANJI",
+    "options": [
+      "さかのぼりきゅう",
+      "そきゅう",
+      "さっきゅう",
+      "しょきゅう"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Which is the correct reading of '遡及'?",
+    "answerExplanation": "'遡及' is read 'そきゅう' (sokyuu) and means retroactive or to apply retroactively. '遡' (so) means to trace back to the past, '及' (kyuu) means to reach or extend to. This term is often used in legal contexts, for example '遡及適用' (retroactive application) or '遡及効' (retroactive effect).",
+    "hint": "The character '遡' has the on'yomi reading 'そ', not the kun'yomi reading 'さかのぼ(る)'",
+    "difficultyScore": 8
+  },
+  {
+    "id": "question_n1_1_011",
+    "question": "彼女の圧倒的な演技力は、素人の私ごときが真似す___。",
+    "furigana": "彼女[かのじょ]の圧倒的[あっとうてき]な演技力[えんぎりょく]は、素人[しろうと]の私[わたし]ごときが真似[まね]す___。",
+    "romaji": "Kanojo no attouteki na engiryoku wa, shirouto no watashi gotoki ga mane su ___.",
+    "level": "N1",
+    "category": "GRAMMAR",
+    "options": [
+      "べくもない",
+      "までもない",
+      "にはあたらない",
+      "わけがない"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Her overwhelming acting ability is impossible for an amateur like me to imitate.",
+    "answerExplanation": "'～べくもない' is used to express that something is absolutely impossible to do. This pattern is very formal and literary, emphasizing absolute impossibility. '～までもない' means not necessary, '～にはあたらない' means not worthy/deserving, '～わけがない' means impossible but more casual. This form uses 'す' (classical form of する) + べくもない.",
+    "hint": "This N1 grammar pattern expresses absolute impossibility with a formal/literary nuance",
+    "difficultyScore": 8
+  },
+  {
+    "id": "question_n1_1_012",
+    "question": "彼は周囲の批判___、独自の研究路線を貫き通した。",
+    "furigana": "彼[かれ]は周囲[しゅうい]の批判[ひはん]___、独自[どくじ]の研究[けんきゅう]路線[ろせん]を貫[つらぬ]き通[とお]した。",
+    "romaji": "Kare wa shuui no hihan ___, dokuji no kenkyuu rosen wo tsuranuki tooshita.",
+    "level": "N1",
+    "category": "GRAMMAR",
+    "options": [
+      "をよそに",
+      "をものともせず",
+      "はともかく",
+      "もさることながら"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "He pursued his own research path without flinching in the face of criticism from those around him.",
+    "answerExplanation": "'～をものともせず' means without flinching at or not being deterred by (difficulties/obstacles), with a nuance of admiration for the person's courage. '～をよそに' means to disregard but has a negative connotation (not caring). '～はともかく' means regardless of. '～もさることながら' means not only that but also.",
+    "hint": "This pattern expresses someone's steadfastness in facing obstacles, with a positive/admiring nuance",
+    "difficultyScore": 7
+  },
+  {
+    "id": "question_n1_1_013",
+    "question": "国民の安全に関わる問題であるからには、一秒___油断することは許されない。",
+    "furigana": "国民[こくみん]の安全[あんぜん]に関[かか]わる問題[もんだい]であるからには、一秒[いちびょう]___油断[ゆだん]することは許[ゆる]されない。",
+    "romaji": "Kokumin no anzen ni kakawaru mondai de aru kara ni wa, ichibyou ___ yudan suru koto wa yurusarenai.",
+    "level": "N1",
+    "category": "GRAMMAR",
+    "options": [
+      "すら",
+      "たりとも",
+      "だけでも",
+      "ばかりも"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Since this is a matter concerning the safety of the people, not even a single second of carelessness is permitted.",
+    "answerExplanation": "'～たりとも' means 'not even one' and is used with the smallest quantity (一秒, 一瞬, 一人, etc.) followed by a negative expression to emphasize that even the smallest amount is not permitted. '～すら' means even, but is not specifically used with quantities in this pattern. This pattern is very formal and emphatic.",
+    "hint": "A formal pattern used after the smallest quantity to express 'not even one is allowed'",
+    "difficultyScore": 7
+  },
+  {
+    "id": "question_n1_1_014",
+    "question": "報酬の条件が改善されるならば、この仕事を引き受け___。",
+    "furigana": "報酬[ほうしゅう]の条件[じょうけん]が改善[かいぜん]されるならば、この仕事[しごと]を引[ひ]き受[う]け___。",
+    "romaji": "Houshuu no jouken ga kaizen sareru naraba, kono shigoto wo hikiuke ___.",
+    "level": "N1",
+    "category": "GRAMMAR",
+    "options": [
+      "かねない",
+      "ないものでもない",
+      "ざるを得ない",
+      "ずにはいられない"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "If the compensation conditions are improved, it's not that I couldn't accept this job.",
+    "answerExplanation": "'～ないものでもない' means 'it's not that one can't/won't', expressing a possibility that opens up under certain conditions. This is a characteristically Japanese indirect expression showing conditional willingness. '～かねない' means something bad might happen, '～ざるを得ない' means to have no choice but to, '～ずにはいられない' means cannot help but.",
+    "hint": "A double-negative layered expression that conveys a positive possibility in an indirect way",
+    "difficultyScore": 8
+  },
+  {
+    "id": "question_n1_1_015",
+    "question": "大企業の社長___、一つの判断ミスが数千人の雇用に影響を与えかねない。",
+    "furigana": "大企業[だいきぎょう]の社長[しゃちょう]___、一[ひと]つの判断[はんだん]ミスが数千人[すうせんにん]の雇用[こよう]に影響[えいきょう]を与[あた]えかねない。",
+    "romaji": "Daikigyou no shachou ___, hitotsu no handan misu ga suusennin no koyou ni eikyou wo atae kanenai.",
+    "level": "N1",
+    "category": "GRAMMAR",
+    "options": [
+      "ともなると",
+      "となれば",
+      "といえども",
+      "にしたら"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "When one reaches the position of president of a large corporation, a single judgment error could affect the employment of thousands of people.",
+    "answerExplanation": "'～ともなると' means 'when one reaches a certain level/position', emphasizing that at that level the situation differs from usual. '～となれば' means if it becomes, '～といえども' means even though, '～にしたら' means from the perspective of. This pattern emphasizes the consequences that come with a particular position or situation.",
+    "hint": "This pattern emphasizes that when one reaches a certain level, the responsibilities and consequences are also different",
+    "difficultyScore": 7
+  },
+  {
+    "id": "question_n1_1_016",
+    "question": "この辞典は、語源の解説から用例___、極めて充実した内容となっている。",
+    "furigana": "この辞典[じてん]は、語源[ごげん]の解説[かいせつ]から用例[ようれい]___、極[きわ]めて充実[じゅうじつ]した内容[ないよう]となっている。",
+    "romaji": "Kono jiten wa, gogen no kaisetsu kara yourei ___, kiwamete juujitsu shita naiyou to natte iru.",
+    "level": "N1",
+    "category": "GRAMMAR",
+    "options": [
+      "に至るまで",
+      "にかけて",
+      "に限らず",
+      "のみならず"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "This dictionary has extremely comprehensive content, from etymology explanations to usage examples.",
+    "answerExplanation": "'～に至るまで' means 'up to/all the way to', used with 'から' to show a broad scope from starting point to end point. This pattern emphasizes thoroughness or completeness. '～にかけて' shows a range of time/space, '～に限らず' means not limited to, '～のみならず' means not only.",
+    "hint": "This pattern is used in conjunction with 'から' to show comprehensive coverage",
+    "difficultyScore": 6
+  },
+  {
+    "id": "question_n1_1_017",
+    "question": "大規模な自然災害により、住民は長期にわたる避難生活___。",
+    "furigana": "大規模[だいきぼ]な自然[しぜん]災害[さいがい]により、住民[じゅうみん]は長期[ちょうき]にわたる避難[ひなん]生活[せいかつ]___。",
+    "romaji": "Daikibo na shizen saigai ni yori, juumin wa chouki ni wataru hinan seikatsu ___.",
+    "level": "N1",
+    "category": "GRAMMAR",
+    "options": [
+      "をやむなくされた",
+      "を余儀なくされた",
+      "を仕方なくされた",
+      "を致し方なくされた"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Due to a large-scale natural disaster, the residents were forced to endure a long-term evacuation life.",
+    "answerExplanation": "'～を余儀なくされる' (yo yogi naku sareru) is a formal pattern meaning to be forced by circumstances to do something undesirable. This is a fixed expression (慣用表現) and cannot be replaced with casual synonyms. '仕方なくされた' and 'やむなくされた' are not standard patterns in formal Japanese.",
+    "hint": "This is a formal fixed expression meaning 'forced by circumstances' — only one form is grammatically correct",
+    "difficultyScore": 7
+  },
+  {
+    "id": "question_n1_1_018",
+    "question": "次の文章を読んで、筆者の主張に最も近いものを選びなさい。\n\n近年、司法の場においても人工知能の活用が議論されている。判例データベースの分析や量刑の予測など、AIが裁判官の判断を補助する可能性は確かに存在する。しかしながら、法の適用とは単なるデータの照合ではない。被告人の生育環境、犯行に至る心理的経緯、さらには社会全体の規範意識の変遷といった、数値化し得ない要素を総合的に勘案した上で初めて、正義にかなう判断が下されるのである。効率性の追求が司法の本質を損なうことがあってはならず、AIの導入はあくまでも人間の判断を支える道具としての位置づけに留めるべきである。技術への過度な依存は、かえって司法制度に対する国民の信頼を揺るがしかねないことを、我々は肝に銘じなければならない。",
+    "furigana": "次[つぎ]の文章[ぶんしょう]を読[よ]んで、筆者[ひっしゃ]の主張[しゅちょう]に最[もっと]も近[ちか]いものを選[えら]びなさい。",
+    "romaji": "Tsugi no bunshou wo yonde, hissha no shuchou ni mottomo chikai mono wo erabinasai.",
+    "level": "N1",
+    "category": "READING",
+    "options": [
+      "AIは司法判断を完全に代替できるため、積極的に導入すべきだ。",
+      "AIの司法への導入は、人間の判断を補助する範囲に限定すべきだ。",
+      "司法におけるAI活用は、国民の信頼を高めるために不可欠だ。",
+      "量刑の予測はAIの方が正確であり、裁判官より信頼できる。"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Read the following passage and choose the option that best represents the author's argument.\n\n[An editorial text about the ethical implications of AI in legal decision-making]",
+    "answerExplanation": "The author acknowledges the potential of AI in legal data analysis, but emphasizes that the application of law is not merely data matching. Factors that cannot be quantified, such as the defendant's background and changes in society's normative awareness, must be considered comprehensively. The author's conclusion is clear: AI should be positioned merely as a support tool (道具としての位置づけに留めるべき) and excessive dependence could actually undermine public trust in the judicial system.",
+    "hint": "Note the key sentence that mentions where AI should be positioned in the judicial system",
+    "difficultyScore": 8
+  },
+  {
+    "id": "question_n1_1_019",
+    "question": "次の文章を読んで、筆者が「間」について述べていることに最も近いものを選びなさい。\n\n日本の美意識において、「間」とは単なる空白や沈黙を指すものではない。それは、存在と不在の境界に立ち現れる独自の表現領域である。能楽における静止の一瞬、枯山水の石と砂利の間に広がる余白、あるいは俳句の切れ字が生み出す意味の断絶と接続——これらはいずれも、「間」が積極的な美的機能を果たしている例に他ならない。西洋的な美学が充填と完成を志向するのに対し、日本の「間」の思想は、空虚の中にこそ豊かな意味が宿ると説く。すなわち、「間」とは欠如ではなく、鑑賞者の想像力を喚起するための意図的な余地なのである。",
+    "furigana": "次[つぎ]の文章[ぶんしょう]を読[よ]んで、筆者[ひっしゃ]が「間[ま]」について述[の]べていることに最[もっと]も近[ちか]いものを選[えら]びなさい。",
+    "romaji": "Tsugi no bunshou wo yonde, hissha ga 'ma' ni tsuite nobete iru koto ni mottomo chikai mono wo erabinasai.",
+    "level": "N1",
+    "category": "READING",
+    "options": [
+      "「間」は西洋美学の影響を受けて形成された日本独自の概念である。",
+      "「間」は鑑賞者の想像力を引き出すために意図的に設けられた創造的な空間である。",
+      "「間」は能楽や俳句にのみ見られる限定的な美的概念である。",
+      "「間」は現代の日本人には理解しがたい古典的な美意識である。"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Read the following passage and choose the option that best represents what the author states about 'ma'.\n\n[A literary essay about the concept of 'ma' (間) in Japanese aesthetics]",
+    "answerExplanation": "The author asserts that '間' is not emptiness or deficiency, but rather a space intentionally created to evoke the viewer's imagination (鑑賞者の想像力を喚起するための意図的な余地). The first option is wrong because the author actually contrasts '間' with Western aesthetics. The third option is wrong because the author mentions several examples including karesansui. The fourth option is not supported by the text.",
+    "hint": "Note the final sentence that defines the essence of '間' according to the author",
+    "difficultyScore": 9
+  },
+  {
+    "id": "question_n1_1_020",
+    "question": "次の文章を読んで、筆者の結論として推測されるものに最も近いものを選びなさい。\n\nグローバル化の進展は、世界各地の少数言語に深刻な影響を及ぼしている。経済的合理性の観点から、より広範な通用力を持つ言語への移行が進む一方で、各言語が内包する固有の世界観や認知体系は不可逆的に失われつつある。言語学者サピアとウォーフの仮説に立脚すれば、言語の消滅とは単なるコミュニケーション手段の喪失にとどまらず、人類が環境を認識し概念化する方法の多様性そのものの縮減を意味する。言語の保全とは、したがって、懐古的な文化保存運動ではなく、人類の知的資産の維持に関わる喫緊の課題として捉え直されるべきであろう。標準化と効率化の波に抗うことは容易ではないが、多言語共存のための制度的枠組みの構築こそが、真のグローバル社会の成熟を示す指標となるはずである。",
+    "furigana": "次[つぎ]の文章[ぶんしょう]を読[よ]んで、筆者[ひっしゃ]の結論[けつろん]として推測[すいそく]されるものに最[もっと]も近[ちか]いものを選[えら]びなさい。",
+    "romaji": "Tsugi no bunshou wo yonde, hissha no ketsuron toshite suisoku sareru mono ni mottomo chikai mono wo erabinasai.",
+    "level": "N1",
+    "category": "READING",
+    "options": [
+      "グローバル化に伴う言語の統一は、人類の進歩にとって望ましい現象である。",
+      "少数言語の消滅は避けられないため、主要言語の教育に注力すべきだ。",
+      "多言語が共存できる社会の仕組みを作ることが、成熟したグローバル社会の証である。",
+      "サピア＝ウォーフの仮説は現代の言語学では否定されている。"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Read the following passage and choose the option that best represents the conclusion that can be inferred from the author.\n\n[An academic excerpt about the sociolinguistic impact of globalization on minority languages]",
+    "answerExplanation": "The author argues that the loss of minority languages is not merely the loss of communication tools, but the shrinking of the diversity of ways humans understand the world (based on the Sapir-Whorf hypothesis). In the closing sentence, the author concludes that building an institutional framework for multilingual coexistence (多言語共存のための制度的枠組みの構築) is the true indicator of a mature global society. This corresponds to the third option.",
+    "hint": "Note the final sentence that mentions what serves as an 'indicator' of a mature global society",
+    "difficultyScore": 9
+  }
+]

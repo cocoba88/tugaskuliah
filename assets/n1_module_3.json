@@ -1,0 +1,382 @@
+[
+  {
+    "id": "question_n1_3_001",
+    "question": "「蓋然性」の意味として最も適切なものはどれか。",
+    "furigana": "「蓋然性[がいぜんせい]」の意味[いみ]として最[もっと]も適切[てきせつ]なものはどれか。",
+    "romaji": "'Gaizensei' no imi to shite mottomo tekisetsu na mono wa dore ka.",
+    "level": "N1",
+    "category": "VOCABULARY",
+    "options": [
+      "ある事柄が起こる確率や見込み",
+      "物事の本質的な性質",
+      "人間の持つ潜在的な能力",
+      "社会における一般的な傾向"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Manakah arti yang paling tepat untuk '蓋然性'?",
+    "answerExplanation": "'蓋然性' (gaizensei) adalah istilah akademis dan hukum yang berarti probabilitas atau kemungkinan terjadinya suatu hal. Kata ini sering digunakan dalam konteks ilmiah, hukum, dan filsafat untuk menunjukkan tingkat kemungkinan suatu peristiwa terjadi.",
+    "hint": "Istilah ini berkaitan dengan seberapa besar kemungkinan sesuatu terjadi.",
+    "difficultyScore": 8
+  },
+  {
+    "id": "question_n1_3_002",
+    "question": "彼女は仕事に対して___で、常に最高の成果を追い求めている。",
+    "furigana": "彼女[かのじょ]は仕事[しごと]に対[たい]して___で、常[つね]に最高[さいこう]の成果[せいか]を追[お]い求[もと]めている。",
+    "romaji": "Kanojo wa shigoto ni taishite ___ de, tsune ni saikou no seika wo oimotomete iru.",
+    "level": "N1",
+    "category": "VOCABULARY",
+    "options": [
+      "貪欲",
+      "貧弱",
+      "従順",
+      "寛大"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Dia (perempuan) ___ terhadap pekerjaan, dan selalu mengejar hasil terbaik.",
+    "answerExplanation": "'貪欲' (don'yoku) berarti kerakusan atau keserakahan, tetapi dalam konteks ini digunakan secara positif untuk menggambarkan seseorang yang sangat ambisius dan bersemangat dalam mengejar tujuannya. Kata ini bisa bernuansa positif (ambisi kuat) maupun negatif (tamak) tergantung konteks.",
+    "hint": "Kata ini bisa bermakna positif (ambisius) maupun negatif (tamak).",
+    "difficultyScore": 7
+  },
+  {
+    "id": "question_n1_3_003",
+    "question": "人権団体は少数民族の権利を___する声明を発表した。",
+    "furigana": "人権[じんけん]団体[だんたい]は少数[しょうすう]民族[みんぞく]の権利[けんり]を___する声明[せいめい]を発表[はっぴょう]した。",
+    "romaji": "Jinken dantai wa shousu minzoku no kenri wo ___ suru seimei wo happyou shita.",
+    "level": "N1",
+    "category": "VOCABULARY",
+    "options": [
+      "擁護",
+      "抑圧",
+      "排除",
+      "黙殺"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Organisasi HAM mengeluarkan pernyataan untuk ___ hak-hak minoritas.",
+    "answerExplanation": "'擁護' (yougo) berarti pembelaan atau advokasi. Ini adalah istilah yang sering digunakan dalam konteks hukum dan politik untuk menyatakan dukungan atau perlindungan terhadap hak-hak seseorang atau kelompok. Berbeda dengan pilihan lain yang bermakna negatif.",
+    "hint": "Organisasi HAM bertujuan melindungi dan mendukung hak-hak masyarakat.",
+    "difficultyScore": 7
+  },
+  {
+    "id": "question_n1_3_004",
+    "question": "この規則は長年の間に___してしまった。",
+    "furigana": "この規則[きそく]は長年[ながねん]の間[あいだ]に___してしまった。",
+    "romaji": "Kono kisoku wa naganen no aida ni ___ shite shimatta.",
+    "level": "N1",
+    "category": "VOCABULARY",
+    "options": [
+      "形骸化",
+      "簡略化",
+      "一般化",
+      "抽象化"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Aturan ini selama bertahun-tahun telah ___.",
+    "answerExplanation": "「形骸化」(けいがいか) berarti menjadi formalitas belaka, kehilangan substansi dan hanya tersisa bentuk luarnya saja. Dalam konteks ini, aturan yang dulunya bermakna kini hanya tinggal formalitas setelah bertahun-tahun. '簡略化' berarti penyederhanaan, '一般化' berarti generalisasi, '抽象化' berarti abstraksi.",
+    "hint": "Kata ini menggambarkan sesuatu yang kehilangan isi dan hanya menyisakan cangkang luarnya.",
+    "difficultyScore": 8
+  },
+  {
+    "id": "question_n1_3_005",
+    "question": "彼はいつも小さなことを大げさに話す。まさに___だ。",
+    "furigana": "彼[かれ]はいつも小[ちい]さなことを大[おお]げさに話[はな]す。まさに___だ。",
+    "romaji": "Kare wa itsumo chiisana koto wo oogesa ni hanasu. Masa ni ___ da.",
+    "level": "N1",
+    "category": "VOCABULARY",
+    "options": [
+      "針小棒大",
+      "誇大妄想",
+      "大言壮語",
+      "我田引水"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Dia selalu membicarakan hal kecil secara berlebihan. Benar-benar ___.",
+    "answerExplanation": "「針小棒大」(しんしょうぼうだい) adalah yojijukugo yang berarti membesar-besarkan hal kecil, membuat gunung dari biji sawi. Secara harfiah: 'jarum kecil menjadi tongkat besar'. '誇大妄想' berarti delusi kebesaran, '大言壮語' berarti omong besar, '我田引水' berarti menarik keuntungan untuk diri sendiri.",
+    "hint": "Yojijukugo ini secara harfiah menggambarkan sesuatu yang kecil seperti jarum dibuat menjadi sebesar tongkat.",
+    "difficultyScore": 8
+  },
+  {
+    "id": "question_n1_3_006",
+    "question": "「憂慮」の読み方はどれか。",
+    "furigana": "「憂慮[ゆうりょ]」の読[よ]み方[かた]はどれか。",
+    "romaji": "'Yuuryo' no yomikata wa dore ka.",
+    "level": "N1",
+    "category": "KANJI",
+    "options": [
+      "ゆうりょ",
+      "うりょう",
+      "ゆうろ",
+      "うりょ"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Bagaimana cara membaca '憂慮'?",
+    "answerExplanation": "'憂慮' dibaca 'ゆうりょ' (yuuryo) dan berarti kekhawatiran atau kecemasan yang mendalam. '憂' (ゆう) berarti kesedihan atau kekhawatiran, dan '慮' (りょ) berarti pertimbangan atau pemikiran. Kata ini sering digunakan dalam konteks formal untuk mengungkapkan keprihatinan yang serius.",
+    "hint": "Kanji pertama dibaca dengan bunyi 'yuu' dan kanji kedua dengan bunyi 'ryo'.",
+    "difficultyScore": 7
+  },
+  {
+    "id": "question_n1_3_007",
+    "question": "「忖度」の読み方はどれか。",
+    "furigana": "「忖度[そんたく]」の読[よ]み方[かた]はどれか。",
+    "romaji": "'Sontaku' no yomikata wa dore ka.",
+    "level": "N1",
+    "category": "KANJI",
+    "options": [
+      "そんたく",
+      "すんど",
+      "そんど",
+      "しんたく"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Bagaimana cara membaca '忖度'?",
+    "answerExplanation": "'忖度' dibaca 'そんたく' (sontaku) dan berarti menduga atau memperkirakan perasaan atau pikiran orang lain, lalu bertindak sesuai dengan dugaan tersebut. Kata ini menjadi sangat populer dalam wacana politik Jepang, terutama merujuk pada tindakan bawahan yang mengantisipasi keinginan atasan tanpa diperintah secara langsung.",
+    "hint": "Kata ini menjadi terkenal dalam skandal politik Jepang tahun 2017.",
+    "difficultyScore": 8
+  },
+  {
+    "id": "question_n1_3_008",
+    "question": "「毀損」の読み方はどれか。",
+    "furigana": "「毀損[きそん]」の読[よ]み方[かた]はどれか。",
+    "romaji": "'Kison' no yomikata wa dore ka.",
+    "level": "N1",
+    "category": "KANJI",
+    "options": [
+      "きそん",
+      "かいそん",
+      "こそん",
+      "けそん"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Bagaimana cara membaca '毀損'?",
+    "answerExplanation": "'毀損' dibaca 'きそん' (kison) dan berarti kerusakan atau pencemaran nama baik. Dalam konteks hukum, kata ini sering digunakan dalam frasa '名誉毀損' (meiyo kison) yang berarti pencemaran nama baik/defamasi. '毀' berarti merusak dan '損' berarti kerugian.",
+    "hint": "Kanji pertama memiliki bunyi yang sama dengan kanji 気.",
+    "difficultyScore": 8
+  },
+  {
+    "id": "question_n1_3_009",
+    "question": "「乖離」の読み方はどれか。",
+    "furigana": "「乖離[かいり]」の読[よ]み方[かた]はどれか。",
+    "romaji": "'Kairi' no yomikata wa dore ka.",
+    "level": "N1",
+    "category": "KANJI",
+    "options": [
+      "かいり",
+      "がいり",
+      "けいり",
+      "こうり"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Bagaimana cara membaca '乖離'?",
+    "answerExplanation": "'乖離' dibaca 'かいり' (kairi) dan berarti penyimpangan, kesenjangan, atau divergensi. Kata ini sering digunakan untuk menggambarkan kesenjangan antara teori dan kenyataan, atau antara harapan dan realita. Contoh: '理想と現実の乖離' (kesenjangan antara ideal dan kenyataan).",
+    "hint": "Bacaan kanji pertama sama dengan kanji dalam kata '会議' (kaigi).",
+    "difficultyScore": 9
+  },
+  {
+    "id": "question_n1_3_010",
+    "question": "「逼迫」の読み方はどれか。",
+    "furigana": "「逼迫[ひっぱく]」の読[よ]み方[かた]はどれか。",
+    "romaji": "'Hippaku' no yomikata wa dore ka.",
+    "level": "N1",
+    "category": "KANJI",
+    "options": [
+      "ひっぱく",
+      "へきはく",
+      "ひつばく",
+      "へいはく"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Bagaimana cara membaca '逼迫'?",
+    "answerExplanation": "'逼迫' dibaca 'ひっぱく' (hippaku) dan berarti keadaan yang mendesak, tertekan, atau genting. Kata ini sering digunakan untuk menggambarkan situasi keuangan yang sulit atau keadaan darurat. Contoh: '財政が逼迫している' (keuangan sedang dalam keadaan tertekan).",
+    "hint": "Kanji pertama mengalami perubahan bunyi (促音) sehingga ada bunyi 'っ' di tengah.",
+    "difficultyScore": 8
+  },
+  {
+    "id": "question_n1_3_011",
+    "question": "東京公演___、全国20都市でのツアーが開幕した。",
+    "furigana": "東京[とうきょう]公演[こうえん]___、全国[ぜんこく]20都市[とし]でのツアーが開幕[かいまく]した。",
+    "romaji": "Toukyou kouen ___, zenkoku 20 toshi de no tsuaa ga kaimaku shita.",
+    "level": "N1",
+    "category": "GRAMMAR",
+    "options": [
+      "を皮切りに",
+      "をもとに",
+      "をめぐって",
+      "を問わず"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "___ pertunjukan Tokyo, tur di 20 kota di seluruh negeri dimulai.",
+    "answerExplanation": "'～を皮切りに' (wo kawakiri ni) berarti 'dimulai dari' atau 'berawal dari'. Pola ini digunakan untuk menunjukkan bahwa suatu peristiwa menjadi awal dari serangkaian peristiwa serupa yang mengikutinya. Dalam kalimat ini, pertunjukan Tokyo adalah titik awal dari tur nasional.",
+    "hint": "Pola tata bahasa yang menunjukkan sesuatu sebagai titik awal dari rangkaian kejadian.",
+    "difficultyScore": 7
+  },
+  {
+    "id": "question_n1_3_012",
+    "question": "現場の状況___対策を講じなければ、問題は解決しない。",
+    "furigana": "現場[げんば]の状況[じょうきょう]___対策[たいさく]を講[こう]じなければ、問題[もんだい]は解決[かいけつ]しない。",
+    "romaji": "Genba no joukyou ___ taisaku wo koujinakereba, mondai wa kaiketsu shinai.",
+    "level": "N1",
+    "category": "GRAMMAR",
+    "options": [
+      "に即した",
+      "に応じた",
+      "に反した",
+      "に先立つ"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Jika tidak mengambil tindakan yang ___ situasi di lapangan, masalah tidak akan terselesaikan.",
+    "answerExplanation": "'～に即して' (ni sokushite) atau bentuk modifikasinya '～に即した' berarti 'sesuai dengan' atau 'berdasarkan pada'. Pola ini menekankan bahwa tindakan atau keputusan harus sesuai dengan kenyataan atau keadaan yang ada. '即' mengandung makna 'langsung sesuai dengan'.",
+    "hint": "Tindakan harus sesuai dan berdasarkan pada kenyataan di lapangan.",
+    "difficultyScore": 7
+  },
+  {
+    "id": "question_n1_3_013",
+    "question": "あの映画の感動的なラストシーンは、観る者を涙させ___。",
+    "furigana": "あの映画[えいが]の感動的[かんどうてき]なラストシーンは、観[み]る者[もの]を涙[なみだ]させ___。",
+    "romaji": "Ano eiga no kandouteki na rasuto shiin wa, miru mono wo namida sase ___.",
+    "level": "N1",
+    "category": "GRAMMAR",
+    "options": [
+      "ずにはおかない",
+      "ないではいられない",
+      "ざるをえない",
+      "ないわけにはいかない"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Adegan terakhir yang mengharukan dari film itu pasti ___ membuat penonton meneteskan air mata.",
+    "answerExplanation": "'～ずにはおかない' (zu ni wa okanai) berarti 'pasti akan' atau 'tidak bisa tidak'. Pola ini menunjukkan bahwa suatu hal secara pasti akan menimbulkan efek tertentu, dan subjeknya biasanya bukan orang pertama (berbeda dengan '～ないではいられない' yang subjeknya biasanya orang pertama). Dalam kalimat ini, film tersebut secara pasti membuat penonton menangis.",
+    "hint": "Pola ini menunjukkan bahwa sesuatu secara pasti menimbulkan reaksi tertentu pada orang lain.",
+    "difficultyScore": 8
+  },
+  {
+    "id": "question_n1_3_014",
+    "question": "姉の堅実な生き方___、妹は衝動的に行動することが多い。",
+    "furigana": "姉[あね]の堅実[けんじつ]な生[い]き方[かた]___、妹[いもうと]は衝動的[しょうどうてき]に行動[こうどう]することが多[おお]い。",
+    "romaji": "Ane no kenjitsu na ikikata ___, imouto wa shoudouteki ni koudou suru koto ga ooi.",
+    "level": "N1",
+    "category": "GRAMMAR",
+    "options": [
+      "にひきかえ",
+      "にもかかわらず",
+      "にしたがって",
+      "につれて"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "___ cara hidup kakak perempuan yang solid, adik perempuannya sering bertindak impulsif.",
+    "answerExplanation": "'～にひきかえ' (ni hikikae) berarti 'berbeda dengan' atau 'bertolak belakang dengan'. Pola ini digunakan untuk membandingkan dua hal yang sangat kontras. Biasanya hal pertama yang disebutkan bernilai positif, sedangkan hal kedua bernilai negatif (atau sebaliknya). Di sini, kakak yang solid dikontraskan dengan adik yang impulsif.",
+    "hint": "Pola perbandingan yang menunjukkan kontras tajam antara dua hal.",
+    "difficultyScore": 7
+  },
+  {
+    "id": "question_n1_3_015",
+    "question": "会議中にスマートフォンで私用のメールを打つとは、非常識___。",
+    "furigana": "会議中[かいぎちゅう]にスマートフォンで私用[しよう]のメールを打[う]つとは、非常識[ひじょうしき]___。",
+    "romaji": "Kaigichuu ni sumaatofon de shiyou no meeru wo utsu to wa, hijoushiki ___.",
+    "level": "N1",
+    "category": "GRAMMAR",
+    "options": [
+      "極まりない",
+      "に至らない",
+      "にほかならない",
+      "きわめている"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Mengetik email pribadi di smartphone saat rapat, sungguh tidak sopan ___.",
+    "answerExplanation": "'～極まりない' (kiwamarinai) berarti 'sangat' atau 'luar biasa' dan digunakan untuk menekankan tingkat ekstrem dari suatu sifat, biasanya negatif. Pola ini melekat pada kata sifat-na (tanpa な). '非常識極まりない' berarti 'sangat tidak tahu sopan santun'. Perhatikan bahwa bentuknya juga bisa '極まる'.",
+    "hint": "Pola yang menunjukkan tingkat paling ekstrem dari suatu sifat.",
+    "difficultyScore": 8
+  },
+  {
+    "id": "question_n1_3_016",
+    "question": "専門家で___、少なくとも基本的な知識は身につけておくべきだ。",
+    "furigana": "専門家[せんもんか]で___、少[すく]なくとも基本的[きほんてき]な知識[ちしき]は身[み]につけておくべきだ。",
+    "romaji": "Senmonka de ___, sukunaku tomo kihonteki na chishiki wa mi ni tsukete oku beki da.",
+    "level": "N1",
+    "category": "GRAMMAR",
+    "options": [
+      "ないまでも",
+      "なくてはならない",
+      "あるまいし",
+      "ないことには"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "___ seorang ahli, setidaknya kita harus memiliki pengetahuan dasar.",
+    "answerExplanation": "'～ないまでも' (nai made mo) berarti 'meskipun tidak sampai... setidaknya...' atau 'kalau pun tidak... paling tidak...'. Pola ini digunakan untuk menyatakan bahwa meskipun standar tertinggi tidak tercapai, setidaknya standar minimum harus dipenuhi. Di sini, meskipun tidak menjadi ahli, setidaknya pengetahuan dasar diperlukan.",
+    "hint": "Pola yang menyatakan standar minimum yang harus dipenuhi meskipun standar ideal tidak tercapai.",
+    "difficultyScore": 7
+  },
+  {
+    "id": "question_n1_3_017",
+    "question": "彼は大手企業で働く___、週末には地域のボランティア活動にも積極的に参加している。",
+    "furigana": "彼[かれ]は大手[おおて]企業[きぎょう]で働[はたら]く___、週末[しゅうまつ]には地域[ちいき]のボランティア活動[かつどう]にも積極的[せっきょくてき]に参加[さんか]している。",
+    "romaji": "Kare wa oote kigyou de hataraku ___, shuumatsu ni wa chiiki no borantia katsudou ni mo sekkyokuteki ni sanka shite iru.",
+    "level": "N1",
+    "category": "GRAMMAR",
+    "options": [
+      "かたわら",
+      "ものの",
+      "ところを",
+      "あげく"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "___ bekerja di perusahaan besar, dia juga aktif berpartisipasi dalam kegiatan sukarelawan di komunitasnya pada akhir pekan.",
+    "answerExplanation": "'～かたわら' (katawara) berarti 'di samping' atau 'sambil'. Pola ini digunakan untuk menunjukkan bahwa seseorang melakukan dua aktivitas secara bersamaan, di mana aktivitas pertama adalah kegiatan utama dan aktivitas kedua adalah kegiatan tambahan. Berbeda dengan '～ながら' yang lebih kasual, '～かたわら' lebih formal dan menunjukkan aktivitas jangka panjang.",
+    "hint": "Pola formal yang menunjukkan dua aktivitas jangka panjang yang dilakukan bersamaan.",
+    "difficultyScore": 7
+  },
+  {
+    "id": "question_n1_3_018",
+    "question": "次の文章を読んで、問いに答えなさい。\n\n日本は世界でも類を見ない速度で高齢化が進行しており、2025年には国民の約三割が65歳以上となった。こうした状況の中、終末期医療のあり方をめぐる議論が再燃している。一方では、患者の自己決定権を尊重し、延命治療の中止を認めるべきだという声がある。他方では、生命の神聖さを重視する立場から、いかなる場合も積極的に生命を終わらせる行為は容認されるべきではないとの主張も根強い。さらに、認知症を患う高齢者の場合、本人の意思確認が困難であるという実務上の問題も存在する。事前指示書の法的整備が進められているものの、その有効性や運用面での課題は山積している。医療現場では、家族の意向と患者の推定意思が対立するケースも少なくなく、医療従事者は極めて困難な倫理的判断を迫られている。この問題に対する画一的な解答は存在せず、個々の事例に即した慎重な議論が求められている。\n\nこの文章で提示されている倫理的ジレンマの核心は何か。",
+    "furigana": "次[つぎ]の文章[ぶんしょう]を読[よ]んで、問[と]いに答[こた]えなさい。\n\n日本[にほん]は世界[せかい]でも類[るい]を見[み]ない速度[そくど]で高齢化[こうれいか]が進行[しんこう]しており、2025年[ねん]には国民[こくみん]の約[やく]三割[さんわり]が65歳[さい]以上[いじょう]となった。こうした状況[じょうきょう]の中[なか]、終末期[しゅうまつき]医療[いりょう]のあり方[かた]をめぐる議論[ぎろん]が再燃[さいねん]している。一方[いっぽう]では、患者[かんじゃ]の自己[じこ]決定権[けっていけん]を尊重[そんちょう]し、延命[えんめい]治療[ちりょう]の中止[ちゅうし]を認[みと]めるべきだという声[こえ]がある。他方[たほう]では、生命[せいめい]の神聖[しんせい]さを重視[じゅうし]する立場[たちば]から、いかなる場合[ばあい]も積極的[せっきょくてき]に生命[せいめい]を終[お]わらせる行為[こうい]は容認[ようにん]されるべきではないとの主張[しゅちょう]も根強[ねづよ]い。さらに、認知症[にんちしょう]を患[わずら]う高齢者[こうれいしゃ]の場合[ばあい]、本人[ほんにん]の意思[いし]確認[かくにん]が困難[こんなん]であるという実務上[じつむじょう]の問題[もんだい]も存在[そんざい]する。事前[じぜん]指示書[しじしょ]の法的[ほうてき]整備[せいび]が進[すす]められているものの、その有効性[ゆうこうせい]や運用面[うんようめん]での課題[かだい]は山積[さんせき]している。医療[いりょう]現場[げんば]では、家族[かぞく]の意向[いこう]と患者[かんじゃ]の推定[すいてい]意思[いし]が対立[たいりつ]するケースも少[すく]なくなく、医療[いりょう]従事者[じゅうじしゃ]は極[きわ]めて困難[こんなん]な倫理的[りんりてき]判断[はんだん]を迫[せま]られている。この問題[もんだい]に対[たい]する画一的[かくいつてき]な解答[かいとう]は存在[そんざい]せず、個々[ここ]の事例[じれい]に即[そく]した慎重[しんちょう]な議論[ぎろん]が求[もと]められている。\n\nこの文章[ぶんしょう]で提示[ていじ]されている倫理的[りんりてき]ジレンマの核心[かくしん]は何[なに]か。",
+    "romaji": "Tsugi no bunshou wo yonde, toi ni kotaenasai. Nihon wa sekai demo rui wo minai sokudo de koureika ga shinkou shite ori... Kono bunshou de teiji sarete iru rinriteki jirenma no kakushin wa nani ka.",
+    "level": "N1",
+    "category": "READING",
+    "options": [
+      "患者の自己決定権と生命の神聖さの間の対立",
+      "高齢化社会における医療費の増大",
+      "事前指示書の法的有効性の問題",
+      "医療従事者の人手不足"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Apa inti dari dilema etis yang disajikan dalam teks ini?",
+    "answerExplanation": "Teks ini menyajikan dilema etis utama yaitu pertentangan antara hak penentuan nasib sendiri pasien (自己決定権) yang menginginkan penghentian perawatan perpanjangan hidup, dan pandangan yang menjunjung tinggi kesucian kehidupan (生命の神聖さ) yang menolak tindakan mengakhiri hidup secara aktif. Meskipun teks juga menyebutkan masalah praktis seperti surat perintah di muka dan konflik keluarga, inti dilema etisnya terletak pada dua prinsip yang saling bertentangan ini.",
+    "hint": "Perhatikan dua sudut pandang utama yang saling bertentangan dalam teks.",
+    "difficultyScore": 8
+  },
+  {
+    "id": "question_n1_3_019",
+    "question": "次の文章を読んで、問いに答えなさい。\n\n近年、行動経済学の分野で注目を集めているのが「決定疲労」という概念である。人間の意思決定能力は有限な認知資源に依存しており、一日の中で多くの判断を下すほど、その質は低下していく。ある研究では、スーパーマーケットにおいて24種類のジャムを陳列した場合と6種類のみを陳列した場合を比較したところ、選択肢が少ない方が実際の購買率は六倍も高かったという結果が得られた。また、裁判官の仮釈放決定に関する調査では、午前中の審理では仮釈放が認められる割合が約65％であったのに対し、昼食前にはその割合がほぼ零に近づくことが明らかになった。これらの知見は、選択肢の過剰が消費者の購買意欲を減退させるだけでなく、専門家の判断にも深刻な影響を及ぼすことを示唆している。企業はこの知見を踏まえ、商品ラインナップの最適化や、購買プロセスにおける意思決定の負荷軽減に取り組み始めている。\n\nこの文章の研究結果から導かれる結論として最も適切なものはどれか。",
+    "furigana": "次[つぎ]の文章[ぶんしょう]を読[よ]んで、問[と]いに答[こた]えなさい。\n\n近年[きんねん]、行動[こうどう]経済学[けいざいがく]の分野[ぶんや]で注目[ちゅうもく]を集[あつ]めているのが「決定[けってい]疲労[ひろう]」という概念[がいねん]である。人間[にんげん]の意思[いし]決定[けってい]能力[のうりょく]は有限[ゆうげん]な認知[にんち]資源[しげん]に依存[いぞん]しており、一日[いちにち]の中[なか]で多[おお]くの判断[はんだん]を下[くだ]すほど、その質[しつ]は低下[ていか]していく。ある研究[けんきゅう]では、スーパーマーケットにおいて24種類[しゅるい]のジャムを陳列[ちんれつ]した場合[ばあい]と6種類[しゅるい]のみを陳列[ちんれつ]した場合[ばあい]を比較[ひかく]したところ、選択肢[せんたくし]が少[すく]ない方[ほう]が実際[じっさい]の購買率[こうばいりつ]は六倍[ろくばい]も高[たか]かったという結果[けっか]が得[え]られた。また、裁判官[さいばんかん]の仮釈放[かりしゃくほう]決定[けってい]に関[かん]する調査[ちょうさ]では、午前中[ごぜんちゅう]の審理[しんり]では仮釈放[かりしゃくほう]が認[みと]められる割合[わりあい]が約[やく]65％であったのに対[たい]し、昼食前[ちゅうしょくまえ]にはその割合[わりあい]がほぼ零[ゼロ]に近[ちか]づくことが明[あき]らかになった。これらの知見[ちけん]は、選択肢[せんたくし]の過剰[かじょう]が消費者[しょうひしゃ]の購買[こうばい]意欲[いよく]を減退[げんたい]させるだけでなく、専門家[せんもんか]の判断[はんだん]にも深刻[しんこく]な影響[えいきょう]を及[およ]ぼすことを示唆[しさ]している。企業[きぎょう]はこの知見[ちけん]を踏[ふ]まえ、商品[しょうひん]ラインナップの最適化[さいてきか]や、購買[こうばい]プロセスにおける意思[いし]決定[けってい]の負荷[ふか]軽減[けいげん]に取[と]り組[く]み始[はじ]めている。\n\nこの文章[ぶんしょう]の研究[けんきゅう]結果[けっか]から導[みちび]かれる結論[けつろん]として最[もっと]も適切[てきせつ]なものはどれか。",
+    "romaji": "Tsugi no bunshou wo yonde, toi ni kotaenasai. Kinnen, koudou keizaigaku no bun'ya de chuumoku wo atsumete iru no ga 'kettei hirou' to iu gainen de aru... Kono bunshou no kenkyuu kekka kara michibikareru ketsuron to shite mottomo tekisetsu na mono wa dore ka.",
+    "level": "N1",
+    "category": "READING",
+    "options": [
+      "意思決定の回数が増えるほど判断力が低下し、選択肢の過多は消費者にも専門家にも悪影響を及ぼす",
+      "スーパーマーケットでは商品の種類を減らすべきである",
+      "裁判官は午前中にのみ審理を行うべきである",
+      "行動経済学は従来の経済学より優れている"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Manakah kesimpulan yang paling tepat yang dapat ditarik dari hasil penelitian dalam teks ini?",
+    "answerExplanation": "Teks ini menyajikan dua bukti penelitian: eksperimen selai (pilihan lebih sedikit menghasilkan pembelian lebih banyak) dan studi hakim (kualitas keputusan menurun seiring waktu). Kesimpulan utama yang ditarik oleh penulis adalah bahwa kelebihan pilihan tidak hanya mengurangi minat beli konsumen, tetapi juga berdampak serius pada penilaian para profesional. Pilihan lain terlalu spesifik atau merupakan generalisasi berlebihan yang tidak didukung teks.",
+    "hint": "Cari kalimat yang dimulai dengan 'これらの知見は' untuk menemukan kesimpulan penulis.",
+    "difficultyScore": 8
+  },
+  {
+    "id": "question_n1_3_020",
+    "question": "次の文章を読んで、問いに答えなさい。\n\n山田詠美の短編「風味絶佳」における食の描写は、単なる日常の記録にとどまらず、登場人物の内面世界を映し出す鏡としての機能を果たしている。主人公が丹精込めて作る料理の一つ一つは、言葉にできない感情の代弁者である。特に注目すべきは、物語の転換点で繰り返し登場する「味噌汁」の象徴性である。この極めて日常的な食物が、実は家族の絆の脆さと再生の可能性を同時に体現している。評論家の中村光夫が指摘するように、日本文学における食の表象は、西洋文学のそれとは本質的に異なり、「存在の確認」としての意味合いを持つ。山田の作品では、この伝統が現代的な文脈の中で巧みに再解釈されており、食べるという行為そのものが、断絶した人間関係を修復する唯一の回路として描かれている。\n\nこの評論の論旨として最も適切なものはどれか。",
+    "furigana": "次[つぎ]の文章[ぶんしょう]を読[よ]んで、問[と]いに答[こた]えなさい。\n\n山田[やまだ]詠美[えいみ]の短編[たんぺん]「風味[ふうみ]絶佳[ぜっか]」における食[しょく]の描写[びょうしゃ]は、単[たん]なる日常[にちじょう]の記録[きろく]にとどまらず、登場[とうじょう]人物[じんぶつ]の内面[ないめん]世界[せかい]を映[うつ]し出[だ]す鏡[かがみ]としての機能[きのう]を果[は]たしている。主人公[しゅじんこう]が丹精[たんせい]込[こ]めて作[つく]る料理[りょうり]の一[ひと]つ一[ひと]つは、言葉[ことば]にできない感情[かんじょう]の代弁者[だいべんしゃ]である。特[とく]に注目[ちゅうもく]すべきは、物語[ものがたり]の転換点[てんかんてん]で繰[く]り返[かえ]し登場[とうじょう]する「味噌汁[みそしる]」の象徴性[しょうちょうせい]である。この極[きわ]めて日常的[にちじょうてき]な食物[しょくもつ]が、実[じつ]は家族[かぞく]の絆[きずな]の脆[もろ]さと再生[さいせい]の可能性[かのうせい]を同時[どうじ]に体現[たいげん]している。評論家[ひょうろんか]の中村[なかむら]光夫[みつお]が指摘[してき]するように、日本[にほん]文学[ぶんがく]における食[しょく]の表象[ひょうしょう]は、西洋[せいよう]文学[ぶんがく]のそれとは本質的[ほんしつてき]に異[こと]なり、「存在[そんざい]の確認[かくにん]」としての意味合[いみあ]いを持[も]つ。山田[やまだ]の作品[さくひん]では、この伝統[でんとう]が現代的[げんだいてき]な文脈[ぶんみゃく]の中[なか]で巧[たく]みに再[さい]解釈[かいしゃく]されており、食[た]べるという行為[こうい]そのものが、断絶[だんぜつ]した人間[にんげん]関係[かんけい]を修復[しゅうふく]する唯一[ゆいいつ]の回路[かいろ]として描[えが]かれている。\n\nこの評論[ひょうろん]の論旨[ろんし]として最[もっと]も適切[てきせつ]なものはどれか。",
+    "romaji": "Tsugi no bunshou wo yonde, toi ni kotaenasai. Yamada Eimi no tanpen 'Fuumi Zekka' ni okeru shoku no byousha wa... Kono hyouron no ronshi to shite mottomo tekisetsu na mono wa dore ka.",
+    "level": "N1",
+    "category": "READING",
+    "options": [
+      "山田の作品において食の描写は登場人物の内面や人間関係の修復を象徴する文学的装置として機能している",
+      "日本文学における食の描写は西洋文学よりも優れている",
+      "味噌汁は日本文化において最も重要な食物である",
+      "山田詠美は日本で最も優れた短編作家である"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Manakah yang paling tepat sebagai pokok argumen dari kritik sastra ini?",
+    "answerExplanation": "Kritik sastra ini berargumen bahwa penggambaran makanan dalam karya Yamada berfungsi sebagai perangkat sastra yang mencerminkan dunia batin tokoh dan menjadi satu-satunya jalur untuk memperbaiki hubungan antarmanusia yang terputus. Penulis menganalisis simbolisme sup miso sebagai representasi kerapuhan dan potensi pemulihan ikatan keluarga. Pilihan B, C, dan D adalah generalisasi berlebihan yang tidak didukung oleh teks.",
+    "hint": "Perhatikan bagaimana penulis menghubungkan penggambaran makanan dengan fungsi sastranya.",
+    "difficultyScore": 9
+  }
+]

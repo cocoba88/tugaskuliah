@@ -1,0 +1,572 @@
+[
+  {
+    "id": "question_n3_1_001",
+    "question": "「確実」の意味は？",
+    "furigana": "「確実[かくじつ]」の意味[いみ]は？",
+    "romaji": "'Kakujitsu' no imi wa?",
+    "level": "N3",
+    "category": "VOCABULARY",
+    "options": [
+      "不安定で予測できない",
+      "確かで間違いがない",
+      "急いで行動すること",
+      "曖昧で分かりにくい"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "'確実' có nghĩa là gì?",
+    "answerExplanation": "'確実' (kakujitsu) có nghĩa là chắc chắn, đáng tin cậy. Từ này gồm kanji 確 (chắc chắn) và 実 (thực tế). Ví dụ sử dụng: '確実な情報' (thông tin chắc chắn), '確実に届ける' (giao một cách chắc chắn). Các đáp án khác sai: '不安定' nghĩa là không ổn định, '急いで行動' nghĩa là hành động vội vàng, và '曖昧' nghĩa là mơ hồ.",
+    "hint": "Gồm kanji 確 (chắc chắn) và 実 (thực tế)",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_1_002",
+    "question": "テレビの暴力シーンは子供に長期的に悪い___を与える。",
+    "furigana": "テレビの暴力[ぼうりょく]シーンは子供[こども]に長期的[ちょうきてき]に悪[わる]い___を与[あた]える。",
+    "romaji": "Terebi no bouryoku shiin wa kodomo ni choukiteki ni warui ___ wo ataeru.",
+    "level": "N3",
+    "category": "VOCABULARY",
+    "options": [
+      "印象",
+      "影響",
+      "感想",
+      "経験"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Cảnh bạo lực trên TV gây ___ xấu lâu dài cho trẻ em.",
+    "answerExplanation": "'影響' (eikyou) có nghĩa là ảnh hưởng. '悪い影響を与える' là cụm từ thường dùng nghĩa là 'gây ảnh hưởng xấu'. Các đáp án khác: '印象' (inshou) = ấn tượng, '感想' (kansou) = cảm tưởng, '経験' (keiken) = kinh nghiệm. Dù '印象' (ấn tượng) có nghĩa gần, ngữ cảnh câu nói về tác động lâu dài, không chỉ là ấn tượng nhất thời.",
+    "hint": "Từ này có nghĩa là tác động hoặc ảnh hưởng gây ra đối với một thứ gì đó",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_1_003",
+    "question": "歯が痛いが、歯医者が怖いので痛みを___している。",
+    "furigana": "歯[は]が痛[いた]いが、歯医者[はいしゃ]が怖[こわ]いので痛[いた]みを___している。",
+    "romaji": "Ha ga itai ga, haisha ga kowai node itami wo ___ shite iru.",
+    "level": "N3",
+    "category": "VOCABULARY",
+    "options": [
+      "努力",
+      "遠慮",
+      "我慢",
+      "無視"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Răng đau, nhưng vì sợ nha sĩ nên đang ___ cơn đau.",
+    "answerExplanation": "'我慢' (gaman) có nghĩa là chịu đựng, kiên nhẫn, hoặc nhẫn nhịn điều gì đó khó chịu. '我慢する' thường được dùng khi ai đó chịu đựng cơn đau hoặc sự khó chịu. Các đáp án khác: '努力' (doryoku) = nỗ lực, '遠慮' (enryo) = kiềm chế vì lịch sự, '無視' (mushi) = phớt lờ. Ngữ cảnh chịu đựng cơn đau phù hợp nhất với '我慢'.",
+    "hint": "Từ này có nghĩa là chịu đựng điều gì đó khó chịu",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_1_004",
+    "question": "先生は学生のレポートを___した。",
+    "furigana": "先生[せんせい]は学生[がくせい]のレポートを___した。",
+    "romaji": "Sensei wa gakusei no repooto wo ___ shita.",
+    "level": "N3",
+    "category": "VOCABULARY",
+    "options": [
+      "評価",
+      "予約",
+      "翻訳",
+      "紹介"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Giáo viên đã ___ bài báo cáo của sinh viên.",
+    "answerExplanation": "'評価' (hyouka) có nghĩa là đánh giá. '評価する' nghĩa là đánh giá hoặc nhận xét. Trong ngữ cảnh học thuật, giáo viên đánh giá báo cáo của sinh viên là điều tự nhiên. Các đáp án khác: '予約' (yoyaku) = đặt trước, '翻訳' (honyaku) = dịch thuật, '紹介' (shoukai) = giới thiệu. Tất cả đều không phù hợp với ngữ cảnh giáo viên và báo cáo.",
+    "hint": "Giáo viên làm gì với bài tập của sinh viên?",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_1_005",
+    "question": "この問題は条件が多くてとても___で、簡単には解けない。",
+    "furigana": "この問題[もんだい]は条件[じょうけん]が多[おお]くてとても___で、簡単[かんたん]には解[と]けない。",
+    "romaji": "Kono mondai wa jouken ga ookute totemo ___ de, kantan ni wa tokenai.",
+    "level": "N3",
+    "category": "VOCABULARY",
+    "options": [
+      "正確",
+      "複雑",
+      "丁寧",
+      "重要"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Bài toán này rất ___, không thể giải quyết dễ dàng.",
+    "answerExplanation": "'複雑' (fukuzatsu) có nghĩa là phức tạp. Ngữ cảnh câu giải thích rằng bài toán không thể giải quyết dễ dàng, nên từ 'phức tạp' phù hợp nhất. Các đáp án khác: '正確' (seikaku) = chính xác, '丁寧' (teinei) = lịch sự/cẩn thận, '重要' (juuyou) = quan trọng. Dù '重要' (quan trọng) có thể phù hợp một phần, cụm 'không thể giải dễ dàng' nói đến mức độ phức tạp.",
+    "hint": "Từ trái nghĩa với 'đơn giản'",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_1_006",
+    "question": "「相談」の読み方は？",
+    "furigana": "「相談[そうだん]」の読[よ]み方[かた]は？",
+    "romaji": "'Soudan' no yomikata wa?",
+    "level": "N3",
+    "category": "KANJI",
+    "options": [
+      "しょうだん",
+      "そうだん",
+      "そうたん",
+      "しょうたん"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Cách đọc '相談' là gì?",
+    "answerExplanation": "'相談' đọc là 'そうだん' (soudan), nghĩa là tham vấn hoặc bàn bạc. Kanji 相 (sou) nghĩa là lẫn nhau và 談 (dan) nghĩa là nói chuyện. Ví dụ: '友達に相談する' (tham vấn với bạn), '相談窓口' (quầy tư vấn). Lưu ý 相 đọc là 'そう' không phải 'しょう', và 談 đọc là 'だん' không phải 'たん'.",
+    "hint": "Sou + dan (cùng nói chuyện để xin ý kiến)",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_1_007",
+    "question": "「深刻」の読み方は？",
+    "furigana": "「深刻[しんこく]」の読[よ]み方[かた]は？",
+    "romaji": "'Shinkoku' no yomikata wa?",
+    "level": "N3",
+    "category": "KANJI",
+    "options": [
+      "しんごく",
+      "じんこく",
+      "しんこく",
+      "しんかく"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Cách đọc '深刻' là gì?",
+    "answerExplanation": "'深刻' đọc là 'しんこく' (shinkoku), nghĩa là nghiêm trọng. Kanji 深 (shin) nghĩa là sâu và 刻 (koku) nghĩa là khắc/thời gian. Ví dụ: '深刻な問題' (vấn đề nghiêm trọng). Lưu ý 深 đọc là 'しん' không phải 'じん', và 刻 đọc là 'こく' không phải 'ごく' hay 'かく'.",
+    "hint": "Shin + koku (điều gì đó nghiêm trọng và sâu sắc)",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_1_008",
+    "question": "「比較」の読み方は？",
+    "furigana": "「比較[ひかく]」の読[よ]み方[かた]は？",
+    "romaji": "'Hikaku' no yomikata wa?",
+    "level": "N3",
+    "category": "KANJI",
+    "options": [
+      "ひがく",
+      "ひかく",
+      "ひきゃく",
+      "ひこう"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Cách đọc '比較' là gì?",
+    "answerExplanation": "'比較' đọc là 'ひかく' (hikaku), nghĩa là so sánh. Kanji 比 (hi) nghĩa là so sánh và 較 (kaku) nghĩa là so sánh/đối chiếu. Ví dụ: '二つの商品を比較する' (so sánh hai sản phẩm). Lưu ý 較 đọc là 'kaku' không phải 'gaku', 'kyaku', hay 'kou'.",
+    "hint": "Hi + kaku (so sánh hai hay nhiều thứ)",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n3_1_009",
+    "question": "「届ける」の読み方は？",
+    "furigana": "「届[とど]ける」の読[よ]み方[かた]は？",
+    "romaji": "'Todokeru' no yomikata wa?",
+    "level": "N3",
+    "category": "KANJI",
+    "options": [
+      "ととける",
+      "とどける",
+      "とおける",
+      "とどげる"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Cách đọc '届ける' là gì?",
+    "answerExplanation": "'届ける' đọc là 'とどける' (todokeru), nghĩa là giao, gửi, hoặc mang đến. Kanji 届 có kun'yomi 'とど(ける)' và 'とど(く)'. Ví dụ: '荷物を届ける' (giao hàng), '届け出' (thông báo/khai báo). Dạng tự động từ là '届く' (todoku) = đến nơi.",
+    "hint": "Todo + keru (giao một thứ gì đó đến đích)",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_1_010",
+    "question": "「経験」の読み方は？",
+    "furigana": "「経験[けいけん]」の読[よ]み方[かた]は？",
+    "romaji": "'Keiken' no yomikata wa?",
+    "level": "N3",
+    "category": "KANJI",
+    "options": [
+      "きょうけん",
+      "けいげん",
+      "けいけん",
+      "きけん"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Cách đọc '経験' là gì?",
+    "answerExplanation": "'経験' đọc là 'けいけん' (keiken), nghĩa là kinh nghiệm. Kanji 経 (kei) nghĩa là đi qua và 験 (ken) nghĩa là thử nghiệm/chứng minh. Ví dụ: '海外での経験' (kinh nghiệm ở nước ngoài). Đừng nhầm với '危険' (きけん/kiken) nghĩa là nguy hiểm, hoặc đọc sai thành 'けいげん' vì 験 đọc là 'ken' không phải 'gen'.",
+    "hint": "Kei + ken (điều đã trải nghiệm và học được)",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_1_011",
+    "question": "新しいゲームが欲しく___たまらない。",
+    "furigana": "新[あたら]しいゲームが欲[ほ]しく___たまらない。",
+    "romaji": "Atarashii geemu ga hoshiku ___ tamaranai.",
+    "level": "N3",
+    "category": "GRAMMAR",
+    "options": [
+      "て",
+      "ても",
+      "ので",
+      "ば"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Muốn game mới đến mức không chịu nổi.",
+    "answerExplanation": "Mẫu câu '～てたまらない' được dùng để diễn tả cảm xúc hoặc mong muốn mãnh liệt không thể kiềm chế. Cấu trúc: tính từ đuôi i → ~くて + たまらない, tính từ đuôi na → ~で + たまらない, động từ thể て + たまらない. '欲しい' là tính từ đuôi i nên thành '欲しくて + たまらない'. '～ても' nghĩa là 'dù cho', '～ので' nghĩa là 'vì', '～ば' nghĩa là 'nếu' - đều không phù hợp.",
+    "hint": "Mẫu ～てたまらない yêu cầu thể て (te-form) trước たまらない",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n3_1_012",
+    "question": "最近、彼はよく風邪をひき___だ。",
+    "furigana": "最近[さいきん]、彼[かれ]はよく風邪[かぜ]をひき___だ。",
+    "romaji": "Saikin, kare wa yoku kaze wo hiki ___ da.",
+    "level": "N3",
+    "category": "GRAMMAR",
+    "options": [
+      "っぽい",
+      "やすい",
+      "がち",
+      "気味"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Gần đây, anh ấy hay có xu hướng bị cảm.",
+    "answerExplanation": "Mẫu câu '～がち' (gachi) dùng để diễn tả xu hướng tiêu cực xảy ra thường xuyên. Nó gắn vào thân masu. 'ひく' → thân masu = 'ひき' → 'ひきがち'. Các đáp án khác: '～っぽい' = có vẻ như (thân mật hơn), '～やすい' = dễ (gắn vào thân masu nhưng nghĩa là 'dễ xảy ra'), '～気味' (gimi) = hơi/một chút (tương tự nhưng nhẹ hơn). '～がち' nhấn mạnh xu hướng tiêu cực lặp đi lặp lại.",
+    "hint": "Mẫu này gắn vào thân masu và chỉ xu hướng tiêu cực",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n3_1_013",
+    "question": "毎日練習しているから、上手になった___だ。どうりで。",
+    "furigana": "毎日[まいにち]練習[れんしゅう]しているから、上手[じょうず]になった___だ。どうりで。",
+    "romaji": "Mainichi renshuu shite iru kara, jouzu ni natta ___ da. Douri de.",
+    "level": "N3",
+    "category": "GRAMMAR",
+    "options": [
+      "はず",
+      "わけ",
+      "もの",
+      "こと"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Vì luyện tập mỗi ngày nên giỏi lên là đương nhiên.",
+    "answerExplanation": "Mẫu câu '～わけだ' dùng để diễn tả kết luận logic dựa trên sự thật đã biết. Nghĩa là 'thảo nào' hoặc 'đương nhiên là'. Ở đây, 'luyện tập mỗi ngày' là lý do logic cho 'giỏi lên'. Các đáp án khác: '～はずだ' = đáng lẽ phải (kỳ vọng), '～ものだ' = vốn dĩ là vậy (sự thật chung/hoài niệm), '～ことだ' = nên (lời khuyên). Rút ra kết luận logic phù hợp nhất với 'わけだ'.",
+    "hint": "Diễn tả kết luận logic: 'thảo nào' hoặc 'đương nhiên là vậy'",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n3_1_014",
+    "question": "この曲を聞く___、学生時代を思い出す。",
+    "furigana": "この曲[きょく]を聞[き]く___、学生時代[がくせいじだい]を思[おも]い出[だ]す。",
+    "romaji": "Kono kyoku wo kiku ___, gakusei jidai wo omoidasu.",
+    "level": "N3",
+    "category": "GRAMMAR",
+    "options": [
+      "ついでに",
+      "うちに",
+      "最中に",
+      "たびに"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "Mỗi lần nghe bài hát này, tôi lại nhớ thời sinh viên.",
+    "answerExplanation": "Mẫu câu '～たびに' (tabi ni) nghĩa là 'mỗi lần'. Nó kết hợp với thể từ điển của động từ hoặc danh từ + の. '聞くたびに' = mỗi lần nghe. Các đáp án khác: '～ついでに' = tiện thể/nhân tiện (làm hai việc cùng lúc), '～うちに' = trong khi/trước khi (điều kiện thay đổi), '～最中に' (saichuu ni) = đang giữa lúc. Chỉ 'たびに' thể hiện sự lặp lại nhất quán.",
+    "hint": "Mẫu câu nghĩa là 'mỗi lần điều gì xảy ra, luôn kèm theo điều khác'",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n3_1_015",
+    "question": "高い商品が___いいとは限らない。",
+    "furigana": "高[たか]い商品[しょうひん]が___いいとは限[かぎ]らない。",
+    "romaji": "Takai shouhin ga ___ ii to wa kagiranai.",
+    "level": "N3",
+    "category": "GRAMMAR",
+    "options": [
+      "ぜんぜん",
+      "たいてい",
+      "必ずしも",
+      "めったに"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Hàng đắt ___ hẳn là tốt.",
+    "answerExplanation": "Mẫu câu '必ずしも～とは限らない' (kanarazushimo ~ to wa kagiranai) nghĩa là 'chưa chắc' hoặc 'không hẳn'. Đây là mẫu cố định trong đó '必ずしも' luôn đi cặp với '～とは限らない'. Các đáp án khác: 'ぜんぜん' = hoàn toàn không (dùng với phủ định nhưng không phải mẫu này), 'たいてい' = thường, 'めったに' = hiếm khi (dùng với phủ định). Chỉ '必ずしも' tạo thành mẫu cố định với 'とは限らない'.",
+    "hint": "Mẫu cố định: ___ + ～とは限らない = chưa chắc/không hẳn",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_1_016",
+    "question": "日本語は勉強すれ___するほど面白くなる。",
+    "furigana": "日本語[にほんご]は勉強[べんきょう]すれ___するほど面白[おもしろ]くなる。",
+    "romaji": "Nihongo wa benkyou sure ___ suru hodo omoshiroku naru.",
+    "level": "N3",
+    "category": "GRAMMAR",
+    "options": [
+      "ても",
+      "たら",
+      "ば",
+      "なら"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Tiếng Nhật càng học càng thú vị.",
+    "answerExplanation": "Mẫu câu '～ば～ほど' (ba ~ hodo) nghĩa là 'càng...càng...'. Cùng một động từ được lặp lại: thể điều kiện ば + thể từ điển + ほど. 'する' → 'すれば' + 'するほど'. Vì 'すれ' đã có trong câu hỏi, ta cần thêm 'ば'. Các đáp án khác: '～ても' = dù cho, '～たら' = nếu/khi, '～なら' = nếu. Chỉ 'ば' tạo thành mẫu tiến triển 'càng...càng...' với ほど.",
+    "hint": "Mẫu ～ば～ほど: càng... càng...",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n3_1_017",
+    "question": "事故の___、また電車が遅れた。",
+    "furigana": "事故[じこ]の___、また電車[でんしゃ]が遅[おく]れた。",
+    "romaji": "Jiko no ___、mata densha ga okureta.",
+    "level": "N3",
+    "category": "GRAMMAR",
+    "options": [
+      "おかげで",
+      "せいで",
+      "ために",
+      "くせに"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Vì tai nạn, tàu điện lại bị trễ.",
+    "answerExplanation": "Mẫu câu '～せいで' dùng để diễn tả nguyên nhân dẫn đến kết quả tiêu cực. '事故のせいで' = vì tai nạn (tại vì). Các đáp án khác: '～おかげで' = nhờ có (kết quả tích cực), '～ために' = vì/để (trung tính, trang trọng hơn), '～くせに' = mặc dù (mâu thuẫn/phàn nàn). Tàu bị trễ là tiêu cực nên 'せいで' phù hợp nhất.",
+    "hint": "Mẫu này dùng riêng cho nguyên nhân dẫn đến kết quả tiêu cực (đổ lỗi)",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n3_1_018",
+    "question": "（Reading）\n\n私は去年、日本に留学しました。日本に来る前は、日本人はみんな静かで真面目だと思っていました。しかし、実際に日本で生活してみると、とても明るくて面白い人がたくさんいることに気がつきました。特に驚いたのは、日本人が電車の中ではとても静かなのに、居酒屋ではとても賑やかだったことです。場面によって態度が変わるのが興味深いと思いました。\n\n質問：この留学生が日本で一番驚いたことは何ですか。",
+    "furigana": "私[わたし]は去年[きょねん]、日本[にほん]に留学[りゅうがく]しました。日本[にほん]に来[く]る前[まえ]は、日本人[にほんじん]はみんな静[しず]かで真面目[まじめ]だと思[おも]っていました。しかし、実際[じっさい]に日本[にほん]で生活[せいかつ]してみると、とても明[あか]るくて面白[おもしろ]い人[ひと]がたくさんいることに気[き]がつきました。特[とく]に驚[おどろ]いたのは、日本人[にほんじん]が電車[でんしゃ]の中[なか]ではとても静[しず]かなのに、居酒屋[いざかや]ではとても賑[にぎ]やかだったことです。場面[ばめん]によって態度[たいど]が変[か]わるのが興味深[きょうみぶか]いと思[おも]いました。\n\n質問[しつもん]：この留学生[りゅうがくせい]が日本[にほん]で一番[いちばん]驚[おどろ]いたことは何[なん]ですか。",
+    "romaji": "Watashi wa kyonen, Nihon ni ryuugaku shimashita. Nihon ni kuru mae wa, Nihonjin wa minna shizuka de majime da to omotte imashita. Shikashi, jissai ni Nihon de seikatsu shite miru to, totemo akarukute omoshiroi hito ga takusan iru koto ni ki ga tsukimashita. Toku ni odoroita no wa, Nihonjin ga densha no naka de wa totemo shizuka na noni, izakaya de wa totemo nigiyaka datta koto desu. Bamen ni yotte taido ga kawaru no ga kyoumibukai to omoimashita.\n\nShitsumon: Kono ryuugakusei ga Nihon de ichiban odoroita koto wa nan desu ka.",
+    "level": "N3",
+    "category": "READING",
+    "options": [
+      "日本人がみんな真面目だったこと",
+      "日本の電車がとても静かだったこと",
+      "場面によって日本人の態度が変わること",
+      "居酒屋の食べ物がおいしかったこと"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Tôi đi du học Nhật Bản năm ngoái. Trước khi đến Nhật, tôi nghĩ người Nhật ai cũng trầm lặng và nghiêm túc. Tuy nhiên, sau khi thực sự sống ở Nhật, tôi nhận ra có rất nhiều người vui vẻ và thú vị. Điều ngạc nhiên nhất là người Nhật rất im lặng trên tàu điện nhưng rất sôi nổi ở izakaya. Tôi thấy thú vị khi thái độ của họ thay đổi tùy theo tình huống.\n\nCâu hỏi: Điều gì khiến du học sinh này ngạc nhiên nhất ở Nhật?",
+    "answerExplanation": "Câu chìa khóa là '特に驚いたのは...場面によって態度が変わる' (điều ngạc nhiên nhất là thái độ thay đổi tùy theo tình huống). Văn bản giải thích sự tương phản giữa im lặng trên tàu và sôi nổi ở izakaya như một ví dụ. Đáp án A sai vì văn bản nói không phải tất cả người Nhật đều nghiêm túc. Đáp án B chỉ đề cập một phần sự thật. Đáp án D không được đề cập trong văn bản.",
+    "hint": "Tìm câu bắt đầu bằng '特に驚いたのは' (điều ngạc nhiên nhất là...)",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n3_1_019",
+    "question": "（Reading）\n\n日本では「旬の食べ物」という考え方があります。旬とは、その食べ物が一番おいしくて、栄養も豊富な時期のことです。例えば、秋にはさんまやきのこが旬を迎えます。最近はハウス栽培や冷凍技術の発達により、一年中いろいろな食べ物が手に入りますが、旬の食べ物は味も値段も一番いいと言われています。季節を感じながら食事を楽しむのは、日本の食文化の大切な一部です。\n\n質問：この文章が一番言いたいことは何ですか。",
+    "furigana": "日本[にほん]では「旬[しゅん]の食[た]べ物[もの]」という考[かんが]え方[かた]があります。旬[しゅん]とは、その食[た]べ物[もの]が一番[いちばん]おいしくて、栄養[えいよう]も豊富[ほうふ]な時期[じき]のことです。例[たと]えば、秋[あき]にはさんまやきのこが旬[しゅん]を迎[むか]えます。最近[さいきん]はハウス栽培[さいばい]や冷凍技術[れいとうぎじゅつ]の発達[はったつ]により、一年中[いちねんじゅう]いろいろな食[た]べ物[もの]が手[て]に入[はい]りますが、旬[しゅん]の食[た]べ物[もの]は味[あじ]も値段[ねだん]も一番[いちばん]いいと言[い]われています。季節[きせつ]を感[かん]じながら食事[しょくじ]を楽[たの]しむのは、日本[にほん]の食文化[しょくぶんか]の大切[たいせつ]な一部[いちぶ]です。\n\n質問[しつもん]：この文章[ぶんしょう]が一番[いちばん]言[い]いたいことは何[なん]ですか。",
+    "romaji": "Nihon de wa 'shun no tabemono' to iu kangaekata ga arimasu. Shun to wa, sono tabemono ga ichiban oishikute, eiyou mo houfu na jiki no koto desu. Tatoeba, aki ni wa sanma ya kinoko ga shun wo mukaemasu. Saikin wa hausu saibai ya reitou gijutsu no hattatsu ni yori, ichinenjuu iroirona tabemono ga te ni hairimasu ga, shun no tabemono wa aji mo nedan mo ichiban ii to iwarete imasu. Kisetsu wo kanji nagara shokuji wo tanoshimu no wa, Nihon no shoku bunka no taisetsu na ichibu desu.\n\nShitsumon: Kono bunshou ga ichiban iitai koto wa nan desu ka.",
+    "level": "N3",
+    "category": "READING",
+    "options": [
+      "ハウス栽培のおかげで一年中食べ物が手に入る",
+      "さんまときのこは秋に食べるべきだ",
+      "旬の食べ物を楽しむことは日本の食文化の大切な部分だ",
+      "冷凍技術の発達が日本の食文化を変えた"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Ở Nhật Bản có khái niệm 'thực phẩm theo mùa' (shun no tabemono). Shun là khoảng thời gian khi thực phẩm ngon nhất và giàu dinh dưỡng nhất. Ví dụ, vào mùa thu, cá sanma và nấm đạt đến mùa thu hoạch. Gần đây, nhờ trồng trong nhà kính và công nghệ đông lạnh, nhiều loại thực phẩm có sẵn quanh năm, nhưng thực phẩm theo mùa được cho là tốt nhất về cả hương vị lẫn giá cả. Thưởng thức bữa ăn trong khi cảm nhận mùa là phần quan trọng của văn hóa ẩm thực Nhật Bản.\n\nCâu hỏi: Thông điệp chính của bài viết này là gì?",
+    "answerExplanation": "Câu cuối tóm tắt thông điệp chính: '季節を感じながら食事を楽しむのは、日本の食文化の大切な一部です' (thưởng thức bữa ăn trong khi cảm nhận mùa là phần quan trọng của văn hóa ẩm thực Nhật Bản). Đáp án A và D chỉ đề cập chi tiết phụ. Đáp án B quá cụ thể và không phải thông điệp chính.",
+    "hint": "Thông điệp chính thường nằm ở câu cuối hoặc câu kết luận",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n3_1_020",
+    "question": "（Reading）\n\n私の住んでいる町では、毎年夏に盆踊り大会が開かれます。昔はたくさんの人が参加していましたが、最近は若い人の参加が減ってきました。しかし、去年から実行委員会がSNSで情報を発信したり、屋台の種類を増やしたりしたところ、若者の参加者が増えました。私は、伝統的な祭りも時代に合わせて工夫すれば、もっと多くの人に楽しんでもらえると思います。\n\n質問：筆者はどう思っていますか。",
+    "furigana": "私[わたし]の住[す]んでいる町[まち]では、毎年[まいとし]夏[なつ]に盆踊[ぼんおど]り大会[たいかい]が開[ひら]かれます。昔[むかし]はたくさんの人[ひと]が参加[さんか]していましたが、最近[さいきん]は若[わか]い人[ひと]の参加[さんか]が減[へ]ってきました。しかし、去年[きょねん]から実行委員会[じっこういいんかい]がSNSで情報[じょうほう]を発信[はっしん]したり、屋台[やたい]の種類[しゅるい]を増[ふ]やしたりしたところ、若者[わかもの]の参加者[さんかしゃ]が増[ふ]えました。私[わたし]は、伝統的[でんとうてき]な祭[まつ]りも時代[じだい]に合[あ]わせて工夫[くふう]すれば、もっと多[おお]くの人[ひと]に楽[たの]しんでもらえると思[おも]います。\n\n質問[しつもん]：筆者[ひっしゃ]はどう思[おも]っていますか。",
+    "romaji": "Watashi no sunde iru machi de wa, maitoshi natsu ni bon odori taikai ga hirakaremasu. Mukashi wa takusan no hito ga sanka shite imashita ga, saikin wa wakai hito no sanka ga hette kimashita. Shikashi, kyonen kara jikkou iinkai ga SNS de jouhou wo hasshin shitari, yatai no shurui wo fuyashitari shita tokoro, wakamono no sankasha ga fuemashita. Watashi wa, dentouteki na matsuri mo jidai ni awasete kufuu sureba, motto ooku no hito ni tanoshinde moraeru to omoimasu.\n\nShitsumon: Hissha wa dou omotte imasu ka.",
+    "level": "N3",
+    "category": "READING",
+    "options": [
+      "伝統的な祭りはそのまま残すべきだ",
+      "若い人は祭りに興味がない",
+      "祭りを時代に合わせて工夫すればもっと楽しめる",
+      "SNSを使うと祭りの伝統が壊れる"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Ở thị trấn tôi sống, mỗi mùa hè đều tổ chức lễ hội Bon Odori. Trước đây nhiều người tham gia, nhưng gần đây sự tham gia của giới trẻ giảm đi. Tuy nhiên, từ năm ngoái ban tổ chức đã chia sẻ thông tin qua mạng xã hội và tăng thêm các loại quầy ẩm thực, số người trẻ tham gia đã tăng lên. Tôi cho rằng nếu lễ hội truyền thống cũng được điều chỉnh theo thời đại, nhiều người hơn có thể thưởng thức.\n\nCâu hỏi: Ý kiến của tác giả là gì?",
+    "answerExplanation": "Câu cuối nêu rõ ý kiến của tác giả: '伝統的な祭りも時代に合わせて工夫すれば、もっと多くの人に楽しんでもらえると思います' (nếu lễ hội truyền thống được điều chỉnh theo thời đại, nhiều người hơn có thể thưởng thức). Đáp án A sai vì tác giả ủng hộ sự thay đổi. Đáp án B sai vì sau khi đổi mới, giới trẻ thực sự đã đến. Đáp án D sai vì tác giả nhìn nhận việc sử dụng mạng xã hội một cách tích cực.",
+    "hint": "Ý kiến của tác giả thường được đánh dấu bằng '～と思います' (tôi nghĩ rằng...)",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n3_1_021",
+    "question": "日本語が上手になる___、毎日練習しています。",
+    "furigana": "日本語[にほんご]が上手[じょうず]になる___、毎日[まいにち]練習[れんしゅう]しています。",
+    "romaji": "Nihongo ga jouzu ni naru ___, mainichi renshuu shite imasu.",
+    "level": "N3",
+    "category": "GRAMMAR",
+    "options": [
+      "ために",
+      "ように",
+      "ことに",
+      "ものに"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Để giỏi tiếng Nhật, tôi luyện tập mỗi ngày.",
+    "answerExplanation": "Mẫu câu '～ように' được dùng để diễn đạt mục đích với động từ không thể hiện ý chí trực tiếp (nội động từ/thể khả năng). '上手になる' là nội động từ nên dùng 'ように'. Nếu động từ là ngoại động từ/có ý chí như '勉強する' thì dùng 'ために'. Ví dụ khác: '聞こえるように大きい声で話す' (nói to để nghe được).",
+    "hint": "Động từ trước chỗ trống là nội động từ (không có ý chí)",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_1_022",
+    "question": "財布を電車に忘れて___。",
+    "furigana": "財布[さいふ]を電車[でんしゃ]に忘[わす]れて___。",
+    "romaji": "Saifu wo densha ni wasurete ___.",
+    "level": "N3",
+    "category": "GRAMMAR",
+    "options": [
+      "しまった",
+      "おいた",
+      "みた",
+      "あった"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Tôi (đáng tiếc) đã để quên ví trên tàu.",
+    "answerExplanation": "Mẫu câu '～てしまう' (quá khứ: ～てしまった) dùng để diễn đạt sự tiếc nuối về điều gì đó xảy ra ngoài ý muốn. Ở đây, việc quên ví trên tàu là ngoài ý muốn và đáng tiếc. 'ておいた' chỉ sự chuẩn bị, 'てみた' chỉ sự thử, và 'てあった' chỉ trạng thái kết quả do hành động của người khác.",
+    "hint": "Biểu hiện sự tiếc nuối hoặc sự không cố ý",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_1_023",
+    "question": "来月から毎朝ジョギングする___にした。",
+    "furigana": "来月[らいげつ]から毎朝[まいあさ]ジョギングする___にした。",
+    "romaji": "Raigetsu kara maiasa jogingu suru ___ ni shita.",
+    "level": "N3",
+    "category": "GRAMMAR",
+    "options": [
+      "もの",
+      "わけ",
+      "こと",
+      "ところ"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Tôi quyết định chạy bộ mỗi sáng từ tháng sau.",
+    "answerExplanation": "Mẫu câu '～ことにする' nghĩa là 'quyết định làm～'. Được dùng khi ai đó tự mình đưa ra quyết định một cách có ý thức. Khác với '～ことになる' nghĩa là quyết định được đưa ra bởi người khác hoặc hoàn cảnh. 'もの' và 'わけ' không dùng trong mẫu câu này. 'ところ' dùng trong mẫu câu khác như '～ところだ'.",
+    "hint": "Mẫu câu này diễn đạt quyết định cá nhân được đưa ra một cách có ý thức",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_1_024",
+    "question": "「状況」の意味は？",
+    "furigana": "「状況[じょうきょう]」の意味[いみ]は？",
+    "romaji": "'Joukyou' no imi wa?",
+    "level": "N3",
+    "category": "VOCABULARY",
+    "options": [
+      "物事の結果や終わり",
+      "ある時点での物事のありさま",
+      "将来の計画や予定",
+      "過去の思い出や記憶"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "'状況' có nghĩa là gì?",
+    "answerExplanation": "'状況' (joukyou) có nghĩa là tình hình hoặc hoàn cảnh tại một thời điểm nhất định. Gồm kanji 状 (trạng thái) và 況 (tình hình). Ví dụ: '経済状況' (tình hình kinh tế), '状況を説明する' (giải thích tình hình). Các đáp án khác sai: 'kết quả' = 結果, 'kế hoạch' = 計画, 'kỷ niệm' = 思い出.",
+    "hint": "Từ này mô tả trạng thái hoặc tình hình hiện tại",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_1_025",
+    "question": "会議で自分の意見を___のは大切なことだ。",
+    "furigana": "会議[かいぎ]で自分[じぶん]の意見[いけん]を___のは大切[たいせつ]なことだ。",
+    "romaji": "Kaigi de jibun no iken wo ___ no wa taisetsu na koto da.",
+    "level": "N3",
+    "category": "VOCABULARY",
+    "options": [
+      "届ける",
+      "届く",
+      "述べる",
+      "浮かべる"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Việc trình bày ý kiến của bản thân trong cuộc họp là điều quan trọng.",
+    "answerExplanation": "'述べる' (noberu) có nghĩa là phát biểu, bày tỏ hoặc trình bày (ý kiến/suy nghĩ). Cụm từ thường dùng: '意見を述べる' (phát biểu ý kiến). '届ける' nghĩa là giao (đồ vật), '届く' nghĩa là đến nơi, '浮かべる' nghĩa là lộ ra (biểu cảm khuôn mặt, v.v.).",
+    "hint": "Động từ này có nghĩa là 'phát biểu' hoặc 'trình bày' một cách trang trọng",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_1_026",
+    "question": "彼女は___が豊かで、いつも面白い話を考える。",
+    "furigana": "彼女[かのじょ]は___が豊[ゆた]かで、いつも面白[おもしろ]い話[はなし]を考[かんが]える。",
+    "romaji": "Kanojo wa ___ ga yutaka de, itsumo omoshiroi hanashi wo kangaeru.",
+    "level": "N3",
+    "category": "VOCABULARY",
+    "options": [
+      "経験",
+      "想像力",
+      "記憶力",
+      "体力"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Cô ấy giàu ___, luôn nghĩ ra những câu chuyện thú vị.",
+    "answerExplanation": "'想像力' (souzouryoku) có nghĩa là trí tưởng tượng. '想像力が豊か' là cụm từ thường dùng nghĩa là 'giàu trí tưởng tượng'. Phù hợp với ngữ cảnh 'nghĩ ra câu chuyện thú vị'. '経験' (keiken) = kinh nghiệm, '記憶力' (kiokuryoku) = trí nhớ, '体力' (tairyoku) = thể lực.",
+    "hint": "Khả năng tưởng tượng những thứ chưa tồn tại",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_1_027",
+    "question": "「準備」の読み方は？",
+    "furigana": "「準備[じゅんび]」の読[よ]み方[かた]は？",
+    "romaji": "'Junbi' no yomikata wa?",
+    "level": "N3",
+    "category": "KANJI",
+    "options": [
+      "じゅんび",
+      "じゅんぴ",
+      "しゅんび",
+      "じゅんみ"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Cách đọc '準備' là gì?",
+    "answerExplanation": "'準備' đọc là 'じゅんび' (junbi) nghĩa là chuẩn bị. Kanji 準 đọc là じゅん (jun = tiêu chuẩn) và 備 đọc là び (bi = chuẩn bị). Ví dụ: '試験の準備をする' (chuẩn bị cho kỳ thi), '準備ができた' (đã chuẩn bị xong). Lưu ý 備 đọc là 'bi' không phải 'pi'.",
+    "hint": "Jun + bi. Từ rất phổ biến nghĩa là chuẩn bị",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_1_028",
+    "question": "「環境」の読み方は？",
+    "furigana": "「環境[かんきょう]」の読[よ]み方[かた]は？",
+    "romaji": "'Kankyou' no yomikata wa?",
+    "level": "N3",
+    "category": "KANJI",
+    "options": [
+      "かんけい",
+      "かんきょう",
+      "かんきょ",
+      "がんきょう"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Cách đọc '環境' là gì?",
+    "answerExplanation": "'環境' đọc là 'かんきょう' (kankyou) nghĩa là môi trường. Kanji 環 đọc là かん (kan = vòng tròn/bao quanh) và 境 đọc là きょう (kyou = ranh giới). Ví dụ: '環境問題' (vấn đề môi trường), '環境を守る' (bảo vệ môi trường). Đừng nhầm với '関係' (かんけい/kankei = mối quan hệ).",
+    "hint": "Kan + kyou (nguyên âm dài). Liên quan đến thiên nhiên và xung quanh chúng ta",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_1_029",
+    "question": "次の文章を読んで、質問に答えてください。\n\n最近、リモートワークをする人が増えています。リモートワークには、通勤時間がなくなるという大きなメリットがあります。しかし、家で仕事をすると、仕事とプライベートの区別がつきにくくなるという問題もあります。ある調査によると、リモートワークをしている人の半数以上が、仕事の時間が長くなったと感じているそうです。\n\n質問：リモートワークの問題点は何ですか？",
+    "furigana": "次[つぎ]の文章[ぶんしょう]を読[よ]んで、質問[しつもん]に答[こた]えてください。\n\n最近[さいきん]、リモートワークをする人[ひと]が増[ふ]えています。リモートワークには、通勤[つうきん]時間[じかん]がなくなるという大[おお]きなメリットがあります。しかし、家[いえ]で仕事[しごと]をすると、仕事[しごと]とプライベートの区別[くべつ]がつきにくくなるという問題[もんだい]もあります。ある調査[ちょうさ]によると、リモートワークをしている人[ひと]の半数[はんすう]以上[いじょう]が、仕事[しごと]の時間[じかん]が長[なが]くなったと感[かん]じているそうです。\n\n質問[しつもん]：リモートワークの問題点[もんだいてん]は何[なん]ですか？",
+    "romaji": "Tsugi no bunshou wo yonde, shitsumon ni kotaete kudasai. (Passage about remote work) Shitsumon: Rimooto waaku no mondaiten wa nan desu ka?",
+    "level": "N3",
+    "category": "READING",
+    "options": [
+      "通勤時間が長くなること",
+      "仕事とプライベートの区別がつきにくくなること",
+      "会社に行かなくてもいいこと",
+      "リモートワークをする人が少ないこと"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Hãy đọc đoạn văn sau và trả lời câu hỏi.\n\nGần đây, ngày càng nhiều người làm việc từ xa. Làm việc từ xa có lợi thế lớn là không mất thời gian đi lại. Tuy nhiên, khi làm việc ở nhà, có vấn đề là khó phân biệt giữa công việc và cuộc sống riêng tư. Theo một cuộc khảo sát, hơn một nửa số người làm việc từ xa cảm thấy thời gian làm việc của họ đã dài hơn.\n\nCâu hỏi: Vấn đề của làm việc từ xa là gì?",
+    "answerExplanation": "Đoạn văn đề cập vấn đề của làm việc từ xa sau từ 'しかし' (tuy nhiên): '仕事とプライベートの区別がつきにくくなる' (khó phân biệt giữa công việc và cuộc sống riêng tư). Đáp án A sai vì thời gian đi lại bị loại bỏ (đó là lợi thế). Đáp án C là lợi thế không phải vấn đề. Đáp án D mâu thuẫn với văn bản nói số người làm việc từ xa tăng lên.",
+    "hint": "Tìm từ 'しかし' (tuy nhiên) đánh dấu sự chuyển sang vấn đề",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_1_030",
+    "question": "次の文章を読んで、質問に答えてください。\n\n私の友人は料理が得意で、よく手作りのお菓子をくれます。先週もらったクッキーはとてもおいしかったので、作り方を教えてほしいと頼みました。すると、友人は「レシピを送るけど、材料を正確に量ることが一番大切だよ」と言いました。私は今まで目分量で作っていたので、それがうまくいかない原因だったのかもしれません。\n\n質問：友人が一番大切だと言ったことは何ですか？",
+    "furigana": "次[つぎ]の文章[ぶんしょう]を読[よ]んで、質問[しつもん]に答[こた]えてください。\n\n私[わたし]の友人[ゆうじん]は料理[りょうり]が得意[とくい]で、よく手作[てづく]りのお菓子[かし]をくれます。先週[せんしゅう]もらったクッキーはとてもおいしかったので、作[つく]り方[かた]を教[おし]えてほしいと頼[たの]みました。すると、友人[ゆうじん]は「レシピを送[おく]るけど、材料[ざいりょう]を正確[せいかく]に量[はか]ることが一番[いちばん]大切[たいせつ]だよ」と言[い]いました。私[わたし]は今[いま]まで目分量[めぶんりょう]で作[つく]っていたので、それがうまくいかない原因[げんいん]だったのかもしれません。\n\n質問[しつもん]：友人[ゆうじん]が一番[いちばん]大切[たいせつ]だと言[い]ったことは何[なん]ですか？",
+    "romaji": "Tsugi no bunshou wo yonde, shitsumon ni kotaete kudasai. (Passage about cooking) Shitsumon: Yuujin ga ichiban taisetsu da to itta koto wa nan desu ka?",
+    "level": "N3",
+    "category": "READING",
+    "options": [
+      "レシピどおりに作ること",
+      "材料を正確に量ること",
+      "手作りのお菓子を友達にあげること",
+      "目分量で気楽に作ること"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Hãy đọc đoạn văn sau và trả lời câu hỏi.\n\nBạn tôi giỏi nấu ăn và thường cho tôi bánh tự làm. Bánh quy tôi nhận tuần trước rất ngon nên tôi đã nhờ dạy cách làm. Bạn tôi nói 'Mình sẽ gửi công thức nhưng điều quan trọng nhất là đo nguyên liệu chính xác.' Tôi từ trước đến nay làm bằng ước lượng nên có lẽ đó là nguyên nhân không thành công.\n\nCâu hỏi: Bạn nói điều gì là quan trọng nhất?",
+    "answerExplanation": "Bạn nói '材料を正確に量ることが一番大切だよ' (điều quan trọng nhất là đo nguyên liệu chính xác). Điều này trực tiếp trả lời câu hỏi. Đáp án A không chính xác vì bạn nhấn mạnh việc đo nguyên liệu, không chỉ làm theo công thức. Đáp án C không liên quan. Đáp án D ngược lại với lời khuyên của bạn.",
+    "hint": "Tìm lời nói trực tiếp của bạn chứa từ '一番大切' (quan trọng nhất)",
+    "difficultyScore": 3
+  }
+]

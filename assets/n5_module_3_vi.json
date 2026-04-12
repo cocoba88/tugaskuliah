@@ -1,0 +1,382 @@
+[
+  {
+    "id": "question_n5_3_001",
+    "question": "日曜日は　どこ___　行きませんでした。",
+    "furigana": "日曜日[にちようび]は　どこ___　行[い]きませんでした。",
+    "romaji": "Nichiyoubi wa doko ___ ikimasen deshita.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "にも",
+      "でも",
+      "をも",
+      "かも"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Chủ nhật tôi không đi đâu cả.",
+    "answerExplanation": "Mẫu câu 'どこにも + phủ định' nghĩa là 'không đi đâu cả'. Trợ từ 'に' chỉ đích đến + 'も' tăng cường nghĩa phủ định = hoàn toàn không đi đâu. 'でも' = nhưng/dù (liên từ), 'をも' không thông dụng, 'かも' = có thể (かもしれない). Mẫu câu tương tự: だれにも会わない = không gặp ai, なにも食べない = không ăn gì.",
+    "hint": "Mẫu phủ định hoàn toàn: どこ＿＿ + động từ phủ định = không đi đâu cả",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_3_002",
+    "question": "「先生」の読み方は？",
+    "furigana": "「先生」の読み方は？",
+    "romaji": "'Sensei' no yomikata wa?",
+    "level": "N5",
+    "category": "KANJI",
+    "options": [
+      "さきせい",
+      "せんせい",
+      "せいせん",
+      "さんせい"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Cách đọc '先生' là gì?",
+    "answerExplanation": "'先生' đọc là 'せんせい (sensei)' và có nghĩa là giáo viên (danh xưng kính trọng cho người dạy/chuyên gia). '先' đọc là 'せん' (âm on), '生' đọc là 'せい' (âm on). Các lựa chọn khác: 'さきせい' dùng sai âm kun của 先, 'せいせん' đảo ngược thứ tự, 'さんせい (賛成)' nghĩa là đồng ý — từ khác.",
+    "hint": "Danh xưng kính trọng cho người dạy học — cả hai chữ Hán dùng âm on",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_3_003",
+    "question": "「正しい」の意味は？",
+    "furigana": "「正[ただ]しい」の意味[いみ]は？",
+    "romaji": "'Tadashii' no imi wa?",
+    "level": "N5",
+    "category": "VOCABULARY",
+    "options": [
+      "Khó",
+      "Đúng",
+      "Dễ",
+      "Gọn gàng"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Nghĩa của '正しい (ただしい)' là gì?",
+    "answerExplanation": "'正しい (tadashii)' có nghĩa là đúng, chính xác. Chữ Hán '正' mang nghĩa chân lý/công bằng (cũng xuất hiện trong 正月 = Năm Mới, 正解 = đáp án đúng). Từ trái nghĩa: '間違い (machigai)' = sai. Các từ khác: 'むずかしい' = khó, 'かんたん' = dễ, 'きれい' = gọn gàng — đều không liên quan đến sự đúng đắn.",
+    "hint": "Chữ Hán 正 chứa nghĩa chân lý — tính từ này mô tả điều gì đó không sai",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_3_004",
+    "question": "母は　今　台所で　料理を　___います。",
+    "furigana": "母[はは]は　今[いま]　台所[だいどころ]で　料理[りょうり]を　___います。",
+    "romaji": "Haha wa ima daidokoro de ryouri o ___ imasu.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "して",
+      "した",
+      "する",
+      "します"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Mẹ đang nấu ăn ở bếp bây giờ.",
+    "answerExplanation": "Mẫu câu 'đang làm' = thể te + います. 'する' → thể te = 'して' → して + います = しています (đang làm). Từ '今 (いま = bây giờ)' xác nhận hành động đang diễn ra. 'した' = thể quá khứ (đã hoàn thành), 'する' = thể từ điển, 'します' = thể lịch sự — cả ba đều không phù hợp trước います.",
+    "hint": "Từ '今' chỉ hành động ĐANG diễn ra — dùng mẫu thể te + います",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_3_005",
+    "question": "「入口」の読み方は？",
+    "furigana": "「入口」の読み方は？",
+    "romaji": "'Iriguchi' no yomikata wa?",
+    "level": "N5",
+    "category": "KANJI",
+    "options": [
+      "でぐち",
+      "にゅうこう",
+      "いりこう",
+      "いりぐち"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "Cách đọc '入口' là gì?",
+    "answerExplanation": "'入口' đọc là 'いりぐち (iriguchi)' và có nghĩa là lối vào. '入' đọc là 'いり' (âm kun từ 入る = vào), '口' thay đổi từ 'くち' thành 'ぐち' do rendaku (biến đổi âm khi ghép). 'でぐち (出口)' = lối ra (từ khác), 'にゅうこう' và 'いりこう' dùng cách đọc kết hợp sai.",
+    "hint": "Biển báo thường thấy ở tòa nhà — ngược lại với 出口 (でぐち). Chú ý rendaku: くち → ぐち",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_3_006",
+    "question": "「疲れた」の意味は？",
+    "furigana": "「疲[つか]れた」の意味[いみ]は？",
+    "romaji": "'Tsukareta' no imi wa?",
+    "level": "N5",
+    "category": "VOCABULARY",
+    "options": [
+      "Đói",
+      "Buồn ngủ",
+      "Mệt",
+      "Đau ốm"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Nghĩa của '疲れた (つかれた)' là gì?",
+    "answerExplanation": "'疲れた (tsukareta)' có nghĩa là mệt hoặc kiệt sức — thể quá khứ của '疲れる (tsukareru)'. Được nói khi cơ thể hoặc tâm trí đã cạn năng lượng sau các hoạt động. Các từ khác: 'おなかがすいた' = đói, 'ねむい' = buồn ngủ (muốn ngủ), 'びょうき' = ốm (tình trạng sức khỏe). Dù tương tự, mệt khác buồn ngủ — người ta có thể mệt mà không buồn ngủ.",
+    "hint": "Tình trạng cơ thể sau khi làm việc vất vả hoặc tập thể dục lâu — cạn năng lượng, cần nghỉ ngơi",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_3_007",
+    "question": "テーブルの うえ___　ほんが　あります。",
+    "furigana": "テーブルの うえ___　本[ほん]が　あります。",
+    "romaji": "Teeburu no ue ___ hon ga arimasu.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "で",
+      "に",
+      "を",
+      "へ"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Trên bàn có một quyển sách.",
+    "answerExplanation": "Trợ từ 'に' được dùng với 'あります/います' để chỉ vị trí tồn tại. Mẫu câu: [nơi] + に + [vật] + が + あります = Ở [nơi] có [vật]. 'で' = nơi hoạt động (không phải tồn tại tĩnh), 'を' = trợ từ chỉ tân ngữ trực tiếp, 'へ' = hướng di chuyển. Để diễn tả 'có' ở một nơi, luôn dùng 'に'.",
+    "hint": "Với あります/います, vị trí tồn tại luôn được đánh dấu bằng trợ từ đặc biệt — không phải で (nơi hoạt động)",
+    "difficultyScore": 1
+  },
+  {
+    "id": "question_n5_3_008",
+    "question": "「毎週」の読み方は？",
+    "furigana": "「毎週」の読み方は？",
+    "romaji": "'Maishuu' no yomikata wa?",
+    "level": "N5",
+    "category": "KANJI",
+    "options": [
+      "まいにち",
+      "まいつき",
+      "まいとし",
+      "まいしゅう"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "Cách đọc '毎週' là gì?",
+    "answerExplanation": "'毎週' đọc là 'まいしゅう (maishuu)' và có nghĩa là mỗi tuần. '毎' = まい (mỗi), '週' = しゅう (tuần). Tất cả lựa chọn bắt đầu bằng まい vì chữ Hán đầu tiên giống nhau; chìa khóa ở chữ Hán thứ hai: 日 = にち (ngày), 月 = つき (tháng), 年 = とし (năm), 週 = しゅう (tuần).",
+    "hint": "Chữ Hán thứ hai '週' nghĩa là tuần — thứ tự thời gian: ngày → tuần → tháng → năm",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_3_009",
+    "question": "「貸す」の意味は？",
+    "furigana": "「貸[か]す」の意味[いみ]は？",
+    "romaji": "'Kasu' no imi wa?",
+    "level": "N5",
+    "category": "VOCABULARY",
+    "options": [
+      "Mượn",
+      "Mua",
+      "Cho mượn",
+      "Bán"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Nghĩa của '貸す (かす)' là gì?",
+    "answerExplanation": "'貸す (kasu)' có nghĩa là cho mượn — đưa đồ của mình cho người khác dùng tạm thời. CẨN THẬN đừng nhầm: '貸す (kasu)' = cho mượn (bạn có, người khác dùng), '借りる (kariru)' = mượn (người khác có, bạn dùng). '買う (kau)' = mua, '売る (uru)' = bán.",
+    "hint": "Bạn có sách → bạn bè cần sách đó → bạn đưa cho họ tạm thời. Bạn đã làm gì?",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_3_010",
+    "question": "このへやには　まどが　___　あります。",
+    "furigana": "このへやには　まどが　___　あります。",
+    "romaji": "Kono heya ni wa mado ga ___ arimasu.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "三つ",
+      "三本",
+      "三枚",
+      "三冊"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Trong phòng này có ba cửa sổ.",
+    "answerExplanation": "'つ (tsu)' là trợ số chung (trợ số phổ quát) có thể dùng để đếm nhiều loại đồ vật, bao gồm cửa sổ. '本 (hon)' cho vật dài/hình trụ, '枚 (mai)' cho vật mỏng, phẳng (giấy, đĩa), '冊 (satsu)' cho sách đóng gáy. Cửa sổ là vật hoàn chỉnh (không mỏng như giấy) nên dùng つ.",
+    "hint": "Trợ số chung (phổ quát) có thể dùng cho hầu hết mọi đồ vật",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_3_011",
+    "question": "「電車」の読み方は？",
+    "furigana": "「電車」の読み方は？",
+    "romaji": "'Densha' no yomikata wa?",
+    "level": "N5",
+    "category": "KANJI",
+    "options": [
+      "でんしゃ",
+      "でんち",
+      "てんしゃ",
+      "でんくるま"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Cách đọc '電車' là gì?",
+    "answerExplanation": "'電車' đọc là 'でんしゃ (densha)' và có nghĩa là tàu điện. '電' = でん (điện), '車' = しゃ (xe/bánh xe). Các lựa chọn khác: 'でんち (電池)' = pin (từ khác), 'てんしゃ' = sai cách đọc 電 (không phải てん), 'でんくるま' = kết hợp sai âm on + âm kun (車 âm kun = くるま, nhưng không dùng ở đây).",
+    "hint": "Phương tiện công cộng chạy bằng điện trên đường ray — cả hai chữ Hán đọc bằng âm on",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_3_012",
+    "question": "あした　ともだち___　あいます。",
+    "furigana": "あした　友達[ともだち]___　会[あ]います。",
+    "romaji": "Ashita tomodachi ___ aimasu.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "で",
+      "に",
+      "が",
+      "は"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Ngày mai tôi sẽ gặp bạn.",
+    "answerExplanation": "Động từ '会う (au)' = gặp, dùng trợ từ 'に' để đánh dấu người được gặp. Mẫu câu: [người] + に + 会う. 'で' = nơi hoạt động hoặc công cụ, 'が' = trợ từ chỉ chủ ngữ, 'は' = trợ từ chỉ chủ đề. Chỉ có 'に' đánh dấu đối tượng/người được gặp.",
+    "hint": "Động từ 会う luôn đi cùng trợ từ đặc biệt để đánh dấu NGƯỜI được gặp",
+    "difficultyScore": 1
+  },
+  {
+    "id": "question_n5_3_013",
+    "question": "「涼しい」の意味は？",
+    "furigana": "「涼[すず]しい」の意味[いみ]は？",
+    "romaji": "'Suzushii' no imi wa?",
+    "level": "N5",
+    "category": "VOCABULARY",
+    "options": [
+      "Lạnh (đồ vật)",
+      "Ấm",
+      "Mát",
+      "Nóng (thời tiết)"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Nghĩa của '涼しい (すずしい)' là gì?",
+    "answerExplanation": "'涼しい (suzushii)' có nghĩa là mát mẻ — mô tả không khí trong lành và dễ chịu, không nóng và không quá lạnh. Chữ Hán '涼' chứa yếu tố nước (氵) gợi ý sự tươi mát. So sánh các từ thời tiết/nhiệt độ khác: '冷たい (tsumetai)' = lạnh cho vật chạm được, '暖かい (atatakai)' = ấm, '暑い (atsui)' = nóng (thời tiết).",
+    "hint": "Không khí trong lành và dễ chịu — chữ Hán này chứa bộ nước (氵) tạo ấn tượng về sự tươi mát",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_3_014",
+    "question": "「今年」の読み方は？",
+    "furigana": "「今年」の読み方は？",
+    "romaji": "'Kotoshi' no yomikata wa?",
+    "level": "N5",
+    "category": "KANJI",
+    "options": [
+      "いまとし",
+      "こんねん",
+      "こんとし",
+      "ことし"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "Cách đọc '今年' là gì?",
+    "answerExplanation": "'今年' đọc là 'ことし (kotoshi)' và có nghĩa là năm nay. Đây là cách đọc đặc biệt (熟字訓/jukujikun) — không thể đoán từ cách đọc từng chữ Hán. 'こんねん' về mặt kỹ thuật tồn tại nhưng rất hiếm dùng trong hội thoại. 'いまとし' và 'こんとし' là cách đọc sai. So sánh: 今日 = きょう, 今朝 = けさ — cũng là cách đọc đặc biệt.",
+    "hint": "Từ này có cách đọc đặc biệt — so sánh: 今日 = きょう, 今朝 = けさ. Từ này cũng không theo mẫu thông thường",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_3_015",
+    "question": "わたしは　にほんご___　べんきょうします。",
+    "furigana": "わたしは　日本語[にほんご]___　勉強[べんきょう]します。",
+    "romaji": "Watashi wa nihongo ___ benkyou shimasu.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "に",
+      "で",
+      "を",
+      "が"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Tôi học tiếng Nhật.",
+    "answerExplanation": "'勉強します (benkyou shimasu)' là động từ ngoại động cần tân ngữ. Tiếng Nhật (にほんご) là thứ được học = tân ngữ trực tiếp → đánh dấu bằng trợ từ 'を'. 'に' = đích đến/người nhận, 'で' = nơi hoạt động hoặc công cụ, 'が' = trợ từ chỉ chủ ngữ. Mẫu câu: [thứ được học] + を + 勉強します.",
+    "hint": "Tiếng Nhật là THỨ được học — trợ từ nào đánh dấu tân ngữ trực tiếp?",
+    "difficultyScore": 1
+  },
+  {
+    "id": "question_n5_3_016",
+    "question": "「返す」の意味は？",
+    "furigana": "「返[かえ]す」の意味[いみ]は？",
+    "romaji": "'Kaesu' no imi wa?",
+    "level": "N5",
+    "category": "VOCABULARY",
+    "options": [
+      "Về nhà",
+      "Mượn",
+      "Mang",
+      "Trả lại"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "Nghĩa của '返す (かえす)' là gì?",
+    "answerExplanation": "'返す (kaesu)' có nghĩa là trả lại — hành động đưa lại vật đã mượn cho chủ sở hữu ban đầu. CẨN THẬN: '返す (kaesu)' khác '帰る (kaeru)'. Dù phát âm tương tự, '帰る' = về nhà, '返す' = trả lại (đồ vật). '借りる (kariru)' = mượn, '持つ (motsu)' = mang/cầm.",
+    "hint": "Sách mượn từ thư viện phải được ___ trước hạn. Hành động đó là gì?",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_3_017",
+    "question": "この　へやには　いす___　みっつ　あります。",
+    "furigana": "この　部屋[へや]には　いす___　みっつ　あります。",
+    "romaji": "Kono heya ni wa isu ___ mittsu arimasu.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "は",
+      "も",
+      "を",
+      "が"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "Trong phòng này có ba cái ghế.",
+    "answerExplanation": "Trong mẫu câu tồn tại với あります/います, vật được nêu sự tồn tại được đánh dấu bằng 'が'. Mẫu câu: [nơi] + には + [vật] + が + [số lượng] + あります. 'は' = trợ từ chỉ chủ đề (ở đây đã có 'には' cho nơi chốn), 'も' = cũng, 'を' = trợ từ chỉ tân ngữ trực tiếp (không phù hợp với あります). Đáp án đúng là 'が'.",
+    "hint": "Với あります, vật được nêu là TỒN TẠI luôn được đánh dấu bằng trợ từ chỉ chủ ngữ",
+    "difficultyScore": 1
+  },
+  {
+    "id": "question_n5_3_018",
+    "question": "（Reading）\nたなかさんは かいしゃいんです。まいあさ 7じに おきて、8じに いえを でます。えきまで あるいて 10ぷん、でんしゃで 30ぷんです。かいしゃは 9じからです。\n\nしつもん：たなかさんは まいあさ なんじに いえを でますか。",
+    "furigana": "たなかさんは かいしゃいんです。まいあさ 7じに おきて、8じに いえを でます。えきまで あるいて 10ぷん、でんしゃで 30ぷんです。かいしゃは 9じからです。\n\nしつもん：たなかさんは まいあさ なんじに いえを でますか。",
+    "romaji": "Tanaka-san wa kaishain desu. Maiasa 7-ji ni okite, 8-ji ni ie wo demasu. Eki made aruite 10-pun, densha de 30-pun desu. Kaisha wa 9-ji kara desu.\n\nShitsumon: Tanaka-san wa maiasa nan-ji ni ie wo demasu ka.",
+    "level": "N5",
+    "category": "READING",
+    "options": [
+      "7じ",
+      "8じ",
+      "9じ",
+      "10じ"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Tanaka là nhân viên công ty. Mỗi sáng thức dậy lúc 7 giờ, ra khỏi nhà lúc 8 giờ. 10 phút đi bộ đến ga, 30 phút đi tàu. Công ty bắt đầu lúc 9 giờ.\n\nCâu hỏi: Mỗi sáng Tanaka ra khỏi nhà lúc mấy giờ?",
+    "answerExplanation": "Bài văn đề cập '8じに いえを でます' = ra khỏi nhà lúc 8 giờ. Cần phân biệt với thời gian thức dậy (7じ), thời gian công ty bắt đầu (9じ), và thời gian di chuyển (10ぷん/30ぷん). Câu hỏi hỏi về thời gian RA KHỎI NHÀ, không phải thức dậy hay đến công ty.",
+    "hint": "Chú ý sự khác biệt giữa おきる (thức dậy), いえをでる (ra khỏi nhà), và かいしゃ (công ty) — câu hỏi hỏi về việc ra khỏi nhà",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_3_019",
+    "question": "（Reading）\nきのう スーパーへ いきました。やさいと くだものと にくを かいました。やさいは 200えん、くだものは 350えん、にくは 500えんでした。\n\nしつもん：いちばん たかいものは なんですか。",
+    "furigana": "きのう スーパーへ いきました。やさいと くだものと にくを かいました。やさいは 200えん、くだものは 350えん、にくは 500えんでした。\n\nしつもん：いちばん たかいものは なんですか。",
+    "romaji": "Kinou suupaa e ikimashita. Yasai to kudamono to niku wo kaimashita. Yasai wa 200 en, kudamono wa 350 en, niku wa 500 en deshita.\n\nShitsumon: Ichiban takai mono wa nan desu ka.",
+    "level": "N5",
+    "category": "READING",
+    "options": [
+      "やさい",
+      "くだもの",
+      "にく",
+      "さかな"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Hôm qua tôi đi siêu thị. Mua rau (200 yên), trái cây (350 yên), và thịt (500 yên).\n\nCâu hỏi: Thứ nào đắt nhất?",
+    "answerExplanation": "Trong ba món đã mua: やさい = 200 yên, くだもの = 350 yên, にく = 500 yên. Đắt nhất (いちばんたかい) là にく (thịt) giá 500 yên. Từ khóa: 'いちばん' = nhất, 'たかい' = đắt/cao. 'さかな' không được đề cập trong bài văn.",
+    "hint": "いちばんたかい = đắt nhất. So sánh giá của cả ba món và chọn cao nhất",
+    "difficultyScore": 1
+  },
+  {
+    "id": "question_n5_3_020",
+    "question": "（Reading）\nやまださんの いえには ねこが 2ひき います。しろい ねこは 「ゆき」で、くろい ねこは 「くも」です。「ゆき」は そとが すきですが、「くも」は いえの なかが すきです。\n\nしつもん：いえの なかが すきな ねこは どちらですか。",
+    "furigana": "やまださんの いえには ねこが 2ひき います。しろい ねこは 「ゆき」で、くろい ねこは 「くも」です。「ゆき」は そとが すきですが、「くも」は いえの なかが すきです。\n\nしつもん：いえの なかが すきな ねこは どちらですか。",
+    "romaji": "Yamada-san no ie ni wa neko ga 2-hiki imasu. Shiroi neko wa 'Yuki' de, kuroi neko wa 'Kumo' desu. 'Yuki' wa soto ga suki desu ga, 'Kumo' wa ie no naka ga suki desu.\n\nShitsumon: Ie no naka ga suki na neko wa dochira desu ka.",
+    "level": "N5",
+    "category": "READING",
+    "options": [
+      "ゆき",
+      "くも",
+      "しろいねこ",
+      "2ひきとも"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Yamada có 2 con mèo. Con mèo trắng tên là Yuki, con mèo đen tên là Kumo. Yuki thích ở ngoài trời, Kumo thích ở trong nhà.\n\nCâu hỏi: Con mèo nào thích ở trong nhà?",
+    "answerExplanation": "Bài văn nói: 「くも」は いえのなかが すきです = Kumo thích ở trong nhà. Cần hiểu rằng Yuki (trắng) thích ngoài trời, Kumo (đen) thích trong nhà. 'しろいねこ' = mèo trắng = Yuki (thích ngoài trời, không phải trong nhà). '2ひきとも' = cả hai (sai, vì sở thích của chúng khác nhau).",
+    "hint": "Đọc kỹ ai thích 'そと (bên ngoài)' và ai thích 'なか (bên trong)' — đừng nhầm lẫn",
+    "difficultyScore": 2
+  }
+]

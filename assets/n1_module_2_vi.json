@@ -1,0 +1,382 @@
+[
+  {
+    "id": "question_n1_2_001",
+    "question": "両チームの実力は___しており、最後まで勝敗が分からなかった。",
+    "furigana": "両[りょう]チームの実力[じつりょく]は___しており、最後[さいご]まで勝敗[しょうはい]が分[わ]からなかった。",
+    "romaji": "Ryou chiimu no jitsuryoku wa ___ shite ori, saigo made shouhai ga wakaranakatta.",
+    "level": "N1",
+    "category": "VOCABULARY",
+    "options": [
+      "拮抗",
+      "均衡",
+      "対峙",
+      "葛藤"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Suc manh cua hai doi ___ nen ket qua tran dau khong biet duoc cho den cuoi cung.",
+    "answerExplanation": "「拮抗」(きっこう) co nghia la su canh tranh can bang hoac gay gat, trong do hai ben co suc manh gan nhu tuong duong. 「均衡」co nghia la su can bang noi chung, 「対峙」co nghia la doi dau, va 「葛藤」co nghia la mau thuan noi tam. Trong ngu canh tran dau ma hai doi canh tranh quyet liet, 「拮抗」la lua chon chinh xac nhat.",
+    "hint": "Tu nay mo ta hai suc manh canh tranh voi nhau mot cach can bang va quyet liet.",
+    "difficultyScore": 7
+  },
+  {
+    "id": "question_n1_2_002",
+    "question": "彼女の目に涙が浮かんだのは、___の出来事であった。",
+    "furigana": "彼女[かのじょ]の目[め]に涙[なみだ]が浮[う]かんだのは、___の出来事[できごと]であった。",
+    "romaji": "Kanojo no me ni namida ga ukanda no wa, ___ no dekigoto de atta.",
+    "level": "N1",
+    "category": "VOCABULARY",
+    "options": [
+      "瞬間",
+      "刹那",
+      "一刻",
+      "束の間"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Nuoc mat hien len trong mat co ay la su kien trong choc lat (___).",
+    "answerExplanation": "「刹那」(せつな) bat nguon tu thuat ngu triet hoc Phat giao co nghia la khoang thoi gian rat ngan, trong nhay mat. Mau '刹那の出来事' la cum tu van chuong thuong gap, con '瞬間の出来事' it duoc su dung vi 「瞬間」thuong dung nhu trang tu chi thoi gian (瞬間に) chu khong phai lam tu bo nghia cho danh tu. 「一刻」co nghia la mot chut, va 「束の間」co nghia la trong choc lat.",
+    "hint": "Tu van chuong tu thuat ngu Phat giao duoc su dung nhu tu bo nghia cho danh tu de chi su kien rat ngan ngui.",
+    "difficultyScore": 7
+  },
+  {
+    "id": "question_n1_2_003",
+    "question": "彼の___により、プロジェクトの隠れた問題点がすべて明るみに出た。",
+    "furigana": "彼[かれ]の___により、プロジェクトの隠[かく]れた問題点[もんだいてん]がすべて明[あか]るみに出[で]た。",
+    "romaji": "Kare no ___ ni yori, purojekuto no kakureta mondaiten ga subete akarumi ni deta.",
+    "level": "N1",
+    "category": "VOCABULARY",
+    "options": [
+      "洞察",
+      "慧眼",
+      "観察",
+      "直感"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Nho ___ cua anh ay, tat ca van de an giau trong du an da duoc phat hien.",
+    "answerExplanation": "「慧眼」(けいがん) co nghia la con mat sac ben hoac kha nang nhin thau ban chat su viec, tam nhin phi thuong. Trang trong va sau sac hon 「洞察」(thau hieu) va 「観察」(quan sat). 「直感」co nghia la truc giac. 「慧眼」mo ta kha nang danh gia rat sac ben va thau hieu ban chat van de.",
+    "hint": "Tu nay chua kanji 慧 (tri tue) va 眼 (mat), cho thay kha nang nhin thau qua be mat.",
+    "difficultyScore": 8
+  },
+  {
+    "id": "question_n1_2_004",
+    "question": "重要な決断を前にして、彼は何日も___を重ねていた。",
+    "furigana": "重要[じゅうよう]な決断[けつだん]を前[まえ]にして、彼[かれ]は何日[なんにち]も___を重[かさ]ねていた。",
+    "romaji": "Juuyou na ketsudan wo mae ni shite, kare wa nannichi mo ___ wo kasanete ita.",
+    "level": "N1",
+    "category": "VOCABULARY",
+    "options": [
+      "躊躇",
+      "逡巡",
+      "動揺",
+      "困惑"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Doi mat voi quyet dinh quan trong, anh ay lien tuc ___ suot nhieu ngay.",
+    "answerExplanation": "「逡巡を重ねる」(shunjun wo kasaneru) la cum tu co dinh co nghia la nhieu lan do du hoac phan van trong quyet dinh. Mau '～を重ねる' rat thuong gap voi 「逡巡」nhung khong voi 「躊躇」(thuong dung mau 躊躇する). 「動揺」co nghia la dao dong ve cam xuc, 「困惑」co nghia la boi roi.",
+    "hint": "Tu van chuong nay co cum tu co dinh voi 「重ねる」co nghia la lien tuc do du trong viec dua ra quyet dinh.",
+    "difficultyScore": 8
+  },
+  {
+    "id": "question_n1_2_005",
+    "question": "どんな困難に直面しても、彼女は___を失わなかった。",
+    "furigana": "どんな困難[こんなん]に直面[ちょくめん]しても、彼女[かのじょ]は___を失[うしな]わなかった。",
+    "romaji": "Donna konnan ni chokumen shitemo, kanojo wa ___ wo ushinawanakatta.",
+    "level": "N1",
+    "category": "VOCABULARY",
+    "options": [
+      "自尊心",
+      "矜持",
+      "体面",
+      "威厳"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Du doi mat voi bat ky kho khan nao, co ay khong danh mat ___.",
+    "answerExplanation": "「矜持」(きょうじ) co nghia la long tu trong hoac pham gia duoc giu gin voi su tu giac. Day la tu trang trong mo ta niem tu hao ve ban than mot cach dang kinh. 「自尊心」(long tu ton) pho bien hon, 「体面」co nghia la giu the dien, va 「威厳」co nghia la uy nghiem. 「矜持」nhan manh long tu trong duoc giu gin mot cach tu giac va dang kinh.",
+    "hint": "Tu trang trong nay mo ta long tu trong duoc giu gin voi su tu giac va danh du, khong chi la su kieu hanh.",
+    "difficultyScore": 8
+  },
+  {
+    "id": "question_n1_2_006",
+    "question": "「邂逅」の読み方として正しいものはどれか。",
+    "furigana": "「邂逅[かいこう]」の読[よ]み方[かた]として正[ただ]しいものはどれか。",
+    "romaji": "'Kaikou' no yomikata toshite tadashii mono wa dore ka.",
+    "level": "N1",
+    "category": "KANJI",
+    "options": [
+      "かいこう",
+      "がいごう",
+      "かいごう",
+      "がいこう"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Cach doc dung cua '邂逅' la gi?",
+    "answerExplanation": "「邂逅」duoc doc la 「かいこう」va co nghia la cuoc gap go bat ngo hoac cuoc hoi ngo khong du dinh. Day la tu van chuong thuong duoc su dung trong tieu thuyet va tho de mo ta cuoc gap go mang tinh dinh menh. Kanji 邂 va 逅 ca hai deu it duoc su dung rieng le.",
+    "hint": "Ca hai kanji nay duoc doc voi cach doc on'yomi. Kanji dau tien duoc doc la 'kai'.",
+    "difficultyScore": 7
+  },
+  {
+    "id": "question_n1_2_007",
+    "question": "「諦観」の読み方として正しいものはどれか。",
+    "furigana": "「諦観[たいかん]」の読[よ]み方[かた]として正[ただ]しいものはどれか。",
+    "romaji": "'Teikan' no yomikata toshite tadashii mono wa dore ka.",
+    "level": "N1",
+    "category": "KANJI",
+    "options": [
+      "ていかん",
+      "たいかん",
+      "ちょうかん",
+      "じょうかん"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Cach doc dung cua '諦観' la gi?",
+    "answerExplanation": "「諦観」duoc doc la 「たいかん」va co nghia la thai do chap nhan thuc tai mot cach cam chiu, hoac cai nhin da buong bo ky vong. Kanji 「諦」co cach doc 「たい」trong ngu canh nay (khong phai 「てい」), bat nguon tu y nghia 'chan ly' trong triet hoc Phat giao. 「観」duoc doc la 「かん」co nghia la cai nhin.",
+    "hint": "Kanji dau tien co cach doc dac biet khac voi tu 「諦める」(あきらめる). Hay nghi den cach doc on'yomi co hon.",
+    "difficultyScore": 8
+  },
+  {
+    "id": "question_n1_2_008",
+    "question": "「蟠り」の読み方として正しいものはどれか。",
+    "furigana": "「蟠[わだかま]り」の読[よ]み方[かた]として正[ただ]しいものはどれか。",
+    "romaji": "'Wadakamari' no yomikata toshite tadashii mono wa dore ka.",
+    "level": "N1",
+    "category": "KANJI",
+    "options": [
+      "もつれり",
+      "こだわり",
+      "わだかまり",
+      "つかえり"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Cach doc dung cua '蟠り' la gi?",
+    "answerExplanation": "「蟠り」duoc doc la 「わだかまり」va co nghia la cam giac vuong mac, oan han an giau, hoac dieu gi do van lam phien long. Kanji 「蟠」mo ta dieu gi do cuon tron va khong go duoc, nhu con ran cuon tron. Dang dong tu la 「蟠る」(わだかまる).",
+    "hint": "Tu nay mo ta cam giac cat giau trong long va khong the mat di, nhu dieu gi do cuon tron va quyen lay.",
+    "difficultyScore": 9
+  },
+  {
+    "id": "question_n1_2_009",
+    "question": "「凌駕」の読み方として正しいものはどれか。",
+    "furigana": "「凌駕[りょうが]」の読[よ]み方[かた]として正[ただ]しいものはどれか。",
+    "romaji": "'Ryouga' no yomikata toshite tadashii mono wa dore ka.",
+    "level": "N1",
+    "category": "KANJI",
+    "options": [
+      "りょうが",
+      "りんが",
+      "りょうか",
+      "れいが"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Cach doc dung cua '凌駕' la gi?",
+    "answerExplanation": "「凌駕」duoc doc la 「りょうが」va co nghia la vuot qua, vuot troi, hoac hon han dieu gi do mot cach dang ke. Kanji 「凌」(りょう) co nghia la vuot qua hoac vuot len, con 「駕」(が) co nghia la cuoi hoac leo len. Su ket hop ca hai tao thanh y nghia 'vuot xa hon'.",
+    "hint": "Kanji dau tien duoc doc voi cach doc on'yomi 'ryou', va kanji thu hai lien quan den xe co/cuoi.",
+    "difficultyScore": 7
+  },
+  {
+    "id": "question_n1_2_010",
+    "question": "「招聘」の読み方として正しいものはどれか。",
+    "furigana": "「招聘[しょうへい]」の読[よ]み方[かた]として正[ただ]しいものはどれか。",
+    "romaji": "'Shouhei' no yomikata toshite tadashii mono wa dore ka.",
+    "level": "N1",
+    "category": "KANJI",
+    "options": [
+      "しょうへい",
+      "しょうひん",
+      "しょうぺい",
+      "しゅうへい"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Cach doc dung cua '招聘' la gi?",
+    "answerExplanation": "「招聘」duoc doc la 「しょうへい」va co nghia la moi chinh thuc, dac biet trong ngu canh tuyen dung nhan tai hoac giao su tu ben ngoai. Kanji 「招」(しょう) co nghia la moi, va 「聘」(へい) co nghia la trieu moi chinh thuc. Tu nay thuong duoc su dung trong gioi hoc thuat va kinh doanh.",
+    "hint": "Kanji dau tien giong nhu trong 「招待」(shoutai/loi moi). Kanji thu hai duoc doc la 'hei'.",
+    "difficultyScore": 7
+  },
+  {
+    "id": "question_n1_2_011",
+    "question": "子供たちは泣か___ばかりの表情で、壊れたおもちゃを見つめていた。",
+    "furigana": "子供[こども]たちは泣[な]か___ばかりの表情[ひょうじょう]で、壊[こわ]れたおもちゃを見[み]つめていた。",
+    "romaji": "Kodomotachi wa naka___ bakari no hyoujou de, kowareta omocha wo mitsumete ita.",
+    "level": "N1",
+    "category": "GRAMMAR",
+    "options": [
+      "んばかり",
+      "さんばかり",
+      "んばかりに",
+      "んばかりの"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "Bon tre nhin cham cham vao mon do choi bi hong voi ve mat nhu sap khoc.",
+    "answerExplanation": "Mau 「～んばかりの」duoc dung de mo ta tinh huong 'nhu the sap lam dieu gi do'. Cau truc: dong tu the nai (bo ない) + んばかりの + danh tu. Vi o day bo nghia cho 「表情」(bieu cam), chung ta can the の. 「泣かんばかりの表情」co nghia la 'bieu cam nhu the sap khoc'. Luu y rang 泣く → 泣か (the nai bo ない) + んばかりの.",
+    "hint": "Mau cau nay can tro tu noi voi danh tu theo sau (表情).",
+    "difficultyScore": 7
+  },
+  {
+    "id": "question_n1_2_012",
+    "question": "この難題を解決できるのは、田中教授___いない。",
+    "furigana": "この難題[なんだい]を解決[かいけつ]できるのは、田中[たなか]教授[きょうじゅ]___いない。",
+    "romaji": "Kono nandai wo kaiketsu dekiru no wa, Tanaka kyouju ___ inai.",
+    "level": "N1",
+    "category": "GRAMMAR",
+    "options": [
+      "をもって",
+      "をおいて",
+      "にかけて",
+      "にあって"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Khong co ai khac ngoai Giao su Tanaka co the giai quyet van de kho nay.",
+    "answerExplanation": "Mau 「～をおいて…ない」co nghia la 'khong co ai/gi ngoai~' hoac 'chi co~moi co the'. Mau cau nay duoc dung de dien ta rang ai do hoac dieu gi do la lua chon duy nhat. 「田中教授をおいていない」co nghia la 'khong co ai ngoai Giao su Tanaka'. Mau cau nay luon duoc dung o the phu dinh.",
+    "hint": "Mau cau nay dien ta rang chi mot nguoi/dieu dap ung dieu kien, va luon di kem the phu dinh.",
+    "difficultyScore": 7
+  },
+  {
+    "id": "question_n1_2_013",
+    "question": "この繊細な味わいは、長年修業を積んだ職人___の技だ。",
+    "furigana": "この繊細[せんさい]な味[あじ]わいは、長年[ながねん]修業[しゅぎょう]を積[つ]んだ職人[しょくにん]___の技[わざ]だ。",
+    "romaji": "Kono sensai na ajiwai wa, naganen shugyou wo tsunda shokunin ___ no waza da.",
+    "level": "N1",
+    "category": "GRAMMAR",
+    "options": [
+      "ならでは",
+      "ともなると",
+      "あっての",
+      "にひきかえ"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Huong vi tinh te nay la ky nang chi co the dat duoc boi nghe nhan da luyen tap nhieu nam.",
+    "answerExplanation": "Mau 「～ならではの」co nghia la 'chi co the duoc thuc hien boi~' hoac 'dac trung cua~'. Duoc dung de khen ngoi dieu gi do doc dao va doc quyen. 「職人ならではの技」co nghia la 'ky nang chi co o nghe nhan (co kinh nghiem)'. Mau cau nay luon mang sac thai tich cuc.",
+    "hint": "Mau cau nay duoc dung de khen ngoi dieu gi do doc dao va khong the bat chuoc boi nguoi/viec khac.",
+    "difficultyScore": 6
+  },
+  {
+    "id": "question_n1_2_014",
+    "question": "今さら後悔した___、失われた時間は戻ってこない。",
+    "furigana": "今[いま]さら後悔[こうかい]した___、失[うしな]われた時間[じかん]は戻[もど]ってこない。",
+    "romaji": "Imasara koukai shita ___, ushinawareta jikan wa modotte konai.",
+    "level": "N1",
+    "category": "GRAMMAR",
+    "options": [
+      "ところで",
+      "ものなら",
+      "ばかりに",
+      "からには"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Du bay gio co hoi han, thoi gian da mat cung khong quay lai.",
+    "answerExplanation": "Mau 「～たところで」co nghia la 'tham chi neu lam~, (ket qua van khong thay doi)'. Duoc dung de dien ta rang mot hanh dong khong thay doi duoc tinh huong. 「後悔したところで」co nghia la 'tham chi neu hoi han (cung khong co ich gi)'. Mau cau nay luon di kem ket qua tieu cuc hoac khong thay doi.",
+    "hint": "Mau cau nay dien ta rang mot hanh dong la vo ich vi ket qua van khong doi. Dung the dong tu た + ...",
+    "difficultyScore": 7
+  },
+  {
+    "id": "question_n1_2_015",
+    "question": "公の場での暴言は、政治家にある___行為だ。",
+    "furigana": "公[おおやけ]の場[ば]での暴言[ぼうげん]は、政治家[せいじか]にある___行為[こうい]だ。",
+    "romaji": "Ooyake no ba de no bougen wa, seijika ni aru ___ koui da.",
+    "level": "N1",
+    "category": "GRAMMAR",
+    "options": [
+      "まじき",
+      "べからざる",
+      "ものの",
+      "かぎりの"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Loi noi tho bao o noi cong cong la hanh vi khong xung dang voi mot chinh tri gia.",
+    "answerExplanation": "Mau 「～にあるまじき」co nghia la 'khong xung dang voi~' hoac 'khong phu hop voi~'. Day la cach dien dat co (古語) van duoc dung trong ngon ngu trang trong hien dai. 「政治家にあるまじき行為」co nghia la 'hanh vi khong xung dang voi mot chinh tri gia'. 「まじき」la the rentaikei (連体形) cua 「まじ」co nghia la 'khong nen'.",
+    "hint": "Cach dien dat co dien nay dien ta rang dieu gi do 'khong nen' duoc thuc hien boi nguoi o vi tri nhat dinh.",
+    "difficultyScore": 8
+  },
+  {
+    "id": "question_n1_2_016",
+    "question": "あのセール会場に足を踏み入れた___、両手いっぱいの買い物袋を抱えることになる。",
+    "furigana": "あのセール会場[かいじょう]に足[あし]を踏[ふ]み入[い]れた___、両手[りょうて]いっぱいの買[か]い物[もの]袋[ぶくろ]を抱[かか]えることになる。",
+    "romaji": "Ano seeru kaijou ni ashi wo fumireta ___, ryoute ippai no kaimono bukuro wo kakaeru koto ni naru.",
+    "level": "N1",
+    "category": "GRAMMAR",
+    "options": [
+      "が最後",
+      "ものなら",
+      "とたんに",
+      "なり"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Mot khi buoc chan vao khu ban hang giam gia do, chac chan se om day tui mua sam o ca hai tay.",
+    "answerExplanation": "Mau 「～たが最後」co nghia la 'mot khi da lam~, thi (hau qua tieu cuc/khong the tranh khoi) chac chan xay ra'. Tuyen bo rang sau khi mot hanh dong duoc thuc hien, ket qua khong the ngan duoc. 「足を踏み入れたが最後」co nghia la 'mot khi da buoc vao, the la xong'. Mau cau nay thuong duoc su dung voi sac thai hai huoc hoac canh bao.",
+    "hint": "Mau cau nay dien ta rang sau khi mot hanh dong duoc thuc hien, khong co duong quay lai. Lien quan den tu '最後' (cuoi cung).",
+    "difficultyScore": 7
+  },
+  {
+    "id": "question_n1_2_017",
+    "question": "豊かな自然と温暖な気候___、この地域は移住先として注目されている。",
+    "furigana": "豊[ゆた]かな自然[しぜん]と温暖[おんだん]な気候[きこう]___、この地域[ちいき]は移住先[いじゅうさき]として注目[ちゅうもく]されている。",
+    "romaji": "Yutaka na shizen to ondan na kikou ___, kono chiiki wa ijuusaki toshite chuumoku sarete iru.",
+    "level": "N1",
+    "category": "GRAMMAR",
+    "options": [
+      "とあいまって",
+      "もさることながら",
+      "をものともせず",
+      "ともなると"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Ket hop voi thien nhien phong phu va khi hau am ap, vung nay duoc chu y nhu la diem den di cu.",
+    "answerExplanation": "Mau 「～と相まって」(とあいまって) co nghia la 'ket hop voi~' hoac 'cung voi~, tao ra hieu ung lon hon'. Hai yeu to hoac nhieu hon ket hop de tao ra mot ket qua. 「自然と気候と相まって」co nghia la thien nhien va khi hau bo sung cho nhau de tao ra suc hut. Mau cau nay nhan manh hieu ung cong huong.",
+    "hint": "Mau cau nay dien ta rang hai dieu hoac nhieu hon ket hop va tang cuong lan nhau de tao ra mot hieu ung.",
+    "difficultyScore": 7
+  },
+  {
+    "id": "question_n1_2_018",
+    "question": "次の文章を読んで、問いに答えなさい。\n\nデジタル技術の急速な発展により、我々はかつてないほど膨大な情報にアクセスできるようになった。インターネット上には学術論文から個人の日記に至るまで、あらゆる知識が蓄積されている。しかしながら、この情報の氾濫こそが、真の理解を妨げる最大の障壁となっているのではないだろうか。情報を大量に消費する一方で、それを深く咀嚼し、自らの思考に統合する時間は確実に失われている。我々は以前よりも多くのことを「知っている」が、以前よりも少ないことしか「理解していない」という逆説的な状況に置かれているのである。検索エンジンが即座に答えを提示してくれる便利さは、自ら思考する能力を退化させる危険性を孕んでいる。知ることと理解することの乖離は、現代社会における最も深刻な知的課題の一つと言えよう。\n\nこの文章の中心的な逆説とは何か。",
+    "furigana": "次[つぎ]の文章[ぶんしょう]を読[よ]んで、問[と]いに答[こた]えなさい。\n\nデジタル技術[ぎじゅつ]の急速[きゅうそく]な発展[はってん]により、我々[われわれ]はかつてないほど膨大[ぼうだい]な情報[じょうほう]にアクセスできるようになった。インターネット上[じょう]には学術[がくじゅつ]論文[ろんぶん]から個人[こじん]の日記[にっき]に至[いた]るまで、あらゆる知識[ちしき]が蓄積[ちくせき]されている。しかしながら、この情報[じょうほう]の氾濫[はんらん]こそが、真[しん]の理解[りかい]を妨[さまた]げる最大[さいだい]の障壁[しょうへき]となっているのではないだろうか。情報[じょうほう]を大量[たいりょう]に消費[しょうひ]する一方[いっぽう]で、それを深[ふか]く咀嚼[そしゃく]し、自[みずか]らの思考[しこう]に統合[とうごう]する時間[じかん]は確実[かくじつ]に失[うしな]われている。我々[われわれ]は以前[いぜん]よりも多[おお]くのことを「知[し]っている」が、以前[いぜん]よりも少[すく]ないことしか「理解[りかい]していない」という逆説的[ぎゃくせつてき]な状況[じょうきょう]に置[お]かれているのである。検索[けんさく]エンジンが即座[そくざ]に答[こた]えを提示[ていじ]してくれる便利[べんり]さは、自[みずか]ら思考[しこう]する能力[のうりょく]を退化[たいか]させる危険性[きけんせい]を孕[はら]んでいる。知[し]ることと理解[りかい]することの乖離[かいり]は、現代[げんだい]社会[しゃかい]における最[もっと]も深刻[しんこく]な知的[ちてき]課題[かだい]の一[ひと]つと言[い]えよう。",
+    "romaji": "Tsugi no bunshou wo yonde, toi ni kotaenasai. Dejitaru gijutsu no kyuusoku na hatten ni yori, wareware wa katsute nai hodo boudai na jouhou ni akusesu dekiru you ni natta...",
+    "level": "N1",
+    "category": "READING",
+    "options": [
+      "デジタル技術の発展が学術研究を衰退させていること",
+      "情報へのアクセスが増えたにもかかわらず、深い理解はむしろ減少していること",
+      "インターネットの普及により個人の日記が公開されるようになったこと",
+      "検索エンジンの精度が年々低下していること"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Nghich ly trung tam trong van ban nay la gi?",
+    "answerExplanation": "Nghich ly trung tam trong van ban la mac du kha nang tiep can thong tin tang manh nho cong nghe so, su hieu biet sau sac thuc ra lai giam di. Van ban dien ta 「以前よりも多くのことを『知っている』が、以前よりも少ないことしか『理解していない』」— chung ta 'biet' nhieu hon nhung 'hieu' it hon. Day la nghich ly vi dung ra nhieu thong tin hon phai tao ra su hieu biet tot hon, nhung thuc te lai nguoc lai.",
+    "hint": "Luu y cau su dung dau nhay de phan biet giua hai khai niem doi lap.",
+    "difficultyScore": 8
+  },
+  {
+    "id": "question_n1_2_019",
+    "question": "次の文章を読んで、問いに答えなさい。\n\n歌舞伎は単なる演劇形式にとどまらず、江戸時代の社会構造と価値観を映し出す鏡としての役割を果たしてきた。武士階級の忠義や名誉を描いた時代物においては、封建的秩序における個人の葛藤が巧みに表現されている。一方、世話物と呼ばれる町人社会を題材とした作品群では、義理と人情の板挟みに苦しむ庶民の姿が生々しく描かれた。注目すべきは、これらの作品が当時の支配体制を表面上は肯定しながらも、その矛盾や歪みを観客に暗示的に提示していた点である。歌舞伎の様式美は、直接的な批判が許されない時代において、社会への問いかけを芸術的に昇華させる装置として機能していたと解釈できる。現代の我々が歌舞伎を鑑賞する際、この二重構造を読み解くことが、作品の真の価値を理解する鍵となるのである。\n\n筆者の解釈として最も適切なものはどれか。",
+    "furigana": "次[つぎ]の文章[ぶんしょう]を読[よ]んで、問[と]いに答[こた]えなさい。\n\n歌舞伎[かぶき]は単[たん]なる演劇[えんげき]形式[けいしき]にとどまらず、江戸[えど]時代[じだい]の社会[しゃかい]構造[こうぞう]と価値観[かちかん]を映[うつ]し出[だ]す鏡[かがみ]としての役割[やくわり]を果[は]たしてきた。武士[ぶし]階級[かいきゅう]の忠義[ちゅうぎ]や名誉[めいよ]を描[えが]いた時代物[じだいもの]においては、封建的[ほうけんてき]秩序[ちつじょ]における個人[こじん]の葛藤[かっとう]が巧[たく]みに表現[ひょうげん]されている。一方[いっぽう]、世話物[せわもの]と呼[よ]ばれる町人[ちょうにん]社会[しゃかい]を題材[だいざい]とした作品群[さくひんぐん]では、義理[ぎり]と人情[にんじょう]の板挟[いたばさ]みに苦[くる]しむ庶民[しょみん]の姿[すがた]が生々[なまなま]しく描[えが]かれた。注目[ちゅうもく]すべきは、これらの作品[さくひん]が当時[とうじ]の支配[しはい]体制[たいせい]を表面上[ひょうめんじょう]は肯定[こうてい]しながらも、その矛盾[むじゅん]や歪[ひず]みを観客[かんきゃく]に暗示的[あんじてき]に提示[ていじ]していた点[てん]である。歌舞伎[かぶき]の様式美[ようしきび]は、直接的[ちょくせつてき]な批判[ひはん]が許[ゆる]されない時代[じだい]において、社会[しゃかい]への問[と]いかけを芸術的[げいじゅつてき]に昇華[しょうか]させる装置[そうち]として機能[きのう]していたと解釈[かいしゃく]できる。",
+    "romaji": "Tsugi no bunshou wo yonde, toi ni kotaenasai. Kabuki wa tan naru engeki keishiki ni todomarazu, Edo jidai no shakai kouzou to kachikan wo utsushidasu kagami toshite no yakuwari wo hatashite kita...",
+    "level": "N1",
+    "category": "READING",
+    "options": [
+      "歌舞伎は江戸時代の支配体制を全面的に支持する芸術であった",
+      "歌舞伎の様式美は体制への批判を芸術的に表現する手段として機能していた",
+      "世話物は時代物よりも芸術的価値が高い作品群である",
+      "現代人には歌舞伎の二重構造を理解することは不可能である"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Cach giai thich nao cua tac gia la chinh xac nhat?",
+    "answerExplanation": "Tac gia cho rang ve dep phong cach (様式美) cua kabuki co chuc nang nhu mot 'thiet bi' (装置) de thang hoa phe binh xa hoi thanh nghe thuat trong thoi dai ma phe binh truc tiep khong duoc cho phep. Van ban dien ta rang cac tac pham kabuki 「表面上は肯定しながらも、その矛盾や歪みを観客に暗示的に提示していた」— ben ngoai ung ho he thong cam quyen, nhung ngam cho thay mau thuan va su lech lac cua no cho khan gia. Day la cau truc kep (二重構造) tro thanh chia khoa de hieu.",
+    "hint": "Luu y cau giai thich moi quan he giua 've dep phong cach' cua kabuki va chuc nang cua no trong boi canh han che tu do ngon luan.",
+    "difficultyScore": 9
+  },
+  {
+    "id": "question_n1_2_020",
+    "question": "次の文章を読んで、問いに答えなさい。\n\n侘び寂びという美意識は、不完全さや儚さの中にこそ美を見出すという、西洋の古典的美学とは根本的に異なる価値体系に基づいている。茶道において意図的に用いられる不揃いな茶碗や、時の経過によって苔むした庭石に見出される美は、完璧さを追求する美学への静かな反論とも言える。興味深いことに、この数百年前の美意識が現代のデザイン思想に新たな息吹を吹き込んでいる。大量生産された均一な製品に対する疲弊感が広がる中、素材の質感を活かし、経年変化を肯定的に捉えるデザインが世界的に注目を集めている。しかしながら、侘び寂びを単に「不完全の美学」として表層的に理解することは、その本質を見誤る危険性がある。侘び寂びの根底には、万物の無常を深く受容し、その中で静かな充足を見出すという、存在論的な覚悟が横たわっているのである。商業的な文脈で「侘び寂び風」のデザインが消費されるとき、この精神的深層は往々にして捨象されてしまう。\n\nこの文章の論旨に基づいて、筆者が最も警戒していることは何か。",
+    "furigana": "次[つぎ]の文章[ぶんしょう]を読[よ]んで、問[と]いに答[こた]えなさい。\n\n侘[わ]び寂[さ]びという美意識[びいしき]は、不完全[ふかんぜん]さや儚[はかな]さの中[なか]にこそ美[び]を見出[みいだ]すという、西洋[せいよう]の古典的[こてんてき]美学[びがく]とは根本的[こんぽんてき]に異[こと]なる価値[かち]体系[たいけい]に基[もと]づいている。茶道[さどう]において意図的[いとてき]に用[もち]いられる不揃[ふぞろ]いな茶碗[ちゃわん]や、時[とき]の経過[けいか]によって苔[こけ]むした庭石[にわいし]に見出[みいだ]される美[び]は、完璧[かんぺき]さを追求[ついきゅう]する美学[びがく]への静[しず]かな反論[はんろん]とも言[い]える。",
+    "romaji": "Tsugi no bunshou wo yonde, toi ni kotaenasai. Wabi-sabi toiu biishiki wa, fukanzen-sa ya hakanasa no naka ni koso bi wo miidasu toiu, seiyou no kotenteki bigaku to wa konponteki ni kotonaru kachi taikei ni motozuite iru...",
+    "level": "N1",
+    "category": "READING",
+    "options": [
+      "西洋の美学が日本の伝統的美意識を駆逐すること",
+      "大量生産された製品が市場を支配し続けること",
+      "侘び寂びの精神的深層が商業化によって表層的に消費されること",
+      "現代のデザイナーが茶道の技術を十分に学んでいないこと"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Dua tren lap luan cua van ban nay, dieu gi tac gia lo ngai nhat?",
+    "answerExplanation": "Tac gia lo ngai nhat rang chieu sau tinh than cua wabi-sabi bi tieu thu mot cach hoi hot trong boi canh thuong mai. Van ban dien ta rang hieu wabi-sabi chi nhu la 'my hoc cua su khong hoan hao' mot cach be mat la hieu sai ban chat cua no. O nen tang cua wabi-sabi la 「存在論的な覚悟」(su san sang hien sinh) de chap nhan su vo thuong cua van vat. Nhung khi thiet ke 'phong cach wabi-sabi' bi tieu thu thuong mai, 「この精神的深層は往々にして捨象されてしまう」— chieu sau tinh than nay thuong bi loai bo.",
+    "hint": "Luu y phan cuoi van ban ban ve dieu gi xay ra khi khai niem nay di vao linh vuc thuong mai.",
+    "difficultyScore": 9
+  }
+]

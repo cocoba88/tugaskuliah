@@ -1,0 +1,382 @@
+[
+  {
+    "id": "question_n5_5_001",
+    "question": "「先週」の意味は？",
+    "furigana": "「先週[せんしゅう]」の意味[いみ]は？",
+    "romaji": "'Senshuu' no imi wa?",
+    "level": "N5",
+    "category": "VOCABULARY",
+    "options": [
+      "Next week",
+      "Last week",
+      "Every week",
+      "Two weeks ago"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "What is the meaning of '先週 (せんしゅう)'?",
+    "answerExplanation": "'先週 (senshuu)' means last week. The kanji '先' means 'before/previous' and '週' means 'week'. Compare: '来週 (raishuu)' = next week (来 = coming/will), '毎週 (maishuu)' = every week (毎 = every), '先々週 (sensenshuu)' = two weeks ago. Time pattern with 先: 先月 (sengetsu) = last month, 先年 is uncommon (use 去年 = last year).",
+    "hint": "The kanji 先 means 'before' or 'previous' — combine with 週 (week)",
+    "difficultyScore": 1
+  },
+  {
+    "id": "question_n5_5_002",
+    "question": "「日本語」の読み方は？",
+    "furigana": "「日本語」の読み方は？",
+    "romaji": "'Nihongo' no yomikata wa?",
+    "level": "N5",
+    "category": "KANJI",
+    "options": [
+      "にっぽんご",
+      "にほんこ",
+      "にほんご",
+      "にんほんご"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "How do you read '日本語'?",
+    "answerExplanation": "'日本語' is read 'にほんご (nihongo)' and means Japanese language. '日本' = にほん (Japan), '語' = ご (language). Although '日本' can be read 'にっぽん' in other contexts, the standard reading for '日本語' is 'にほんご'. 'にほんこ' is wrong because 語 is read 'ご' (voiced sound), not 'こ'. 'にんほんご' has an extra ん.",
+    "hint": "The last kanji 語 means 'language' and is always read with a voiced sound — not こ",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_5_003",
+    "question": "日本語を　少し　___。",
+    "furigana": "日本語[にほんご]を　少[すこ]し　___。",
+    "romaji": "Nihongo wo sukoshi ___.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "話す",
+      "話し",
+      "話して",
+      "話します"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "I speak a little Japanese.",
+    "answerExplanation": "This is a standalone statement that requires the polite form at the end → '話します (hanashimasu)'. In polite/formal conversation, sentences always end with ～ます/～ました. '話す' = dictionary form (casual, not polite), '話し' = masu-stem without ending (incomplete as sentence end), '話して' = te-form (for connecting sentences or requests, not for ending).",
+    "hint": "A polite standalone sentence MUST end with the ～ます form",
+    "difficultyScore": 1
+  },
+  {
+    "id": "question_n5_5_004",
+    "question": "（Reading）\nわたしは まいにち 7じに おきます。あさごはんは パンと たまごを たべます。ときどき コーヒーも のみます。でも きょうは じかんが ありませんでしたから、あさごはんを たべませんでした。\n\nしつもん：きょう、あさごはんを たべましたか。",
+    "furigana": "わたしは まいにち 7じに おきます。あさごはんは パンと たまごを たべます。ときどき コーヒーも のみます。でも きょうは じかんが ありませんでしたから、あさごはんを たべませんでした。\n\nしつもん：きょう、あさごはんを たべましたか。",
+    "romaji": "Watashi wa mainichi 7-ji ni okimasu. Asagohan wa pan to tamago o tabemasu. Tokidoki koohii mo nomimasu. Demo kyou wa jikan ga arimasen deshita kara, asagohan o tabemasen deshita.\n\nShitsumon: Kyou, asagohan o tabemashita ka.",
+    "level": "N5",
+    "category": "READING",
+    "options": [
+      "はい、パンを たべました",
+      "はい、たまごを たべました",
+      "いいえ、たべませんでした",
+      "はい、コーヒーを のみました"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "I wake up at 7 every day. For breakfast I eat bread and eggs. Sometimes I also drink coffee. But today I had no time, so I didn't have breakfast.\n\nQuestion: Did you have breakfast today?",
+    "answerExplanation": "Key: 'でも きょうは じかんが ありませんでしたから、あさごはんを たべませんでした' = but today because there was no time, didn't eat breakfast. The word 'でも (demo = but)' signals contrast with daily habits. Although usually eating bread and eggs, TODAY they didn't eat. Answer: いいえ、たべませんでした.",
+    "hint": "Notice the word 'でも' (but) that signals a change from habit — what happened TODAY?",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_5_005",
+    "question": "「消す」の意味は？",
+    "furigana": "「消[け]す」の意味[いみ]は？",
+    "romaji": "'Kesu' no imi wa?",
+    "level": "N5",
+    "category": "VOCABULARY",
+    "options": [
+      "To turn on",
+      "To turn off",
+      "To open",
+      "To close"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "What is the meaning of '消す (けす)'?",
+    "answerExplanation": "'消す (kesu)' means to turn off, extinguish, or erase — the action of making something stop shining/existing. Examples: 電気を消す = turn off the light, テレビを消す = turn off the TV. Its opposite: 'つける' = to turn on. '開ける (akeru)' = to open, '閉める (shimeru)' = to close — a different antonym pair.",
+    "hint": "What do you do to the light or TV when you're about to sleep?",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_5_006",
+    "question": "「外国」の読み方は？",
+    "furigana": "「外国」の読み方は？",
+    "romaji": "'Gaikoku' no yomikata wa?",
+    "level": "N5",
+    "category": "KANJI",
+    "options": [
+      "がいくに",
+      "そとくに",
+      "がいごく",
+      "がいこく"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "How do you read '外国'?",
+    "answerExplanation": "'外国' is read 'がいこく (gaikoku)' and means foreign country/abroad. '外' = がい (outside, on-yomi), '国' = こく (country, on-yomi). Both kanji use on-yomi. 'がいごく' is wrong — 国 does not undergo rendaku here. 'そとくに' and 'がいくに' improperly mix on-yomi and kun-yomi.",
+    "hint": "Both kanji are read with on-yomi — 外 = がい, 国 = こく (no rendaku)",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_5_007",
+    "question": "コーヒー___　飲みません。",
+    "furigana": "コーヒー___　飲[の]みません。",
+    "romaji": "Koohii ___ nomimasen.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "に",
+      "で",
+      "が",
+      "は"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "As for coffee, I don't drink it.",
+    "answerExplanation": "In negative sentences expressing contrast or emphasis, the particle 'は' often replaces 'を' to give the nuance 'as for coffee, I DON'T drink it (but maybe other drinks yes)'. Pattern: ～は ～ません = regarding ~, don't do. 'に' = destination/time, 'で' = place/tool, 'が' = subject marker or ability. In this contrastive negative context, 'は' is most appropriate.",
+    "hint": "In NEGATIVE sentences, this particle often replaces を to give a nuance of contrast or emphasis",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n5_5_008",
+    "question": "「開ける」の意味は？",
+    "furigana": "「開[あ]ける」の意味[いみ]は？",
+    "romaji": "'Akeru' no imi wa?",
+    "level": "N5",
+    "category": "VOCABULARY",
+    "options": [
+      "To close",
+      "To turn off",
+      "To open",
+      "To turn on"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "What is the meaning of '開ける (あける)'?",
+    "answerExplanation": "'開ける (akeru)' means to open — the action of making something closed become open. Examples: ドアを開ける = open the door, 窓を開ける = open the window. Its opposite: '閉める (shimeru)' = to close. '消す (kesu)' = to turn off, 'つける' = to turn on — a different antonym pair (for lights/TV).",
+    "hint": "The action done to a door, window, or box so you can see what's inside",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_5_009",
+    "question": "「日曜日」の読み方は？",
+    "furigana": "「日曜日」の読み方は？",
+    "romaji": "'Nichiyoubi' no yomikata wa?",
+    "level": "N5",
+    "category": "KANJI",
+    "options": [
+      "にちようび",
+      "ひようび",
+      "じつようび",
+      "にちよび"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "How do you read '日曜日'?",
+    "answerExplanation": "'日曜日' is read 'にちようび (nichiyoubi)' and means Sunday. '日' = にち (on-yomi), '曜' = よう, '日' = び. The first kanji 日 is read 'にち' not 'ひ' (kun-yomi) or 'じつ' (alternate on-yomi that's wrong here). Also not 'にちよび' — there must be the long sound よう not よ.",
+    "hint": "The first kanji 日 is read with the most common on-yomi — also note the long sound よう in the middle",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_5_010",
+    "question": "たくさん　本を　___ください。",
+    "furigana": "たくさん　本[ほん]を　___ください。",
+    "romaji": "Takusan hon o ___ kudasai.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "読み",
+      "読んで",
+      "読みます",
+      "読んでも"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Please read a lot of books.",
+    "answerExplanation": "The polite request pattern: Te-form verb + ください = please ~. 読む (yomu) → te-form = 読んで (yonde) + ください = please read. '読み' = masu-stem only (incomplete before ください), '読みます' = polite form that cannot be used before ください, '読んでも' = even if reading (permission/concession nuance: 読んでもいいです = may read).",
+    "hint": "Before ください always use the て-form — 読む → 読んで",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_5_011",
+    "question": "「渡す」の意味は？",
+    "furigana": "「渡[わた]す」の意味[いみ]は？",
+    "romaji": "'Watasu' no imi wa?",
+    "level": "N5",
+    "category": "VOCABULARY",
+    "options": [
+      "To receive",
+      "To cross",
+      "To take",
+      "To hand over"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "What is the meaning of '渡す (わたす)'?",
+    "answerExplanation": "'渡す (watasu)' means to hand over or give directly into someone's hands. CAUTION: don't confuse with '渡る (wataru)' = to cross (a road/river) — same kanji but different ending! '受け取る (uketoru)' = to receive, '取る (toru)' = to take. Example: 先生にレポートを渡す = to hand over a report to the teacher.",
+    "hint": "The action of giving something from hand to hand — NOT crossing (that's 渡る)",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_5_012",
+    "question": "「右」の読み方は？",
+    "furigana": "「右」の読み方は？",
+    "romaji": "'Migi' no yomikata wa?",
+    "level": "N5",
+    "category": "KANJI",
+    "options": [
+      "ひだり",
+      "まえ",
+      "うしろ",
+      "みぎ"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "How do you read '右'?",
+    "answerExplanation": "'右' is read 'みぎ (migi)' and means right. Its opposite is '左 (ひだり/hidari)' = left. All options are direction/position words: 'ひだり' = left (左), 'まえ' = front (前), 'うしろ' = behind (後ろ). Memory tip: the kanji 右 consists of ナ (katakana na) + 口 (mouth).",
+    "hint": "The opposite of '左 (ひだり)' = left",
+    "difficultyScore": 1
+  },
+  {
+    "id": "question_n5_5_013",
+    "question": "これは　私___　傘です。",
+    "furigana": "これは　私[わたし]___　傘[かさ]です。",
+    "romaji": "Kore wa watashi ___ kasa desu.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "と",
+      "の",
+      "で",
+      "を"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "This is my umbrella.",
+    "answerExplanation": "The particle 'の' indicates possession or relationship between nouns. 'わたしの かさ' = my umbrella. Pattern: [Owner] + の + [Thing]. 'と' = and/together, 'で' = with (tool)/at (place of activity), 'を' = direct object. Other examples: 日本の食べ物 = Japanese food, 友だちのかばん = friend's bag.",
+    "hint": "The particle that indicates POSSESSION — connecting the owner with the owned item",
+    "difficultyScore": 1
+  },
+  {
+    "id": "question_n5_5_014",
+    "question": "（Reading）\nやまださんは スポーツが すきです。でも、サッカーは あまり すきじゃ ありません。テニスと バスケットボールが いちばん すきです。まいしゅう どようびに ともだちと テニスを します。\n\nしつもん：やまださんは まいしゅう なにを しますか。",
+    "furigana": "やまださんは スポーツが 好[す]きです。でも、サッカーは あまり 好[す]きじゃ ありません。テニスと バスケットボールが 一番[いちばん] 好[す]きです。毎週[まいしゅう] 土曜日[どようび]に 友達[ともだち]と テニスを します。\n\nしつもん：やまださんは 毎週[まいしゅう] なにを しますか。",
+    "romaji": "Yamada-san wa supootsu ga suki desu. Demo, sakkaa wa amari suki ja arimasen. Tenisu to basukettbooru ga ichiban suki desu. Maishuu doyoubi ni tomodachi to tenisu o shimasu.\n\nShitsumon: Yamada-san wa maishuu nani o shimasu ka.",
+    "level": "N5",
+    "category": "READING",
+    "options": [
+      "サッカーを します",
+      "バスケットボールを します",
+      "テニスを します",
+      "すいえいを します"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Yamada likes sports. But he doesn't really like soccer. He likes tennis and basketball the most. Every Saturday he plays tennis with friends.\n\nQuestion: What does Yamada do every week?",
+    "answerExplanation": "The text says: 'まいしゅう どようびに ともだちと テニスを します' = every Saturday plays tennis with friends. The question asks about REGULAR weekly activity, not favorite sports. Although basketball is also a favorite, what is explicitly done every week is tennis. サッカー is not liked, すいえい (swimming) is not mentioned.",
+    "hint": "The question asks about REGULAR weekly activity — find the sentence with 'まいしゅう' in the text",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_5_015",
+    "question": "「遅い」の意味は？",
+    "furigana": "「遅[おそ]い」の意味[いみ]は？",
+    "romaji": "'Osoi' no imi wa?",
+    "level": "N5",
+    "category": "VOCABULARY",
+    "options": [
+      "Slow / Late",
+      "Fast",
+      "Early",
+      "Near"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "What is the meaning of '遅い (おそい)'?",
+    "answerExplanation": "'遅い (osoi)' has two meanings: slow (low speed) AND late (arriving past the scheduled time). Its opposites: '速い (hayai)' = fast and '早い (hayai)' = early/morning. Although both opposites sound the same (hayai), the kanji are different! Examples: この電車は遅い = this train is slow, 学校に遅い = late for school.",
+    "hint": "This adjective has two nuances: LOW speed or arriving past the scheduled TIME",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_5_016",
+    "question": "「金曜日」の読み方は？",
+    "furigana": "「金曜日」の読み方は？",
+    "romaji": "'Kinyoubi' no yomikata wa?",
+    "level": "N5",
+    "category": "KANJI",
+    "options": [
+      "きんよび",
+      "ぎんようび",
+      "きんようび",
+      "きんようひ"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "How do you read '金曜日'?",
+    "answerExplanation": "'金曜日' is read 'きんようび (kinyoubi)' and means Friday. '金' = きん (gold/metal, on-yomi), '曜' = よう, '日' = び. Common mistakes: 'ぎんようび' is wrong because 金 is read きん not ぎん (銀 = silver is read ぎん), 'きんよび' is missing the long vowel う, 'きんようひ' is wrong because 日 at the end of day names is read び not ひ.",
+    "hint": "The kanji 金 here means gold/metal and is read きん — don't confuse with 銀 (ぎん = silver)",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_5_017",
+    "question": "あの　レストランは　おいしい___、やすいです。",
+    "furigana": "あの　レストランは　おいしい___、やすいです。",
+    "romaji": "Ano resutoran wa oishii ___, yasui desu.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "で",
+      "し",
+      "くて",
+      "から"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "That restaurant is delicious and cheap.",
+    "answerExplanation": "To connect two i-adjectives (delicious AND cheap), use the te-form: remove い then add くて. おいしい → おいしくて + やすいです = delicious AND cheap. 'で' = te-form for na-adjectives (not -i), 'し' = listing reasons (more natural at N4), 'から' = because (cause-effect). Compare with batch 1 question #020: きれいで (na-adjective + で).",
+    "hint": "Connecting two i-adjectives: remove い then add the appropriate connector",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_5_018",
+    "question": "「閉める」の意味は？",
+    "furigana": "「閉[し]める」の意味[いみ]は？",
+    "romaji": "'Shimeru' no imi wa?",
+    "level": "N5",
+    "category": "VOCABULARY",
+    "options": [
+      "To open",
+      "To close",
+      "To turn off",
+      "To turn on"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "What is the meaning of '閉める (しめる)'?",
+    "answerExplanation": "'閉める (shimeru)' means to close — the action of making something open become closed. Examples: ドアを閉める = close the door, 窓を閉める = close the window. Its opposite: '開ける (akeru)' = to open. '消す (kesu)' = to turn off (for lights/TV), 'つける' = to turn on — a different antonym pair.",
+    "hint": "The opposite of '開ける (あける)' = to open. The action done to a door or window to make it not open",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_5_019",
+    "question": "「食堂」の読み方は？",
+    "furigana": "「食堂」の読み方は？",
+    "romaji": "'Shokudou' no yomikata wa?",
+    "level": "N5",
+    "category": "KANJI",
+    "options": [
+      "しょくどう",
+      "しょくとう",
+      "たべどう",
+      "しょくどの"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "How do you read '食堂'?",
+    "answerExplanation": "'食堂' is read 'しょくどう (shokudou)' and means cafeteria or dining room. '食' = しょく (eating, on-yomi), '堂' = どう (hall/room). Both kanji use on-yomi. 'しょくとう' is wrong because 堂 = どう not とう, 'たべどう' mixes kun-yomi (食べる) + wrong on-yomi, 'しょくどの' adds a non-existent の ending.",
+    "hint": "An eating place at school or office — both kanji are read with on-yomi: 食 = しょく, 堂 = どう",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_5_020",
+    "question": "映画館___　映画を　見ました。",
+    "furigana": "映画館[えいがかん]___　映画[えいが]を　見[み]ました。",
+    "romaji": "Eigakan ___ eiga o mimashita.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "に",
+      "へ",
+      "を",
+      "で"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "I watched a movie at the cinema.",
+    "answerExplanation": "The particle 'で' indicates the place where an activity is performed. Watching a movie is an activity → 映画館で見ました = watched AT the cinema. 'に' = static existence location (あります/います) or destination, 'へ' = direction of movement only, 'を' = already used for the object 映画を. Remember the difference: に = place of BEING, で = place of DOING.",
+    "hint": "Watching a movie = ACTIVITY → the particle for the place of doing an activity",
+    "difficultyScore": 1
+  }
+]

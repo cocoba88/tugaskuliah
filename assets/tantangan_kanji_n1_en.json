@@ -1,0 +1,589 @@
+{
+  "id": "kanji_n1_challenge",
+  "title": "Kanji N1 Challenge",
+  "timer": 15,
+  "description": "Arrange the Onyomi or Kunyomi reading of the displayed kanji!",
+  "totalQuestions": 30,
+  "questions": [
+    {
+      "id": 1,
+      "hiragana": "丁",
+      "meaning": "Block / Page",
+      "readingType": "onyomi",
+      "answerParts": [
+        "chou"
+      ],
+      "distractors": [
+        "tan",
+        "ji",
+        "ken",
+        "sou",
+        "rin",
+        "bou",
+        "tei"
+      ]
+    },
+    {
+      "id": 2,
+      "hiragana": "乏",
+      "meaning": "Poor / Lacking",
+      "readingType": "kunyomi",
+      "answerParts": [
+        "to",
+        "bo",
+        "shi",
+        "i"
+      ],
+      "distractors": [
+        "ka",
+        "mi",
+        "su",
+        "ra",
+        "na",
+        "ku",
+        "te"
+      ]
+    },
+    {
+      "id": 3,
+      "hiragana": "乙",
+      "meaning": "Second / Unique",
+      "readingType": "onyomi",
+      "answerParts": [
+        "o",
+        "tsu"
+      ],
+      "distractors": [
+        "ka",
+        "mi",
+        "ri",
+        "na",
+        "mo",
+        "te",
+        "shi"
+      ]
+    },
+    {
+      "id": 4,
+      "hiragana": "伺",
+      "meaning": "To Ask / Visit (polite)",
+      "readingType": "kunyomi",
+      "answerParts": [
+        "u",
+        "ka",
+        "ga",
+        "u"
+      ],
+      "distractors": [
+        "ji",
+        "shi",
+        "ro",
+        "be",
+        "to",
+        "mi",
+        "no"
+      ]
+    },
+    {
+      "id": 5,
+      "hiragana": "侍",
+      "meaning": "Samurai / Attendant",
+      "readingType": "kunyomi",
+      "answerParts": [
+        "sa",
+        "mu",
+        "ra",
+        "i"
+      ],
+      "distractors": [
+        "ji",
+        "ko",
+        "te",
+        "no",
+        "bu",
+        "ri",
+        "yo"
+      ]
+    },
+    {
+      "id": 6,
+      "hiragana": "倫",
+      "meaning": "Ethics / Morals",
+      "readingType": "onyomi",
+      "answerParts": [
+        "rin"
+      ],
+      "distractors": [
+        "tan",
+        "sou",
+        "ken",
+        "bou",
+        "ji",
+        "chou",
+        "kan"
+      ]
+    },
+    {
+      "id": 7,
+      "hiragana": "偉",
+      "meaning": "Fake / Imitation",
+      "readingType": "kunyomi",
+      "answerParts": [
+        "ni",
+        "se"
+      ],
+      "distractors": [
+        "ka",
+        "gi",
+        "su",
+        "mo",
+        "te",
+        "ra",
+        "ko"
+      ]
+    },
+    {
+      "id": 8,
+      "hiragana": "傑",
+      "meaning": "Outstanding / Remarkable",
+      "readingType": "onyomi",
+      "answerParts": [
+        "ke",
+        "tsu"
+      ],
+      "distractors": [
+        "sou",
+        "rin",
+        "ji",
+        "bou",
+        "tan",
+        "kan",
+        "sho"
+      ]
+    },
+    {
+      "id": 9,
+      "hiragana": "兼",
+      "meaning": "To Double / Simultaneously",
+      "readingType": "onyomi",
+      "answerParts": [
+        "ke",
+        "n"
+      ],
+      "distractors": [
+        "tan",
+        "sou",
+        "ji",
+        "bou",
+        "rin",
+        "chou",
+        "shi"
+      ]
+    },
+    {
+      "id": 10,
+      "hiragana": "冠",
+      "meaning": "Crown",
+      "readingType": "kunyomi",
+      "answerParts": [
+        "kan",
+        "mu",
+        "ri"
+      ],
+      "distractors": [
+        "sa",
+        "ko",
+        "te",
+        "no",
+        "bu",
+        "ji",
+        "yo"
+      ]
+    },
+    {
+      "id": 11,
+      "hiragana": "凝",
+      "meaning": "To Freeze / Concentrate",
+      "readingType": "onyomi",
+      "answerParts": [
+        "gyou"
+      ],
+      "distractors": [
+        "tan",
+        "sou",
+        "ken",
+        "bou",
+        "rin",
+        "chou",
+        "shi"
+      ]
+    },
+    {
+      "id": 12,
+      "hiragana": "剣",
+      "meaning": "Sword",
+      "readingType": "kunyomi",
+      "answerParts": [
+        "tsu",
+        "ru",
+        "gi"
+      ],
+      "distractors": [
+        "ka",
+        "mi",
+        "no",
+        "sa",
+        "be",
+        "ko",
+        "ra"
+      ]
+    },
+    {
+      "id": 13,
+      "hiragana": "匠",
+      "meaning": "Craftsman / Expert",
+      "readingType": "kunyomi",
+      "answerParts": [
+        "ta",
+        "ku",
+        "mi"
+      ],
+      "distractors": [
+        "ji",
+        "sa",
+        "ko",
+        "no",
+        "be",
+        "ri",
+        "yo"
+      ]
+    },
+    {
+      "id": 14,
+      "hiragana": "叫",
+      "meaning": "To Shout / Scream",
+      "readingType": "kunyomi",
+      "answerParts": [
+        "sa",
+        "ke",
+        "bu"
+      ],
+      "distractors": [
+        "mi",
+        "no",
+        "te",
+        "ji",
+        "ka",
+        "ro",
+        "yo"
+      ]
+    },
+    {
+      "id": 15,
+      "hiragana": "嘆",
+      "meaning": "To Lament / Complain",
+      "readingType": "onyomi",
+      "answerParts": [
+        "ta",
+        "n"
+      ],
+      "distractors": [
+        "sou",
+        "rin",
+        "ji",
+        "bou",
+        "ken",
+        "chou",
+        "shi"
+      ]
+    },
+    {
+      "id": 16,
+      "hiragana": "墅",
+      "meaning": "Ink / Soot",
+      "readingType": "kunyomi",
+      "answerParts": [
+        "su",
+        "mi"
+      ],
+      "distractors": [
+        "ka",
+        "ji",
+        "no",
+        "te",
+        "be",
+        "ko",
+        "ra"
+      ]
+    },
+    {
+      "id": 17,
+      "hiragana": "奉",
+      "meaning": "To Serve / Offer",
+      "readingType": "onyomi",
+      "answerParts": [
+        "ho",
+        "u"
+      ],
+      "distractors": [
+        "tan",
+        "sou",
+        "ken",
+        "bou",
+        "rin",
+        "ji",
+        "shi"
+      ]
+    },
+    {
+      "id": 18,
+      "hiragana": "妍",
+      "meaning": "Empress / Princess",
+      "readingType": "onyomi",
+      "answerParts": [
+        "hi"
+      ],
+      "distractors": [
+        "tan",
+        "sou",
+        "ken",
+        "bou",
+        "rin",
+        "chou",
+        "shi"
+      ]
+    },
+    {
+      "id": 19,
+      "hiragana": "寂",
+      "meaning": "Lonely / Quiet",
+      "readingType": "kunyomi",
+      "answerParts": [
+        "sa",
+        "bi"
+      ],
+      "distractors": [
+        "ka",
+        "mi",
+        "no",
+        "te",
+        "ji",
+        "ko",
+        "ra"
+      ]
+    },
+    {
+      "id": 20,
+      "hiragana": "尼",
+      "meaning": "Nun",
+      "readingType": "kunyomi",
+      "answerParts": [
+        "a",
+        "ma"
+      ],
+      "distractors": [
+        "ka",
+        "mi",
+        "su",
+        "no",
+        "te",
+        "ji",
+        "ro"
+      ]
+    },
+    {
+      "id": 21,
+      "hiragana": "崇",
+      "meaning": "To Worship / Revere",
+      "readingType": "onyomi",
+      "answerParts": [
+        "su",
+        "u"
+      ],
+      "distractors": [
+        "tan",
+        "rin",
+        "ji",
+        "bou",
+        "ken",
+        "chou",
+        "shi"
+      ]
+    },
+    {
+      "id": 22,
+      "hiragana": "帝",
+      "meaning": "Emperor / King",
+      "readingType": "onyomi",
+      "answerParts": [
+        "te",
+        "i"
+      ],
+      "distractors": [
+        "tan",
+        "sou",
+        "ken",
+        "bou",
+        "rin",
+        "chou",
+        "shi"
+      ]
+    },
+    {
+      "id": 23,
+      "hiragana": "弔",
+      "meaning": "To Mourn / Condole",
+      "readingType": "kunyomi",
+      "answerParts": [
+        "to",
+        "mu",
+        "ra",
+        "u"
+      ],
+      "distractors": [
+        "ka",
+        "mi",
+        "su",
+        "ji",
+        "be",
+        "ko",
+        "na"
+      ]
+    },
+    {
+      "id": 24,
+      "hiragana": "弦",
+      "meaning": "String / Chord",
+      "readingType": "kunyomi",
+      "answerParts": [
+        "tsu",
+        "ru"
+      ],
+      "distractors": [
+        "ka",
+        "mi",
+        "su",
+        "no",
+        "te",
+        "ji",
+        "ko"
+      ]
+    },
+    {
+      "id": 25,
+      "hiragana": "悔",
+      "meaning": "To Regret / Disappointed",
+      "readingType": "kunyomi",
+      "answerParts": [
+        "ku",
+        "ya",
+        "mu"
+      ],
+      "distractors": [
+        "sa",
+        "ji",
+        "no",
+        "te",
+        "be",
+        "ko",
+        "ra"
+      ]
+    },
+    {
+      "id": 26,
+      "hiragana": "慈",
+      "meaning": "Compassion / Mercy",
+      "readingType": "onyomi",
+      "answerParts": [
+        "ji"
+      ],
+      "distractors": [
+        "tan",
+        "sou",
+        "ken",
+        "bou",
+        "rin",
+        "chou",
+        "shi"
+      ]
+    },
+    {
+      "id": 27,
+      "hiragana": "憎",
+      "meaning": "Hatred / To Hate",
+      "readingType": "kunyomi",
+      "answerParts": [
+        "ni",
+        "ku",
+        "mu"
+      ],
+      "distractors": [
+        "sa",
+        "ji",
+        "te",
+        "be",
+        "ko",
+        "ra",
+        "yo"
+      ]
+    },
+    {
+      "id": 28,
+      "hiragana": "戒",
+      "meaning": "To Warn / Discipline",
+      "readingType": "onyomi",
+      "answerParts": [
+        "ka",
+        "i"
+      ],
+      "distractors": [
+        "tan",
+        "sou",
+        "ken",
+        "bou",
+        "rin",
+        "chou",
+        "shi"
+      ]
+    },
+    {
+      "id": 29,
+      "hiragana": "抑",
+      "meaning": "To Restrain / Suppress",
+      "readingType": "onyomi",
+      "answerParts": [
+        "yo",
+        "ku"
+      ],
+      "distractors": [
+        "tan",
+        "sou",
+        "ken",
+        "bou",
+        "rin",
+        "chou",
+        "ji"
+      ]
+    },
+    {
+      "id": 30,
+      "hiragana": "挑",
+      "meaning": "To Challenge / Dare",
+      "readingType": "kunyomi",
+      "answerParts": [
+        "i",
+        "do",
+        "mu"
+      ],
+      "distractors": [
+        "ka",
+        "sa",
+        "te",
+        "ji",
+        "no",
+        "ra",
+        "be"
+      ]
+    }
+  ]
+}

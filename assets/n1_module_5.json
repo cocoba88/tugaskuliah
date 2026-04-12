@@ -1,0 +1,382 @@
+[
+  {
+    "id": "question_n1_5_001",
+    "question": "「対峙」の意味として最も適切なものはどれか。",
+    "furigana": "「対峙[たいじ]」の意味[いみ]として最[もっと]も適切[てきせつ]なものはどれか。",
+    "romaji": "'Taiji' no imi toshite mottomo tekisetsu na mono wa dore ka.",
+    "level": "N1",
+    "category": "VOCABULARY",
+    "options": [
+      "互いに協力すること",
+      "向かい合ってにらみ合うこと",
+      "遠くから見守ること",
+      "相手に譲歩すること"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Manakah arti yang paling tepat untuk '対峙'?",
+    "answerExplanation": "「対峙」(たいじ) berarti saling berhadapan dalam posisi tegang atau konfrontasi. Kanji 峙 mengandung makna 'berdiri tegak berhadapan'. Biasanya digunakan dalam konteks dua kekuatan yang saling berhadapan tanpa mundur.",
+    "hint": "Bayangkan dua gunung yang berdiri berhadapan satu sama lain.",
+    "difficultyScore": 8
+  },
+  {
+    "id": "question_n1_5_002",
+    "question": "「形骸化」を使った文として正しいものはどれか。",
+    "furigana": "「形骸化[けいがいか]」を使[つか]った文[ぶん]として正[ただ]しいものはどれか。",
+    "romaji": "'Keigaika' o tsukatta bun toshite tadashii mono wa dore ka.",
+    "level": "N1",
+    "category": "VOCABULARY",
+    "options": [
+      "新しい制度が形骸化して、ますます効果的になった。",
+      "長年の慣習が形骸化し、本来の目的を失ってしまった。",
+      "彼の意見が形骸化して、皆に受け入れられた。",
+      "組織の改革が形骸化し、新たな発展を遂げた。"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Manakah kalimat yang menggunakan '形骸化' dengan benar?",
+    "answerExplanation": "「形骸化」(けいがいか) berarti sesuatu yang hanya tinggal bentuknya saja tanpa substansi, menjadi formalitas belaka. Pilihan B benar karena 'kebiasaan lama yang sudah menjadi formalitas belaka dan kehilangan tujuan aslinya' sesuai dengan makna negatif dari kata ini.",
+    "hint": "Kata ini bermakna negatif: hanya tersisa cangkang luarnya saja.",
+    "difficultyScore": 8
+  },
+  {
+    "id": "question_n1_5_003",
+    "question": "「上司の前で失態を演じ、___たる思いだった。」に入る言葉は？",
+    "furigana": "「上司[じょうし]の前[まえ]で失態[しったい]を演[えん]じ、___たる思[おも]いだった。」に入[はい]る言葉[ことば]は？",
+    "romaji": "'Joushi no mae de shittai o enji, ___taru omoi datta.' ni hairu kotoba wa?",
+    "level": "N1",
+    "category": "VOCABULARY",
+    "options": [
+      "忸怩",
+      "漸進",
+      "峻別",
+      "対峙"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Kata apa yang tepat untuk mengisi bagian kosong dalam kalimat 'Di depan atasan melakukan kesalahan memalukan, merasa ___'?",
+    "answerExplanation": "「忸怩」(じくじ) adalah kata sastra yang berarti perasaan malu yang mendalam. Ungkapan 「忸怩たる思い」adalah kolokasi tetap yang berarti 'perasaan malu yang sangat mendalam'. Konteks kalimat ini tentang rasa malu karena melakukan kesalahan di depan atasan.",
+    "hint": "Kata ini menggambarkan rasa malu yang mendalam, sering digunakan dalam ekspresi '〜たる思い'.",
+    "difficultyScore": 9
+  },
+  {
+    "id": "question_n1_5_004",
+    "question": "「峻別」の意味は？",
+    "furigana": "「峻別[しゅんべつ]」の意味[いみ]は？",
+    "romaji": "'Shunbetsu' no imi wa?",
+    "level": "N1",
+    "category": "VOCABULARY",
+    "options": [
+      "おおまかに分類すること",
+      "厳密に区別すること",
+      "順番に並べること",
+      "混同すること"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Apa arti '峻別'?",
+    "answerExplanation": "「峻別」(しゅんべつ) berarti membedakan secara tegas dan ketat. Kanji 峻 memiliki makna 'tajam/tegas', sehingga 峻別 menekankan pembedaan yang sangat jelas tanpa keraguan. Sering digunakan dalam konteks akademis atau hukum.",
+    "hint": "Kanji pertama berarti 'tajam/tegas', kanji kedua berarti 'membedakan'.",
+    "difficultyScore": 8
+  },
+  {
+    "id": "question_n1_5_005",
+    "question": "「改革は___的に進めるべきであり、急激な変化は混乱を招く。」に入る言葉は？",
+    "furigana": "「改革[かいかく]は___的[てき]に進[すす]めるべきであり、急激[きゅうげき]な変化[へんか]は混乱[こんらん]を招[まね]く。」に入[はい]る言葉[ことば]は？",
+    "romaji": "'Kaikaku wa ___teki ni susumeru beki de ari, kyuugeki na henka wa konran o maneku.' ni hairu kotoba wa?",
+    "level": "N1",
+    "category": "VOCABULARY",
+    "options": [
+      "形骸",
+      "峻別",
+      "漸進",
+      "対峙"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Kata apa yang tepat untuk mengisi bagian kosong: 'Reformasi harus dijalankan secara ___, perubahan mendadak akan menimbulkan kekacauan.'?",
+    "answerExplanation": "「漸進」(ぜんしん) berarti kemajuan secara bertahap, sedikit demi sedikit. Dalam konteks kalimat ini, reformasi harus dilakukan secara bertahap (漸進的に) karena perubahan mendadak akan menimbulkan kekacauan. Ini kontras dengan pendekatan radikal.",
+    "hint": "Lawan dari perubahan mendadak/drastis.",
+    "difficultyScore": 7
+  },
+  {
+    "id": "question_n1_5_006",
+    "question": "「慟哭」の読み方は？",
+    "furigana": "「慟哭[どうこく]」の読[よ]み方[かた]は？",
+    "romaji": "'Doukoku' no yomikata wa?",
+    "level": "N1",
+    "category": "KANJI",
+    "options": [
+      "どうこく",
+      "とうこく",
+      "どうきゅう",
+      "つうこく"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Bagaimana cara membaca '慟哭'?",
+    "answerExplanation": "「慟哭」dibaca 'どうこく' (doukoku) yang berarti menangis meraung-raung karena kesedihan yang sangat mendalam. Kanji 慟 berarti 'berduka mendalam' dan 哭 berarti 'menangis keras'. Kata ini bersifat sastra dan digunakan dalam konteks formal atau tulisan untuk menggambarkan tangisan yang sangat memilukan.",
+    "hint": "Dou-koku. Kedua kanji berhubungan dengan kesedihan dan tangisan.",
+    "difficultyScore": 8
+  },
+  {
+    "id": "question_n1_5_007",
+    "question": "「瑕疵」の読み方は？",
+    "furigana": "「瑕疵[かし]」の読[よ]み方[かた]は？",
+    "romaji": "'Kashi' no yomikata wa?",
+    "level": "N1",
+    "category": "KANJI",
+    "options": [
+      "かきず",
+      "かし",
+      "けし",
+      "がし"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Bagaimana cara membaca '瑕疵'?",
+    "answerExplanation": "「瑕疵」dibaca 'かし' (kashi) yang berarti cacat atau kekurangan. Ini adalah istilah hukum yang sangat penting, sering digunakan dalam frasa 「瑕疵担保責任」(tanggung jawab atas cacat tersembunyi) dalam kontrak jual beli.",
+    "hint": "Ka-shi. Dua suku kata saja.",
+    "difficultyScore": 9
+  },
+  {
+    "id": "question_n1_5_008",
+    "question": "「敷衍」の読み方は？",
+    "furigana": "「敷衍[ふえん]」の読[よ]み方[かた]は？",
+    "romaji": "'Fuen' no yomikata wa?",
+    "level": "N1",
+    "category": "KANJI",
+    "options": [
+      "しきえん",
+      "ふえん",
+      "しえん",
+      "ふけん"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Bagaimana cara membaca '敷衍'?",
+    "answerExplanation": "「敷衍」dibaca 'ふえん' (fuen) yang berarti menguraikan secara rinci atau mengembangkan penjelasan. Kata ini digunakan dalam konteks akademis ketika seseorang menjelaskan suatu teori atau konsep secara lebih luas dan mendetail.",
+    "hint": "Fu-en. Kanji pertama dibaca dengan on'yomi 'ふ'.",
+    "difficultyScore": 9
+  },
+  {
+    "id": "question_n1_5_009",
+    "question": "「斡旋」の読み方は？",
+    "furigana": "「斡旋[あっせん]」の読[よ]み方[かた]は？",
+    "romaji": "'Assen' no yomikata wa?",
+    "level": "N1",
+    "category": "KANJI",
+    "options": [
+      "あっせん",
+      "かっせん",
+      "あっかん",
+      "かっかん"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Bagaimana cara membaca '斡旋'?",
+    "answerExplanation": "「斡旋」dibaca 'あっせん' (assen) yang berarti mediasi atau perantaraan untuk mempertemukan pihak-pihak yang berselisih. Kanji 斡 berarti 'mengatur' dan 旋 berarti 'berputar'. Kata ini sering digunakan dalam konteks hukum, bisnis, dan diplomasi, misalnya 「斡旋を依頼する」(meminta mediasi).",
+    "hint": "As-sen. Kanji pertama dibaca dengan bunyi 'あっ'.",
+    "difficultyScore": 8
+  },
+  {
+    "id": "question_n1_5_010",
+    "question": "「顛末」の読み方は？",
+    "furigana": "「顛末[てんまつ]」の読[よ]み方[かた]は？",
+    "romaji": "'Tenmatsu' no yomikata wa?",
+    "level": "N1",
+    "category": "KANJI",
+    "options": [
+      "てんばつ",
+      "でんまつ",
+      "てんまつ",
+      "てんすえ"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Bagaimana cara membaca '顛末'?",
+    "answerExplanation": "「顛末」dibaca 'てんまつ' (tenmatsu) yang berarti keseluruhan cerita dari awal hingga akhir, rincian lengkap suatu peristiwa. 顛 berarti 'puncak/awal' dan 末 berarti 'akhir', sehingga secara harfiah berarti 'dari awal sampai akhir'.",
+    "hint": "Ten-matsu. Kanji kedua sama dengan dalam kata 末 (sue/akhir).",
+    "difficultyScore": 7
+  },
+  {
+    "id": "question_n1_5_011",
+    "question": "「試験に合格した___、提出書類の不備で入学が取り消された。」に入る表現は？",
+    "furigana": "「試験[しけん]に合格[ごうかく]した___、提出[ていしゅつ]書類[しょるい]の不備[ふび]で入学[にゅうがく]が取[と]り消[け]された。」に入[はい]る表現[ひょうげん]は？",
+    "romaji": "'Shiken ni goukaku shita ___, teishutsu shorui no fubi de nyuugaku ga tori kesareta.' ni hairu hyougen wa?",
+    "level": "N1",
+    "category": "GRAMMAR",
+    "options": [
+      "と思いきや",
+      "とばかりに",
+      "ともなると",
+      "としたところで"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Ekspresi apa yang tepat untuk mengisi bagian kosong: 'Baru saja mengira sudah lulus ujian, ___ ternyata penerimaan dibatalkan karena dokumen tidak lengkap.'?",
+    "answerExplanation": "「〜と思いきや」digunakan untuk menyatakan bahwa kenyataan berbeda dari apa yang diperkirakan. Artinya 'baru saja mengira bahwa~, ternyata~'. Dalam kalimat ini, orang tersebut mengira sudah lulus, tetapi ternyata penerimaannya dibatalkan karena masalah dokumen.",
+    "hint": "Pola ini mengekspresikan 'baru saja mengira/menyangka bahwa..., ternyata...'",
+    "difficultyScore": 7
+  },
+  {
+    "id": "question_n1_5_012",
+    "question": "「国民の理解___、この政策の実現は不可能である。」に入る表現は？",
+    "furigana": "「国民[こくみん]の理解[りかい]___、この政策[せいさく]の実現[じつげん]は不可能[ふかのう]である。」に入[はい]る表現[ひょうげん]は？",
+    "romaji": "'Kokumin no rikai ___, kono seisaku no jitsugen wa fukanou de aru.' ni hairu hyougen wa?",
+    "level": "N1",
+    "category": "GRAMMAR",
+    "options": [
+      "をもって",
+      "なくしては",
+      "ならでは",
+      "あっての"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Ekspresi apa yang tepat untuk mengisi bagian kosong: 'Tanpa pemahaman rakyat, kebijakan ini tidak mungkin terwujud.'?",
+    "answerExplanation": "「〜なくしては」berarti 'tanpa~' dan digunakan untuk menyatakan bahwa sesuatu tidak mungkin terjadi tanpa hal tersebut. Pola ini menekankan bahwa kondisi tersebut mutlak diperlukan. Biasanya diikuti oleh kalimat negatif atau yang bermakna negatif.",
+    "hint": "Pola ini berarti 'tanpa adanya~, maka~ tidak mungkin'. Menekankan syarat mutlak.",
+    "difficultyScore": 7
+  },
+  {
+    "id": "question_n1_5_013",
+    "question": "「大学教授___人が、こんな基本的な事実を知らないとは信じられない。」に入る表現は？",
+    "furigana": "「大学[だいがく]教授[きょうじゅ]___人[ひと]が、こんな基本的[きほんてき]な事実[じじつ]を知[し]らないとは信[しん]じられない。」に入[はい]る表現[ひょうげん]は？",
+    "romaji": "'Daigaku kyouju ___ hito ga, konna kihonteki na jijitsu o shiranai to wa shinjirarenai.' ni hairu hyougen wa?",
+    "level": "N1",
+    "category": "GRAMMAR",
+    "options": [
+      "たりとも",
+      "ともあろう",
+      "ならいざ知らず",
+      "といえども"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Ekspresi apa yang tepat untuk mengisi bagian kosong: 'Seseorang yang berkaliber profesor universitas, tidak bisa dipercaya tidak mengetahui fakta dasar seperti ini.'?",
+    "answerExplanation": "「〜ともあろう」digunakan untuk menyatakan ketidakpercayaan atau kekecewaan terhadap seseorang yang seharusnya memiliki kualifikasi tinggi. Artinya 'seseorang yang berkaliber~, ternyata~'. Mengekspresikan bahwa perilaku tersebut tidak sesuai dengan status atau posisi orang tersebut.",
+    "hint": "Pola ini mengekspresikan keterkejutan karena perilaku seseorang tidak sesuai dengan statusnya yang tinggi.",
+    "difficultyScore": 7
+  },
+  {
+    "id": "question_n1_5_014",
+    "question": "「三月に入ってから急に春___陽気になり、厚手のコートはもう必要なくなった。」に入る表現は？",
+    "furigana": "「三月[さんがつ]に入[はい]ってから急[きゅう]に春[はる]___陽気[ようき]になり、厚手[あつで]のコートはもう必要[ひつよう]なくなった。」に入[はい]る表現[ひょうげん]は？",
+    "romaji": "'Sangatsu ni haitte kara kyuu ni haru ___ youki ni nari, atsude no kooto wa mou hitsuyou nakunatta.' ni hairu hyougen wa?",
+    "level": "N1",
+    "category": "GRAMMAR",
+    "options": [
+      "じみた",
+      "がちの",
+      "めいた",
+      "っぽい"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Ekspresi apa yang tepat untuk mengisi bagian kosong: 'Sejak memasuki bulan Maret, tiba-tiba cuaca menjadi terasa seperti musim semi, dan mantel tebal sudah tidak diperlukan lagi.'?",
+    "answerExplanation": "「〜めく」(berubah menjadi bentuk 〜めいた saat memodifikasi kata benda) berarti 'terasa seperti~' atau 'memiliki nuansa~'. 「春めいた」berarti 'terasa seperti musim semi'. Pola ini memberikan kesan bahwa sesuatu mulai menunjukkan karakteristik dari kata yang dilekatinya.",
+    "hint": "Pola ini berarti 'terasa/bernuansa seperti~'. Sering digunakan dengan musim.",
+    "difficultyScore": 6
+  },
+  {
+    "id": "question_n1_5_015",
+    "question": "「激しい練習の後、選手たちは汗___の状態でベンチに倒れ込んだ。」に入る表現は？",
+    "furigana": "「激[はげ]しい練習[れんしゅう]の後[あと]、選手[せんしゅ]たちは汗[あせ]___の状態[じょうたい]でベンチに倒[たお]れ込[こ]んだ。」に入[はい]る表現[ひょうげん]は？",
+    "romaji": "'Hageshii renshuu no ato, senshu-tachi wa ase ___ no joutai de benchi ni taore konda.' ni hairu hyougen wa?",
+    "level": "N1",
+    "category": "GRAMMAR",
+    "options": [
+      "ずくめ",
+      "まみれ",
+      "だらけ",
+      "ぐるみ"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Ekspresi apa yang tepat untuk mengisi bagian kosong: 'Setelah latihan keras, para atlet terjatuh di bangku dalam keadaan penuh keringat.'?",
+    "answerExplanation": "「〜まみれ」berarti 'berlumuran/tertutup oleh~' dan digunakan khusus untuk hal-hal yang menempel di permukaan tubuh atau benda, biasanya sesuatu yang kotor atau tidak menyenangkan (keringat, lumpur, darah). Berbeda dengan 「だらけ」yang lebih umum dan bisa digunakan untuk hal abstrak.",
+    "hint": "Pola ini khusus untuk sesuatu yang menempel/melumuri permukaan, biasanya kotor.",
+    "difficultyScore": 6
+  },
+  {
+    "id": "question_n1_5_016",
+    "question": "「今月は昇進、結婚、そして新居への引越しと、おめでたいこと___だ。」に入る表現は？",
+    "furigana": "「今月[こんげつ]は昇進[しょうしん]、結婚[けっこん]、そして新居[しんきょ]への引越[ひっこ]しと、おめでたいこと___だ。」に入[はい]る表現[ひょうげん]は？",
+    "romaji": "'Kongetsu wa shoushin, kekkon, soshite shinkyo e no hikkoshi to, omedetai koto ___ da.' ni hairu hyougen wa?",
+    "level": "N1",
+    "category": "GRAMMAR",
+    "options": [
+      "まみれ",
+      "だらけ",
+      "ずくめ",
+      "ぐるみ"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Ekspresi apa yang tepat untuk mengisi bagian kosong: 'Bulan ini penuh dengan hal-hal yang membahagiakan: promosi, pernikahan, dan pindah ke rumah baru.'?",
+    "answerExplanation": "「〜ずくめ」berarti 'penuh dengan~/tidak lain adalah~' dan digunakan ketika semua hal yang terjadi memiliki sifat yang sama. 「おめでたいことずくめ」berarti semua hal yang terjadi adalah hal-hal yang membahagiakan. Berbeda dengan まみれ (berlumuran hal kotor) dan だらけ (banyak hal negatif).",
+    "hint": "Pola ini berarti 'semuanya adalah~', digunakan ketika segalanya memiliki karakteristik yang sama.",
+    "difficultyScore": 7
+  },
+  {
+    "id": "question_n1_5_017",
+    "question": "「被災地の惨状を目の当たりにして、涙___。」に入る表現は？",
+    "furigana": "「被災地[ひさいち]の惨状[さんじょう]を目[ま]の当[あ]たりにして、涙[なみだ]___。」に入[はい]る表現[ひょうげん]は？",
+    "romaji": "'Hisaichi no sanjou o ma no atari ni shite, namida ___.' ni hairu hyougen wa?",
+    "level": "N1",
+    "category": "GRAMMAR",
+    "options": [
+      "に堪えない",
+      "を禁じ得ない",
+      "をものともせず",
+      "に足る"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Ekspresi apa yang tepat untuk mengisi bagian kosong: 'Menyaksikan langsung kondisi mengenaskan daerah bencana, tidak bisa menahan air mata.'?",
+    "answerExplanation": "「〜を禁じ得ない」berarti 'tidak bisa menahan/menekan~' dan digunakan untuk emosi yang muncul secara spontan dan tidak bisa dikendalikan. Pola ini bersifat formal dan sering digunakan dalam tulisan atau pidato resmi. Kata yang sering mendahuluinya antara lain: 涙 (air mata), 驚き (keterkejutan), 怒り (kemarahan).",
+    "hint": "Pola ini berarti 'tidak bisa menahan' suatu emosi. Bersifat formal.",
+    "difficultyScore": 7
+  },
+  {
+    "id": "question_n1_5_018",
+    "question": "次の文章を読んで、問いに答えなさい。\n\n量子力学が私たちの現実認識に突きつける問いは、哲学的に見ても極めて深遠である。観測されるまで粒子の状態が確定しないという解釈は、客観的な実在そのものへの疑念を生む。シュレーディンガーの猫という思考実験が示すように、微視的世界の不確定性が巨視的世界にまで波及し得るという事実は、我々が日常的に前提としている「観測者とは独立に存在する確定的な世界」という素朴実在論を根底から揺るがす。しかしながら、量子力学の数学的形式主義は実験結果を驚異的な精度で予測するのであり、その実用的成功と哲学的困惑との間には埋めがたい溝が横たわっている。一部の物理学者は多世界解釈によってこの矛盾を解消しようとするが、検証不可能な無数の並行世界を想定すること自体が、科学の実証主義的原則に反するとの批判もある。結局のところ、量子力学は「世界とは何か」という問いに対する人間の認識能力の限界を露呈させているのかもしれない。\n\nこの文章で論じられている中心的なパラドックスは何か。",
+    "furigana": "次[つぎ]の文章[ぶんしょう]を読[よ]んで、問[と]いに答[こた]えなさい。\n\n量子力学[りょうしりきがく]が私[わたし]たちの現実[げんじつ]認識[にんしき]に突[つ]きつける問[と]いは、哲学的[てつがくてき]に見[み]ても極[きわ]めて深遠[しんえん]である。（以下[いか]本文[ほんぶん]）\n\nこの文章[ぶんしょう]で論[ろん]じられている中心的[ちゅうしんてき]なパラドックスは何[なん]か。",
+    "romaji": "Tsugi no bunshou o yonde, toi ni kotae nasai. (honbun) Kono bunshou de ronjirarete iru chuushinteki na paradokkusu wa nan ka.",
+    "level": "N1",
+    "category": "READING",
+    "options": [
+      "量子力学は数学的には正確だが、現実世界には適用できないということ",
+      "量子力学の実用的成功と、それが示唆する哲学的困惑との間の矛盾",
+      "シュレーディンガーの猫が生きているか死んでいるか分からないこと",
+      "多世界解釈が科学的に証明できないこと"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Apa paradoks sentral yang dibahas dalam teks ini?",
+    "answerExplanation": "Paradoks sentral yang dibahas adalah kontradiksi antara keberhasilan praktis mekanika kuantum (yang mampu memprediksi hasil eksperimen dengan presisi luar biasa) dan kebingungan filosofis yang ditimbulkannya (mempertanyakan realitas objektif itu sendiri). Teks secara eksplisit menyebutkan 'jurang yang sulit dijembatani antara keberhasilan praktis dan kebingungan filosofis' (実用的成功と哲学的困惑との間には埋めがたい溝).",
+    "hint": "Perhatikan kalimat yang secara langsung menyebutkan adanya 'jurang' (溝) antara dua hal.",
+    "difficultyScore": 9
+  },
+  {
+    "id": "question_n1_5_019",
+    "question": "次の文章を読んで、問いに答えなさい。\n\n東アジアにおける多国間外交の困難さは、歴史認識の相違と安全保障上の利害対立という二重の障壁に起因する。二国間では妥協点を見出しやすいが、関係国が増えるほど各国の思惑が錯綜し、合意形成は指数関数的に難しくなる。加えて、域内大国間のパワーバランスの変動が既存の秩序を不安定化させ、中小国は大国間の対立に翻弄されがちである。筆者は、こうした状況を打開するためには、経済的相互依存を深化させつつ、非伝統的安全保障分野（環境問題、感染症対策、災害救援など）での実務的協力を積み重ねることが肝要であると考える。理念的な大合意を追求するよりも、具体的な成功体験の蓄積が相互信頼の土壌を醸成し、やがてはより困難な政治的課題への取り組みを可能にするであろう。いわば、機能主義的な「下からの統合」こそが、この地域の現実に即した唯一の実行可能な道筋なのである。\n\n筆者が提唱するアプローチとして最も適切なものはどれか。",
+    "furigana": "次[つぎ]の文章[ぶんしょう]を読[よ]んで、問[と]いに答[こた]えなさい。（本文[ほんぶん]）\n\n筆者[ひっしゃ]が提唱[ていしょう]するアプローチとして最[もっと]も適切[てきせつ]なものはどれか。",
+    "romaji": "Tsugi no bunshou o yonde, toi ni kotae nasai. (honbun) Hissha ga teishou suru apuroochi toshite mottomo tekisetsu na mono wa dore ka.",
+    "level": "N1",
+    "category": "READING",
+    "options": [
+      "大国主導で包括的な安全保障条約を締結すること",
+      "二国間外交を優先し、多国間の枠組みを避けること",
+      "実務的な協力を積み重ね、徐々に信頼関係を構築していくこと",
+      "経済制裁を用いて歴史認識問題の解決を迫ること"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Manakah yang paling tepat menggambarkan pendekatan yang diusulkan oleh penulis?",
+    "answerExplanation": "Penulis mengusulkan pendekatan fungsionalis 'integrasi dari bawah' (下からの統合), yaitu dengan menumpuk kerja sama praktis di bidang keamanan non-tradisional (lingkungan, penanganan wabah, bantuan bencana) untuk membangun kepercayaan secara bertahap. Menurut penulis, akumulasi pengalaman keberhasilan konkret akan menciptakan landasan kepercayaan timbal balik, yang akhirnya memungkinkan penanganan isu politik yang lebih sulit.",
+    "hint": "Perhatikan frasa kunci '下からの統合' (integrasi dari bawah) dan penekanan pada kerja sama praktis.",
+    "difficultyScore": 8
+  },
+  {
+    "id": "question_n1_5_020",
+    "question": "次の文章を読んで、問いに答えなさい。\n\n現代社会に生きる我々にとって、「もののあはれ」とは果たして過去の遺物なのだろうか。本居宣長が見出したこの美的感受性は、無常なるものへの深い共感と、その儚さゆえの美しさへの気づきに根差している。情報が瞬時に消費され、次々と新しい刺激に取って代わられる今日、我々は皮肉にも「あはれ」を感じる暇すら失いつつある。しかし、桜の花びらが風に散る瞬間に足を止め、夕暮れの空の色彩の移ろいに心を奪われる感性は、デジタル時代においても決して失われてはいない。むしろ、加速する時代の中でこそ、立ち止まって「あはれ」を感じる能力は、人間の精神的健全さを保つための、一種の防衛機制として再評価されるべきではないだろうか。効率と速度を至上とする現代文明への静かなる抵抗として、「もののあはれ」は新たな存在意義を獲得しつつあるのかもしれない。\n\n筆者の結論として最も適切な解釈はどれか。",
+    "furigana": "次[つぎ]の文章[ぶんしょう]を読[よ]んで、問[と]いに答[こた]えなさい。（本文[ほんぶん]）\n\n筆者[ひっしゃ]の結論[けつろん]として最[もっと]も適切[てきせつ]な解釈[かいしゃく]はどれか。",
+    "romaji": "Tsugi no bunshou o yonde, toi ni kotae nasai. (honbun) Hissha no ketsuron toshite mottomo tekisetsu na kaishaku wa dore ka.",
+    "level": "N1",
+    "category": "READING",
+    "options": [
+      "もののあはれは古典文学の中にのみ存在する概念であり、現代では意味を持たない",
+      "デジタル時代には感性そのものが失われており、もののあはれを感じることは不可能だ",
+      "もののあはれは効率重視の現代社会に対する精神的な防衛機制として新たな価値を持ち得る",
+      "もののあはれを理解するためには、デジタル機器を完全に排除する必要がある"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Manakah interpretasi yang paling tepat untuk kesimpulan penulis?",
+    "answerExplanation": "Penulis menyimpulkan bahwa 'mono no aware' memiliki potensi nilai baru di era modern sebagai semacam mekanisme pertahanan mental (防衛機制) terhadap peradaban modern yang mengutamakan efisiensi dan kecepatan. Penulis tidak mengatakan konsep ini sudah mati atau tidak relevan, melainkan justru menemukan makna baru sebagai 'perlawanan diam-diam' (静かなる抵抗) terhadap arus modernisasi. Ini menunjukkan bahwa kemampuan merasakan keindahan dalam kefanaan justru semakin penting untuk menjaga kesehatan jiwa manusia.",
+    "hint": "Perhatikan frasa '防衛機制' (mekanisme pertahanan) dan '静かなる抵抗' (perlawanan yang tenang).",
+    "difficultyScore": 9
+  }
+]

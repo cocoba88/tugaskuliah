@@ -1,0 +1,581 @@
+{
+  "id": "hiragana_kotoba_challenge",
+  "title": "Tantangan Hiragana",
+  "timer": 10,
+  "description": "Susun bacaan romaji dari kata hiragana yang ditampilkan! Tap tile suku kata yang benar untuk membentuk bacaannya.",
+  "totalQuestions": 30,
+  "questions": [
+    {
+      "id": 1,
+      "hiragana": "さくら",
+      "meaning": "Bunga Sakura",
+      "answerParts": [
+        "sa",
+        "ku",
+        "ra"
+      ],
+      "distractors": [
+        "ka",
+        "mi",
+        "te",
+        "no",
+        "so",
+        "ri",
+        "ma"
+      ]
+    },
+    {
+      "id": 2,
+      "hiragana": "やま",
+      "meaning": "Gunung",
+      "answerParts": [
+        "ya",
+        "ma"
+      ],
+      "distractors": [
+        "ka",
+        "ki",
+        "na",
+        "mi",
+        "su",
+        "so",
+        "ri",
+        "ha"
+      ]
+    },
+    {
+      "id": 3,
+      "hiragana": "うみ",
+      "meaning": "Laut",
+      "answerParts": [
+        "u",
+        "mi"
+      ],
+      "distractors": [
+        "ka",
+        "na",
+        "su",
+        "so",
+        "ri",
+        "ma",
+        "ha",
+        "ya"
+      ]
+    },
+    {
+      "id": 4,
+      "hiragana": "はな",
+      "meaning": "Bunga",
+      "answerParts": [
+        "ha",
+        "na"
+      ],
+      "distractors": [
+        "ka",
+        "ki",
+        "mi",
+        "su",
+        "so",
+        "ri",
+        "ma",
+        "ya"
+      ]
+    },
+    {
+      "id": 5,
+      "hiragana": "そら",
+      "meaning": "Langit",
+      "answerParts": [
+        "so",
+        "ra"
+      ],
+      "distractors": [
+        "ka",
+        "ki",
+        "na",
+        "mi",
+        "su",
+        "ri",
+        "ma",
+        "ya"
+      ]
+    },
+    {
+      "id": 6,
+      "hiragana": "つき",
+      "meaning": "Bulan",
+      "answerParts": [
+        "tsu",
+        "ki"
+      ],
+      "distractors": [
+        "ka",
+        "na",
+        "mi",
+        "su",
+        "so",
+        "ri",
+        "ma",
+        "ha"
+      ]
+    },
+    {
+      "id": 7,
+      "hiragana": "ほし",
+      "meaning": "Bintang",
+      "answerParts": [
+        "ho",
+        "shi"
+      ],
+      "distractors": [
+        "ka",
+        "na",
+        "mi",
+        "su",
+        "so",
+        "ri",
+        "ma",
+        "ya"
+      ]
+    },
+    {
+      "id": 8,
+      "hiragana": "ゆき",
+      "meaning": "Salju",
+      "answerParts": [
+        "yu",
+        "ki"
+      ],
+      "distractors": [
+        "ka",
+        "na",
+        "mi",
+        "su",
+        "so",
+        "ri",
+        "ma",
+        "ha"
+      ]
+    },
+    {
+      "id": 9,
+      "hiragana": "もり",
+      "meaning": "Hutan",
+      "answerParts": [
+        "mo",
+        "ri"
+      ],
+      "distractors": [
+        "ka",
+        "ki",
+        "na",
+        "mi",
+        "su",
+        "so",
+        "ma",
+        "ha"
+      ]
+    },
+    {
+      "id": 10,
+      "hiragana": "あめ",
+      "meaning": "Hujan",
+      "answerParts": [
+        "a",
+        "me"
+      ],
+      "distractors": [
+        "ka",
+        "ki",
+        "na",
+        "mi",
+        "su",
+        "so",
+        "ri",
+        "ya"
+      ]
+    },
+    {
+      "id": 11,
+      "hiragana": "みず",
+      "meaning": "Air",
+      "answerParts": [
+        "mi",
+        "zu"
+      ],
+      "distractors": [
+        "ka",
+        "ki",
+        "na",
+        "su",
+        "so",
+        "ri",
+        "ma",
+        "ha"
+      ]
+    },
+    {
+      "id": 12,
+      "hiragana": "まち",
+      "meaning": "Kota",
+      "answerParts": [
+        "ma",
+        "chi"
+      ],
+      "distractors": [
+        "ka",
+        "ki",
+        "na",
+        "mi",
+        "su",
+        "so",
+        "ri",
+        "ha"
+      ]
+    },
+    {
+      "id": 13,
+      "hiragana": "ねこ",
+      "meaning": "Kucing",
+      "answerParts": [
+        "ne",
+        "ko"
+      ],
+      "distractors": [
+        "ka",
+        "ki",
+        "na",
+        "mi",
+        "su",
+        "so",
+        "ri",
+        "ma"
+      ]
+    },
+    {
+      "id": 14,
+      "hiragana": "てら",
+      "meaning": "Kuil",
+      "answerParts": [
+        "te",
+        "ra"
+      ],
+      "distractors": [
+        "ka",
+        "ki",
+        "na",
+        "mi",
+        "su",
+        "so",
+        "ri",
+        "ma"
+      ]
+    },
+    {
+      "id": 15,
+      "hiragana": "しろ",
+      "meaning": "Kastil",
+      "answerParts": [
+        "shi",
+        "ro"
+      ],
+      "distractors": [
+        "ka",
+        "ki",
+        "na",
+        "mi",
+        "su",
+        "so",
+        "ri",
+        "ma"
+      ]
+    },
+    {
+      "id": 16,
+      "hiragana": "ひかり",
+      "meaning": "Cahaya",
+      "answerParts": [
+        "hi",
+        "ka",
+        "ri"
+      ],
+      "distractors": [
+        "na",
+        "mi",
+        "su",
+        "so",
+        "ma",
+        "ha",
+        "ya"
+      ]
+    },
+    {
+      "id": 17,
+      "hiragana": "こころ",
+      "meaning": "Hati / Perasaan",
+      "answerParts": [
+        "ko",
+        "ko",
+        "ro"
+      ],
+      "distractors": [
+        "ka",
+        "ki",
+        "na",
+        "mi",
+        "su",
+        "so",
+        "ma"
+      ]
+    },
+    {
+      "id": 18,
+      "hiragana": "たいよう",
+      "meaning": "Matahari",
+      "answerParts": [
+        "ta",
+        "i",
+        "yo",
+        "u"
+      ],
+      "distractors": [
+        "ka",
+        "ki",
+        "na",
+        "mi",
+        "su",
+        "so"
+      ]
+    },
+    {
+      "id": 19,
+      "hiragana": "にわとり",
+      "meaning": "Ayam",
+      "answerParts": [
+        "ni",
+        "wa",
+        "to",
+        "ri"
+      ],
+      "distractors": [
+        "ka",
+        "ki",
+        "na",
+        "mi",
+        "su",
+        "so"
+      ]
+    },
+    {
+      "id": 20,
+      "hiragana": "はなび",
+      "meaning": "Kembang Api",
+      "answerParts": [
+        "ha",
+        "na",
+        "bi"
+      ],
+      "distractors": [
+        "ka",
+        "ki",
+        "mi",
+        "su",
+        "so",
+        "ri",
+        "ma"
+      ]
+    },
+    {
+      "id": 21,
+      "hiragana": "ともだち",
+      "meaning": "Teman",
+      "answerParts": [
+        "to",
+        "mo",
+        "da",
+        "chi"
+      ],
+      "distractors": [
+        "ka",
+        "ni",
+        "su",
+        "ha",
+        "re",
+        "yo"
+      ]
+    },
+    {
+      "id": 22,
+      "hiragana": "せんせい",
+      "meaning": "Guru",
+      "answerParts": [
+        "se",
+        "n",
+        "se",
+        "i"
+      ],
+      "distractors": [
+        "ka",
+        "to",
+        "mi",
+        "ra",
+        "yu",
+        "ko"
+      ]
+    },
+    {
+      "id": 23,
+      "hiragana": "がっこう",
+      "meaning": "Sekolah",
+      "answerParts": [
+        "ga",
+        "kko",
+        "u"
+      ],
+      "distractors": [
+        "ki",
+        "na",
+        "shi",
+        "to",
+        "me",
+        "ra",
+        "ho"
+      ]
+    },
+    {
+      "id": 24,
+      "hiragana": "おはよう",
+      "meaning": "Selamat Pagi",
+      "answerParts": [
+        "o",
+        "ha",
+        "yo",
+        "u"
+      ],
+      "distractors": [
+        "ka",
+        "mi",
+        "ne",
+        "ta",
+        "shi",
+        "ru"
+      ]
+    },
+    {
+      "id": 25,
+      "hiragana": "ありがとう",
+      "meaning": "Terima Kasih",
+      "answerParts": [
+        "a",
+        "ri",
+        "ga",
+        "to",
+        "u"
+      ],
+      "distractors": [
+        "ka",
+        "mi",
+        "ne",
+        "shi",
+        "yu",
+        "ko"
+      ]
+    },
+    {
+      "id": 26,
+      "hiragana": "すみません",
+      "meaning": "Permisi/Maaf",
+      "answerParts": [
+        "su",
+        "mi",
+        "ma",
+        "se",
+        "n"
+      ],
+      "distractors": [
+        "ka",
+        "to",
+        "ri",
+        "ha",
+        "yo",
+        "ki"
+      ]
+    },
+    {
+      "id": 27,
+      "hiragana": "たべもの",
+      "meaning": "Makanan",
+      "answerParts": [
+        "ta",
+        "be",
+        "mo",
+        "no"
+      ],
+      "distractors": [
+        "ka",
+        "ri",
+        "su",
+        "ha",
+        "shi",
+        "yu"
+      ]
+    },
+    {
+      "id": 28,
+      "hiragana": "のみもの",
+      "meaning": "Minuman",
+      "answerParts": [
+        "no",
+        "mi",
+        "mo",
+        "no"
+      ],
+      "distractors": [
+        "ka",
+        "te",
+        "su",
+        "ra",
+        "ki",
+        "ha"
+      ]
+    },
+    {
+      "id": 29,
+      "hiragana": "でんしゃ",
+      "meaning": "Kereta",
+      "answerParts": [
+        "de",
+        "n",
+        "sha"
+      ],
+      "distractors": [
+        "ka",
+        "mi",
+        "to",
+        "ra",
+        "ki",
+        "su",
+        "ho"
+      ]
+    },
+    {
+      "id": 30,
+      "hiragana": "くるま",
+      "meaning": "Mobil",
+      "answerParts": [
+        "ku",
+        "ru",
+        "ma"
+      ],
+      "distractors": [
+        "ka",
+        "ni",
+        "to",
+        "shi",
+        "ha",
+        "so",
+        "yo"
+      ]
+    }
+  ]
+}

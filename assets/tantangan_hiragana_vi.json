@@ -1,0 +1,581 @@
+{
+  "id": "hiragana_kotoba_challenge",
+  "title": "Thử thách Hiragana",
+  "timer": 10,
+  "description": "Sắp xếp cách đọc romaji của từ hiragana được hiển thị! Nhấn vào ô âm tiết đúng để tạo cách đọc.",
+  "totalQuestions": 30,
+  "questions": [
+    {
+      "id": 1,
+      "hiragana": "さくら",
+      "meaning": "Hoa anh đào",
+      "answerParts": [
+        "sa",
+        "ku",
+        "ra"
+      ],
+      "distractors": [
+        "ka",
+        "mi",
+        "te",
+        "no",
+        "so",
+        "ri",
+        "ma"
+      ]
+    },
+    {
+      "id": 2,
+      "hiragana": "やま",
+      "meaning": "Núi",
+      "answerParts": [
+        "ya",
+        "ma"
+      ],
+      "distractors": [
+        "ka",
+        "ki",
+        "na",
+        "mi",
+        "su",
+        "so",
+        "ri",
+        "ha"
+      ]
+    },
+    {
+      "id": 3,
+      "hiragana": "うみ",
+      "meaning": "Biển",
+      "answerParts": [
+        "u",
+        "mi"
+      ],
+      "distractors": [
+        "ka",
+        "na",
+        "su",
+        "so",
+        "ri",
+        "ma",
+        "ha",
+        "ya"
+      ]
+    },
+    {
+      "id": 4,
+      "hiragana": "はな",
+      "meaning": "Hoa",
+      "answerParts": [
+        "ha",
+        "na"
+      ],
+      "distractors": [
+        "ka",
+        "ki",
+        "mi",
+        "su",
+        "so",
+        "ri",
+        "ma",
+        "ya"
+      ]
+    },
+    {
+      "id": 5,
+      "hiragana": "そら",
+      "meaning": "Bầu trời",
+      "answerParts": [
+        "so",
+        "ra"
+      ],
+      "distractors": [
+        "ka",
+        "ki",
+        "na",
+        "mi",
+        "su",
+        "ri",
+        "ma",
+        "ya"
+      ]
+    },
+    {
+      "id": 6,
+      "hiragana": "つき",
+      "meaning": "Mặt trăng",
+      "answerParts": [
+        "tsu",
+        "ki"
+      ],
+      "distractors": [
+        "ka",
+        "na",
+        "mi",
+        "su",
+        "so",
+        "ri",
+        "ma",
+        "ha"
+      ]
+    },
+    {
+      "id": 7,
+      "hiragana": "ほし",
+      "meaning": "Ngôi sao",
+      "answerParts": [
+        "ho",
+        "shi"
+      ],
+      "distractors": [
+        "ka",
+        "na",
+        "mi",
+        "su",
+        "so",
+        "ri",
+        "ma",
+        "ya"
+      ]
+    },
+    {
+      "id": 8,
+      "hiragana": "ゆき",
+      "meaning": "Tuyết",
+      "answerParts": [
+        "yu",
+        "ki"
+      ],
+      "distractors": [
+        "ka",
+        "na",
+        "mi",
+        "su",
+        "so",
+        "ri",
+        "ma",
+        "ha"
+      ]
+    },
+    {
+      "id": 9,
+      "hiragana": "もり",
+      "meaning": "Rừng",
+      "answerParts": [
+        "mo",
+        "ri"
+      ],
+      "distractors": [
+        "ka",
+        "ki",
+        "na",
+        "mi",
+        "su",
+        "so",
+        "ma",
+        "ha"
+      ]
+    },
+    {
+      "id": 10,
+      "hiragana": "あめ",
+      "meaning": "Mưa",
+      "answerParts": [
+        "a",
+        "me"
+      ],
+      "distractors": [
+        "ka",
+        "ki",
+        "na",
+        "mi",
+        "su",
+        "so",
+        "ri",
+        "ya"
+      ]
+    },
+    {
+      "id": 11,
+      "hiragana": "みず",
+      "meaning": "Nước",
+      "answerParts": [
+        "mi",
+        "zu"
+      ],
+      "distractors": [
+        "ka",
+        "ki",
+        "na",
+        "su",
+        "so",
+        "ri",
+        "ma",
+        "ha"
+      ]
+    },
+    {
+      "id": 12,
+      "hiragana": "まち",
+      "meaning": "Thành phố",
+      "answerParts": [
+        "ma",
+        "chi"
+      ],
+      "distractors": [
+        "ka",
+        "ki",
+        "na",
+        "mi",
+        "su",
+        "so",
+        "ri",
+        "ha"
+      ]
+    },
+    {
+      "id": 13,
+      "hiragana": "ねこ",
+      "meaning": "Mèo",
+      "answerParts": [
+        "ne",
+        "ko"
+      ],
+      "distractors": [
+        "ka",
+        "ki",
+        "na",
+        "mi",
+        "su",
+        "so",
+        "ri",
+        "ma"
+      ]
+    },
+    {
+      "id": 14,
+      "hiragana": "てら",
+      "meaning": "Đền",
+      "answerParts": [
+        "te",
+        "ra"
+      ],
+      "distractors": [
+        "ka",
+        "ki",
+        "na",
+        "mi",
+        "su",
+        "so",
+        "ri",
+        "ma"
+      ]
+    },
+    {
+      "id": 15,
+      "hiragana": "しろ",
+      "meaning": "Lâu đài",
+      "answerParts": [
+        "shi",
+        "ro"
+      ],
+      "distractors": [
+        "ka",
+        "ki",
+        "na",
+        "mi",
+        "su",
+        "so",
+        "ri",
+        "ma"
+      ]
+    },
+    {
+      "id": 16,
+      "hiragana": "ひかり",
+      "meaning": "Ánh sáng",
+      "answerParts": [
+        "hi",
+        "ka",
+        "ri"
+      ],
+      "distractors": [
+        "na",
+        "mi",
+        "su",
+        "so",
+        "ma",
+        "ha",
+        "ya"
+      ]
+    },
+    {
+      "id": 17,
+      "hiragana": "こころ",
+      "meaning": "Trái tim / Cảm xúc",
+      "answerParts": [
+        "ko",
+        "ko",
+        "ro"
+      ],
+      "distractors": [
+        "ka",
+        "ki",
+        "na",
+        "mi",
+        "su",
+        "so",
+        "ma"
+      ]
+    },
+    {
+      "id": 18,
+      "hiragana": "たいよう",
+      "meaning": "Mặt trời",
+      "answerParts": [
+        "ta",
+        "i",
+        "yo",
+        "u"
+      ],
+      "distractors": [
+        "ka",
+        "ki",
+        "na",
+        "mi",
+        "su",
+        "so"
+      ]
+    },
+    {
+      "id": 19,
+      "hiragana": "にわとり",
+      "meaning": "Gà",
+      "answerParts": [
+        "ni",
+        "wa",
+        "to",
+        "ri"
+      ],
+      "distractors": [
+        "ka",
+        "ki",
+        "na",
+        "mi",
+        "su",
+        "so"
+      ]
+    },
+    {
+      "id": 20,
+      "hiragana": "はなび",
+      "meaning": "Pháo hoa",
+      "answerParts": [
+        "ha",
+        "na",
+        "bi"
+      ],
+      "distractors": [
+        "ka",
+        "ki",
+        "mi",
+        "su",
+        "so",
+        "ri",
+        "ma"
+      ]
+    },
+    {
+      "id": 21,
+      "hiragana": "ともだち",
+      "meaning": "Bạn bè",
+      "answerParts": [
+        "to",
+        "mo",
+        "da",
+        "chi"
+      ],
+      "distractors": [
+        "ka",
+        "ni",
+        "su",
+        "ha",
+        "re",
+        "yo"
+      ]
+    },
+    {
+      "id": 22,
+      "hiragana": "せんせい",
+      "meaning": "Giáo viên",
+      "answerParts": [
+        "se",
+        "n",
+        "se",
+        "i"
+      ],
+      "distractors": [
+        "ka",
+        "to",
+        "mi",
+        "ra",
+        "yu",
+        "ko"
+      ]
+    },
+    {
+      "id": 23,
+      "hiragana": "がっこう",
+      "meaning": "Trường học",
+      "answerParts": [
+        "ga",
+        "kko",
+        "u"
+      ],
+      "distractors": [
+        "ki",
+        "na",
+        "shi",
+        "to",
+        "me",
+        "ra",
+        "ho"
+      ]
+    },
+    {
+      "id": 24,
+      "hiragana": "おはよう",
+      "meaning": "Chào buổi sáng",
+      "answerParts": [
+        "o",
+        "ha",
+        "yo",
+        "u"
+      ],
+      "distractors": [
+        "ka",
+        "mi",
+        "ne",
+        "ta",
+        "shi",
+        "ru"
+      ]
+    },
+    {
+      "id": 25,
+      "hiragana": "ありがとう",
+      "meaning": "Cảm ơn",
+      "answerParts": [
+        "a",
+        "ri",
+        "ga",
+        "to",
+        "u"
+      ],
+      "distractors": [
+        "ka",
+        "mi",
+        "ne",
+        "shi",
+        "yu",
+        "ko"
+      ]
+    },
+    {
+      "id": 26,
+      "hiragana": "すみません",
+      "meaning": "Xin lỗi",
+      "answerParts": [
+        "su",
+        "mi",
+        "ma",
+        "se",
+        "n"
+      ],
+      "distractors": [
+        "ka",
+        "to",
+        "ri",
+        "ha",
+        "yo",
+        "ki"
+      ]
+    },
+    {
+      "id": 27,
+      "hiragana": "たべもの",
+      "meaning": "Đồ ăn",
+      "answerParts": [
+        "ta",
+        "be",
+        "mo",
+        "no"
+      ],
+      "distractors": [
+        "ka",
+        "ri",
+        "su",
+        "ha",
+        "shi",
+        "yu"
+      ]
+    },
+    {
+      "id": 28,
+      "hiragana": "のみもの",
+      "meaning": "Đồ uống",
+      "answerParts": [
+        "no",
+        "mi",
+        "mo",
+        "no"
+      ],
+      "distractors": [
+        "ka",
+        "te",
+        "su",
+        "ra",
+        "ki",
+        "ha"
+      ]
+    },
+    {
+      "id": 29,
+      "hiragana": "でんしゃ",
+      "meaning": "Tàu",
+      "answerParts": [
+        "de",
+        "n",
+        "sha"
+      ],
+      "distractors": [
+        "ka",
+        "mi",
+        "to",
+        "ra",
+        "ki",
+        "su",
+        "ho"
+      ]
+    },
+    {
+      "id": 30,
+      "hiragana": "くるま",
+      "meaning": "Ô tô",
+      "answerParts": [
+        "ku",
+        "ru",
+        "ma"
+      ],
+      "distractors": [
+        "ka",
+        "ni",
+        "to",
+        "shi",
+        "ha",
+        "so",
+        "yo"
+      ]
+    }
+  ]
+}

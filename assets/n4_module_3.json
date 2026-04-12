@@ -1,0 +1,382 @@
+[
+  {
+    "id": "question_n4_3_001",
+    "question": "「片付ける」はどういう意味ですか？",
+    "furigana": "「片付[かたづ]ける」はどういう意味[いみ]ですか？",
+    "romaji": "'Katadzukeru' wa dou iu imi desu ka?",
+    "level": "N4",
+    "category": "VOCABULARY",
+    "options": [
+      "Membereskan / merapikan",
+      "Mengotori / mengacaukan",
+      "Memindahkan / mengangkut",
+      "Menyusun / merangkai"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Apa arti dari '片付ける'?",
+    "answerExplanation": "'片付ける' (katadzukeru) berarti 'membereskan' atau 'merapikan', misalnya membereskan kamar atau meja. Contoh: '部屋を片付ける' (membereskan kamar). Pilihan B 'mengotori' salah (itu '汚す'). Pilihan C 'memindahkan' salah (itu '移す'). Pilihan D 'menyusun/merangkai' salah (itu '組み立てる'). Meskipun C dan D juga melibatkan barang, maknanya berbeda dari 'merapikan'.",
+    "hint": "Kata ini sering digunakan setelah makan atau saat kamar berantakan. Berhubungan dengan membuat sesuatu menjadi rapi kembali.",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_3_002",
+    "question": "「親切」に似た意味の言葉はどれですか？",
+    "furigana": "「親切[しんせつ]」に似[に]た意味[いみ]の言葉[ことば]はどれですか？",
+    "romaji": "'Shinsetsu' ni nita imi no kotoba wa dore desu ka?",
+    "level": "N4",
+    "category": "VOCABULARY",
+    "options": [
+      "正直（しょうじき）",
+      "丁寧（ていねい）",
+      "真剣（しんけん）",
+      "優しい（やさしい）"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "Manakah kata yang memiliki makna paling mirip dengan '親切'?",
+    "answerExplanation": "'親切' (shinsetsu) berarti baik hati/ramah dalam artian suka membantu orang lain. Kata yang paling mirip adalah '優しい' (yasashii) = lembut/baik hati. Perbedaan nuansa: 親切 lebih menekankan tindakan nyata membantu, sedangkan 優しい lebih ke sifat dasar yang lembut. Pilihan lain berbeda makna: '正直' (shoujiki) = jujur, '丁寧' (teinei) = sopan/teliti, '真剣' (shinken) = serius/sungguh-sungguh.",
+    "hint": "親切 fokus pada sifat 'baik hati dan suka membantu'. Keempat opsi ini semua sifat positif, tapi hanya satu yang benar-benar dekat maknanya dengan 'baik hati'.",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n4_3_003",
+    "question": "「褒める」はどういう意味ですか？",
+    "furigana": "「褒[ほ]める」はどういう意味[いみ]ですか？",
+    "romaji": "'Homeru' wa dou iu imi desu ka?",
+    "level": "N4",
+    "category": "VOCABULARY",
+    "options": [
+      "Memarahi / menegur",
+      "Memuji / menyanjung",
+      "Menghibur / menenangkan",
+      "Mendorong / menyemangati"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Apa arti dari '褒める'?",
+    "answerExplanation": "'褒める' (homeru) berarti 'memuji' atau 'menyanjung' seseorang. Contoh: '先生が学生を褒めた' (Guru memuji murid). Pilihan A 'memarahi' salah (itu '叱る'). Pilihan C 'menghibur' salah (itu '慰める'). Pilihan D 'mendorong/menyemangati' salah (itu '励ます'). Semua opsi adalah aksi yang ditujukan kepada orang lain, tapi maknanya masing-masing berbeda.",
+    "hint": "Kata ini menggambarkan reaksi positif terhadap pencapaian seseorang. Saat anak kecil mendapat nilai bagus, orang tua biasanya melakukan ini.",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_3_004",
+    "question": "「参る」はどういう意味ですか？",
+    "furigana": "「参[まい]る」はどういう意味[いみ]ですか？",
+    "romaji": "'Mairu' wa dou iu imi desu ka?",
+    "level": "N4",
+    "category": "VOCABULARY",
+    "options": [
+      "Pergi / datang (bentuk rendah hati)",
+      "Kembali / pulang (bentuk rendah hati)",
+      "Menunggu / bersabar (bentuk sopan)",
+      "Menerima / mendapat (bentuk rendah hati)"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Apa arti dari '参る'?",
+    "answerExplanation": "'参る' (mairu) adalah bentuk kenjougo (謙譲語 / bahasa rendah hati) dari '行く' (pergi) dan '来る' (datang). Digunakan untuk merendahkan diri sendiri saat berbicara dengan orang yang lebih tinggi statusnya. Contoh: '明日、そちらに参ります' (Besok saya akan datang ke sana). Pilihan B salah (kembali/pulang rendah hati bukan 参る). Pilihan C salah (menunggu sopan = お待ちになる). Pilihan D salah (menerima rendah hati = いただく).",
+    "hint": "Ini adalah kenjougo (bahasa rendah hati). Kata ini menggantikan dua kata kerja dasar yang berhubungan dengan perpindahan tempat.",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n4_3_005",
+    "question": "「触る」はどういう意味ですか？",
+    "furigana": "「触[さわ]る」はどういう意味[いみ]ですか？",
+    "romaji": "'Sawaru' wa dou iu imi desu ka?",
+    "level": "N4",
+    "category": "VOCABULARY",
+    "options": [
+      "Menggenggam / memegang erat",
+      "Menunjuk / mengarahkan",
+      "Menyentuh / meraba",
+      "Meraih / mengambil"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Apa arti dari '触る'?",
+    "answerExplanation": "'触る' (sawaru) berarti 'menyentuh' atau 'meraba' — kontak fisik ringan dengan permukaan sesuatu. Contoh: '美術館で絵に触らないでください' (Jangan sentuh lukisan di museum). Pilihan A 'menggenggam' salah (itu '握る'). Pilihan B 'menunjuk' salah (itu '指す'). Pilihan D 'meraih' salah (itu '取る/つかむ'). Semua opsi berhubungan dengan aksi tangan, tapi hanya 触る yang berarti kontak ringan tanpa mengambil.",
+    "hint": "Kata ini menggambarkan kontak fisik ringan menggunakan tangan. Di museum sering ada tanda larangan melakukan ini terhadap benda pameran.",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_3_006",
+    "question": "私はコーヒー___ジュースのほうが好きです。",
+    "furigana": "私[わたし]はコーヒー___ジュースのほうが好[す]きです。",
+    "romaji": "Watashi wa koohii ___ juusu no hou ga suki desu.",
+    "level": "N4",
+    "category": "GRAMMAR",
+    "options": [
+      "ほど",
+      "より",
+      "ほか",
+      "しか"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Saya lebih suka jus daripada kopi.",
+    "answerExplanation": "Pola perbandingan: 'AよりBのほうが〜' = B lebih ~ daripada A. Partikel 'より' (yori) menandai titik pembanding (yang 'kalah'). Di sini: コーヒーより (daripada kopi) → ジュースのほうが好き (lebih suka jus). Pilihan lain: 'ほど' (hodo) digunakan dalam perbandingan negatif 'AほどBではない'; 'ほか' (hoka) = selain itu; 'しか' (shika) = hanya (diikuti negatif).",
+    "hint": "Pola perbandingan: A ___ B のほうが〜. Partikel apa yang menandai 'titik acuan yang lebih rendah' dalam perbandingan?",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_3_007",
+    "question": "先生が教室に___います。",
+    "furigana": "先生[せんせい]が教室[きょうしつ]に___います。",
+    "romaji": "Sensei ga kyoushitsu ni ___ imasu.",
+    "level": "N4",
+    "category": "GRAMMAR",
+    "options": [
+      "来ます",
+      "来る",
+      "来て",
+      "来られ"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Guru sudah datang dan (sekarang) berada di kelas.",
+    "answerExplanation": "Pola '〜ている' setelah kata kerja perubahan state (来る, 行く, 帰る dll.) menyatakan KEADAAN HASIL dari aksi, bukan aksi berlangsung. '来ている' = sudah datang dan kini berada di sana. Diperlukan te-form '来て' sebelum 'います'. Pilihan lain: '来ます/来る' adalah bentuk predikat final (tidak bisa langsung + います), '来られ' adalah bentuk potensial/pasif yang tidak cocok di sini.",
+    "hint": "Pola ~ている untuk kata kerja 来る menyatakan HASIL perubahan. Te-form dari 来る (irregular verb) = ?",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n4_3_008",
+    "question": "電車に___、本を読みました。",
+    "furigana": "電車[でんしゃ]に___、本[ほん]を読[よ]みました。",
+    "romaji": "Densha ni ___, hon wo yomimashita.",
+    "level": "N4",
+    "category": "GRAMMAR",
+    "options": [
+      "乗ったら",
+      "乗って",
+      "乗れば",
+      "乗るなら"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Setelah naik kereta, saya membaca buku.",
+    "answerExplanation": "Te-form (〜て) menyatakan URUTAN AKSI — A kemudian B. '電車に乗って、本を読みました' = Naik kereta lalu membaca buku. Pilihan lain: '乗ったら' (tara) = kondisional 'jika/setelah naik'; '乗れば' (ba) = kondisional formal; '乗るなら' = kalau memang mau naik. Dalam narasi urutan biasa, て-form paling alami.",
+    "hint": "Kalimat ini menceritakan dua aksi berurutan secara alami: A → B. Bentuk apa yang menghubungkan dua aksi dalam satu narasi? (Bukan kondisional)",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_3_009",
+    "question": "このかばんは重くて、___にくいです。",
+    "furigana": "このかばんは重[おも]くて、___にくいです。",
+    "romaji": "Kono kaban wa omokute, ___ nikui desu.",
+    "level": "N4",
+    "category": "GRAMMAR",
+    "options": [
+      "持つ",
+      "持った",
+      "持って",
+      "持ち"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "Tas ini berat dan sulit untuk dibawa.",
+    "answerExplanation": "Pola '〜にくい' (nikui) = 'sulit untuk ~', dibentuk dengan MASU-STEM + にくい. Kata kerja '持つ' (motsu) → masu-form: 持ちます → masu-stem: '持ち'. Maka: 持ちにくい = sulit dibawa. Pola serupa: 読みにくい (sulit dibaca), 使いにくい (sulit digunakan). Pilihan lain: 持つ = bentuk kamus, 持った = ta-form, 持って = te-form — semuanya tidak cocok dengan pola ~にくい.",
+    "hint": "Pola ~にくい memerlukan MASU-STEM (bagian sebelum ます). Untuk 持つ → 持ちます → bagian sebelum ます adalah?",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n4_3_010",
+    "question": "約束したから、必ず___ください。",
+    "furigana": "約束[やくそく]したから、必[かなら]ず___ください。",
+    "romaji": "Yakusoku shita kara, kanarazu ___ kudasai.",
+    "level": "N4",
+    "category": "GRAMMAR",
+    "options": [
+      "来た",
+      "来られて",
+      "来て",
+      "来るの"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Karena sudah berjanji, tolong pasti datang.",
+    "answerExplanation": "Pola permintaan sopan '〜てください' dibentuk dengan te-form + ください. Te-form dari 来る (kuru, irregular) adalah '来て' (kite). Jadi: '必ず来てください' = tolong pasti datang. Pilihan lain: '来た' = bentuk lampau bukan perintah; '来られて' = te-form potensial 来られる, maknanya 'bisa datang' tidak cocok; '来るの' = nominalisasi, tidak membentuk perintah sopan.",
+    "hint": "Pola ~てください memerlukan te-form. 来る adalah irregular verb — te-form-nya bukan 来って melainkan bentuk khusus.",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_3_011",
+    "question": "「教育」の読み方として正しいのはどれですか？",
+    "furigana": "「教育[きょういく]」の読[よ]み方[かた]として正[ただ]しいのはどれですか？",
+    "romaji": "'Kyouiku' no yomikata to shite tadashii no wa dore desu ka?",
+    "level": "N4",
+    "category": "KANJI",
+    "options": [
+      "きょうしつ",
+      "きょういく",
+      "きょうかい",
+      "きょうみ"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Manakah cara baca yang benar untuk '教育'?",
+    "answerExplanation": "'教育' dibaca 'きょういく' (kyouiku) = pendidikan. Kanji '教' (kyou) = mengajar, '育' (iku) = membesarkan/menumbuhkan. Pilihan lain menggunakan kanji '教' yang sama: 'きょうしつ' = 教室 (ruang kelas), 'きょうかい' = 教会 (gereja), 'きょうみ' = 興味 (minat) — ini sebenarnya kanji berbeda (興) tapi bunyinya mirip. Penting membedakan gabungan kanji yang diawali 'きょう'.",
+    "hint": "Kanji pertama '教' dibaca 'きょう'. Kanji kedua '育' sering muncul dalam kata '体育' (taiiku). Bacaan mandiri '育' adalah?",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_3_012",
+    "question": "「運転」の読み方として正しいのはどれですか？",
+    "furigana": "「運転[うんてん]」の読[よ]み方[かた]として正[ただ]しいのはどれですか？",
+    "romaji": "'Unten' no yomikata to shite tadashii no wa dore desu ka?",
+    "level": "N4",
+    "category": "KANJI",
+    "options": [
+      "うんどう",
+      "うんめい",
+      "うんてん",
+      "うんそう"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Manakah cara baca yang benar untuk '運転'?",
+    "answerExplanation": "'運転' dibaca 'うんてん' (unten) = mengemudi/mengoperasikan. Kanji '運' (un) = membawa/nasib, '転' (ten) = berputar/berguling. Pilihan lain menggunakan kanji '運' yang sama: 'うんどう' = 運動 (olahraga/gerakan), 'うんめい' = 運命 (nasib/takdir), 'うんそう' = 運送 (pengiriman/transportasi). Semua dimulai 'うん' karena kanji 運.",
+    "hint": "Semua pilihan dimulai dengan 'うん' (dari kanji 運). Fokuslah pada kanji kedua '転'. Kanji ini juga muncul dalam kata '自転車' (jitensha = sepeda).",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_3_013",
+    "question": "「旅行」の読み方として正しいのはどれですか？",
+    "furigana": "「旅行[りょこう]」の読[よ]み方[かた]として正[ただ]しいのはどれですか？",
+    "romaji": "'Ryokou' no yomikata to shite tadashii no wa dore desu ka?",
+    "level": "N4",
+    "category": "KANJI",
+    "options": [
+      "りょかん",
+      "りょじん",
+      "りょこう",
+      "りょきゃく"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Manakah cara baca yang benar untuk '旅行'?",
+    "answerExplanation": "'旅行' dibaca 'りょこう' (ryokou) = perjalanan/wisata. Kanji '旅' (ryo) = perjalanan, '行' (kou) = pergi. Pilihan lain: 'りょかん' = 旅館 (penginapan tradisional), 'りょじん' bukan kata umum, 'りょきゃく' = 旅客 (penumpang). Penting membedakan: 旅行 (perjalanan) ≠ 旅館 (penginapan).",
+    "hint": "Semua pilihan dimulai dengan 'りょ' (dari kanji 旅). Fokuslah pada pembacaan kanji kedua '行'. Dalam kombinasi ini, '行' dibaca bagaimana?",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_3_014",
+    "question": "「工場」の読み方として正しいのはどれですか？",
+    "furigana": "「工場[こうじょう]」の読[よ]み方[かた]として正[ただ]しいのはどれですか？",
+    "romaji": "'Koujou' no yomikata to shite tadashii no wa dore desu ka?",
+    "level": "N4",
+    "category": "KANJI",
+    "options": [
+      "こうえん",
+      "こうつう",
+      "こうちょう",
+      "こうじょう"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "Manakah cara baca yang benar untuk '工場'?",
+    "answerExplanation": "'工場' dibaca 'こうじょう' (koujou) = pabrik. Kanji '工' (kou) = kerajinan/industri, '場' (jou) = tempat. Pilihan lain menggunakan awalan 'こう' yang mirip: 'こうえん' = 公園 (taman), 'こうつう' = 交通 (lalu lintas), 'こうちょう' = 校長 (kepala sekolah). Semua kanji pertamanya berbeda meskipun bunyinya sama-sama 'こう'.",
+    "hint": "Kanji '場' sering dibaca 'じょう' dalam kata majemuk (seperti 駐車場 = ちゅうしゃじょう). Kanji pertama '工' dibaca 'こう'. Gabungkan keduanya.",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n4_3_015",
+    "question": "「手紙」の読み方として正しいのはどれですか？",
+    "furigana": "「手紙[てがみ]」の読[よ]み方[かた]として正[ただ]しいのはどれですか？",
+    "romaji": "'Tegami' no yomikata to shite tadashii no wa dore desu ka?",
+    "level": "N4",
+    "category": "KANJI",
+    "options": [
+      "てじゅん",
+      "てほん",
+      "てがき",
+      "てがみ"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "Manakah cara baca yang benar untuk '手紙'?",
+    "answerExplanation": "'手紙' dibaca 'てがみ' (tegami) = surat. Kanji '紙' biasanya dibaca 'かみ' (kertas), tetapi dalam '手紙' menjadi 'がみ' karena rendaku (perubahan konsonan). Pilihan lain menggunakan kanji '手' (te): 'てじゅん' = 手順 (prosedur), 'てほん' = 手本 (contoh/teladan), 'てがき' = 手書き (tulisan tangan).",
+    "hint": "Semua pilihan dimulai dengan 'て' (dari kanji 手). Fokus pada kanji '紙' — bacaan dasarnya 'かみ' tapi dalam gabungan bisa berubah karena rendaku.",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_3_016",
+    "question": "昨日、家族で動物園へ行きました。いろいろな動物を見ました。象は大きくて、猿は面白かったです。一番好きだったのはパンダです。とてもかわいかったです。\n\n質問：この人が動物園について言っていないことはどれですか。",
+    "furigana": "昨日[きのう]、家族[かぞく]で動物園[どうぶつえん]へ行[い]きました。いろいろな動物[どうぶつ]を見[み]ました。象[ぞう]は大[おお]きくて、猿[さる]は面白[おもしろ]かったです。一番[いちばん]好[す]きだったのはパンダです。とてもかわいかったです。\n\n質問[しつもん]：この人[ひと]が動物園[どうぶつえん]について言[い]っていないことはどれですか。",
+    "romaji": "Kinou, kazoku de doubutsuen e ikimashita. Iroiro na doubutsu wo mimashita. Zou wa ookikute, saru wa omoshirokatta desu. Ichiban suki datta no wa panda desu. Totemo kawaikatta desu.\n\nShitsumon: Kono hito ga doubutsuen ni tsuite itte inai koto wa dore desu ka.",
+    "level": "N4",
+    "category": "READING",
+    "options": [
+      "パンダが一番好きだった",
+      "象は大きかった",
+      "動物園は混んでいた",
+      "猿は面白かった"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Kemarin, saya pergi ke kebun binatang dengan keluarga. Melihat berbagai binatang. Gajah besar, dan monyet menarik. Yang paling saya sukai adalah panda. Sangat lucu.\n\nPertanyaan: Hal mana yang TIDAK disebutkan oleh orang ini tentang kebun binatang?",
+    "answerExplanation": "Pertanyaan mencari info yang TIDAK ada dalam teks. (A) パンダが一番好き ✓ ada; (B) 象は大きい ✓ ada; (D) 猿は面白い ✓ ada. Yang tidak disebutkan: (C) 動物園は混んでいた (kebun binatang ramai) — tidak ada di teks sama sekali.",
+    "hint": "Baca teks dengan teliti dan eliminasi pilihan yang memang disebutkan. Satu pilihan membahas kondisi tempat yang sama sekali tidak disinggung penulis.",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_3_017",
+    "question": "来週の水曜日、学校で音楽会があります。午後2時から4時までです。参加したい人は、今週中に先生に言ってください。\n\n質問：参加したい人はどうしなければなりませんか。",
+    "furigana": "来週[らいしゅう]の水曜日[すいようび]、学校[がっこう]で音楽会[おんがくかい]があります。午後[ごご]2時[にじ]から4時[よじ]までです。参加[さんか]したい人[ひと]は、今週[こんしゅう]中[じゅう]に先生[せんせい]に言[い]ってください。\n\n質問[しつもん]：参加[さんか]したい人[ひと]はどうしなければなりませんか。",
+    "romaji": "Raishuu no suiyoubi, gakkou de ongakukai ga arimasu. Gogo ni-ji kara yo-ji made desu. Sanka shitai hito wa, konshuuchuu ni sensei ni itte kudasai.\n\nShitsumon: Sanka shitai hito wa dou shinakereba narimasen ka.",
+    "level": "N4",
+    "category": "READING",
+    "options": [
+      "来週の水曜日に学校へ行く",
+      "今週中に先生に知らせる",
+      "午後2時前に学校に着く",
+      "友達を誘って一緒に参加する"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Rabu depan, akan ada konser musik di sekolah. Dari jam 2 sore sampai jam 4. Orang yang ingin ikut, harap memberi tahu guru minggu ini.\n\nPertanyaan: Apa yang harus dilakukan oleh orang yang ingin berpartisipasi?",
+    "answerExplanation": "Teks menyatakan: '参加したい人は、今週中に先生に言ってください' = yang ingin ikut harus memberi tahu guru minggu ini. (A) salah — pergi ke sekolah Rabu bukan syarat khusus peserta; (C) waktu tiba tidak disebutkan; (D) mengajak teman tidak disebutkan.",
+    "hint": "Cari kalimat yang berisi instruksi spesifik untuk '参加したい人は〜'. Kata kunci ada di kalimat terakhir teks.",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_3_018",
+    "question": "田中さんへ\n先週借りた本を返します。ありがとうございました。とても面白かったです。今度、一緒に映画を見に行きませんか。\n山田より\n\n質問：この手紙について正しいのはどれですか。",
+    "furigana": "田中[たなか]さんへ\n先週[せんしゅう]借[か]りた本[ほん]を返[かえ]します。ありがとうございました。とても面白[おもしろ]かったです。今度[こんど]、一緒[いっしょ]に映画[えいが]を見[み]に行[い]きませんか。\n山田[やまだ]より\n\n質問[しつもん]：この手紙[てがみ]について正[ただ]しいのはどれですか。",
+    "romaji": "Tanaka-san e\nSenshuu karita hon wo kaeshimasu. Arigatou gozaimashita. Totemo omoshirokatta desu. Kondo, issho ni eiga wo mi ni ikimasen ka.\nYamada yori\n\nShitsumon: Kono tegami ni tsuite tadashii no wa dore desu ka.",
+    "level": "N4",
+    "category": "READING",
+    "options": [
+      "山田さんは田中さんに本を借りたい",
+      "山田さんは田中さんと映画を見に行くつもりだ",
+      "山田さんは田中さんに本を返し、映画に誘っている",
+      "山田さんは田中さんへのお礼だけを伝えている"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Untuk Tanaka-san,\nSaya akan mengembalikan buku yang saya pinjam minggu lalu. Terima kasih. Sangat menarik. Lain kali, mau pergi nonton film bersama?\nDari Yamada\n\nPertanyaan: Manakah yang benar tentang surat ini?",
+    "answerExplanation": "Surat memiliki dua tujuan: (1) mengembalikan buku '先週借りた本を返します' dan (2) mengajak nonton film '映画を見に行きませんか'. (A) salah — Yamada mengembalikan, bukan meminjam; (B) 'つもり' berarti sudah pasti, padahal ini hanya ajakan; (D) tidak lengkap — ada juga ajakan film.",
+    "hint": "Baca keseluruhan surat. Yamada menyampaikan lebih dari satu hal. Pilihan mana yang mencakup SEMUA isi surat secara akurat?",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_3_019",
+    "question": "駅前の新しいカフェは、コーヒーがおいしくて、値段も安いです。それに、静かで勉強しやすいです。学生がよく利用しています。\n\n質問：このカフェについて正しくないのはどれですか。",
+    "furigana": "駅前[えきまえ]の新[あたら]しいカフェは、コーヒーがおいしくて、値段[ねだん]も安[やす]いです。それに、静[しず]かで勉強[べんきょう]しやすいです。学生[がくせい]がよく利用[りよう]しています。\n\n質問[しつもん]：このカフェについて正[ただ]しくないのはどれですか。",
+    "romaji": "Ekimae no atarashii kafe wa, koohii ga oishikute, nedan mo yasui desu. Sore ni, shizuka de benkyou shiyasui desu. Gakusei ga yoku riyou shite imasu.\n\nShitsumon: Kono kafe ni tsuite tadashikunai no wa dore desu ka.",
+    "level": "N4",
+    "category": "READING",
+    "options": [
+      "コーヒーがおいしい",
+      "値段が安い",
+      "駅から遠い場所にある",
+      "学生がよく使っている"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Kafe baru di depan stasiun, kopinya enak dan harganya murah. Selain itu, tenang dan mudah untuk belajar. Banyak siswa yang memanfaatkannya.\n\nPertanyaan: Manakah yang TIDAK benar tentang kafe ini?",
+    "answerExplanation": "Teks menyebutkan '駅前' (depan stasiun) = DEKAT stasiun. (A) コーヒーがおいしい ✓; (B) 値段も安い ✓; (D) 学生がよく利用している ✓. (C) '駅から遠い' (jauh dari stasiun) langsung bertentangan dengan '駅前'.",
+    "hint": "Ini pertanyaan 'mana yang SALAH'. Perhatikan kata '駅前' di kalimat pertama — apa artinya dan apakah cocok dengan salah satu pilihan?",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_3_020",
+    "question": "A: 「今週末、海へ行きませんか。」\nB: 「いいですね。でも、天気が心配です。」\nA: 「大丈夫ですよ。天気予報によると、晴れるそうです。」\n\n質問：この会話から正しいことはどれですか。",
+    "furigana": "A: 「今週末[こんしゅうまつ]、海[うみ]へ行[い]きませんか。」\nB: 「いいですね。でも、天気[てんき]が心配[しんぱい]です。」\nA: 「大丈夫[だいじょうぶ]ですよ。天気予報[てんきよほう]によると、晴[は]れるそうです。」\n\n質問[しつもん]：この会話[かいわ]から正[ただ]しいことはどれですか。",
+    "romaji": "A: 'Konshuumatsu, umi e ikimasen ka.'\nB: 'Ii desu ne. Demo, tenki ga shinpai desu.'\nA: 'Daijoubu desu yo. Tenkiyohou ni yoru to, hareru sou desu.'\n\nShitsumon: Kono kaiwa kara tadashii koto wa dore desu ka.",
+    "level": "N4",
+    "category": "READING",
+    "options": [
+      "Bは海に行きたくない",
+      "Aは天気予報を確認した",
+      "天気予報では雨になるそうだ",
+      "BはAの誘いを断った"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "A: 'Akhir pekan ini, mau pergi ke pantai?'\nB: 'Bagus. Tapi, khawatir cuacanya.'\nA: 'Tidak apa-apa. Menurut ramalan cuaca, katanya cerah.'\n\nPertanyaan: Manakah yang benar berdasarkan percakapan ini?",
+    "answerExplanation": "(B) benar: A mengutip ramalan cuaca '天気予報によると' yang artinya A sudah mengeceknya. (A) salah — B bilang 'いいですね' = tertarik, bukan menolak; (C) salah — ramalan bilang 晴れる (cerah), bukan hujan; (D) salah — B tidak menolak, hanya khawatir.",
+    "hint": "Perhatikan kalimat A yang terakhir: '天気予報によると〜'. Frasa 'によると' berarti 'menurut (sumber)'. Apa yang bisa disimpulkan dari fakta bahwa A mengutip ramalan cuaca?",
+    "difficultyScore": 3
+  }
+]

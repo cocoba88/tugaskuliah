@@ -1,0 +1,572 @@
+[
+  {
+    "id": "question_n2_3_001",
+    "question": "「矛盾」の意味は？",
+    "furigana": "「矛盾[むじゅん]」の意味[いみ]は？",
+    "romaji": "'Mujun' no imi wa?",
+    "level": "N2",
+    "category": "VOCABULARY",
+    "options": [
+      "Harmoni",
+      "Kontradiksi",
+      "Kecemasan",
+      "Konsistensi"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Apa arti '矛盾'?",
+    "answerExplanation": "'矛盾' (mujun) berarti kontradiksi atau pertentangan, yaitu keadaan di mana dua hal saling bertentangan dan tidak bisa benar secara bersamaan. Kanji 矛 berarti tombak dan 盾 berarti perisai, berasal dari cerita Tiongkok kuno tentang pedagang yang mengklaim tombaknya bisa menembus apa saja dan perisainya bisa menahan apa saja.",
+    "hint": "Dua hal yang saling bertentangan dan tidak bisa benar bersamaan",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_3_002",
+    "question": "新しい制度は経済成長を___する効果がある。",
+    "furigana": "新[あたら]しい制度[せいど]は経済[けいざい]成長[せいちょう]を___する効果[こうか]がある。",
+    "romaji": "Atarashii seido wa keizai seichou wo ___ suru kouka ga aru.",
+    "level": "N2",
+    "category": "VOCABULARY",
+    "options": [
+      "妨害",
+      "促進",
+      "抑制",
+      "停滞"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Sistem baru ini memiliki efek untuk ___ pertumbuhan ekonomi.",
+    "answerExplanation": "'促進' (sokushin) berarti percepatan, mendorong, atau mempromosikan. Dalam konteks ini, sistem baru memiliki efek untuk mempercepat/mendorong pertumbuhan ekonomi. '妨害' berarti menghalangi, '抑制' berarti menekan, dan '停滞' berarti stagnasi.",
+    "hint": "Mendorong sesuatu agar berkembang lebih cepat",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_3_003",
+    "question": "状況を正確に___することが重要だ。",
+    "furigana": "状況[じょうきょう]を正確[せいかく]に___することが重要[じゅうよう]だ。",
+    "romaji": "Joukyou wo seikaku ni ___ suru koto ga juuyou da.",
+    "level": "N2",
+    "category": "VOCABULARY",
+    "options": [
+      "処理",
+      "把握",
+      "展開",
+      "設定"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Penting untuk ___ situasi secara akurat.",
+    "answerExplanation": "'把握' (haaku) berarti pemahaman, penguasaan, atau memahami secara menyeluruh. Dalam konteks ini, penting untuk memahami/menguasai situasi secara akurat. '処理' berarti memproses, '展開' berarti mengembangkan, '設定' berarti mengatur.",
+    "hint": "Memahami dan menguasai sesuatu secara menyeluruh",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_3_004",
+    "question": "最近、地球温暖化の影響が___になっている。",
+    "furigana": "最近[さいきん]、地球[ちきゅう]温暖化[おんだんか]の影響[えいきょう]が___になっている。",
+    "romaji": "Saikin, chikyuu ondanka no eikyou ga ___ ni natte iru.",
+    "level": "N2",
+    "category": "VOCABULARY",
+    "options": [
+      "明瞭",
+      "顕著",
+      "微妙",
+      "曖昧"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Akhir-akhir ini, dampak pemanasan global menjadi ___.",
+    "answerExplanation": "'顕著' (kencho) berarti menonjol, jelas terlihat, atau sangat nyata. Dalam konteks ini, dampak pemanasan global menjadi semakin menonjol/nyata. '明瞭' berarti jelas, '微妙' berarti halus/samar, '曖昧' berarti ambigu.",
+    "hint": "Terlihat sangat jelas dan mencolok",
+    "difficultyScore": 6
+  },
+  {
+    "id": "question_n2_3_005",
+    "question": "___を持たずに相手の話を聞くべきだ。",
+    "furigana": "___を持[も]たずに相手[あいて]の話[はなし]を聞[き]くべきだ。",
+    "romaji": "___ wo motazu ni aite no hanashi wo kiku beki da.",
+    "level": "N2",
+    "category": "VOCABULARY",
+    "options": [
+      "偏見",
+      "信念",
+      "感想",
+      "意欲"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Kita harus mendengarkan cerita lawan bicara tanpa memiliki ___.",
+    "answerExplanation": "'偏見' (henken) berarti prasangka atau pandangan yang berat sebelah. Kalimat ini menyatakan bahwa kita harus mendengarkan orang lain tanpa prasangka. '信念' berarti keyakinan, '感想' berarti kesan, '意欲' berarti motivasi.",
+    "hint": "Pandangan negatif yang sudah terbentuk sebelum mengetahui faktanya",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_3_006",
+    "question": "「承認」の読み方は？",
+    "furigana": "「承認[しょうにん]」の読[よ]み方[かた]は？",
+    "romaji": "'Shounin' no yomikata wa?",
+    "level": "N2",
+    "category": "KANJI",
+    "options": [
+      "じょうにん",
+      "しょうにん",
+      "せいにん",
+      "しょうみん"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Bagaimana cara baca '承認'?",
+    "answerExplanation": "'承認' dibaca 'しょうにん' (shounin) yang berarti persetujuan, pengesahan, atau pengakuan resmi. Kanji 承 (shou) berarti menerima/mewarisi, dan 認 (nin) berarti mengakui.",
+    "hint": "Shou + nin",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_3_007",
+    "question": "「慎重」の読み方は？",
+    "furigana": "「慎重[しんちょう]」の読[よ]み方[かた]は？",
+    "romaji": "'Shinchou' no yomikata wa?",
+    "level": "N2",
+    "category": "KANJI",
+    "options": [
+      "しんちょう",
+      "しんじゅう",
+      "ちんちょう",
+      "じんちょう"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Bagaimana cara baca '慎重'?",
+    "answerExplanation": "'慎重' dibaca 'しんちょう' (shinchou) yang berarti hati-hati, cermat, atau berhati-hati dalam bertindak. Kanji 慎 (shin) berarti berhati-hati, dan 重 (chou) berarti berat/penting.",
+    "hint": "Shin + chou",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_3_008",
+    "question": "「需要」の読み方は？",
+    "furigana": "「需要[じゅよう]」の読[よ]み方[かた]は？",
+    "romaji": "'Juyou' no yomikata wa?",
+    "level": "N2",
+    "category": "KANJI",
+    "options": [
+      "しゅよう",
+      "じゅよう",
+      "すよう",
+      "じゅうよう"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Bagaimana cara baca '需要'?",
+    "answerExplanation": "'需要' dibaca 'じゅよう' (juyou) yang berarti permintaan (dalam konteks ekonomi), kebutuhan pasar. Kanji 需 (ju) berarti memerlukan, dan 要 (you) berarti penting/perlu. Jangan tertukar dengan '重要' (juuyou) yang berarti penting.",
+    "hint": "Ju + you (bukan juu + you)",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_3_009",
+    "question": "「頻繁」の読み方は？",
+    "furigana": "「頻繁[ひんぱん]」の読[よ]み方[かた]は？",
+    "romaji": "'Hinpan' no yomikata wa?",
+    "level": "N2",
+    "category": "KANJI",
+    "options": [
+      "ひんぱん",
+      "ひんはん",
+      "びんぱん",
+      "ひんばん"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Bagaimana cara baca '頻繁'?",
+    "answerExplanation": "'頻繁' dibaca 'ひんぱん' (hinpan) yang berarti sering, frekuen, atau berulang-ulang. Kanji 頻 (hin) berarti sering/frekuensi, dan 繁 (pan) berarti ramai/banyak. Perhatikan bahwa 繁 dibaca 'ぱん' (dengan handakuten) bukan 'はん'.",
+    "hint": "Hin + pan (p, bukan h)",
+    "difficultyScore": 6
+  },
+  {
+    "id": "question_n2_3_010",
+    "question": "「膨大」の読み方は？",
+    "furigana": "「膨大[ぼうだい]」の読[よ]み方[かた]は？",
+    "romaji": "'Boudai' no yomikata wa?",
+    "level": "N2",
+    "category": "KANJI",
+    "options": [
+      "ほうだい",
+      "ぼうだい",
+      "ぼうたい",
+      "ふくだい"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Bagaimana cara baca '膨大'?",
+    "answerExplanation": "'膨大' dibaca 'ぼうだい' (boudai) yang berarti sangat besar, sangat banyak, atau membengkak. Kanji 膨 (bou) berarti membengkak/mengembang, dan 大 (dai) berarti besar. Kata ini sering digunakan untuk menggambarkan jumlah data, biaya, atau informasi yang sangat banyak.",
+    "hint": "Bou + dai",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_3_011",
+    "question": "上司の意見___、反対意見を述べた。",
+    "furigana": "上司[じょうし]の意見[いけん]___、反対[はんたい]意見[いけん]を述[の]べた。",
+    "romaji": "Joushi no iken ___, hantai iken wo nobeta.",
+    "level": "N2",
+    "category": "GRAMMAR",
+    "options": [
+      "に関して",
+      "に対して",
+      "について",
+      "によって"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Saya menyampaikan pendapat yang berlawanan terhadap pendapat atasan.",
+    "answerExplanation": "'〜に対して' (ni taishite) berarti 'terhadap' atau 'kepada', digunakan untuk menunjukkan target dari suatu tindakan atau sikap. Dalam konteks ini, pendapat yang berlawanan ditujukan 'terhadap' pendapat atasan. '〜に関して' berarti 'mengenai', '〜について' berarti 'tentang', '〜によって' berarti 'oleh/tergantung pada'.",
+    "hint": "Menunjukkan sasaran dari suatu tindakan atau sikap berlawanan",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_3_012",
+    "question": "約束した___、必ず守るべきだ。",
+    "furigana": "約束[やくそく]した___、必[かなら]ず守[まも]るべきだ。",
+    "romaji": "Yakusoku shita ___, kanarazu mamoru beki da.",
+    "level": "N2",
+    "category": "GRAMMAR",
+    "options": [
+      "ものだから",
+      "ばかりか",
+      "からには",
+      "としても"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Karena sudah berjanji, seharusnya pasti ditepati.",
+    "answerExplanation": "'〜からには' (kara ni wa) berarti 'karena sudah.../begitu sudah...' dan mengandung nuansa tekad atau tanggung jawab. Pola ini digunakan ketika seseorang sudah memutuskan atau melakukan sesuatu, maka harus bertanggung jawab. Berbeda dengan '〜ものだから' yang digunakan untuk alasan/pembenaran, '〜からには' menekankan kewajiban setelah keputusan dibuat.",
+    "hint": "Begitu sudah melakukan sesuatu, maka harus bertanggung jawab",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_3_013",
+    "question": "彼女は日本語___、英語も中国語も話せる。",
+    "furigana": "彼女[かのじょ]は日本語[にほんご]___、英語[えいご]も中国語[ちゅうごくご]も話[はな]せる。",
+    "romaji": "Kanojo wa nihongo ___, eigo mo chuugokugo mo hanaseru.",
+    "level": "N2",
+    "category": "GRAMMAR",
+    "options": [
+      "はもとより",
+      "にしたら",
+      "としたら",
+      "にしても"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Dia bisa berbicara bahasa Jepang, dan tidak hanya itu, bahasa Inggris dan Tionghoa juga.",
+    "answerExplanation": "'〜はもとより' (wa motoyori) berarti 'tidak hanya... tapi juga' atau 'sudah tentu..., dan juga...'. Pola ini menunjukkan bahwa hal pertama sudah jelas/pasti, dan hal kedua juga berlaku. Dalam konteks ini, bahasa Jepang sudah pasti bisa, ditambah bahasa Inggris dan Tionghoa juga.",
+    "hint": "Hal pertama sudah jelas, ditambah hal lain yang juga berlaku",
+    "difficultyScore": 6
+  },
+  {
+    "id": "question_n2_3_014",
+    "question": "電車が遅れた___、遅刻してしまった。",
+    "furigana": "電車[でんしゃ]が遅[おく]れた___、遅刻[ちこく]してしまった。",
+    "romaji": "Densha ga okureta ___, chikoku shite shimatta.",
+    "level": "N2",
+    "category": "GRAMMAR",
+    "options": [
+      "からには",
+      "ばかりか",
+      "ものだから",
+      "に対して"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Karena kereta terlambat, saya jadi terlambat.",
+    "answerExplanation": "'〜ものだから' (mono dakara) digunakan untuk memberikan alasan atau pembenaran, seringkali bernuansa membuat alasan (excuse). Pola ini menunjukkan bahwa hasilnya tidak disengaja dan terjadi karena suatu sebab di luar kontrol. Dalam konteks ini, pembicara memberikan alasan keterlambatannya karena kereta yang terlambat.",
+    "hint": "Memberikan alasan atau pembenaran atas sesuatu yang terjadi",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_3_015",
+    "question": "成績が下がる___、友達との関係も悪くなった。",
+    "furigana": "成績[せいせき]が下[さ]がる___、友達[ともだち]との関係[かんけい]も悪[わる]くなった。",
+    "romaji": "Seiseki ga sagaru ___, tomodachi to no kankei mo waruku natta.",
+    "level": "N2",
+    "category": "GRAMMAR",
+    "options": [
+      "はもとより",
+      "ばかりか",
+      "ものだから",
+      "からには"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Tidak hanya nilainya turun, hubungan dengan teman-teman juga memburuk.",
+    "answerExplanation": "'〜ばかりか' (bakari ka) berarti 'tidak hanya... tapi juga...' dengan nuansa negatif, menunjukkan bahwa situasi buruk bertambah parah. Pola ini digunakan ketika hal buruk pertama saja sudah cukup, tetapi ditambah hal buruk lainnya. Berbeda dengan '〜はもとより' yang lebih netral, '〜ばかりか' cenderung digunakan dalam konteks negatif.",
+    "hint": "Tidak hanya satu hal buruk, tapi ditambah hal buruk lainnya",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_3_016",
+    "question": "この問題___、詳しく調査する必要がある。",
+    "furigana": "この問題[もんだい]___、詳[くわ]しく調査[ちょうさ]する必要[ひつよう]がある。",
+    "romaji": "Kono mondai ___, kuwashiku chousa suru hitsuyou ga aru.",
+    "level": "N2",
+    "category": "GRAMMAR",
+    "options": [
+      "に対して",
+      "を通じて",
+      "に関して",
+      "からには"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Mengenai masalah ini, perlu dilakukan penyelidikan secara detail.",
+    "answerExplanation": "'〜に関して' (ni kanshite) berarti 'mengenai', 'berkaitan dengan', atau 'sehubungan dengan'. Pola ini digunakan untuk menunjukkan topik atau hal yang menjadi pokok pembicaraan. Dalam konteks ini, penyelidikan dilakukan 'mengenai/berkaitan dengan' masalah tersebut. Lebih formal dibandingkan '〜について'.",
+    "hint": "Menunjukkan topik yang menjadi pokok pembicaraan (formal)",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_3_017",
+    "question": "ボランティア活動___、多くのことを学んだ。",
+    "furigana": "ボランティア活動[かつどう]___、多[おお]くのことを学[まな]んだ。",
+    "romaji": "Borantia katsudou ___, ooku no koto wo mananda.",
+    "level": "N2",
+    "category": "GRAMMAR",
+    "options": [
+      "に関して",
+      "に対して",
+      "を通じて",
+      "はもとより"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Melalui kegiatan sukarelawan, saya belajar banyak hal.",
+    "answerExplanation": "'〜を通じて' (wo tsuujite) atau '〜を通して' (wo tooshite) berarti 'melalui' atau 'lewat'. Pola ini menunjukkan sarana, media, atau proses yang digunakan untuk mencapai sesuatu. Dalam konteks ini, kegiatan sukarelawan menjadi 'sarana/media' untuk belajar banyak hal.",
+    "hint": "Menunjukkan sarana atau cara untuk mencapai suatu hasil",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_3_018",
+    "question": "次の文章を読んで、質問に答えてください。\n\n最近の研究によると、睡眠の質と仕事の生産性には密接な関係があることが明らかになった。特に、深い睡眠の時間が短い人は、集中力が低下し、ミスが増える傾向がある。また、睡眠不足が続くと、創造的な思考力も著しく低下することがわかった。研究チームは、一日7〜8時間の睡眠を確保し、就寝前のスマートフォンの使用を控えることを推奨している。さらに、定期的な運動が睡眠の質を向上させる効果があることも報告された。\n\n研究で明らかになったことは何ですか。",
+    "furigana": "次[つぎ]の文章[ぶんしょう]を読[よ]んで、質問[しつもん]に答[こた]えてください。\n\n最近[さいきん]の研究[けんきゅう]によると、睡眠[すいみん]の質[しつ]と仕事[しごと]の生産性[せいさんせい]には密接[みっせつ]な関係[かんけい]があることが明[あき]らかになった。特[とく]に、深[ふか]い睡眠[すいみん]の時間[じかん]が短[みじか]い人[ひと]は、集中力[しゅうちゅうりょく]が低下[ていか]し、ミスが増[ふ]える傾向[けいこう]がある。また、睡眠[すいみん]不足[ぶそく]が続[つづ]くと、創造的[そうぞうてき]な思考力[しこうりょく]も著[いちじる]しく低下[ていか]することがわかった。研究[けんきゅう]チームは、一日[いちにち]7〜8時間[じかん]の睡眠[すいみん]を確保[かくほ]し、就寝前[しゅうしんまえ]のスマートフォンの使用[しよう]を控[ひか]えることを推奨[すいしょう]している。さらに、定期的[ていきてき]な運動[うんどう]が睡眠[すいみん]の質[しつ]を向上[こうじょう]させる効果[こうか]があることも報告[ほうこく]された。\n\n研究[けんきゅう]で明[あき]らかになったことは何[なん]ですか。",
+    "romaji": "Tsugi no bunshou wo yonde, shitsumon ni kotaete kudasai.\n\nSaikin no kenkyuu ni yoru to, suimin no shitsu to shigoto no seisansei ni wa missetsu na kankei ga aru koto ga akiraka ni natta. Toku ni, fukai suimin no jikan ga mijikai hito wa, shuuchuuryoku ga teika shi, misu ga fueru keikou ga aru. Mata, suimin busoku ga tsuzuku to, souzouteki na shikouryoku mo ichijirushiku teika suru koto ga wakatta. Kenkyuu chiimu wa, ichinichi 7-8 jikan no suimin wo kakuho shi, shuushin mae no sumaatofon no shiyou wo hikaeru koto wo suishou shite iru. Sarani, teikiteki na undou ga suimin no shitsu wo koujou saseru kouka ga aru koto mo houkoku sareta.\n\nKenkyuu de akiraka ni natta koto wa nan desu ka.",
+    "level": "N2",
+    "category": "READING",
+    "options": [
+      "睡眠時間は短くても生産性に影響しない",
+      "睡眠の質と仕事の生産性には密接な関係がある",
+      "スマートフォンの使用は睡眠に影響しない",
+      "運動は睡眠の質を低下させる"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Bacalah teks berikut dan jawab pertanyaannya.\n\nMenurut penelitian terbaru, telah terungkap bahwa ada hubungan erat antara kualitas tidur dan produktivitas kerja. Khususnya, orang yang memiliki waktu tidur nyenyak yang pendek cenderung mengalami penurunan konsentrasi dan peningkatan kesalahan. Selain itu, jika kurang tidur berlanjut, kemampuan berpikir kreatif juga menurun secara signifikan. Tim peneliti merekomendasikan untuk memastikan tidur 7-8 jam sehari dan mengurangi penggunaan smartphone sebelum tidur. Selain itu, juga dilaporkan bahwa olahraga teratur memiliki efek meningkatkan kualitas tidur.\n\nApa yang terungkap dari penelitian tersebut?",
+    "answerExplanation": "Jawaban yang benar adalah 'Kualitas tidur dan produktivitas kerja memiliki hubungan yang erat'. Kalimat pertama teks secara langsung menyatakan '睡眠の質と仕事の生産性には密接な関係がある' (ada hubungan erat antara kualitas tidur dan produktivitas kerja). Pilihan lain bertentangan dengan isi teks.",
+    "hint": "Perhatikan kalimat pertama teks tentang temuan utama penelitian",
+    "difficultyScore": 6
+  },
+  {
+    "id": "question_n2_3_019",
+    "question": "次の文章を読んで、質問に答えてください。\n\nお知らせ：奨学金申請手続きの変更について\n\n来年度より、奨学金の申請手続きが以下の通り変更されます。従来は書類の郵送のみで受け付けていましたが、今後はオンラインでの申請が必須となります。また、申請に必要な書類として、成績証明書に加え、指導教授からの推薦状が新たに必要になります。申請期間は4月1日から4月30日までで、締め切り後の申請は一切受け付けません。なお、経済的に困難な状況にある学生を優先的に選考する方針に変わりはありません。詳細は学生課窓口またはウェブサイトでご確認ください。\n\n新しい申請手続きで追加された要件は何ですか。",
+    "furigana": "次[つぎ]の文章[ぶんしょう]を読[よ]んで、質問[しつもん]に答[こた]えてください。\n\nお知[し]らせ：奨学金[しょうがくきん]申請[しんせい]手続[てつづ]きの変更[へんこう]について\n\n来年度[らいねんど]より、奨学金[しょうがくきん]の申請[しんせい]手続[てつづ]きが以下[いか]の通[とお]り変更[へんこう]されます。従来[じゅうらい]は書類[しょるい]の郵送[ゆうそう]のみで受[う]け付[つ]けていましたが、今後[こんご]はオンラインでの申請[しんせい]が必須[ひっす]となります。また、申請[しんせい]に必要[ひつよう]な書類[しょるい]として、成績[せいせき]証明書[しょうめいしょ]に加[くわ]え、指導[しどう]教授[きょうじゅ]からの推薦状[すいせんじょう]が新[あら]たに必要[ひつよう]になります。申請[しんせい]期間[きかん]は4月[がつ]1日[ついたち]から4月[がつ]30日[にち]までで、締[し]め切[き]り後[ご]の申請[しんせい]は一切[いっさい]受[う]け付[つ]けません。なお、経済的[けいざいてき]に困難[こんなん]な状況[じょうきょう]にある学生[がくせい]を優先的[ゆうせんてき]に選考[せんこう]する方針[ほうしん]に変[か]わりはありません。詳細[しょうさい]は学生課[がくせいか]窓口[まどぐち]またはウェブサイトでご確認[かくにん]ください。\n\n新[あたら]しい申請[しんせい]手続[てつづ]きで追加[ついか]された要件[ようけん]は何[なん]ですか。",
+    "romaji": "Tsugi no bunshou wo yonde, shitsumon ni kotaete kudasai.\n\nOshirase: Shougakukin shinsei tetsuzuki no henkou ni tsuite\n\nRainendo yori, shougakukin no shinsei tetsuzuki ga ika no toori henkou saremasu. Juurai wa shorui no yuusou nomi de uketsukete imashita ga, kongo wa onrain de no shinsei ga hissu to narimasu. Mata, shinsei ni hitsuyou na shorui to shite, seiseki shoumeisho ni kuwae, shidou kyouju kara no suisenjou ga arata ni hitsuyou ni narimasu. Shinsei kikan wa shigatsu tsuitachi kara shigatsu sanjuunichi made de, shimekiri go no shinsei wa issai uketsukemasen. Nao, keizaiteki ni konnan na joukyou ni aru gakusei wo yuusenteki ni senkou suru houshin ni kawari wa arimasen. Shousai wa gakuseika madoguchi matawa webusaito de go kakunin kudasai.\n\nAtarashii shinsei tetsuzuki de tsuika sareta youken wa nan desu ka.",
+    "level": "N2",
+    "category": "READING",
+    "options": [
+      "成績証明書の提出",
+      "指導教授からの推薦状",
+      "経済状況の証明書",
+      "郵送での書類提出"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Bacalah teks berikut dan jawab pertanyaannya.\n\nPengumuman: Tentang Perubahan Prosedur Pendaftaran Beasiswa\n\nMulai tahun ajaran depan, prosedur pendaftaran beasiswa akan diubah sebagai berikut. Sebelumnya hanya diterima melalui pengiriman dokumen pos, namun mulai sekarang pendaftaran online menjadi wajib. Selain itu, sebagai dokumen yang diperlukan untuk pendaftaran, selain transkrip nilai, surat rekomendasi dari dosen pembimbing juga menjadi persyaratan baru. Periode pendaftaran dari 1 April hingga 30 April, dan pendaftaran setelah batas waktu tidak diterima sama sekali. Kebijakan untuk memprioritaskan mahasiswa dalam kondisi ekonomi sulit tidak berubah. Untuk detail, silakan periksa di loket bagian kemahasiswaan atau situs web.\n\nApa persyaratan yang ditambahkan dalam prosedur pendaftaran baru?",
+    "answerExplanation": "Jawaban yang benar adalah 'Surat rekomendasi dari dosen pembimbing'. Teks menyebutkan '指導教授からの推薦状が新たに必要になります' (surat rekomendasi dari dosen pembimbing menjadi persyaratan baru). Kata kunci '新たに' (baru) menunjukkan bahwa ini adalah persyaratan tambahan. Transkrip nilai sudah ada dari sebelumnya (成績証明書に加え = selain transkrip nilai).",
+    "hint": "Cari kata '新たに' (baru) yang menunjukkan persyaratan tambahan",
+    "difficultyScore": 6
+  },
+  {
+    "id": "question_n2_3_020",
+    "question": "次の文章を読んで、質問に答えてください。\n\n『二つの故郷』という小説の書評が新聞に掲載された。この小説は、日本で育ったブラジル人の青年が、自分のアイデンティティに悩みながらも、両方の文化を受け入れていく過程を描いている。評者は、「作者の繊細な筆致によって、文化の間で揺れ動く主人公の心情が見事に表現されている。特に、二つの文化を対立ではなく共存として捉える結末は、現代の多文化社会に重要なメッセージを投げかけている」と述べている。ただし、「中盤の展開がやや冗長で、読者の集中力が途切れる恐れがある」とも指摘している。\n\n評者のこの小説に対する全体的な評価はどれですか。",
+    "furigana": "次[つぎ]の文章[ぶんしょう]を読[よ]んで、質問[しつもん]に答[こた]えてください。\n\n『二[ふた]つの故郷[こきょう]』という小説[しょうせつ]の書評[しょひょう]が新聞[しんぶん]に掲載[けいさい]された。この小説[しょうせつ]は、日本[にほん]で育[そだ]ったブラジル人[じん]の青年[せいねん]が、自分[じぶん]のアイデンティティに悩[なや]みながらも、両方[りょうほう]の文化[ぶんか]を受[う]け入[い]れていく過程[かてい]を描[えが]いている。評者[ひょうしゃ]は、「作者[さくしゃ]の繊細[せんさい]な筆致[ひっち]によって、文化[ぶんか]の間[あいだ]で揺[ゆ]れ動[うご]く主人公[しゅじんこう]の心情[しんじょう]が見事[みごと]に表現[ひょうげん]されている。特[とく]に、二[ふた]つの文化[ぶんか]を対立[たいりつ]ではなく共存[きょうぞん]として捉[とら]える結末[けつまつ]は、現代[げんだい]の多文化[たぶんか]社会[しゃかい]に重要[じゅうよう]なメッセージを投[な]げかけている」と述[の]べている。ただし、「中盤[ちゅうばん]の展開[てんかい]がやや冗長[じょうちょう]で、読者[どくしゃ]の集中力[しゅうちゅうりょく]が途切[とぎ]れる恐[おそ]れがある」とも指摘[してき]している。\n\n評者[ひょうしゃ]のこの小説[しょうせつ]に対[たい]する全体的[ぜんたいてき]な評価[ひょうか]はどれですか。",
+    "romaji": "Tsugi no bunshou wo yonde, shitsumon ni kotaete kudasai.\n\n'Futatsu no Kokyou' to iu shousetsu no shohyou ga shinbun ni keisai sareta. Kono shousetsu wa, nihon de sodatta burajirujin no seinen ga, jibun no aidentiti ni nayami nagara mo, ryouhou no bunka wo ukeirete iku katei wo egaite iru. Hyousha wa, 'sakusha no sensai na hitchi ni yotte, bunka no aida de yure ugoku shujinkou no shinjou ga migoto ni hyougen sarete iru. Toku ni, futatsu no bunka wo tairitsu de wa naku kyouzon to shite toraeru ketsumatsu wa, gendai no tabunka shakai ni juuyou na messeeji wo nagekakete iru' to nobete iru. Tadashi, 'chuuban no tenkai ga yaya jouchou de, dokusha no shuuchuuryoku ga togireru osore ga aru' to mo shiteki shite iru.\n\nHyousha no kono shousetsu ni taisuru zentaiteki na hyouka wa dore desu ka.",
+    "level": "N2",
+    "category": "READING",
+    "options": [
+      "全体的に否定的で、読む価値がないと評価している",
+      "一部に課題はあるが、全体的に高く評価している",
+      "文化に関するテーマに興味がないと述べている",
+      "結末が期待外れだと批判している"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Bacalah teks berikut dan jawab pertanyaannya.\n\nSebuah resensi novel berjudul 'Dua Tanah Air' dimuat di surat kabar. Novel ini menggambarkan proses seorang pemuda Brasil yang tumbuh besar di Jepang, yang meskipun berjuang dengan identitasnya, akhirnya menerima kedua budaya tersebut. Peresensi menyatakan, 'Melalui gaya penulisan yang halus dari pengarang, perasaan tokoh utama yang terombang-ambing di antara dua budaya terekspresikan dengan indah. Khususnya, akhir cerita yang menangkap kedua budaya bukan sebagai pertentangan melainkan sebagai koeksistensi, memberikan pesan penting bagi masyarakat multikultural modern.' Namun, ia juga menunjukkan bahwa 'pengembangan cerita di bagian tengah agak bertele-tele dan ada kemungkinan konsentrasi pembaca terputus.'\n\nBagaimana penilaian keseluruhan peresensi terhadap novel ini?",
+    "answerExplanation": "Jawaban yang benar adalah 'Ada beberapa kekurangan, tetapi secara keseluruhan dinilai tinggi'. Peresensi memuji gaya penulisan yang halus, ekspresi perasaan tokoh utama, dan pesan penting di akhir cerita. Namun, ia juga menunjukkan kelemahan pada bagian tengah yang bertele-tele. Ini menunjukkan penilaian yang sebagian besar positif dengan sedikit kritik. Kata '見事に' (dengan indah) dan '重要なメッセージ' (pesan penting) menunjukkan apresiasi tinggi.",
+    "hint": "Perhatikan keseimbangan antara pujian dan kritik dari peresensi",
+    "difficultyScore": 7
+  },
+  {
+    "id": "question_n2_3_021",
+    "question": "この法律は憲法の理念___制定されたものである。",
+    "furigana": "この法律[ほうりつ]は憲法[けんぽう]の理念[りねん]___制定[せいてい]されたものである。",
+    "romaji": "Kono houritsu wa kenpou no rinen ___ seitei sareta mono de aru.",
+    "level": "N2",
+    "category": "GRAMMAR",
+    "options": [
+      "に基づいて",
+      "に関して",
+      "に対して",
+      "によると"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Undang-undang ini ditetapkan ___ prinsip konstitusi.",
+    "answerExplanation": "「～に基づいて」(ni motozuite) berarti 'berdasarkan' atau 'berlandaskan', digunakan untuk menunjukkan dasar atau landasan suatu tindakan. Undang-undang ditetapkan berdasarkan prinsip konstitusi. 「に関して」berarti 'mengenai', 「に対して」berarti 'terhadap', 「によると」berarti 'menurut' — tidak cocok dengan konteks landasan hukum.",
+    "hint": "Pola formal yang menunjukkan bahwa suatu tindakan dilakukan atas dasar atau landasan tertentu.",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_3_022",
+    "question": "留学___、彼女は国際的な視野を持つようになった。",
+    "furigana": "留学[りゅうがく]___、彼女[かのじょ]は国際的[こくさいてき]な視野[しや]を持[も]つようになった。",
+    "romaji": "Ryuugaku ___, kanojo wa kokusaiteki na shiya wo motsu you ni natta.",
+    "level": "N2",
+    "category": "GRAMMAR",
+    "options": [
+      "をきっかけに",
+      "をもとに",
+      "を問わず",
+      "を通じて"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "___ pengalaman belajar di luar negeri, dia memiliki pandangan internasional.",
+    "answerExplanation": "「～をきっかけに」(wo kikkake ni) berarti 'dengan memanfaatkan kesempatan' atau 'sejak/setelah', menunjukkan bahwa suatu peristiwa menjadi titik balik atau pemicu perubahan. Pengalaman belajar di luar negeri menjadi pemicu perubahan pandangannya. 「をもとに」berarti 'berdasarkan', 「を問わず」berarti 'tanpa memandang', 「を通じて」berarti 'melalui'.",
+    "hint": "Pola yang menunjukkan suatu peristiwa menjadi titik awal atau pemicu perubahan besar.",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_3_023",
+    "question": "あの事故の原因は、整備不良___。",
+    "furigana": "あの事故[じこ]の原因[げんいん]は、整備[せいび]不良[ふりょう]___。",
+    "romaji": "Ano jiko no gen'in wa, seibi furyou ___.",
+    "level": "N2",
+    "category": "GRAMMAR",
+    "options": [
+      "にすぎない",
+      "に違いない",
+      "にほかならない",
+      "に決まっている"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Penyebab kecelakaan itu pasti perawatan yang buruk.",
+    "answerExplanation": "「～に違いない」(ni chigai nai) berarti 'pasti' atau 'tidak diragukan lagi', menunjukkan keyakinan kuat pembicara berdasarkan bukti atau penalaran. 「にすぎない」berarti 'hanyalah', 「にほかならない」berarti 'tidak lain adalah' (penekanan), 「に決まっている」juga berarti 'pasti' tapi lebih kasual. Dalam konteks formal tentang investigasi kecelakaan, 「に違いない」paling tepat.",
+    "hint": "Pola formal yang menunjukkan keyakinan kuat pembicara tentang suatu hal.",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_3_024",
+    "question": "困難な状況でも冷静な___ができる人材を求めている。",
+    "furigana": "困難[こんなん]な状況[じょうきょう]でも冷静[れいせい]な___ができる人材[じんざい]を求[もと]めている。",
+    "romaji": "Konnan na joukyou demo reisei na ___ ga dekiru jinzai wo motomete iru.",
+    "level": "N2",
+    "category": "VOCABULARY",
+    "options": [
+      "選択",
+      "判断",
+      "促進",
+      "把握"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Kami mencari sumber daya manusia yang mampu melakukan ___ dengan tenang bahkan dalam situasi sulit.",
+    "answerExplanation": "「判断」(handan) berarti penilaian atau keputusan. Dalam konteks perekrutan, kemampuan membuat keputusan yang tenang dalam situasi sulit sangat dihargai. 「選択」berarti pilihan (lebih tentang memilih dari opsi), 「促進」berarti percepatan, 「把握」berarti pemahaman — tidak sesuai dengan konteks 'membuat keputusan dengan tenang'.",
+    "hint": "Kata yang berarti kemampuan mengambil keputusan atau menilai situasi.",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_3_025",
+    "question": "この政策は地域経済の___を目的としている。",
+    "furigana": "この政策[せいさく]は地域[ちいき]経済[けいざい]の___を目的[もくてき]としている。",
+    "romaji": "Kono seisaku wa chiiki keizai no ___ wo mokuteki to shite iru.",
+    "level": "N2",
+    "category": "VOCABULARY",
+    "options": [
+      "促進",
+      "喪失",
+      "妨害",
+      "撤退"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Kebijakan ini bertujuan untuk ___ ekonomi daerah.",
+    "answerExplanation": "「促進」(sokushin) berarti percepatan atau dorongan. Kebijakan bertujuan mendorong ekonomi daerah agar berkembang lebih baik. 「喪失」berarti kehilangan, 「妨害」berarti gangguan/hambatan, 「撤退」berarti mundur — semuanya negatif dan tidak sesuai dengan tujuan kebijakan.",
+    "hint": "Kata yang berarti mendorong atau mempercepat perkembangan sesuatu.",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_3_026",
+    "question": "健康を___するためには、バランスの良い食事と運動が必要だ。",
+    "furigana": "健康[けんこう]を___するためには、バランスの良[よ]い食事[しょくじ]と運動[うんどう]が必要[ひつよう]だ。",
+    "romaji": "Kenkou wo ___ suru tame ni wa, baransu no yoi shokuji to undou ga hitsuyou da.",
+    "level": "N2",
+    "category": "VOCABULARY",
+    "options": [
+      "喪失",
+      "解決",
+      "維持",
+      "発揮"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Untuk ___ kesehatan, diperlukan pola makan seimbang dan olahraga.",
+    "answerExplanation": "「維持」(iji) berarti mempertahankan atau menjaga agar tetap dalam kondisi yang sama. Konteks kalimat tentang menjaga kesehatan melalui pola makan dan olahraga. 「喪失」berarti kehilangan, 「解決」berarti menyelesaikan (masalah), 「発揮」berarti menunjukkan (kemampuan) — tidak sesuai dengan konteks menjaga kesehatan.",
+    "hint": "Kata yang berarti menjaga sesuatu agar tetap dalam kondisi baik tanpa perubahan.",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_3_027",
+    "question": "「人権侵害」の正しい読み方はどれですか。",
+    "furigana": "「人権侵害[じんけんしんがい]」の正[ただ]しい読[よ]み方[かた]はどれですか。",
+    "romaji": "'Jinken shingai' no tadashii yomikata wa dore desu ka.",
+    "level": "N2",
+    "category": "KANJI",
+    "options": [
+      "じんけんしんがい",
+      "にんけんしんがい",
+      "じんけんしんかい",
+      "じんげんしんがい"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Manakah cara baca yang benar untuk '人権侵害'?",
+    "answerExplanation": "「人権侵害」dibaca 'じんけんしんがい' (jinken shingai), berarti pelanggaran hak asasi manusia. 「人権」(jinken) = hak asasi manusia, 「侵害」(shingai) = pelanggaran/perusakan. Pilihan lain salah: 「にんけん」bukan bacaan yang benar untuk 人権 (dalam kata majemuk dibaca 'じんけん'), 「しんかい」bukan bacaan yang benar untuk 侵害 (「害」dibaca 'がい' dengan dakuten), 「じんげん」bukan bacaan untuk 人権.",
+    "hint": "Gabungan dua kata: hak asasi manusia + pelanggaran. Perhatikan bacaan onyomi.",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_3_028",
+    "question": "「自然災害」の正しい読み方はどれですか。",
+    "furigana": "「自然災害[しぜんさいがい]」の正[ただ]しい読[よ]み方[かた]はどれですか。",
+    "romaji": "'Shizen saigai' no tadashii yomikata wa dore desu ka.",
+    "level": "N2",
+    "category": "KANJI",
+    "options": [
+      "じねんさいがい",
+      "しぜんさいかい",
+      "しぜんさいがい",
+      "しぜんわざがい"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Manakah cara baca yang benar untuk '自然災害'?",
+    "answerExplanation": "「自然災害」dibaca 'しぜんさいがい' (shizen saigai), berarti bencana alam. 「自然」(shizen) = alam/alami, 「災害」(saigai) = bencana. Pilihan lain salah: 「じねん」adalah bacaan kuno untuk 自然 yang jarang digunakan dalam bahasa modern, 「さいかい」bukan bacaan yang benar untuk 災害 (「害」dibaca 'がい'), 「わざがい」adalah bacaan kunyomi untuk 災い yang tidak digunakan dalam kata majemuk ini.",
+    "hint": "Kata ini terdiri dari 'alam' + 'bencana'. Perhatikan bacaan onyomi standar.",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_3_029",
+    "question": "（読解）次の文章を読んで、質問に答えてください。\n\n近年、テレワークの普及に基づいて、オフィスの在り方が根本的に見直されつつある。従来のオフィスは全社員が毎日出社することを前提に設計されていた。しかし、テレワークをきっかけに、多くの企業がオフィス面積の縮小を検討し始めている。ある不動産調査会社の報告によると、大企業の約40％がオフィス面積の削減を実施または検討中であるという。一方で、完全にオフィスを廃止した企業は全体の5％に過ぎない。専門家は、今後のオフィスは「毎日働く場所」から「集まって協働する場所」へと役割が変化するに違いないと分析している。\n\n質問：専門家はオフィスの将来についてどのように分析しているか。",
+    "furigana": "（読解[どっかい]）次[つぎ]の文章[ぶんしょう]を読[よ]んで、質問[しつもん]に答[こた]えてください。\n\n近年[きんねん]、テレワークの普及[ふきゅう]に基[もと]づいて、オフィスの在[あ]り方[かた]が根本的[こんぽんてき]に見直[みなお]されつつある。従来[じゅうらい]のオフィスは全社員[ぜんしゃいん]が毎日[まいにち]出社[しゅっしゃ]することを前提[ぜんてい]に設計[せっけい]されていた。しかし、テレワークをきっかけに、多[おお]くの企業[きぎょう]がオフィス面積[めんせき]の縮小[しゅくしょう]を検討[けんとう]し始[はじ]めている。ある不動産[ふどうさん]調査[ちょうさ]会社[かいしゃ]の報告[ほうこく]によると、大企業[だいきぎょう]の約[やく]40％がオフィス面積[めんせき]の削減[さくげん]を実施[じっし]または検討中[けんとうちゅう]であるという。一方[いっぽう]で、完全[かんぜん]にオフィスを廃止[はいし]した企業[きぎょう]は全体[ぜんたい]の5％に過[す]ぎない。専門家[せんもんか]は、今後[こんご]のオフィスは「毎日[まいにち]働[はたら]く場所[ばしょ]」から「集[あつ]まって協働[きょうどう]する場所[ばしょ]」へと役割[やくわり]が変化[へんか]するに違[ちが]いないと分析[ぶんせき]している。\n\n質問[しつもん]：専門家[せんもんか]はオフィスの将来[しょうらい]についてどのように分析[ぶんせき]しているか。",
+    "romaji": "(Dokkai) Tsugi no bunshou wo yonde, shitsumon ni kotaete kudasai.\n\nKinnen, terewaaku no fukyuu ni motozuite, ofisu no arikata ga konponteki ni minaosare tsutsu aru. Juurai no ofisu wa zen shain ga mainichi shussha suru koto wo zentei ni sekkei sarete ita. Shikashi, terewaaku wo kikkake ni, ooku no kigyou ga ofisu menseki no shukushou wo kentou shi hajimete iru. Aru fudousan chousa kaisha no houkoku ni yoru to, daikigyou no yaku 40% ga ofisu menseki no sakugen wo jisshi matawa kentouchuu de aru to iu. Ippou de, kanzen ni ofisu wo haishi shita kigyou wa zentai no 5% ni suginai. Senmonka wa, kongo no ofisu wa 'mainichi hataraku basho' kara 'atsumatte kyoudou suru basho' e to yakuwari ga henka suru ni chigai nai to bunseki shite iru.\n\nShitsumon: Senmonka wa ofisu no shourai ni tsuite dono you ni bunseki shite iru ka.",
+    "level": "N2",
+    "category": "READING",
+    "options": [
+      "すべての企業がオフィスを廃止するだろう",
+      "オフィスは毎日出社する場所から協働の場に変わるだろう",
+      "オフィスの面積は今後も変わらないだろう",
+      "テレワークは一時的な流行に過ぎないだろう"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "(Membaca) Bacalah teks berikut dan jawab pertanyaannya.\n\nBelakangan ini, berdasarkan penyebaran telework, cara pandang terhadap kantor sedang ditinjau ulang secara mendasar. Kantor konvensional dirancang dengan asumsi semua karyawan datang setiap hari. Namun, dengan telework sebagai pemicunya, banyak perusahaan mulai mempertimbangkan pengurangan luas kantor. Menurut laporan perusahaan survei properti, sekitar 40% perusahaan besar telah melaksanakan atau sedang mempertimbangkan pengurangan luas kantor. Di sisi lain, perusahaan yang sepenuhnya menghapus kantor hanya 5% dari total. Para ahli menganalisis bahwa peran kantor di masa depan pasti akan berubah dari 'tempat bekerja setiap hari' menjadi 'tempat berkumpul dan berkolaborasi'.\n\nPertanyaan: Bagaimana analisis para ahli tentang masa depan kantor?",
+    "answerExplanation": "Teks menyebutkan analisis para ahli: 'オフィスは「毎日働く場所」から「集まって協働する場所」へと役割が変化するに違いない' (peran kantor pasti akan berubah dari tempat bekerja setiap hari menjadi tempat berkolaborasi). Pilihan tentang semua perusahaan menghapus kantor salah karena data menunjukkan hanya 5%. Pilihan tentang luas kantor tidak berubah bertentangan dengan data 40%.",
+    "hint": "Cari kalimat yang dimulai dengan '専門家は' untuk menemukan analisis ahli.",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_3_030",
+    "question": "（読解）次の案内文を読んで、質問に答えてください。\n\n市民講座のお知らせ\n\n本市では、市民の生涯学習を促進するため、以下の講座を開催いたします。\n\n①「初めてのプログラミング」全8回・水曜夜間・定員30名\n②「健康料理教室」全6回・土曜午前・定員20名\n③「ビジネス英会話」全10回・火曜夜間・定員25名\n\n申込方法：市のウェブサイトまたは生涯学習センター窓口にて受付。先着順。\n受講料：各講座3,000円（教材費別途）\n注意事項：定員に達した講座は、キャンセル待ちの登録が可能です。一人につき同時に申し込めるのは2講座までとなっております。全講座の半数以上を欠席した場合、修了証は発行されません。\n\n質問：この案内について正しいものはどれか。",
+    "furigana": "（読解[どっかい]）次[つぎ]の案内文[あんないぶん]を読[よ]んで、質問[しつもん]に答[こた]えてください。\n\n市民[しみん]講座[こうざ]のお知[し]らせ\n\n本市[ほんし]では、市民[しみん]の生涯[しょうがい]学習[がくしゅう]を促進[そくしん]するため、以下[いか]の講座[こうざ]を開催[かいさい]いたします。\n\n①「初[はじ]めてのプログラミング」全[ぜん]8回[かい]・水曜[すいよう]夜間[やかん]・定員[ていいん]30名[めい]\n②「健康[けんこう]料理[りょうり]教室[きょうしつ]」全[ぜん]6回[かい]・土曜[どよう]午前[ごぜん]・定員[ていいん]20名[めい]\n③「ビジネス英会話[えいかいわ]」全[ぜん]10回[かい]・火曜[かよう]夜間[やかん]・定員[ていいん]25名[めい]\n\n申込[もうしこみ]方法[ほうほう]：市[し]のウェブサイトまたは生涯[しょうがい]学習[がくしゅう]センター窓口[まどぐち]にて受付[うけつけ]。先着順[せんちゃくじゅん]。\n受講料[じゅこうりょう]：各[かく]講座[こうざ]3,000円[えん]（教材費[きょうざいひ]別途[べっと]）\n注意[ちゅうい]事項[じこう]：定員[ていいん]に達[たっ]した講座[こうざ]は、キャンセル待[ま]ちの登録[とうろく]が可能[かのう]です。一人[ひとり]につき同時[どうじ]に申[もう]し込[こ]めるのは2講座[こうざ]までとなっております。全[ぜん]講座[こうざ]の半数[はんすう]以上[いじょう]を欠席[けっせき]した場合[ばあい]、修了証[しゅうりょうしょう]は発行[はっこう]されません。\n\n質問[しつもん]：この案内[あんない]について正[ただ]しいものはどれか。",
+    "romaji": "(Dokkai) Tsugi no annaibun wo yonde, shitsumon ni kotaete kudasai.\n\nShimin kouza no oshirase\n\nHonshi dewa, shimin no shougai gakushuu wo sokushin suru tame, ika no kouza wo kaisai itashimasu.\n\n1. 'Hajimete no puroguramingu' zen 8 kai, suiyou yakan, teiin 30 mei\n2. 'Kenkou ryouri kyoushitsu' zen 6 kai, doyou gozen, teiin 20 mei\n3. 'Bijinesu eikaiwa' zen 10 kai, kayou yakan, teiin 25 mei\n\nMoushikomi houhou: Shi no uebusaito matawa shougai gakushuu sentaa madoguchi nite uketsuke. Senchaku jun.\nJukouryou: Kaku kouza 3,000 en (kyouzaihi betto)\nChuui jikou: Teiin ni tasshita kouza wa, kyanseru machi no touroku ga kanou desu. Hitori ni tsuki douji ni moushikomeru no wa 2 kouza made to natte orimasu. Zen kouza no hansuu ijou wo kesseki shita baai, shuuryoushou wa hakkou saremasen.\n\nShitsumon: Kono annai ni tsuite tadashii mono wa dore ka.",
+    "level": "N2",
+    "category": "READING",
+    "options": [
+      "3つの講座すべてに同時に申し込むことができる",
+      "受講料には教材費が含まれている",
+      "定員を超えた場合はキャンセル待ちができる",
+      "1回でも欠席すると修了証がもらえない"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "(Membaca) Bacalah pengumuman berikut dan jawab pertanyaannya.\n\nPemberitahuan Kursus Warga\n\nKota ini menyelenggarakan kursus berikut untuk mendorong pembelajaran seumur hidup warga:\n\n1. 'Pemrograman Pemula' - 8 sesi, Rabu malam, kuota 30 orang\n2. 'Kelas Masak Sehat' - 6 sesi, Sabtu pagi, kuota 20 orang\n3. 'Percakapan Bisnis Bahasa Inggris' - 10 sesi, Selasa malam, kuota 25 orang\n\nCara pendaftaran: Melalui website kota atau loket pusat pembelajaran seumur hidup. Berdasarkan urutan pendaftaran.\nBiaya: 3.000 yen per kursus (biaya bahan ajar terpisah)\nCatatan: Kursus yang sudah penuh bisa didaftar untuk daftar tunggu. Satu orang dapat mendaftar maksimal 2 kursus sekaligus. Jika absen lebih dari setengah dari total sesi, sertifikat kelulusan tidak akan diterbitkan.\n\nPertanyaan: Pernyataan mana yang benar tentang pengumuman ini?",
+    "answerExplanation": "Teks menyebutkan '定員に達した講座は、キャンセル待ちの登録が可能です' (kursus yang sudah penuh bisa didaftar untuk daftar tunggu), jadi pilihan C benar. Pilihan A salah karena batas 2 kursus sekaligus (bukan 3). Pilihan B salah karena biaya bahan ajar terpisah (教材費別途). Pilihan D salah karena syaratnya 'lebih dari setengah' absen, bukan hanya 1 kali.",
+    "hint": "Baca setiap pernyataan dan bandingkan dengan informasi dalam pengumuman. Perhatikan detail angka dan syarat.",
+    "difficultyScore": 4
+  }
+]

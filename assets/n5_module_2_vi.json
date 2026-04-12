@@ -1,0 +1,382 @@
+[
+  {
+    "id": "question_n5_2_001",
+    "question": "毎朝、電車___会社へ行きます。",
+    "furigana": "毎朝[まいあさ]、電車[でんしゃ]___会社[かいしゃ]へ行[い]きます。",
+    "romaji": "Maiasa, densha ___ kaisha e ikimasu.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "を",
+      "が",
+      "に",
+      "で"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "Mỗi sáng tôi đi đến công ty bằng tàu điện.",
+    "answerExplanation": "Trợ từ 'で' chỉ phương tiện hoặc công cụ được dùng để thực hiện hành động. Ở đây 'でんしゃで' = bằng/đi tàu điện. 'を' = trợ từ chỉ tân ngữ trực tiếp, 'が' = trợ từ chỉ chủ ngữ, 'に' = trợ từ chỉ nơi tồn tại hoặc đích đến. Để diễn tả phương tiện giao thông, luôn dùng 'で'.",
+    "hint": "Trợ từ chỉ PHƯƠNG TIỆN hoặc CÔNG CỤ được dùng để làm gì đó",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_2_002",
+    "question": "「図書館」の正しい読み方はどれですか。",
+    "furigana": "「図書館[としょかん]」の正[ただ]しい読[よ]み方[かた]はどれですか。",
+    "romaji": "'Toshokan' no tadashii yomikata wa dore desu ka.",
+    "level": "N5",
+    "category": "KANJI",
+    "options": [
+      "ずしょかん",
+      "としょかん",
+      "としょうかん",
+      "としょがん"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Cách đọc đúng của '図書館' là gì?",
+    "answerExplanation": "'図書館' đọc là 'としょかん' (toshokan) và có nghĩa là thư viện. '図' = と (to), '書' = しょ (sho), '館' = かん (kan). Lỗi thường gặp: 'ず' không phải cách đọc của 図 ở đây, không có nguyên âm dài 'う' sau しょ, và 館 đọc là 'かん' không phải 'がん'.",
+    "hint": "Nơi công cộng để mượn và đọc sách — gồm 3 chữ Hán đọc là と・しょ・かん",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_2_003",
+    "question": "テストは　来週の　___曜日です。",
+    "furigana": "テストは　来週[らいしゅう]の　___曜日[ようび]です。",
+    "romaji": "Tesuto wa raishuu no ___ youbi desu.",
+    "level": "N5",
+    "category": "VOCABULARY",
+    "options": [
+      "水",
+      "氷",
+      "永",
+      "泉"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Bài kiểm tra vào thứ Tư tuần sau.",
+    "answerExplanation": "'水曜日 (すいようび)' có nghĩa là thứ Tư. Chữ Hán '水' nghĩa là nước và là một trong bảy chữ Hán tên ngày. Các lựa chọn khác: '氷 (こおり)' = băng, '永 (えい)' = vĩnh cửu, '泉 (いずみ)' = suối — cả ba đều liên quan đến nước nhưng không phải chữ Hán cho tên ngày.",
+    "hint": "Một trong 7 chữ Hán chỉ ngày trong tuần — chữ Hán này nghĩa là 'nước'",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_2_004",
+    "question": "山田さんは　毎日　日記___　書きます。",
+    "furigana": "山田[やまだ]さんは　毎日[まいにち]　日記[にっき]___　書[か]きます。",
+    "romaji": "Yamada-san wa mainichi nikki ___ kakimasu.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "が",
+      "に",
+      "で",
+      "を"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "Yamada-san viết nhật ký mỗi ngày.",
+    "answerExplanation": "Trợ từ 'を' đánh dấu tân ngữ trực tiếp của động từ ngoại động. '日記を書きます' = viết nhật ký. '書く (kaku)' là động từ ngoại động cần tân ngữ → đánh dấu bằng 'を'. 'が' = trợ từ chỉ chủ ngữ, 'に' = trợ từ chỉ đích đến/thời gian, 'で' = trợ từ chỉ nơi chốn/công cụ.",
+    "hint": "Nhật ký là VẬT được viết — trợ từ nào đánh dấu tân ngữ trực tiếp?",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_2_005",
+    "question": "「曜日」の「曜」の読み方は？",
+    "furigana": "「曜日[ようび]」の「曜」の読[よ]み方[かた]は？",
+    "romaji": "'Youbi' no 'you' no yomikata wa?",
+    "level": "N5",
+    "category": "KANJI",
+    "options": [
+      "ひ",
+      "にち",
+      "か",
+      "よう"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "Cách đọc chữ Hán '曜' trong '曜日' là gì?",
+    "answerExplanation": "'曜' trong '曜日' đọc là 'よう (you)'. Chữ Hán này luôn xuất hiện trong tên các ngày: 月曜日 (げつようび), 火曜日 (かようび), 水曜日 (すいようび), v.v. Các lựa chọn khác: 'ひ' = âm kun của 日, 'にち' = âm on của 日, 'か' = âm kun của 日 cho ngày tháng. Tất cả đều là cách đọc của chữ Hán '日', không phải '曜'.",
+    "hint": "Nhớ tên các ngày: げつ＿＿び、か＿＿び — âm luôn xuất hiện ở giữa là cách đọc của chữ Hán này",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_2_006",
+    "question": "今日は　天気が　___です。",
+    "furigana": "今日[きょう]は　天気[てんき]が　___です。",
+    "romaji": "Kyou wa tenki ga ___ desu.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "いい",
+      "いく",
+      "よく",
+      "いくて"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Hôm nay thời tiết đẹp.",
+    "answerExplanation": "Tính từ đuôi i ở thể cơ bản có thể được theo sau trực tiếp bởi 'です' cho câu lịch sự. 'いい (ii)' = tốt/đẹp, là thể cơ bản đúng trước です. 'いく' không phải dạng tồn tại, 'よく' = dạng trạng từ của いい (dùng để bổ nghĩa cho động từ), 'いくて' không phải dạng đúng (thể te đúng: よくて).",
+    "hint": "Trước です, tính từ đuôi i giữ nguyên thể CƠ BẢN — tính từ này nghĩa là 'tốt/đẹp'",
+    "difficultyScore": 1
+  },
+  {
+    "id": "question_n5_2_007",
+    "question": "「郵便局」の正しい読み方はどれですか。",
+    "furigana": "「郵便局[ゆうびんきょく]」の正[ただ]しい読[よ]み方[かた]はどれですか。",
+    "romaji": "'Yuubinkyoku' no tadashii yomikata wa dore desu ka.",
+    "level": "N5",
+    "category": "KANJI",
+    "options": [
+      "ゆうべんきょく",
+      "ゆびんきょく",
+      "ゆうびんきょく",
+      "ゆうびんきょう"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Cách đọc đúng của '郵便局' là gì?",
+    "answerExplanation": "'郵便局' đọc là 'ゆうびんきょく' (yuubinkyoku) và có nghĩa là bưu điện. '郵' = ゆう (yuu, nguyên âm dài), '便' = びん (bin), '局' = きょく (kyoku). Lỗi thường gặp: 'べん' không phải cách đọc của 便 ở đây (便 có thể đọc べん trong 便利), âm 'ゆう' phải dài (không chỉ ゆ), và '局' đọc là きょく không phải きょう.",
+    "hint": "Nơi gửi thư và bưu kiện — chú ý âm dài ゆう và kết thúc きょく",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n5_2_008",
+    "question": "「つめたい」の意味は？",
+    "furigana": "「冷[つめ]たい」の意味[いみ]は？",
+    "romaji": "'Tsumetai' no imi wa?",
+    "level": "N5",
+    "category": "VOCABULARY",
+    "options": [
+      "Nóng",
+      "Lạnh (đồ vật/đồ uống)",
+      "Ấm",
+      "Mát"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Nghĩa của 'つめたい' là gì?",
+    "answerExplanation": "'つめたい (tsumetai)' có nghĩa là lạnh, dành riêng cho vật có thể chạm vào như nước, đồ uống, đá hoặc tay. Khác với 'さむい (samui)' nghĩa là lạnh cho nhiệt độ không khí/thời tiết. 'あつい (atsui)' = nóng, 'あたたかい (atatakai)' = ấm, 'すずしい (suzushii)' = mát mẻ (cho không khí).",
+    "hint": "Tính từ này mô tả nhiệt độ của VẬT có thể chạm vào — như đồ uống đá hoặc nước lạnh",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_2_009",
+    "question": "ここ___写真を撮ってもいいですか。",
+    "furigana": "ここ___写真[しゃしん]を撮[と]ってもいいですか。",
+    "romaji": "Koko ___ shashin o tottemo ii desu ka.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "を",
+      "が",
+      "で",
+      "に"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Tôi có thể chụp ảnh ở đây được không?",
+    "answerExplanation": "Trợ từ 'で' chỉ nơi mà một hoạt động được thực hiện. 'ここで写真を撮る' = chụp ảnh Ở ĐÂY. 'を' = đã dùng cho tân ngữ '写真を', 'が' = trợ từ chỉ chủ ngữ, 'に' = trợ từ chỉ nơi tồn tại (với います/あります) hoặc đích đến. Cho nơi thực hiện hoạt động, dùng 'で'.",
+    "hint": "Trợ từ chỉ ĐỊA ĐIỂM nơi một hoạt động diễn ra",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_2_010",
+    "question": "「病院」の「院」の読み方は？",
+    "furigana": "「病院[びょういん]」の「院」の読[よ]み方[かた]は？",
+    "romaji": "'Byouin' no 'in' no yomikata wa?",
+    "level": "N5",
+    "category": "KANJI",
+    "options": [
+      "えん",
+      "いえ",
+      "いん",
+      "いみ"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Cách đọc chữ Hán '院' trong '病院' là gì?",
+    "answerExplanation": "'院' trong '病院 (びょういん)' đọc là 'いん (in)'. Chữ Hán này cũng xuất hiện trong: 大学院 (だいがくいん = trường sau đại học), 入院 (にゅういん = nhập viện), 美容院 (びよういん = tiệm thẩm mỹ). Các lựa chọn khác: 'えん' = cách đọc của 園 hoặc 円, 'いえ' = cách đọc của 家, 'いみ' = cách đọc của 意味 (không phải một chữ Hán).",
+    "hint": "Nhìn vào từ びょう＿＿ — âm cuối cùng là cách đọc của chữ Hán này",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_2_011",
+    "question": "私は　新しい　かばんが　___です。",
+    "furigana": "私[わたし]は　新[あたら]しい　かばんが　___です。",
+    "romaji": "Watashi wa atarashii kaban ga ___ desu.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "すき",
+      "じょうず",
+      "ほしい",
+      "たのしい"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Tôi muốn có một chiếc túi mới.",
+    "answerExplanation": "Mẫu câu ～は ～が ほしいです được dùng để diễn tả mong muốn có thứ gì đó. 'ほしい' = muốn (có). 'すき' = thích (diễn tả cảm giác thích, không phải mong muốn sở hữu), 'じょうず' = giỏi (khả năng, không phù hợp cho đồ vật), 'たのしい' = vui (mô tả trải nghiệm, không phải mong muốn). Ngữ cảnh câu này rõ ràng diễn tả MONG MUỐN có đồ vật mới.",
+    "hint": "Từ này diễn tả mong muốn SỞ HỮU thứ gì đó — không phải thích, giỏi hay vui",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_2_012",
+    "question": "「鉛筆」の正しい読み方はどれですか。",
+    "furigana": "「鉛筆[えんぴつ]」の正[ただ]しい読[よ]み方[かた]はどれですか。",
+    "romaji": "'Enpitsu' no tadashii yomikata wa dore desu ka.",
+    "level": "N5",
+    "category": "KANJI",
+    "options": [
+      "えんびつ",
+      "えんぴつ",
+      "かねふで",
+      "えんふで"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Cách đọc đúng của '鉛筆' là gì?",
+    "answerExplanation": "'鉛筆' đọc là 'えんぴつ' (enpitsu) và có nghĩa là bút chì. '鉛' = えん (en), '筆' thay đổi từ 'ひつ' thành 'ぴつ' (pitsu) do hiện tượng rendaku. Lỗi thường gặp: 'えんびつ' (sai — âm 'b' thay vì 'p'), 'かねふで' và 'えんふで' dùng âm kun-yomi không được dùng trong từ ghép này.",
+    "hint": "Dụng cụ viết bằng gỗ chứa than chì — chú ý âm 'p' (ぴ) ở âm tiết thứ hai, không phải 'b' (び)",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n5_2_013",
+    "question": "「危ない」はどんな意味ですか。",
+    "furigana": "「危[あぶ]ない」はどんな意味[いみ]ですか。",
+    "romaji": "'Abunai' wa donna imi desu ka.",
+    "level": "N5",
+    "category": "VOCABULARY",
+    "options": [
+      "An toàn",
+      "Nguy hiểm",
+      "Đáng sợ",
+      "Đau đớn"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Nghĩa của '危ない (あぶない)' là gì?",
+    "answerExplanation": "'危ない (abunai)' có nghĩa là nguy hiểm — mô tả tình huống có rủi ro hoặc có thể gây hại. Thường được nói như lời cảnh báo: 'Abunai!' = 'Cẩn thận!/Nguy hiểm!'. Từ trái nghĩa là 'あんぜん (安全)' = an toàn. 'こわい' = đáng sợ (cảm giác sợ hãi), 'いたい' = đau (đau thể xác). Cả hai có sắc thái khác với 'nguy hiểm'.",
+    "hint": "Từ này thường được hét lên như lời cảnh báo khi có nguy cơ hoặc đe dọa tai nạn",
+    "difficultyScore": 1
+  },
+  {
+    "id": "question_n5_2_014",
+    "question": "「銀行」の「行」の読み方は？",
+    "furigana": "「銀行[ぎんこう]」の「行」の読[よ]み方[かた]は？",
+    "romaji": "'Ginkou' no 'kou' no yomikata wa?",
+    "level": "N5",
+    "category": "KANJI",
+    "options": [
+      "ぎょう",
+      "おこな",
+      "こう",
+      "い"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Cách đọc chữ Hán '行' trong '銀行' là gì?",
+    "answerExplanation": "'行' trong '銀行 (ぎんこう)' đọc là 'こう' theo âm on. Chữ Hán '行' có nhiều cách đọc tùy ngữ cảnh: 'こう' trong 銀行 (ngân hàng) và 旅行 (du lịch), 'ぎょう' trong 行事 (sự kiện) và 一行 (một dòng), 'おこな' trong 行う (thực hiện), 'い' trong 行く (đi). Ở đây hỏi cách đọc trong từ 銀行.",
+    "hint": "Nghĩ đến từ đầy đủ: ぎん＿＿ — âm sau ぎん là cách đọc của chữ Hán này",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_2_015",
+    "question": "日本___住んでいます。",
+    "furigana": "日本[にほん]___住[す]んでいます。",
+    "romaji": "Nihon ___ sundeimasu.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "を",
+      "が",
+      "で",
+      "に"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "Tôi sống ở Nhật Bản.",
+    "answerExplanation": "Động từ '住む (sumu)' = sống, dùng trợ từ 'に' để đánh dấu nơi cư trú. Mẫu câu: [nơi] + に + 住んでいます. Sự khác biệt に vs で: 'に' chỉ vị trí tồn tại cố định (sống, ở), trong khi 'で' chỉ nơi hoạt động tạm thời (làm việc, học). 'を' = trợ từ chỉ tân ngữ, 'が' = trợ từ chỉ chủ ngữ — cả hai đều không phù hợp ở đây.",
+    "hint": "Động từ 住む (sống) luôn đi cùng trợ từ vị trí chỉ NƠI TỒN TẠI CỐ ĐỊNH",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n5_2_016",
+    "question": "「切手」を買う場所はどこですか。",
+    "furigana": "「切手[きって]」を買[か]う場所[ばしょ]はどこですか。",
+    "romaji": "'Kitte' o kau basho wa doko desu ka.",
+    "level": "N5",
+    "category": "VOCABULARY",
+    "options": [
+      "図書館",
+      "郵便局",
+      "銀行",
+      "病院"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Nơi nào để mua '切手' (tem thư)?",
+    "answerExplanation": "'切手 (kitte)' là tem thư — mảnh giấy bưu chính nhỏ dán lên thư hoặc bưu kiện trước khi gửi. Tem thư được mua tại '郵便局 (ゆうびんきょく)' = bưu điện. '図書館 (としょかん)' = thư viện (nơi mượn sách), '銀行 (ぎんこう)' = ngân hàng (nơi giao dịch tiền), '病院 (びょういん)' = bệnh viện (nơi khám chữa bệnh).",
+    "hint": "Tem thư được dùng để gửi thư — hãy nghĩ đến nơi liên quan đến việc gửi thư và bưu kiện",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_2_017",
+    "question": "「雑誌」の正しい読み方はどれですか。",
+    "furigana": "「雑誌[ざっし]」の正[ただ]しい読[よ]み方[かた]はどれですか。",
+    "romaji": "'Zasshi' no tadashii yomikata wa dore desu ka.",
+    "level": "N5",
+    "category": "KANJI",
+    "options": [
+      "ざつし",
+      "ぞっし",
+      "ざし",
+      "ざっし"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "Cách đọc đúng của '雑誌' là gì?",
+    "answerExplanation": "'雑誌' đọc là 'ざっし' (zasshi) và có nghĩa là tạp chí. '雑' thay đổi từ 'ざつ' thành 'ざっ' do sokuon (chữ っ nhỏ tạo phụ âm kép). '誌' = し (shi). Lỗi thường gặp: 'ざつし' (không có sokuon), 'ぞっし' (sai nguyên âm), 'ざし' (thiếu sokuon).",
+    "hint": "Tạp chí — chữ Hán đầu tiên trải qua biến đổi âm sokuon (っ) khi kết hợp với chữ Hán thứ hai",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n5_2_018",
+    "question": "あの映画を　もう　___か。",
+    "furigana": "あの映画[えいが]を　もう　___か。",
+    "romaji": "Ano eiga o mou ___ ka.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "見ます",
+      "見ました",
+      "見ています",
+      "見たいです"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Bạn đã xem bộ phim đó chưa?",
+    "answerExplanation": "Từ 'もう' trong câu hỏi nghĩa là 'đã' và cần thể quá khứ ～ました. 'もう見ましたか' = 'Đã xem chưa?' (hỏi xem đã hoàn thành chưa). '見ます' = xem (thói quen/kế hoạch), '見ています' = đang xem, '見たいです' = muốn xem. Chỉ có thể quá khứ phù hợp với 'もう' trong ngữ cảnh câu hỏi.",
+    "hint": "Từ 'もう' trong câu hỏi nghĩa là 'đã' — động từ phải ở thể chỉ hành động ĐÃ hoàn thành",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_2_019",
+    "question": "「暖かい」はどんな意味ですか。",
+    "furigana": "「暖[あたた]かい」はどんな意味[いみ]ですか。",
+    "romaji": "'Atatakai' wa donna imi desu ka.",
+    "level": "N5",
+    "category": "VOCABULARY",
+    "options": [
+      "Lạnh",
+      "Nóng",
+      "Mát",
+      "Ấm"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "Nghĩa của '暖かい (あたたかい)' là gì?",
+    "answerExplanation": "'暖かい (atatakai)' có nghĩa là ấm — nhiệt độ dễ chịu, không quá nóng và không lạnh. Thường dùng để mô tả thời tiết hoặc không khí dễ chịu. So sánh: '寒い (samui)' = lạnh (không khí), '暑い (atsui)' = nóng (không khí), '涼しい (suzushii)' = mát mẻ. Chữ Hán '暖' chứa yếu tố 日 (mặt trời) gợi ý sự ấm áp.",
+    "hint": "Nhiệt độ dễ chịu và thoải mái — giữa nóng và lạnh, nghiêng về phía tích cực",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_2_020",
+    "question": "「学生」の「生」の読み方は？",
+    "furigana": "「学生[がくせい]」の「生」の読[よ]み方[かた]は？",
+    "romaji": "'Gakusei' no 'sei' no yomikata wa?",
+    "level": "N5",
+    "category": "KANJI",
+    "options": [
+      "しょう",
+      "せい",
+      "なま",
+      "い"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Cách đọc chữ Hán '生' trong '学生' là gì?",
+    "answerExplanation": "'生' trong '学生 (がくせい)' đọc là 'せい' theo âm on. Chữ Hán '生' có nhiều cách đọc trong tiếng Nhật: 'せい' trong 学生 (học sinh) và 生活 (cuộc sống), 'しょう' trong 一生 (cả đời), 'なま' trong 生野菜 (rau sống), và 'い' trong 生きる (sống). Ở đây hỏi cách đọc trong từ 学生.",
+    "hint": "Nghĩ đến từ đầy đủ: がく＿＿ — âm sau がく là cách đọc của chữ Hán này",
+    "difficultyScore": 2
+  }
+]

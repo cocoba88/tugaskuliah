@@ -1,0 +1,382 @@
+[
+  {
+    "id": "question_n5_2_001",
+    "question": "毎朝、電車___会社へ行きます。",
+    "furigana": "毎朝[まいあさ]、電車[でんしゃ]___会社[かいしゃ]へ行[い]きます。",
+    "romaji": "Maiasa, densha ___ kaisha e ikimasu.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "を",
+      "が",
+      "に",
+      "で"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "Every morning I go to the office by train.",
+    "answerExplanation": "The particle 'で' indicates the means or tool used to perform an action. Here 'でんしゃで' = by/riding the train. 'を' = direct object marker, 'が' = subject marker, 'に' = location of existence or destination marker. To express means of transportation, always use 'で'.",
+    "hint": "The particle that indicates the MEANS or TOOL used to do something",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_2_002",
+    "question": "「図書館」の正しい読み方はどれですか。",
+    "furigana": "「図書館[としょかん]」の正[ただ]しい読[よ]み方[かた]はどれですか。",
+    "romaji": "'Toshokan' no tadashii yomikata wa dore desu ka.",
+    "level": "N5",
+    "category": "KANJI",
+    "options": [
+      "ずしょかん",
+      "としょかん",
+      "としょうかん",
+      "としょがん"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Which is the correct reading for '図書館'?",
+    "answerExplanation": "'図書館' is read 'としょかん' (toshokan) and means library. '図' = と (to), '書' = しょ (sho), '館' = かん (kan). Common mistakes: 'ず' is not the reading for 図 here, there is no long vowel 'う' after しょ, and 館 is read 'かん' not 'がん'.",
+    "hint": "A public place to borrow and read books — consists of 3 kanji read as と・しょ・かん",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_2_003",
+    "question": "テストは　来週の　___曜日です。",
+    "furigana": "テストは　来週[らいしゅう]の　___曜日[ようび]です。",
+    "romaji": "Tesuto wa raishuu no ___ youbi desu.",
+    "level": "N5",
+    "category": "VOCABULARY",
+    "options": [
+      "水",
+      "氷",
+      "永",
+      "泉"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "The test is on Wednesday next week.",
+    "answerExplanation": "'水曜日 (すいようび)' means Wednesday. The kanji '水' means water and is one of the seven day-name kanji. Other options: '氷 (こおり)' = ice, '永 (えい)' = eternal, '泉 (いずみ)' = spring/fountain — all three are water-related but not kanji for day names.",
+    "hint": "One of the 7 day-of-the-week kanji — this kanji means 'water'",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_2_004",
+    "question": "山田さんは　毎日　日記___　書きます。",
+    "furigana": "山田[やまだ]さんは　毎日[まいにち]　日記[にっき]___　書[か]きます。",
+    "romaji": "Yamada-san wa mainichi nikki ___ kakimasu.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "が",
+      "に",
+      "で",
+      "を"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "Yamada-san writes a diary every day.",
+    "answerExplanation": "The particle 'を' marks the direct object of a transitive verb. '日記を書きます' = to write a diary. '書く (kaku)' is a transitive verb that requires an object → marked with 'を'. 'が' = subject marker, 'に' = destination/time marker, 'で' = place/tool marker.",
+    "hint": "The diary is the THING being written — which particle marks the direct object?",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_2_005",
+    "question": "「曜日」の「曜」の読み方は？",
+    "furigana": "「曜日[ようび]」の「曜」の読[よ]み方[かた]は？",
+    "romaji": "'Youbi' no 'you' no yomikata wa?",
+    "level": "N5",
+    "category": "KANJI",
+    "options": [
+      "ひ",
+      "にち",
+      "か",
+      "よう"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "How do you read the kanji '曜' in '曜日'?",
+    "answerExplanation": "'曜' in '曜日' is read 'よう (you)'. This kanji always appears in day names: 月曜日 (げつようび), 火曜日 (かようび), 水曜日 (すいようび), etc. Other options: 'ひ' = kun reading of 日, 'にち' = on reading of 日, 'か' = kun reading of 日 for dates. All of these are readings of kanji '日', not '曜'.",
+    "hint": "Remember day names: げつ＿＿び、か＿＿び — the sound that always appears in the middle is the reading of this kanji",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_2_006",
+    "question": "今日は　天気が　___です。",
+    "furigana": "今日[きょう]は　天気[てんき]が　___です。",
+    "romaji": "Kyou wa tenki ga ___ desu.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "いい",
+      "いく",
+      "よく",
+      "いくて"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Today the weather is nice.",
+    "answerExplanation": "An i-adjective in its basic form can directly be followed by 'です' for a polite sentence. 'いい (ii)' = good/nice, is the correct basic form before です. 'いく' is not an existing form, 'よく' = adverbial form of いい (used to modify verbs), 'いくて' is not a correct form (correct te-form: よくて).",
+    "hint": "Before です, i-adjectives stay in their BASIC form — this adjective means 'good/nice'",
+    "difficultyScore": 1
+  },
+  {
+    "id": "question_n5_2_007",
+    "question": "「郵便局」の正しい読み方はどれですか。",
+    "furigana": "「郵便局[ゆうびんきょく]」の正[ただ]しい読[よ]み方[かた]はどれですか。",
+    "romaji": "'Yuubinkyoku' no tadashii yomikata wa dore desu ka.",
+    "level": "N5",
+    "category": "KANJI",
+    "options": [
+      "ゆうべんきょく",
+      "ゆびんきょく",
+      "ゆうびんきょく",
+      "ゆうびんきょう"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Which is the correct reading for '郵便局'?",
+    "answerExplanation": "'郵便局' is read 'ゆうびんきょく' (yuubinkyoku) and means post office. '郵' = ゆう (yuu, long vowel), '便' = びん (bin), '局' = きょく (kyoku). Common mistakes: 'べん' is not the reading for 便 here (便 can be read べん in 便利), the sound 'ゆう' must be long (not just ゆ), and '局' is read きょく not きょう.",
+    "hint": "A place to send letters and packages — note the long sound ゆう and the ending きょく",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n5_2_008",
+    "question": "「つめたい」の意味は？",
+    "furigana": "「冷[つめ]たい」の意味[いみ]は？",
+    "romaji": "'Tsumetai' no imi wa?",
+    "level": "N5",
+    "category": "VOCABULARY",
+    "options": [
+      "Hot",
+      "Cold (object/drink)",
+      "Warm",
+      "Cool"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "What is the meaning of 'つめたい'?",
+    "answerExplanation": "'つめたい (tsumetai)' means cold, specifically for touchable objects like water, drinks, ice, or hands. Different from 'さむい (samui)' which means cold for air temperature/weather. 'あつい (atsui)' = hot, 'あたたかい (atatakai)' = warm, 'すずしい (suzushii)' = cool (for air).",
+    "hint": "This adjective describes the temperature of OBJECTS you can touch — like iced drinks or cold water",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_2_009",
+    "question": "ここ___写真を撮ってもいいですか。",
+    "furigana": "ここ___写真[しゃしん]を撮[と]ってもいいですか。",
+    "romaji": "Koko ___ shashin o tottemo ii desu ka.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "を",
+      "が",
+      "で",
+      "に"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "May I take a photo here?",
+    "answerExplanation": "The particle 'で' indicates the place where an activity is performed. 'ここで写真を撮る' = to take a photo HERE. 'を' = already used for the object '写真を', 'が' = subject marker, 'に' = location of existence marker (with います/あります) or destination. For the place of an activity, use 'で'.",
+    "hint": "The particle that indicates the LOCATION where an activity takes place",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_2_010",
+    "question": "「病院」の「院」の読み方は？",
+    "furigana": "「病院[びょういん]」の「院」の読[よ]み方[かた]は？",
+    "romaji": "'Byouin' no 'in' no yomikata wa?",
+    "level": "N5",
+    "category": "KANJI",
+    "options": [
+      "えん",
+      "いえ",
+      "いん",
+      "いみ"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "How do you read the kanji '院' in '病院'?",
+    "answerExplanation": "'院' in '病院 (びょういん)' is read 'いん (in)'. This kanji also appears in: 大学院 (だいがくいん = graduate school), 入院 (にゅういん = hospitalization), 美容院 (びよういん = beauty salon). Other options: 'えん' = reading for 園 or 円, 'いえ' = reading for 家, 'いみ' = reading for 意味 (not a single kanji).",
+    "hint": "Look at the word びょう＿＿ — the final sound is the reading of this kanji",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_2_011",
+    "question": "私は　新しい　かばんが　___です。",
+    "furigana": "私[わたし]は　新[あたら]しい　かばんが　___です。",
+    "romaji": "Watashi wa atarashii kaban ga ___ desu.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "すき",
+      "じょうず",
+      "ほしい",
+      "たのしい"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "I want a new bag.",
+    "answerExplanation": "The pattern ～は ～が ほしいです is used to express the desire to have something. 'ほしい' = want (to have). 'すき' = like (expresses feeling of liking, not desire to possess), 'じょうず' = skilled (ability, doesn't fit for objects), 'たのしい' = fun (describes an experience, not desire). The context of this sentence clearly expresses DESIRE for a new item.",
+    "hint": "This word expresses the desire to OWN something — not like, skilled, or fun",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_2_012",
+    "question": "「鉛筆」の正しい読み方はどれですか。",
+    "furigana": "「鉛筆[えんぴつ]」の正[ただ]しい読[よ]み方[かた]はどれですか。",
+    "romaji": "'Enpitsu' no tadashii yomikata wa dore desu ka.",
+    "level": "N5",
+    "category": "KANJI",
+    "options": [
+      "えんびつ",
+      "えんぴつ",
+      "かねふで",
+      "えんふで"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Which is the correct reading for '鉛筆'?",
+    "answerExplanation": "'鉛筆' is read 'えんぴつ' (enpitsu) and means pencil. '鉛' = えん (en), '筆' changes from 'ひつ' to 'ぴつ' (pitsu) due to rendaku phenomenon. Common mistakes: 'えんびつ' (wrong — 'b' sound instead of 'p'), 'かねふで' and 'えんふで' use kun-yomi readings not used in this compound word.",
+    "hint": "A writing tool made of wood with graphite — note the 'p' sound (ぴ) in the second syllable, not 'b' (び)",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n5_2_013",
+    "question": "「危ない」はどんな意味ですか。",
+    "furigana": "「危[あぶ]ない」はどんな意味[いみ]ですか。",
+    "romaji": "'Abunai' wa donna imi desu ka.",
+    "level": "N5",
+    "category": "VOCABULARY",
+    "options": [
+      "Safe",
+      "Dangerous",
+      "Scary",
+      "Painful"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "What is the meaning of '危ない (あぶない)'?",
+    "answerExplanation": "'危ない (abunai)' means dangerous — describing a risky situation or one that could cause harm. Often spoken as a warning: 'Abunai!' = 'Watch out!/Danger!'. Its opposite is 'あんぜん (安全)' = safe. 'こわい' = scary (feeling of fear), 'いたい' = painful (physical pain). Both have different nuances from 'dangerous'.",
+    "hint": "This word is often shouted as a warning when there is a risk or threat of an accident",
+    "difficultyScore": 1
+  },
+  {
+    "id": "question_n5_2_014",
+    "question": "「銀行」の「行」の読み方は？",
+    "furigana": "「銀行[ぎんこう]」の「行」の読[よ]み方[かた]は？",
+    "romaji": "'Ginkou' no 'kou' no yomikata wa?",
+    "level": "N5",
+    "category": "KANJI",
+    "options": [
+      "ぎょう",
+      "おこな",
+      "こう",
+      "い"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "How do you read the kanji '行' in '銀行'?",
+    "answerExplanation": "'行' in '銀行 (ぎんこう)' is read 'こう' as on-yomi. The kanji '行' has many readings depending on context: 'こう' in 銀行 (bank) and 旅行 (travel), 'ぎょう' in 行事 (event) and 一行 (one line), 'おこな' in 行う (to carry out), 'い' in 行く (to go). What is asked here is the reading in the word 銀行.",
+    "hint": "Think of the full word: ぎん＿＿ — the sound after ぎん is the reading of this kanji",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_2_015",
+    "question": "日本___住んでいます。",
+    "furigana": "日本[にほん]___住[す]んでいます。",
+    "romaji": "Nihon ___ sundeimasu.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "を",
+      "が",
+      "で",
+      "に"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "I live in Japan.",
+    "answerExplanation": "The verb '住む (sumu)' = to live, uses the particle 'に' to mark the place of residence. Pattern: [place] + に + 住んでいます. Difference に vs で: 'に' indicates a fixed location of existence (living, being), while 'で' indicates a place of temporary activity (working, studying). 'を' = object marker, 'が' = subject marker — neither fits here.",
+    "hint": "The verb 住む (to live) always pairs with the location particle that indicates a FIXED PLACE OF EXISTENCE",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n5_2_016",
+    "question": "「切手」を買う場所はどこですか。",
+    "furigana": "「切手[きって]」を買[か]う場所[ばしょ]はどこですか。",
+    "romaji": "'Kitte' o kau basho wa doko desu ka.",
+    "level": "N5",
+    "category": "VOCABULARY",
+    "options": [
+      "図書館",
+      "郵便局",
+      "銀行",
+      "病院"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Where is the place to buy '切手' (stamps)?",
+    "answerExplanation": "'切手 (kitte)' is a stamp — a small postal paper affixed to letters or packages before sending. Stamps are bought at '郵便局 (ゆうびんきょく)' = post office. '図書館 (としょかん)' = library (place to borrow books), '銀行 (ぎんこう)' = bank (place for money matters), '病院 (びょういん)' = hospital (place for medical treatment).",
+    "hint": "Stamps are used to send letters — think of the place related to sending letters and packages",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_2_017",
+    "question": "「雑誌」の正しい読み方はどれですか。",
+    "furigana": "「雑誌[ざっし]」の正[ただ]しい読[よ]み方[かた]はどれですか。",
+    "romaji": "'Zasshi' no tadashii yomikata wa dore desu ka.",
+    "level": "N5",
+    "category": "KANJI",
+    "options": [
+      "ざつし",
+      "ぞっし",
+      "ざし",
+      "ざっし"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "Which is the correct reading for '雑誌'?",
+    "answerExplanation": "'雑誌' is read 'ざっし' (zasshi) and means magazine. '雑' changes from 'ざつ' to 'ざっ' due to sokuon (the small っ that creates a double consonant). '誌' = し (shi). Common mistakes: 'ざつし' (without sokuon), 'ぞっし' (wrong vowel), 'ざし' (missing sokuon).",
+    "hint": "Magazine — the first kanji undergoes sokuon sound change (っ) when combined with the second kanji",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n5_2_018",
+    "question": "あの映画を　もう　___か。",
+    "furigana": "あの映画[えいが]を　もう　___か。",
+    "romaji": "Ano eiga o mou ___ ka.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "見ます",
+      "見ました",
+      "見ています",
+      "見たいです"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Have you already watched that movie?",
+    "answerExplanation": "The word 'もう' in a question means 'already' and requires the past form ～ました. 'もう見ましたか' = 'Have you already watched?' (asking if it has been completed). '見ます' = watch (habitual/plan), '見ています' = currently watching, '見たいです' = want to watch. Only the past form fits with 'もう' in a question context.",
+    "hint": "The word 'もう' in a question means 'already' — the verb must be in the form that indicates the action is ALREADY completed",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_2_019",
+    "question": "「暖かい」はどんな意味ですか。",
+    "furigana": "「暖[あたた]かい」はどんな意味[いみ]ですか。",
+    "romaji": "'Atatakai' wa donna imi desu ka.",
+    "level": "N5",
+    "category": "VOCABULARY",
+    "options": [
+      "Cold",
+      "Hot",
+      "Cool",
+      "Warm"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "What is the meaning of '暖かい (あたたかい)'?",
+    "answerExplanation": "'暖かい (atatakai)' means warm — a comfortable temperature, not too hot and not cold. Usually used to describe pleasant weather or air. Compare: '寒い (samui)' = cold (air), '暑い (atsui)' = hot (air), '涼しい (suzushii)' = cool. The kanji '暖' contains the element 日 (sun) suggesting warmth.",
+    "hint": "A comfortable and pleasant temperature — between hot and cold, leaning toward the positive side",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_2_020",
+    "question": "「学生」の「生」の読み方は？",
+    "furigana": "「学生[がくせい]」の「生」の読[よ]み方[かた]は？",
+    "romaji": "'Gakusei' no 'sei' no yomikata wa?",
+    "level": "N5",
+    "category": "KANJI",
+    "options": [
+      "しょう",
+      "せい",
+      "なま",
+      "い"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "How do you read the kanji '生' in '学生'?",
+    "answerExplanation": "'生' in '学生 (がくせい)' is read 'せい' as on-yomi. The kanji '生' has many readings in Japanese: 'せい' in 学生 (student) and 生活 (life), 'しょう' in 一生 (lifetime), 'なま' in 生野菜 (raw vegetables), and 'い' in 生きる (to live). What is asked here is the reading in the word 学生.",
+    "hint": "Think of the full word: がく＿＿ — the sound after がく is the reading of this kanji",
+    "difficultyScore": 2
+  }
+]

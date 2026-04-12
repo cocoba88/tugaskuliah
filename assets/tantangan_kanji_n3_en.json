@@ -1,0 +1,607 @@
+{
+  "id": "kanji_n3_challenge",
+  "title": "Kanji N3 Challenge",
+  "timer": 15,
+  "description": "Arrange the Onyomi or Kunyomi reading of the displayed kanji!",
+  "totalQuestions": 30,
+  "questions": [
+    {
+      "id": 1,
+      "hiragana": "政",
+      "meaning": "Politics",
+      "readingType": "onyomi",
+      "answerParts": [
+        "sei"
+      ],
+      "distractors": [
+        "ka",
+        "mi",
+        "su",
+        "no",
+        "te",
+        "ra",
+        "ko",
+        "ma"
+      ]
+    },
+    {
+      "id": 2,
+      "hiragana": "経",
+      "meaning": "To Pass / Experience",
+      "readingType": "onyomi",
+      "answerParts": [
+        "kei"
+      ],
+      "distractors": [
+        "sa",
+        "mi",
+        "to",
+        "no",
+        "ra",
+        "yu",
+        "fu",
+        "ba"
+      ]
+    },
+    {
+      "id": 3,
+      "hiragana": "済",
+      "meaning": "Finished / To Complete",
+      "readingType": "onyomi",
+      "answerParts": [
+        "sai"
+      ],
+      "distractors": [
+        "ka",
+        "mo",
+        "to",
+        "nu",
+        "re",
+        "hi",
+        "do",
+        "bu"
+      ]
+    },
+    {
+      "id": 4,
+      "hiragana": "届",
+      "meaning": "To Deliver / Arrive",
+      "readingType": "kunyomi",
+      "answerParts": [
+        "to",
+        "do",
+        "ke"
+      ],
+      "distractors": [
+        "sa",
+        "mi",
+        "na",
+        "ra",
+        "yu",
+        "fu",
+        "ba",
+        "shi"
+      ]
+    },
+    {
+      "id": 5,
+      "hiragana": "相",
+      "meaning": "Mutual / Appearance",
+      "readingType": "kunyomi",
+      "answerParts": [
+        "a",
+        "i"
+      ],
+      "distractors": [
+        "sa",
+        "mi",
+        "to",
+        "nu",
+        "re",
+        "hi",
+        "do",
+        "bu"
+      ]
+    },
+    {
+      "id": 6,
+      "hiragana": "際",
+      "meaning": "Occasion / Border",
+      "readingType": "onyomi",
+      "answerParts": [
+        "sai"
+      ],
+      "distractors": [
+        "ka",
+        "mo",
+        "to",
+        "nu",
+        "re",
+        "hi",
+        "do",
+        "bu"
+      ]
+    },
+    {
+      "id": 7,
+      "hiragana": "値",
+      "meaning": "Value / Price",
+      "readingType": "kunyomi",
+      "answerParts": [
+        "a",
+        "ta",
+        "i"
+      ],
+      "distractors": [
+        "sa",
+        "mi",
+        "no",
+        "re",
+        "yu",
+        "fu",
+        "ba",
+        "shi"
+      ]
+    },
+    {
+      "id": 8,
+      "hiragana": "観",
+      "meaning": "View / To Observe",
+      "readingType": "onyomi",
+      "answerParts": [
+        "kan"
+      ],
+      "distractors": [
+        "sa",
+        "mi",
+        "to",
+        "nu",
+        "re",
+        "hi",
+        "do",
+        "bu"
+      ]
+    },
+    {
+      "id": 9,
+      "hiragana": "術",
+      "meaning": "Art / Technique",
+      "readingType": "onyomi",
+      "answerParts": [
+        "ju",
+        "tsu"
+      ],
+      "distractors": [
+        "sa",
+        "mi",
+        "to",
+        "ka",
+        "re",
+        "hi",
+        "do",
+        "bu"
+      ]
+    },
+    {
+      "id": 10,
+      "hiragana": "準",
+      "meaning": "Standard / Preparation",
+      "readingType": "onyomi",
+      "answerParts": [
+        "jun"
+      ],
+      "distractors": [
+        "sa",
+        "mi",
+        "to",
+        "nu",
+        "re",
+        "hi",
+        "do",
+        "bu"
+      ]
+    },
+    {
+      "id": 11,
+      "hiragana": "責",
+      "meaning": "Responsibility",
+      "readingType": "onyomi",
+      "answerParts": [
+        "se",
+        "ki"
+      ],
+      "distractors": [
+        "sa",
+        "mi",
+        "to",
+        "nu",
+        "ra",
+        "hi",
+        "do",
+        "bu"
+      ]
+    },
+    {
+      "id": 12,
+      "hiragana": "識",
+      "meaning": "Knowledge / Awareness",
+      "readingType": "onyomi",
+      "answerParts": [
+        "shi",
+        "ki"
+      ],
+      "distractors": [
+        "sa",
+        "mi",
+        "to",
+        "nu",
+        "re",
+        "ka",
+        "do",
+        "bu"
+      ]
+    },
+    {
+      "id": 13,
+      "hiragana": "質",
+      "meaning": "Quality / Nature",
+      "readingType": "onyomi",
+      "answerParts": [
+        "shi",
+        "tsu"
+      ],
+      "distractors": [
+        "sa",
+        "mi",
+        "to",
+        "nu",
+        "re",
+        "hi",
+        "do",
+        "bu"
+      ]
+    },
+    {
+      "id": 14,
+      "hiragana": "量",
+      "meaning": "Amount / Measurement",
+      "readingType": "onyomi",
+      "answerParts": [
+        "ryou"
+      ],
+      "distractors": [
+        "sa",
+        "mi",
+        "to",
+        "nu",
+        "re",
+        "hi",
+        "do",
+        "bu"
+      ]
+    },
+    {
+      "id": 15,
+      "hiragana": "原",
+      "meaning": "Field / Origin",
+      "readingType": "kunyomi",
+      "answerParts": [
+        "ha",
+        "ra"
+      ],
+      "distractors": [
+        "sa",
+        "mi",
+        "to",
+        "nu",
+        "re",
+        "ki",
+        "do",
+        "bu"
+      ]
+    },
+    {
+      "id": 16,
+      "hiragana": "因",
+      "meaning": "Cause",
+      "readingType": "onyomi",
+      "answerParts": [
+        "in"
+      ],
+      "distractors": [
+        "sa",
+        "mi",
+        "to",
+        "nu",
+        "re",
+        "hi",
+        "do",
+        "bu"
+      ]
+    },
+    {
+      "id": 17,
+      "hiragana": "態",
+      "meaning": "Condition / Attitude",
+      "readingType": "onyomi",
+      "answerParts": [
+        "tai"
+      ],
+      "distractors": [
+        "sa",
+        "mi",
+        "to",
+        "nu",
+        "re",
+        "hi",
+        "do",
+        "bu"
+      ]
+    },
+    {
+      "id": 18,
+      "hiragana": "性",
+      "meaning": "Nature / Gender",
+      "readingType": "onyomi",
+      "answerParts": [
+        "sei"
+      ],
+      "distractors": [
+        "ka",
+        "mi",
+        "ta",
+        "no",
+        "te",
+        "ra",
+        "ko",
+        "ma"
+      ]
+    },
+    {
+      "id": 19,
+      "hiragana": "能",
+      "meaning": "Ability / Talent",
+      "readingType": "onyomi",
+      "answerParts": [
+        "nou"
+      ],
+      "distractors": [
+        "sa",
+        "mi",
+        "to",
+        "nu",
+        "re",
+        "hi",
+        "do",
+        "bu"
+      ]
+    },
+    {
+      "id": 20,
+      "hiragana": "現",
+      "meaning": "To Appear / Current",
+      "readingType": "kunyomi",
+      "answerParts": [
+        "a",
+        "ra",
+        "wa"
+      ],
+      "distractors": [
+        "sa",
+        "mi",
+        "to",
+        "nu",
+        "re",
+        "ki",
+        "do",
+        "bu"
+      ]
+    },
+    {
+      "id": 21,
+      "hiragana": "表",
+      "meaning": "Surface / To Express",
+      "readingType": "kunyomi",
+      "answerParts": [
+        "o",
+        "mo",
+        "te"
+      ],
+      "distractors": [
+        "sa",
+        "mi",
+        "na",
+        "nu",
+        "re",
+        "ki",
+        "do",
+        "bu"
+      ]
+    },
+    {
+      "id": 22,
+      "hiragana": "対",
+      "meaning": "To Oppose / Pair",
+      "readingType": "onyomi",
+      "answerParts": [
+        "tai"
+      ],
+      "distractors": [
+        "sa",
+        "mi",
+        "to",
+        "nu",
+        "re",
+        "hi",
+        "do",
+        "bu"
+      ]
+    },
+    {
+      "id": 23,
+      "hiragana": "限",
+      "meaning": "Limit / To Restrict",
+      "readingType": "kunyomi",
+      "answerParts": [
+        "ka",
+        "gi"
+      ],
+      "distractors": [
+        "sa",
+        "mi",
+        "to",
+        "nu",
+        "re",
+        "hi",
+        "do",
+        "bu"
+      ]
+    },
+    {
+      "id": 24,
+      "hiragana": "設",
+      "meaning": "To Establish / Build",
+      "readingType": "onyomi",
+      "answerParts": [
+        "se",
+        "tsu"
+      ],
+      "distractors": [
+        "sa",
+        "mi",
+        "to",
+        "nu",
+        "ra",
+        "hi",
+        "do",
+        "bu"
+      ]
+    },
+    {
+      "id": 25,
+      "hiragana": "退",
+      "meaning": "To Retreat / Resign",
+      "readingType": "kunyomi",
+      "answerParts": [
+        "shi",
+        "ri",
+        "zo",
+        "ku"
+      ],
+      "distractors": [
+        "sa",
+        "mi",
+        "to",
+        "nu",
+        "re",
+        "ka",
+        "ba",
+        "bu"
+      ]
+    },
+    {
+      "id": 26,
+      "hiragana": "判",
+      "meaning": "To Judge / Assessment",
+      "readingType": "onyomi",
+      "answerParts": [
+        "han"
+      ],
+      "distractors": [
+        "sa",
+        "mi",
+        "to",
+        "nu",
+        "re",
+        "hi",
+        "do",
+        "bu"
+      ]
+    },
+    {
+      "id": 27,
+      "hiragana": "選",
+      "meaning": "To Choose / Select",
+      "readingType": "kunyomi",
+      "answerParts": [
+        "e",
+        "ra",
+        "bu"
+      ],
+      "distractors": [
+        "sa",
+        "mi",
+        "to",
+        "nu",
+        "re",
+        "ki",
+        "do",
+        "ba"
+      ]
+    },
+    {
+      "id": 28,
+      "hiragana": "防",
+      "meaning": "To Prevent / Defense",
+      "readingType": "kunyomi",
+      "answerParts": [
+        "fu",
+        "se",
+        "gu"
+      ],
+      "distractors": [
+        "sa",
+        "mi",
+        "to",
+        "nu",
+        "ra",
+        "hi",
+        "do",
+        "bu"
+      ]
+    },
+    {
+      "id": 29,
+      "hiragana": "認",
+      "meaning": "To Acknowledge / Recognize",
+      "readingType": "kunyomi",
+      "answerParts": [
+        "mi",
+        "to",
+        "me",
+        "ru"
+      ],
+      "distractors": [
+        "sa",
+        "ka",
+        "na",
+        "nu",
+        "re",
+        "hi",
+        "do",
+        "bu"
+      ]
+    },
+    {
+      "id": 30,
+      "hiragana": "増",
+      "meaning": "To Increase",
+      "readingType": "kunyomi",
+      "answerParts": [
+        "fu",
+        "e",
+        "ru"
+      ],
+      "distractors": [
+        "sa",
+        "mi",
+        "to",
+        "nu",
+        "ra",
+        "ki",
+        "do",
+        "ba"
+      ]
+    }
+  ]
+}

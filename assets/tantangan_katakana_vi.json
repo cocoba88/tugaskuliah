@@ -1,0 +1,582 @@
+{
+  "id": "katakana_kotoba_challenge",
+  "title": "Thử thách Katakana",
+  "timer": 10,
+  "description": "Sắp xếp cách đọc romaji của từ katakana được hiển thị! Nhấn vào ô âm tiết đúng để tạo cách đọc.",
+  "totalQuestions": 30,
+  "questions": [
+    {
+      "id": 1,
+      "hiragana": "バス",
+      "meaning": "Xe buýt",
+      "answerParts": [
+        "ba",
+        "su"
+      ],
+      "distractors": [
+        "ka",
+        "ta",
+        "mi",
+        "no",
+        "re",
+        "fu",
+        "sa",
+        "pi"
+      ]
+    },
+    {
+      "id": 2,
+      "hiragana": "カメラ",
+      "meaning": "Máy ảnh",
+      "answerParts": [
+        "ka",
+        "me",
+        "ra"
+      ],
+      "distractors": [
+        "sa",
+        "ki",
+        "ta",
+        "na",
+        "mi",
+        "ho",
+        "te"
+      ]
+    },
+    {
+      "id": 3,
+      "hiragana": "テレビ",
+      "meaning": "Ti vi",
+      "answerParts": [
+        "te",
+        "re",
+        "bi"
+      ],
+      "distractors": [
+        "ka",
+        "sa",
+        "mi",
+        "na",
+        "fu",
+        "ho",
+        "ba"
+      ]
+    },
+    {
+      "id": 4,
+      "hiragana": "ホテル",
+      "meaning": "Khách sạn",
+      "answerParts": [
+        "ho",
+        "te",
+        "ru"
+      ],
+      "distractors": [
+        "ka",
+        "sa",
+        "mi",
+        "na",
+        "fu",
+        "bi",
+        "ba"
+      ]
+    },
+    {
+      "id": 5,
+      "hiragana": "パン",
+      "meaning": "Bánh mì",
+      "answerParts": [
+        "pa",
+        "n"
+      ],
+      "distractors": [
+        "ba",
+        "ka",
+        "sa",
+        "mi",
+        "ta",
+        "fu",
+        "ma",
+        "re"
+      ]
+    },
+    {
+      "id": 6,
+      "hiragana": "ピザ",
+      "meaning": "Pizza",
+      "answerParts": [
+        "pi",
+        "za"
+      ],
+      "distractors": [
+        "ba",
+        "ka",
+        "sa",
+        "mi",
+        "ta",
+        "fu",
+        "ra",
+        "no"
+      ]
+    },
+    {
+      "id": 7,
+      "hiragana": "ジュース",
+      "meaning": "Nước ép",
+      "answerParts": [
+        "ju",
+        "su"
+      ],
+      "distractors": [
+        "ba",
+        "ka",
+        "mi",
+        "ta",
+        "fu",
+        "ra",
+        "no",
+        "ki"
+      ]
+    },
+    {
+      "id": 8,
+      "hiragana": "タクシー",
+      "meaning": "Taxi",
+      "answerParts": [
+        "ta",
+        "ku",
+        "shi"
+      ],
+      "distractors": [
+        "ba",
+        "ka",
+        "mi",
+        "fu",
+        "ra",
+        "no",
+        "te"
+      ]
+    },
+    {
+      "id": 9,
+      "hiragana": "ラジオ",
+      "meaning": "Đài",
+      "answerParts": [
+        "ra",
+        "ji",
+        "o"
+      ],
+      "distractors": [
+        "ba",
+        "ka",
+        "mi",
+        "fu",
+        "na",
+        "te",
+        "su"
+      ]
+    },
+    {
+      "id": 10,
+      "hiragana": "ドア",
+      "meaning": "Cửa",
+      "answerParts": [
+        "do",
+        "a"
+      ],
+      "distractors": [
+        "ba",
+        "ka",
+        "mi",
+        "fu",
+        "na",
+        "te",
+        "su",
+        "ra"
+      ]
+    },
+    {
+      "id": 11,
+      "hiragana": "マスク",
+      "meaning": "Khẩu trang",
+      "answerParts": [
+        "ma",
+        "su",
+        "ku"
+      ],
+      "distractors": [
+        "ba",
+        "ka",
+        "mi",
+        "fu",
+        "na",
+        "te",
+        "ra"
+      ]
+    },
+    {
+      "id": 12,
+      "hiragana": "ゲーム",
+      "meaning": "Trò chơi",
+      "answerParts": [
+        "ge",
+        "mu"
+      ],
+      "distractors": [
+        "ba",
+        "ka",
+        "mi",
+        "fu",
+        "na",
+        "te",
+        "ra",
+        "su"
+      ]
+    },
+    {
+      "id": 13,
+      "hiragana": "ソファ",
+      "meaning": "Ghế sofa",
+      "answerParts": [
+        "so",
+        "fa"
+      ],
+      "distractors": [
+        "ba",
+        "ka",
+        "mi",
+        "fu",
+        "na",
+        "te",
+        "ra",
+        "su"
+      ]
+    },
+    {
+      "id": 14,
+      "hiragana": "バナナ",
+      "meaning": "Chuối",
+      "answerParts": [
+        "ba",
+        "na",
+        "na"
+      ],
+      "distractors": [
+        "ka",
+        "mi",
+        "fu",
+        "te",
+        "ra",
+        "su",
+        "sa"
+      ]
+    },
+    {
+      "id": 15,
+      "hiragana": "コーヒー",
+      "meaning": "Cà phê",
+      "answerParts": [
+        "ko",
+        "hi"
+      ],
+      "distractors": [
+        "ba",
+        "ka",
+        "mi",
+        "fu",
+        "na",
+        "te",
+        "ra",
+        "su"
+      ]
+    },
+    {
+      "id": 16,
+      "hiragana": "チーズ",
+      "meaning": "Phô mai",
+      "answerParts": [
+        "chi",
+        "zu"
+      ],
+      "distractors": [
+        "ba",
+        "ka",
+        "mi",
+        "fu",
+        "na",
+        "te",
+        "ra",
+        "su"
+      ]
+    },
+    {
+      "id": 17,
+      "hiragana": "パスポート",
+      "meaning": "Hộ chiếu",
+      "answerParts": [
+        "pa",
+        "su",
+        "po",
+        "to"
+      ],
+      "distractors": [
+        "ba",
+        "ka",
+        "mi",
+        "fu",
+        "na",
+        "te"
+      ]
+    },
+    {
+      "id": 18,
+      "hiragana": "ネクタイ",
+      "meaning": "Cà vạt",
+      "answerParts": [
+        "ne",
+        "ku",
+        "ta",
+        "i"
+      ],
+      "distractors": [
+        "ba",
+        "ka",
+        "mi",
+        "fu",
+        "sa",
+        "te"
+      ]
+    },
+    {
+      "id": 19,
+      "hiragana": "コンサート",
+      "meaning": "Buổi hòa nhạc",
+      "answerParts": [
+        "ko",
+        "n",
+        "sa",
+        "to"
+      ],
+      "distractors": [
+        "ba",
+        "ka",
+        "mi",
+        "fu",
+        "te",
+        "ra"
+      ]
+    },
+    {
+      "id": 20,
+      "hiragana": "スマホ",
+      "meaning": "Điện thoại thông minh",
+      "answerParts": [
+        "su",
+        "ma",
+        "ho"
+      ],
+      "distractors": [
+        "ba",
+        "ka",
+        "mi",
+        "fu",
+        "na",
+        "te",
+        "ra"
+      ]
+    },
+    {
+      "id": 21,
+      "hiragana": "レストラン",
+      "meaning": "Nhà hàng",
+      "answerParts": [
+        "re",
+        "su",
+        "to",
+        "ra",
+        "n"
+      ],
+      "distractors": [
+        "ka",
+        "mi",
+        "fu",
+        "ba",
+        "shi",
+        "ko"
+      ]
+    },
+    {
+      "id": 22,
+      "hiragana": "アイスクリーム",
+      "meaning": "Kem",
+      "answerParts": [
+        "a",
+        "i",
+        "su",
+        "ku",
+        "ri",
+        "mu"
+      ],
+      "distractors": [
+        "ka",
+        "te",
+        "no",
+        "ba",
+        "ho",
+        "fa"
+      ]
+    },
+    {
+      "id": 23,
+      "hiragana": "チョコレート",
+      "meaning": "Sô cô la",
+      "answerParts": [
+        "cho",
+        "ko",
+        "re",
+        "to"
+      ],
+      "distractors": [
+        "ka",
+        "mi",
+        "su",
+        "na",
+        "ba",
+        "fu"
+      ]
+    },
+    {
+      "id": 24,
+      "hiragana": "ハンバーガー",
+      "meaning": "Hamburger",
+      "answerParts": [
+        "ha",
+        "n",
+        "ba",
+        "ga"
+      ],
+      "distractors": [
+        "ka",
+        "mi",
+        "su",
+        "te",
+        "ri",
+        "ko"
+      ]
+    },
+    {
+      "id": 25,
+      "hiragana": "エレベーター",
+      "meaning": "Thang máy",
+      "answerParts": [
+        "e",
+        "re",
+        "be",
+        "ta"
+      ],
+      "distractors": [
+        "ka",
+        "mi",
+        "su",
+        "no",
+        "fu",
+        "ko"
+      ]
+    },
+    {
+      "id": 26,
+      "hiragana": "コンビニ",
+      "meaning": "Cửa hàng tiện lợi",
+      "answerParts": [
+        "ko",
+        "n",
+        "bi",
+        "ni"
+      ],
+      "distractors": [
+        "ka",
+        "mi",
+        "su",
+        "te",
+        "ra",
+        "fu"
+      ]
+    },
+    {
+      "id": 27,
+      "hiragana": "アパート",
+      "meaning": "Căn hộ",
+      "answerParts": [
+        "a",
+        "pa",
+        "to"
+      ],
+      "distractors": [
+        "ka",
+        "mi",
+        "su",
+        "re",
+        "ba",
+        "na",
+        "fu"
+      ]
+    },
+    {
+      "id": 28,
+      "hiragana": "シャワー",
+      "meaning": "Vòi sen",
+      "answerParts": [
+        "sha",
+        "wa"
+      ],
+      "distractors": [
+        "ka",
+        "mi",
+        "su",
+        "te",
+        "ra",
+        "ko",
+        "ba",
+        "no"
+      ]
+    },
+    {
+      "id": 29,
+      "hiragana": "トイレ",
+      "meaning": "Nhà vệ sinh",
+      "answerParts": [
+        "to",
+        "i",
+        "re"
+      ],
+      "distractors": [
+        "ka",
+        "mi",
+        "su",
+        "ba",
+        "na",
+        "fu",
+        "ho"
+      ]
+    },
+    {
+      "id": 30,
+      "hiragana": "エアコン",
+      "meaning": "Máy lạnh",
+      "answerParts": [
+        "e",
+        "a",
+        "ko",
+        "n"
+      ],
+      "distractors": [
+        "ka",
+        "mi",
+        "su",
+        "te",
+        "ra",
+        "ba"
+      ]
+    }
+  ]
+}

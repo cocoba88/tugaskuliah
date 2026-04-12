@@ -1,0 +1,4019 @@
+{
+  "metadata": {
+    "level": "N4",
+    "total_kanji": 167,
+    "source": "Doi chieu tu 6 nguon: Nihongo-Pro, Kanji Master Suki, NIHONGO ICHIBAN, jlptglobal.com, Wikibooks, JLPT Samurai",
+    "version": "3.0",
+    "catatan": "Danh sach 167 kanji chi N4 (khong bao gom 103 kanji N5). Tong kien thuc N4 = 103 N5 + 167 N4 = 270 kanji."
+  },
+  "kanji_list": [
+    {
+      "id": 1,
+      "kanji": "不",
+      "onyomi": "フ、ブ",
+      "kunyomi": "",
+      "meaning": "không, chẳng (tiền tố phủ định)",
+      "contoh_kalimat": [
+        {
+          "contoh": "不便",
+          "furigana": "ふべん",
+          "arti": "bất tiện"
+        },
+        {
+          "contoh": "不安",
+          "furigana": "ふあん",
+          "arti": "bất an, lo lắng"
+        },
+        {
+          "contoh": "不足",
+          "furigana": "ふそく",
+          "arti": "thiếu hụt"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "kanji": "世",
+      "onyomi": "セイ、セ",
+      "kunyomi": "よ",
+      "meaning": "thế giới, thế hệ, thời đại",
+      "contoh_kalimat": [
+        {
+          "contoh": "世界",
+          "furigana": "せかい",
+          "arti": "thế giới"
+        },
+        {
+          "contoh": "世話",
+          "furigana": "せわ",
+          "arti": "chăm sóc"
+        },
+        {
+          "contoh": "世の中",
+          "furigana": "よのなか",
+          "arti": "thế giới, xã hội"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "kanji": "主",
+      "onyomi": "シュ",
+      "kunyomi": "ぬし、おも",
+      "meaning": "chính, chủ, chủ nhân",
+      "contoh_kalimat": [
+        {
+          "contoh": "主人",
+          "furigana": "しゅじん",
+          "arti": "chồng, chủ nhà"
+        },
+        {
+          "contoh": "主に",
+          "furigana": "おもに",
+          "arti": "chủ yếu"
+        },
+        {
+          "contoh": "主語",
+          "furigana": "しゅご",
+          "arti": "chủ ngữ"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "kanji": "事",
+      "onyomi": "ジ、ズ",
+      "kunyomi": "こと",
+      "meaning": "việc, vấn đề, sự kiện",
+      "contoh_kalimat": [
+        {
+          "contoh": "仕事",
+          "furigana": "しごと",
+          "arti": "công việc"
+        },
+        {
+          "contoh": "大事",
+          "furigana": "だいじ",
+          "arti": "quan trọng"
+        },
+        {
+          "contoh": "事故",
+          "furigana": "じこ",
+          "arti": "tai nạn"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "kanji": "京",
+      "onyomi": "キョウ、ケイ",
+      "kunyomi": "みやこ",
+      "meaning": "thủ đô",
+      "contoh_kalimat": [
+        {
+          "contoh": "東京",
+          "furigana": "とうきょう",
+          "arti": "Tokyo"
+        },
+        {
+          "contoh": "京都",
+          "furigana": "きょうと",
+          "arti": "Kyoto"
+        },
+        {
+          "contoh": "上京",
+          "furigana": "じょうきょう",
+          "arti": "lên Tokyo"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "kanji": "仕",
+      "onyomi": "シ、ジ",
+      "kunyomi": "つか-える",
+      "meaning": "phục vụ, công việc",
+      "contoh_kalimat": [
+        {
+          "contoh": "仕事",
+          "furigana": "しごと",
+          "arti": "công việc"
+        },
+        {
+          "contoh": "仕方",
+          "furigana": "しかた",
+          "arti": "cách"
+        },
+        {
+          "contoh": "仕組み",
+          "furigana": "しくみ",
+          "arti": "cơ chế, cấu trúc"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "kanji": "代",
+      "onyomi": "ダイ、タイ",
+      "kunyomi": "か-わる、よ",
+      "meaning": "thay thế, thế hệ, thời đại",
+      "contoh_kalimat": [
+        {
+          "contoh": "時代",
+          "furigana": "じだい",
+          "arti": "thời đại"
+        },
+        {
+          "contoh": "代わり",
+          "furigana": "かわり",
+          "arti": "thay thế"
+        },
+        {
+          "contoh": "現代",
+          "furigana": "げんだい",
+          "arti": "hiện đại"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "kanji": "以",
+      "onyomi": "イ",
+      "kunyomi": "",
+      "meaning": "với, từ, hơn",
+      "contoh_kalimat": [
+        {
+          "contoh": "以上",
+          "furigana": "いじょう",
+          "arti": "trên, hơn"
+        },
+        {
+          "contoh": "以下",
+          "furigana": "いか",
+          "arti": "dưới, ít hơn"
+        },
+        {
+          "contoh": "以前",
+          "furigana": "いぜん",
+          "arti": "trước đây"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "kanji": "会",
+      "onyomi": "カイ、エ",
+      "kunyomi": "あ-う",
+      "meaning": "gặp, tụ họp",
+      "contoh_kalimat": [
+        {
+          "contoh": "会議",
+          "furigana": "かいぎ",
+          "arti": "cuộc họp"
+        },
+        {
+          "contoh": "社会",
+          "furigana": "しゃかい",
+          "arti": "xã hội"
+        },
+        {
+          "contoh": "会話",
+          "furigana": "かいわ",
+          "arti": "hội thoại"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "kanji": "住",
+      "onyomi": "ジュウ",
+      "kunyomi": "す-む",
+      "meaning": "sống, cư trú",
+      "contoh_kalimat": [
+        {
+          "contoh": "住む",
+          "furigana": "すむ",
+          "arti": "sống, cư trú"
+        },
+        {
+          "contoh": "住所",
+          "furigana": "じゅうしょ",
+          "arti": "địa chỉ"
+        },
+        {
+          "contoh": "住民",
+          "furigana": "じゅうみん",
+          "arti": "cư dân"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "kanji": "体",
+      "onyomi": "タイ、テイ",
+      "kunyomi": "からだ",
+      "meaning": "cơ thể",
+      "contoh_kalimat": [
+        {
+          "contoh": "体",
+          "furigana": "からだ",
+          "arti": "cơ thể"
+        },
+        {
+          "contoh": "体育",
+          "furigana": "たいいく",
+          "arti": "giáo dục thể chất"
+        },
+        {
+          "contoh": "体重",
+          "furigana": "たいじゅう",
+          "arti": "cân nặng"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "kanji": "作",
+      "onyomi": "サク、サ",
+      "kunyomi": "つく-る",
+      "meaning": "làm, tạo, tác phẩm",
+      "contoh_kalimat": [
+        {
+          "contoh": "作る",
+          "furigana": "つくる",
+          "arti": "làm, tạo"
+        },
+        {
+          "contoh": "作品",
+          "furigana": "さくひん",
+          "arti": "tác phẩm"
+        },
+        {
+          "contoh": "作文",
+          "furigana": "さくぶん",
+          "arti": "bài luận"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "kanji": "使",
+      "onyomi": "シ",
+      "kunyomi": "つか-う",
+      "meaning": "sử dụng",
+      "contoh_kalimat": [
+        {
+          "contoh": "使う",
+          "furigana": "つかう",
+          "arti": "sử dụng"
+        },
+        {
+          "contoh": "使用",
+          "furigana": "しよう",
+          "arti": "sử dụng"
+        },
+        {
+          "contoh": "大使",
+          "furigana": "たいし",
+          "arti": "đại sứ"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "kanji": "借",
+      "onyomi": "シャク",
+      "kunyomi": "か-りる",
+      "meaning": "mượn",
+      "contoh_kalimat": [
+        {
+          "contoh": "借りる",
+          "furigana": "かりる",
+          "arti": "mượn"
+        },
+        {
+          "contoh": "借金",
+          "furigana": "しゃっきん",
+          "arti": "nợ"
+        },
+        {
+          "contoh": "拝借",
+          "furigana": "はいしゃく",
+          "arti": "mượn (lịch sự)"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "kanji": "元",
+      "onyomi": "ゲン、ガン",
+      "kunyomi": "もと",
+      "meaning": "gốc, ban đầu, khỏe mạnh",
+      "contoh_kalimat": [
+        {
+          "contoh": "元気",
+          "furigana": "げんき",
+          "arti": "khỏe mạnh, năng động"
+        },
+        {
+          "contoh": "元々",
+          "furigana": "もともと",
+          "arti": "ban đầu"
+        },
+        {
+          "contoh": "地元",
+          "furigana": "じもと",
+          "arti": "địa phương"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "kanji": "兄",
+      "onyomi": "ケイ、キョウ",
+      "kunyomi": "あに",
+      "meaning": "anh trai",
+      "contoh_kalimat": [
+        {
+          "contoh": "兄",
+          "furigana": "あに",
+          "arti": "anh trai"
+        },
+        {
+          "contoh": "お兄さん",
+          "furigana": "おにいさん",
+          "arti": "anh trai (lịch sự)"
+        },
+        {
+          "contoh": "兄弟",
+          "furigana": "きょうだい",
+          "arti": "anh em"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "kanji": "公",
+      "onyomi": "コウ",
+      "kunyomi": "おおやけ",
+      "meaning": "công cộng, chính thức",
+      "contoh_kalimat": [
+        {
+          "contoh": "公園",
+          "furigana": "こうえん",
+          "arti": "công viên"
+        },
+        {
+          "contoh": "公共",
+          "furigana": "こうきょう",
+          "arti": "công cộng"
+        },
+        {
+          "contoh": "公務員",
+          "furigana": "こうむいん",
+          "arti": "công chức"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "kanji": "写",
+      "onyomi": "シャ",
+      "kunyomi": "うつ-す",
+      "meaning": "sao chép, chụp ảnh",
+      "contoh_kalimat": [
+        {
+          "contoh": "写真",
+          "furigana": "しゃしん",
+          "arti": "ảnh"
+        },
+        {
+          "contoh": "写す",
+          "furigana": "うつす",
+          "arti": "sao chép, chụp ảnh"
+        },
+        {
+          "contoh": "写生",
+          "furigana": "しゃせい",
+          "arti": "vẽ từ thiên nhiên"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "kanji": "冬",
+      "onyomi": "トウ",
+      "kunyomi": "ふゆ",
+      "meaning": "mùa đông",
+      "contoh_kalimat": [
+        {
+          "contoh": "冬",
+          "furigana": "ふゆ",
+          "arti": "mùa đông"
+        },
+        {
+          "contoh": "冬休み",
+          "furigana": "ふゆやすみ",
+          "arti": "nghỉ đông"
+        },
+        {
+          "contoh": "真冬",
+          "furigana": "まふゆ",
+          "arti": "giữa mùa đông"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "kanji": "切",
+      "onyomi": "セツ、サイ",
+      "kunyomi": "き-る",
+      "meaning": "cắt, quan trọng",
+      "contoh_kalimat": [
+        {
+          "contoh": "切る",
+          "furigana": "きる",
+          "arti": "cắt"
+        },
+        {
+          "contoh": "大切",
+          "furigana": "たいせつ",
+          "arti": "quan trọng, quý giá"
+        },
+        {
+          "contoh": "切手",
+          "furigana": "きって",
+          "arti": "tem thư"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "kanji": "別",
+      "onyomi": "ベツ",
+      "kunyomi": "わか-れる",
+      "meaning": "khác, tách biệt",
+      "contoh_kalimat": [
+        {
+          "contoh": "別れる",
+          "furigana": "わかれる",
+          "arti": "chia tay"
+        },
+        {
+          "contoh": "特別",
+          "furigana": "とくべつ",
+          "arti": "đặc biệt"
+        },
+        {
+          "contoh": "別々",
+          "furigana": "べつべつ",
+          "arti": "riêng biệt"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "kanji": "力",
+      "onyomi": "リョク、リキ",
+      "kunyomi": "ちから",
+      "meaning": "sức mạnh, lực",
+      "contoh_kalimat": [
+        {
+          "contoh": "力",
+          "furigana": "ちから",
+          "arti": "sức mạnh"
+        },
+        {
+          "contoh": "努力",
+          "furigana": "どりょく",
+          "arti": "nỗ lực"
+        },
+        {
+          "contoh": "体力",
+          "furigana": "たいりょく",
+          "arti": "thể lực"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "kanji": "勉",
+      "onyomi": "ベン",
+      "kunyomi": "",
+      "meaning": "chăm chỉ, cần mẫn",
+      "contoh_kalimat": [
+        {
+          "contoh": "勉強",
+          "furigana": "べんきょう",
+          "arti": "học"
+        },
+        {
+          "contoh": "勉学",
+          "furigana": "べんがく",
+          "arti": "học tập"
+        },
+        {
+          "contoh": "不勉強",
+          "furigana": "ふべんきょう",
+          "arti": "lười học"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "kanji": "動",
+      "onyomi": "ドウ",
+      "kunyomi": "うご-く",
+      "meaning": "di chuyển",
+      "contoh_kalimat": [
+        {
+          "contoh": "動く",
+          "furigana": "うごく",
+          "arti": "di chuyển"
+        },
+        {
+          "contoh": "動物",
+          "furigana": "どうぶつ",
+          "arti": "động vật"
+        },
+        {
+          "contoh": "運動",
+          "furigana": "うんどう",
+          "arti": "thể dục, thể thao"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "kanji": "医",
+      "onyomi": "イ",
+      "kunyomi": "",
+      "meaning": "bác sĩ, y tế",
+      "contoh_kalimat": [
+        {
+          "contoh": "医者",
+          "furigana": "いしゃ",
+          "arti": "bác sĩ"
+        },
+        {
+          "contoh": "医学",
+          "furigana": "いがく",
+          "arti": "y học"
+        },
+        {
+          "contoh": "医療",
+          "furigana": "いりょう",
+          "arti": "y tế"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "kanji": "去",
+      "onyomi": "キョ、コ",
+      "kunyomi": "さ-る",
+      "meaning": "đi, quá khứ",
+      "contoh_kalimat": [
+        {
+          "contoh": "去年",
+          "furigana": "きょねん",
+          "arti": "năm ngoái"
+        },
+        {
+          "contoh": "過去",
+          "furigana": "かこ",
+          "arti": "quá khứ"
+        },
+        {
+          "contoh": "去る",
+          "furigana": "さる",
+          "arti": "rời đi"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "kanji": "口",
+      "onyomi": "コウ、ク",
+      "kunyomi": "くち",
+      "meaning": "miệng, lỗ mở",
+      "contoh_kalimat": [
+        {
+          "contoh": "窓口",
+          "furigana": "まどぐち",
+          "arti": "quầy, cửa sổ giao dịch"
+        },
+        {
+          "contoh": "人口",
+          "furigana": "じんこう",
+          "arti": "dân số"
+        },
+        {
+          "contoh": "口座",
+          "furigana": "こうざ",
+          "arti": "tài khoản ngân hàng"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "kanji": "古",
+      "onyomi": "コ",
+      "kunyomi": "ふる-い",
+      "meaning": "cũ, cổ",
+      "contoh_kalimat": [
+        {
+          "contoh": "中古",
+          "furigana": "ちゅうこ",
+          "arti": "đồ cũ"
+        },
+        {
+          "contoh": "古本",
+          "furigana": "ふるほん",
+          "arti": "sách cũ"
+        },
+        {
+          "contoh": "古代",
+          "furigana": "こだい",
+          "arti": "thời cổ đại"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "kanji": "台",
+      "onyomi": "ダイ、タイ",
+      "kunyomi": "",
+      "meaning": "bàn, đơn vị (máy), sân khấu",
+      "contoh_kalimat": [
+        {
+          "contoh": "台所",
+          "furigana": "だいどころ",
+          "arti": "nhà bếp"
+        },
+        {
+          "contoh": "台風",
+          "furigana": "たいふう",
+          "arti": "bão"
+        },
+        {
+          "contoh": "一台",
+          "furigana": "いちだい",
+          "arti": "một chiếc (máy)"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "kanji": "同",
+      "onyomi": "ドウ",
+      "kunyomi": "おな-じ",
+      "meaning": "giống, cùng",
+      "contoh_kalimat": [
+        {
+          "contoh": "同じ",
+          "furigana": "おなじ",
+          "arti": "giống nhau"
+        },
+        {
+          "contoh": "同時",
+          "furigana": "どうじ",
+          "arti": "đồng thời"
+        },
+        {
+          "contoh": "共同",
+          "furigana": "きょうどう",
+          "arti": "hợp tác"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "kanji": "味",
+      "onyomi": "ミ",
+      "kunyomi": "あじ",
+      "meaning": "vị, sở thích",
+      "contoh_kalimat": [
+        {
+          "contoh": "味",
+          "furigana": "あじ",
+          "arti": "vị"
+        },
+        {
+          "contoh": "意味",
+          "furigana": "いみ",
+          "arti": "ý nghĩa"
+        },
+        {
+          "contoh": "趣味",
+          "furigana": "しゅみ",
+          "arti": "sở thích"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "kanji": "品",
+      "onyomi": "ヒン",
+      "kunyomi": "しな",
+      "meaning": "hàng hóa, sản phẩm, chất lượng",
+      "contoh_kalimat": [
+        {
+          "contoh": "品物",
+          "furigana": "しなもの",
+          "arti": "hàng hóa"
+        },
+        {
+          "contoh": "作品",
+          "furigana": "さくひん",
+          "arti": "tác phẩm"
+        },
+        {
+          "contoh": "食品",
+          "furigana": "しょくひん",
+          "arti": "thực phẩm"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "kanji": "員",
+      "onyomi": "イン",
+      "kunyomi": "",
+      "meaning": "thành viên, nhân viên",
+      "contoh_kalimat": [
+        {
+          "contoh": "店員",
+          "furigana": "てんいん",
+          "arti": "nhân viên cửa hàng"
+        },
+        {
+          "contoh": "会員",
+          "furigana": "かいいん",
+          "arti": "thành viên"
+        },
+        {
+          "contoh": "全員",
+          "furigana": "ぜんいん",
+          "arti": "tất cả thành viên"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "kanji": "問",
+      "onyomi": "モン",
+      "kunyomi": "と-う",
+      "meaning": "hỏi, câu hỏi, vấn đề",
+      "contoh_kalimat": [
+        {
+          "contoh": "問題",
+          "furigana": "もんだい",
+          "arti": "vấn đề, câu hỏi"
+        },
+        {
+          "contoh": "質問",
+          "furigana": "しつもん",
+          "arti": "câu hỏi"
+        },
+        {
+          "contoh": "問い合わせ",
+          "furigana": "といあわせ",
+          "arti": "liên hệ, hỏi thăm"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "kanji": "図",
+      "onyomi": "ズ、ト",
+      "kunyomi": "",
+      "meaning": "hình vẽ, bản đồ, sơ đồ",
+      "contoh_kalimat": [
+        {
+          "contoh": "地図",
+          "furigana": "ちず",
+          "arti": "bản đồ"
+        },
+        {
+          "contoh": "図書館",
+          "furigana": "としょかん",
+          "arti": "thư viện"
+        },
+        {
+          "contoh": "図形",
+          "furigana": "ずけい",
+          "arti": "hình học"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "kanji": "地",
+      "onyomi": "チ、ジ",
+      "kunyomi": "",
+      "meaning": "đất, mặt đất, địa điểm",
+      "contoh_kalimat": [
+        {
+          "contoh": "地図",
+          "furigana": "ちず",
+          "arti": "bản đồ"
+        },
+        {
+          "contoh": "地震",
+          "furigana": "じしん",
+          "arti": "động đất"
+        },
+        {
+          "contoh": "地方",
+          "furigana": "ちほう",
+          "arti": "vùng, khu vực"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "kanji": "堂",
+      "onyomi": "ドウ",
+      "kunyomi": "",
+      "meaning": "hội trường, phòng lớn",
+      "contoh_kalimat": [
+        {
+          "contoh": "食堂",
+          "furigana": "しょくどう",
+          "arti": "nhà ăn"
+        },
+        {
+          "contoh": "講堂",
+          "furigana": "こうどう",
+          "arti": "hội trường"
+        },
+        {
+          "contoh": "堂々",
+          "furigana": "どうどう",
+          "arti": "tự tin, đường hoàng"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "kanji": "場",
+      "onyomi": "ジョウ",
+      "kunyomi": "ば",
+      "meaning": "nơi, tình huống",
+      "contoh_kalimat": [
+        {
+          "contoh": "場所",
+          "furigana": "ばしょ",
+          "arti": "nơi, địa điểm"
+        },
+        {
+          "contoh": "場合",
+          "furigana": "ばあい",
+          "arti": "trường hợp"
+        },
+        {
+          "contoh": "駐車場",
+          "furigana": "ちゅうしゃじょう",
+          "arti": "bãi đỗ xe"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "kanji": "売",
+      "onyomi": "バイ",
+      "kunyomi": "う-る",
+      "meaning": "bán",
+      "contoh_kalimat": [
+        {
+          "contoh": "売る",
+          "furigana": "うる",
+          "arti": "bán"
+        },
+        {
+          "contoh": "売店",
+          "furigana": "ばいてん",
+          "arti": "quầy bán hàng"
+        },
+        {
+          "contoh": "販売",
+          "furigana": "はんばい",
+          "arti": "bán hàng"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "kanji": "夏",
+      "onyomi": "カ、ゲ",
+      "kunyomi": "なつ",
+      "meaning": "mùa hè",
+      "contoh_kalimat": [
+        {
+          "contoh": "夏",
+          "furigana": "なつ",
+          "arti": "mùa hè"
+        },
+        {
+          "contoh": "夏休み",
+          "furigana": "なつやすみ",
+          "arti": "nghỉ hè"
+        },
+        {
+          "contoh": "真夏",
+          "furigana": "まなつ",
+          "arti": "giữa mùa hè"
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "kanji": "夕",
+      "onyomi": "セキ",
+      "kunyomi": "ゆう",
+      "meaning": "buổi tối",
+      "contoh_kalimat": [
+        {
+          "contoh": "夕方",
+          "furigana": "ゆうがた",
+          "arti": "buổi chiều tối"
+        },
+        {
+          "contoh": "夕食",
+          "furigana": "ゆうしょく",
+          "arti": "bữa tối"
+        },
+        {
+          "contoh": "夕日",
+          "furigana": "ゆうひ",
+          "arti": "hoàng hôn"
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "kanji": "多",
+      "onyomi": "タ",
+      "kunyomi": "おお-い",
+      "meaning": "nhiều",
+      "contoh_kalimat": [
+        {
+          "contoh": "多い",
+          "furigana": "おおい",
+          "arti": "nhiều"
+        },
+        {
+          "contoh": "多分",
+          "furigana": "たぶん",
+          "arti": "có lẽ"
+        },
+        {
+          "contoh": "多数",
+          "furigana": "たすう",
+          "arti": "đa số"
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "kanji": "夜",
+      "onyomi": "ヤ",
+      "kunyomi": "よる",
+      "meaning": "đêm",
+      "contoh_kalimat": [
+        {
+          "contoh": "夜",
+          "furigana": "よる",
+          "arti": "đêm"
+        },
+        {
+          "contoh": "夜中",
+          "furigana": "よなか",
+          "arti": "nửa đêm"
+        },
+        {
+          "contoh": "今夜",
+          "furigana": "こんや",
+          "arti": "tối nay"
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "kanji": "妹",
+      "onyomi": "マイ",
+      "kunyomi": "いもうと",
+      "meaning": "em gái",
+      "contoh_kalimat": [
+        {
+          "contoh": "妹",
+          "furigana": "いもうと",
+          "arti": "em gái"
+        },
+        {
+          "contoh": "姉妹",
+          "furigana": "しまい",
+          "arti": "chị em gái"
+        },
+        {
+          "contoh": "妹さん",
+          "furigana": "いもうとさん",
+          "arti": "em gái (lịch sự)"
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "kanji": "姉",
+      "onyomi": "シ",
+      "kunyomi": "あね",
+      "meaning": "chị gái",
+      "contoh_kalimat": [
+        {
+          "contoh": "姉",
+          "furigana": "あね",
+          "arti": "chị gái"
+        },
+        {
+          "contoh": "お姉さん",
+          "furigana": "おねえさん",
+          "arti": "chị gái (lịch sự)"
+        },
+        {
+          "contoh": "姉妹",
+          "furigana": "しまい",
+          "arti": "chị em gái"
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "kanji": "始",
+      "onyomi": "シ",
+      "kunyomi": "はじ-める",
+      "meaning": "bắt đầu",
+      "contoh_kalimat": [
+        {
+          "contoh": "始める",
+          "furigana": "はじめる",
+          "arti": "bắt đầu (ngoại động từ)"
+        },
+        {
+          "contoh": "始まる",
+          "furigana": "はじまる",
+          "arti": "bắt đầu (nội động từ)"
+        },
+        {
+          "contoh": "開始",
+          "furigana": "かいし",
+          "arti": "khởi đầu"
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "kanji": "字",
+      "onyomi": "ジ",
+      "kunyomi": "あざ",
+      "meaning": "chữ, ký tự",
+      "contoh_kalimat": [
+        {
+          "contoh": "漢字",
+          "furigana": "かんじ",
+          "arti": "chữ Hán"
+        },
+        {
+          "contoh": "文字",
+          "furigana": "もじ",
+          "arti": "ký tự, chữ"
+        },
+        {
+          "contoh": "字幕",
+          "furigana": "じまく",
+          "arti": "phụ đề"
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "kanji": "安",
+      "onyomi": "アン",
+      "kunyomi": "やす-い",
+      "meaning": "rẻ, an toàn, bình yên",
+      "contoh_kalimat": [
+        {
+          "contoh": "安全",
+          "furigana": "あんぜん",
+          "arti": "an toàn"
+        },
+        {
+          "contoh": "安心",
+          "furigana": "あんしん",
+          "arti": "yên tâm"
+        },
+        {
+          "contoh": "不安",
+          "furigana": "ふあん",
+          "arti": "bất an"
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "kanji": "室",
+      "onyomi": "シツ",
+      "kunyomi": "むろ",
+      "meaning": "phòng",
+      "contoh_kalimat": [
+        {
+          "contoh": "教室",
+          "furigana": "きょうしつ",
+          "arti": "phòng học"
+        },
+        {
+          "contoh": "会議室",
+          "furigana": "かいぎしつ",
+          "arti": "phòng họp"
+        },
+        {
+          "contoh": "和室",
+          "furigana": "わしつ",
+          "arti": "phòng kiểu Nhật"
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "kanji": "家",
+      "onyomi": "カ、ケ",
+      "kunyomi": "いえ、うち",
+      "meaning": "nhà, gia đình",
+      "contoh_kalimat": [
+        {
+          "contoh": "家",
+          "furigana": "いえ",
+          "arti": "nhà"
+        },
+        {
+          "contoh": "家族",
+          "furigana": "かぞく",
+          "arti": "gia đình"
+        },
+        {
+          "contoh": "作家",
+          "furigana": "さっか",
+          "arti": "nhà văn"
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "kanji": "少",
+      "onyomi": "ショウ",
+      "kunyomi": "すく-ない、すこ-し",
+      "meaning": "ít",
+      "contoh_kalimat": [
+        {
+          "contoh": "少年",
+          "furigana": "しょうねん",
+          "arti": "thiếu niên"
+        },
+        {
+          "contoh": "少女",
+          "furigana": "しょうじょ",
+          "arti": "thiếu nữ"
+        },
+        {
+          "contoh": "少なくとも",
+          "furigana": "すくなくとも",
+          "arti": "ít nhất"
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "kanji": "屋",
+      "onyomi": "オク",
+      "kunyomi": "や",
+      "meaning": "cửa hàng (hậu tố), mái nhà",
+      "contoh_kalimat": [
+        {
+          "contoh": "本屋",
+          "furigana": "ほんや",
+          "arti": "hiệu sách"
+        },
+        {
+          "contoh": "肉屋",
+          "furigana": "にくや",
+          "arti": "cửa hàng thịt"
+        },
+        {
+          "contoh": "屋上",
+          "furigana": "おくじょう",
+          "arti": "sân thượng"
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "kanji": "工",
+      "onyomi": "コウ、ク",
+      "kunyomi": "",
+      "meaning": "thủ công, kỹ thuật, công nghiệp",
+      "contoh_kalimat": [
+        {
+          "contoh": "工場",
+          "furigana": "こうじょう",
+          "arti": "nhà máy"
+        },
+        {
+          "contoh": "工事",
+          "furigana": "こうじ",
+          "arti": "thi công"
+        },
+        {
+          "contoh": "工業",
+          "furigana": "こうぎょう",
+          "arti": "công nghiệp"
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "kanji": "帰",
+      "onyomi": "キ",
+      "kunyomi": "かえ-る",
+      "meaning": "về nhà",
+      "contoh_kalimat": [
+        {
+          "contoh": "帰る",
+          "furigana": "かえる",
+          "arti": "về nhà"
+        },
+        {
+          "contoh": "帰国",
+          "furigana": "きこく",
+          "arti": "về nước"
+        },
+        {
+          "contoh": "帰宅",
+          "furigana": "きたく",
+          "arti": "về nhà"
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "kanji": "広",
+      "onyomi": "コウ",
+      "kunyomi": "ひろ-い",
+      "meaning": "rộng",
+      "contoh_kalimat": [
+        {
+          "contoh": "広い",
+          "furigana": "ひろい",
+          "arti": "rộng"
+        },
+        {
+          "contoh": "広場",
+          "furigana": "ひろば",
+          "arti": "quảng trường"
+        },
+        {
+          "contoh": "広告",
+          "furigana": "こうこく",
+          "arti": "quảng cáo"
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "kanji": "店",
+      "onyomi": "テン",
+      "kunyomi": "みせ",
+      "meaning": "cửa hàng",
+      "contoh_kalimat": [
+        {
+          "contoh": "店員",
+          "furigana": "てんいん",
+          "arti": "nhân viên cửa hàng"
+        },
+        {
+          "contoh": "閉店",
+          "furigana": "へいてん",
+          "arti": "đóng cửa hàng"
+        },
+        {
+          "contoh": "売店",
+          "furigana": "ばいてん",
+          "arti": "quầy bán hàng"
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "kanji": "度",
+      "onyomi": "ド、ト",
+      "kunyomi": "たび",
+      "meaning": "độ, lần, mức",
+      "contoh_kalimat": [
+        {
+          "contoh": "今度",
+          "furigana": "こんど",
+          "arti": "lần này / lần sau"
+        },
+        {
+          "contoh": "温度",
+          "furigana": "おんど",
+          "arti": "nhiệt độ"
+        },
+        {
+          "contoh": "制度",
+          "furigana": "せいど",
+          "arti": "chế độ"
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "kanji": "建",
+      "onyomi": "ケン、コン",
+      "kunyomi": "た-てる",
+      "meaning": "xây dựng",
+      "contoh_kalimat": [
+        {
+          "contoh": "建てる",
+          "furigana": "たてる",
+          "arti": "xây"
+        },
+        {
+          "contoh": "建物",
+          "furigana": "たてもの",
+          "arti": "tòa nhà"
+        },
+        {
+          "contoh": "建設",
+          "furigana": "けんせつ",
+          "arti": "xây dựng"
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "kanji": "弟",
+      "onyomi": "テイ、ダイ",
+      "kunyomi": "おとうと",
+      "meaning": "em trai",
+      "contoh_kalimat": [
+        {
+          "contoh": "弟",
+          "furigana": "おとうと",
+          "arti": "em trai"
+        },
+        {
+          "contoh": "兄弟",
+          "furigana": "きょうだい",
+          "arti": "anh em"
+        },
+        {
+          "contoh": "弟子",
+          "furigana": "でし",
+          "arti": "đệ tử, học trò"
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "kanji": "強",
+      "onyomi": "キョウ、ゴウ",
+      "kunyomi": "つよ-い",
+      "meaning": "mạnh",
+      "contoh_kalimat": [
+        {
+          "contoh": "強い",
+          "furigana": "つよい",
+          "arti": "mạnh"
+        },
+        {
+          "contoh": "勉強",
+          "furigana": "べんきょう",
+          "arti": "học"
+        },
+        {
+          "contoh": "強化",
+          "furigana": "きょうか",
+          "arti": "tăng cường"
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "kanji": "待",
+      "onyomi": "タイ",
+      "kunyomi": "ま-つ",
+      "meaning": "chờ, đợi",
+      "contoh_kalimat": [
+        {
+          "contoh": "待つ",
+          "furigana": "まつ",
+          "arti": "chờ, đợi"
+        },
+        {
+          "contoh": "招待",
+          "furigana": "しょうたい",
+          "arti": "lời mời"
+        },
+        {
+          "contoh": "期待",
+          "furigana": "きたい",
+          "arti": "kỳ vọng"
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "kanji": "心",
+      "onyomi": "シン",
+      "kunyomi": "こころ",
+      "meaning": "trái tim, tâm trí, tâm hồn",
+      "contoh_kalimat": [
+        {
+          "contoh": "心",
+          "furigana": "こころ",
+          "arti": "trái tim, tâm trí"
+        },
+        {
+          "contoh": "安心",
+          "furigana": "あんしん",
+          "arti": "yên tâm"
+        },
+        {
+          "contoh": "心配",
+          "furigana": "しんぱい",
+          "arti": "lo lắng"
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "kanji": "思",
+      "onyomi": "シ",
+      "kunyomi": "おも-う",
+      "meaning": "nghĩ, cảm thấy",
+      "contoh_kalimat": [
+        {
+          "contoh": "思う",
+          "furigana": "おもう",
+          "arti": "nghĩ, cảm thấy"
+        },
+        {
+          "contoh": "思い出",
+          "furigana": "おもいで",
+          "arti": "kỷ niệm"
+        },
+        {
+          "contoh": "不思議",
+          "furigana": "ふしぎ",
+          "arti": "kỳ lạ"
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "kanji": "急",
+      "onyomi": "キュウ",
+      "kunyomi": "いそ-ぐ",
+      "meaning": "vội, khẩn cấp",
+      "contoh_kalimat": [
+        {
+          "contoh": "急ぐ",
+          "furigana": "いそぐ",
+          "arti": "vội vàng"
+        },
+        {
+          "contoh": "急行",
+          "furigana": "きゅうこう",
+          "arti": "tàu tốc hành"
+        },
+        {
+          "contoh": "緊急",
+          "furigana": "きんきゅう",
+          "arti": "khẩn cấp"
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "kanji": "悪",
+      "onyomi": "アク、オ",
+      "kunyomi": "わる-い",
+      "meaning": "xấu, ác",
+      "contoh_kalimat": [
+        {
+          "contoh": "悪い",
+          "furigana": "わるい",
+          "arti": "xấu, tệ"
+        },
+        {
+          "contoh": "悪口",
+          "furigana": "わるくち",
+          "arti": "nói xấu"
+        },
+        {
+          "contoh": "最悪",
+          "furigana": "さいあく",
+          "arti": "tệ nhất"
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "kanji": "意",
+      "onyomi": "イ",
+      "kunyomi": "",
+      "meaning": "ý nghĩa, ý định",
+      "contoh_kalimat": [
+        {
+          "contoh": "意味",
+          "furigana": "いみ",
+          "arti": "ý nghĩa"
+        },
+        {
+          "contoh": "注意",
+          "furigana": "ちゅうい",
+          "arti": "chú ý, cẩn thận"
+        },
+        {
+          "contoh": "用意",
+          "furigana": "ようい",
+          "arti": "chuẩn bị"
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "kanji": "持",
+      "onyomi": "ジ",
+      "kunyomi": "も-つ",
+      "meaning": "cầm, sở hữu",
+      "contoh_kalimat": [
+        {
+          "contoh": "持つ",
+          "furigana": "もつ",
+          "arti": "cầm, có"
+        },
+        {
+          "contoh": "気持ち",
+          "furigana": "きもち",
+          "arti": "cảm giác"
+        },
+        {
+          "contoh": "持ち物",
+          "furigana": "もちもの",
+          "arti": "đồ đạc"
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "kanji": "教",
+      "onyomi": "キョウ",
+      "kunyomi": "おし-える",
+      "meaning": "dạy",
+      "contoh_kalimat": [
+        {
+          "contoh": "教える",
+          "furigana": "おしえる",
+          "arti": "dạy"
+        },
+        {
+          "contoh": "教室",
+          "furigana": "きょうしつ",
+          "arti": "phòng học"
+        },
+        {
+          "contoh": "教育",
+          "furigana": "きょういく",
+          "arti": "giáo dục"
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "kanji": "文",
+      "onyomi": "ブン、モン",
+      "kunyomi": "ふみ",
+      "meaning": "bài viết, câu, văn học",
+      "contoh_kalimat": [
+        {
+          "contoh": "文化",
+          "furigana": "ぶんか",
+          "arti": "văn hóa"
+        },
+        {
+          "contoh": "作文",
+          "furigana": "さくぶん",
+          "arti": "bài luận"
+        },
+        {
+          "contoh": "文章",
+          "furigana": "ぶんしょう",
+          "arti": "câu văn, đoạn văn"
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "kanji": "料",
+      "onyomi": "リョウ",
+      "kunyomi": "",
+      "meaning": "phí, nguyên liệu",
+      "contoh_kalimat": [
+        {
+          "contoh": "料理",
+          "furigana": "りょうり",
+          "arti": "nấu ăn, ẩm thực"
+        },
+        {
+          "contoh": "料金",
+          "furigana": "りょうきん",
+          "arti": "phí"
+        },
+        {
+          "contoh": "無料",
+          "furigana": "むりょう",
+          "arti": "miễn phí"
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "kanji": "新",
+      "onyomi": "シン",
+      "kunyomi": "あたら-しい",
+      "meaning": "mới",
+      "contoh_kalimat": [
+        {
+          "contoh": "新聞",
+          "furigana": "しんぶん",
+          "arti": "báo"
+        },
+        {
+          "contoh": "新幹線",
+          "furigana": "しんかんせん",
+          "arti": "tàu cao tốc Shinkansen"
+        },
+        {
+          "contoh": "新年",
+          "furigana": "しんねん",
+          "arti": "Năm mới"
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "kanji": "方",
+      "onyomi": "ホウ",
+      "kunyomi": "かた",
+      "meaning": "hướng, cách, người (lịch sự)",
+      "contoh_kalimat": [
+        {
+          "contoh": "方",
+          "furigana": "かた",
+          "arti": "người (lịch sự)"
+        },
+        {
+          "contoh": "方向",
+          "furigana": "ほうこう",
+          "arti": "hướng"
+        },
+        {
+          "contoh": "仕方",
+          "furigana": "しかた",
+          "arti": "cách"
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "kanji": "旅",
+      "onyomi": "リョ",
+      "kunyomi": "たび",
+      "meaning": "du lịch, hành trình",
+      "contoh_kalimat": [
+        {
+          "contoh": "旅行",
+          "furigana": "りょこう",
+          "arti": "du lịch, chuyến đi"
+        },
+        {
+          "contoh": "旅館",
+          "furigana": "りょかん",
+          "arti": "nhà trọ Nhật"
+        },
+        {
+          "contoh": "旅人",
+          "furigana": "たびびと",
+          "arti": "lữ khách"
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "kanji": "族",
+      "onyomi": "ゾク",
+      "kunyomi": "",
+      "meaning": "gia đình, bộ tộc",
+      "contoh_kalimat": [
+        {
+          "contoh": "家族",
+          "furigana": "かぞく",
+          "arti": "gia đình"
+        },
+        {
+          "contoh": "民族",
+          "furigana": "みんぞく",
+          "arti": "dân tộc"
+        },
+        {
+          "contoh": "水族館",
+          "furigana": "すいぞくかん",
+          "arti": "thủy cung"
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "kanji": "早",
+      "onyomi": "ソウ、サッ",
+      "kunyomi": "はや-い",
+      "meaning": "nhanh, sớm",
+      "contoh_kalimat": [
+        {
+          "contoh": "早い",
+          "furigana": "はやい",
+          "arti": "nhanh, sớm"
+        },
+        {
+          "contoh": "早朝",
+          "furigana": "そうちょう",
+          "arti": "sáng sớm"
+        },
+        {
+          "contoh": "早速",
+          "furigana": "さっそく",
+          "arti": "ngay lập tức"
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "kanji": "明",
+      "onyomi": "メイ、ミョウ",
+      "kunyomi": "あか-るい",
+      "meaning": "sáng, rõ ràng",
+      "contoh_kalimat": [
+        {
+          "contoh": "明るい",
+          "furigana": "あかるい",
+          "arti": "sáng, vui vẻ"
+        },
+        {
+          "contoh": "説明",
+          "furigana": "せつめい",
+          "arti": "giải thích"
+        },
+        {
+          "contoh": "明日",
+          "furigana": "あした",
+          "arti": "ngày mai"
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "kanji": "映",
+      "onyomi": "エイ",
+      "kunyomi": "うつ-る",
+      "meaning": "phản chiếu, phim",
+      "contoh_kalimat": [
+        {
+          "contoh": "映画",
+          "furigana": "えいが",
+          "arti": "phim"
+        },
+        {
+          "contoh": "映る",
+          "furigana": "うつる",
+          "arti": "phản chiếu"
+        },
+        {
+          "contoh": "上映",
+          "furigana": "じょうえい",
+          "arti": "chiếu phim"
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "kanji": "春",
+      "onyomi": "シュン",
+      "kunyomi": "はる",
+      "meaning": "mùa xuân",
+      "contoh_kalimat": [
+        {
+          "contoh": "春",
+          "furigana": "はる",
+          "arti": "mùa xuân"
+        },
+        {
+          "contoh": "春休み",
+          "furigana": "はるやすみ",
+          "arti": "nghỉ xuân"
+        },
+        {
+          "contoh": "青春",
+          "furigana": "せいしゅん",
+          "arti": "tuổi trẻ, thanh xuân"
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "kanji": "昼",
+      "onyomi": "チュウ",
+      "kunyomi": "ひる",
+      "meaning": "ban ngày, buổi trưa",
+      "contoh_kalimat": [
+        {
+          "contoh": "昼",
+          "furigana": "ひる",
+          "arti": "ban ngày, buổi trưa"
+        },
+        {
+          "contoh": "昼食",
+          "furigana": "ちゅうしょく",
+          "arti": "bữa trưa"
+        },
+        {
+          "contoh": "昼間",
+          "furigana": "ひるま",
+          "arti": "ban ngày"
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "kanji": "曜",
+      "onyomi": "ヨウ",
+      "kunyomi": "",
+      "meaning": "ngày trong tuần",
+      "contoh_kalimat": [
+        {
+          "contoh": "曜日",
+          "furigana": "ようび",
+          "arti": "ngày trong tuần"
+        },
+        {
+          "contoh": "月曜日",
+          "furigana": "げつようび",
+          "arti": "Thứ hai"
+        },
+        {
+          "contoh": "何曜日",
+          "furigana": "なんようび",
+          "arti": "thứ mấy"
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "kanji": "有",
+      "onyomi": "ユウ、ウ",
+      "kunyomi": "あ-る",
+      "meaning": "có, sở hữu",
+      "contoh_kalimat": [
+        {
+          "contoh": "有名",
+          "furigana": "ゆうめい",
+          "arti": "nổi tiếng"
+        },
+        {
+          "contoh": "有利",
+          "furigana": "ゆうり",
+          "arti": "có lợi"
+        },
+        {
+          "contoh": "所有",
+          "furigana": "しょゆう",
+          "arti": "sở hữu"
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "kanji": "服",
+      "onyomi": "フク",
+      "kunyomi": "",
+      "meaning": "quần áo",
+      "contoh_kalimat": [
+        {
+          "contoh": "服",
+          "furigana": "ふく",
+          "arti": "quần áo"
+        },
+        {
+          "contoh": "洋服",
+          "furigana": "ようふく",
+          "arti": "quần áo phương Tây"
+        },
+        {
+          "contoh": "制服",
+          "furigana": "せいふく",
+          "arti": "đồng phục"
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "kanji": "朝",
+      "onyomi": "チョウ",
+      "kunyomi": "あさ",
+      "meaning": "buổi sáng",
+      "contoh_kalimat": [
+        {
+          "contoh": "朝",
+          "furigana": "あさ",
+          "arti": "buổi sáng"
+        },
+        {
+          "contoh": "朝食",
+          "furigana": "ちょうしょく",
+          "arti": "bữa sáng"
+        },
+        {
+          "contoh": "毎朝",
+          "furigana": "まいあさ",
+          "arti": "mỗi sáng"
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "kanji": "業",
+      "onyomi": "ギョウ、ゴウ",
+      "kunyomi": "わざ",
+      "meaning": "công việc, nghề, công nghiệp",
+      "contoh_kalimat": [
+        {
+          "contoh": "授業",
+          "furigana": "じゅぎょう",
+          "arti": "bài học, tiết học"
+        },
+        {
+          "contoh": "職業",
+          "furigana": "しょくぎょう",
+          "arti": "nghề nghiệp"
+        },
+        {
+          "contoh": "工業",
+          "furigana": "こうぎょう",
+          "arti": "công nghiệp"
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "kanji": "楽",
+      "onyomi": "ラク、ガク",
+      "kunyomi": "たの-しい",
+      "meaning": "vui, âm nhạc",
+      "contoh_kalimat": [
+        {
+          "contoh": "楽しい",
+          "furigana": "たのしい",
+          "arti": "vui vẻ"
+        },
+        {
+          "contoh": "音楽",
+          "furigana": "おんがく",
+          "arti": "âm nhạc"
+        },
+        {
+          "contoh": "楽器",
+          "furigana": "がっき",
+          "arti": "nhạc cụ"
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "kanji": "歌",
+      "onyomi": "カ",
+      "kunyomi": "うた",
+      "meaning": "bài hát, hát",
+      "contoh_kalimat": [
+        {
+          "contoh": "歌",
+          "furigana": "うた",
+          "arti": "bài hát"
+        },
+        {
+          "contoh": "歌う",
+          "furigana": "うたう",
+          "arti": "hát"
+        },
+        {
+          "contoh": "歌手",
+          "furigana": "かしゅ",
+          "arti": "ca sĩ"
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "kanji": "止",
+      "onyomi": "シ",
+      "kunyomi": "と-まる",
+      "meaning": "dừng",
+      "contoh_kalimat": [
+        {
+          "contoh": "止まる",
+          "furigana": "とまる",
+          "arti": "dừng lại"
+        },
+        {
+          "contoh": "中止",
+          "furigana": "ちゅうし",
+          "arti": "hủy bỏ"
+        },
+        {
+          "contoh": "禁止",
+          "furigana": "きんし",
+          "arti": "cấm"
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "kanji": "正",
+      "onyomi": "セイ、ショウ",
+      "kunyomi": "ただ-しい",
+      "meaning": "đúng, thẳng",
+      "contoh_kalimat": [
+        {
+          "contoh": "正しい",
+          "furigana": "ただしい",
+          "arti": "đúng"
+        },
+        {
+          "contoh": "正月",
+          "furigana": "しょうがつ",
+          "arti": "Tết, Năm mới"
+        },
+        {
+          "contoh": "正直",
+          "furigana": "しょうじき",
+          "arti": "trung thực"
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "kanji": "歩",
+      "onyomi": "ホ、ブ",
+      "kunyomi": "ある-く",
+      "meaning": "đi bộ",
+      "contoh_kalimat": [
+        {
+          "contoh": "歩く",
+          "furigana": "あるく",
+          "arti": "đi bộ"
+        },
+        {
+          "contoh": "散歩",
+          "furigana": "さんぽ",
+          "arti": "đi dạo"
+        },
+        {
+          "contoh": "歩道",
+          "furigana": "ほどう",
+          "arti": "vỉa hè"
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "kanji": "死",
+      "onyomi": "シ",
+      "kunyomi": "し-ぬ",
+      "meaning": "chết, cái chết",
+      "contoh_kalimat": [
+        {
+          "contoh": "死ぬ",
+          "furigana": "しぬ",
+          "arti": "chết"
+        },
+        {
+          "contoh": "死亡",
+          "furigana": "しぼう",
+          "arti": "tử vong"
+        },
+        {
+          "contoh": "必死",
+          "furigana": "ひっし",
+          "arti": "tuyệt vọng, quyết tử"
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "kanji": "注",
+      "onyomi": "チュウ",
+      "kunyomi": "そそ-ぐ",
+      "meaning": "rót, chú ý",
+      "contoh_kalimat": [
+        {
+          "contoh": "注意",
+          "furigana": "ちゅうい",
+          "arti": "chú ý, cẩn thận"
+        },
+        {
+          "contoh": "注文",
+          "furigana": "ちゅうもん",
+          "arti": "đặt hàng"
+        },
+        {
+          "contoh": "注目",
+          "furigana": "ちゅうもく",
+          "arti": "chú ý, chú mục"
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "kanji": "洋",
+      "onyomi": "ヨウ",
+      "kunyomi": "",
+      "meaning": "phương Tây, đại dương",
+      "contoh_kalimat": [
+        {
+          "contoh": "洋服",
+          "furigana": "ようふく",
+          "arti": "quần áo phương Tây"
+        },
+        {
+          "contoh": "洋食",
+          "furigana": "ようしょく",
+          "arti": "đồ ăn phương Tây"
+        },
+        {
+          "contoh": "太平洋",
+          "furigana": "たいへいよう",
+          "arti": "Thái Bình Dương"
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "kanji": "海",
+      "onyomi": "カイ",
+      "kunyomi": "うみ",
+      "meaning": "biển",
+      "contoh_kalimat": [
+        {
+          "contoh": "海",
+          "furigana": "うみ",
+          "arti": "biển"
+        },
+        {
+          "contoh": "海外",
+          "furigana": "かいがい",
+          "arti": "nước ngoài"
+        },
+        {
+          "contoh": "北海道",
+          "furigana": "ほっかいどう",
+          "arti": "Hokkaido"
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "kanji": "漢",
+      "onyomi": "カン",
+      "kunyomi": "",
+      "meaning": "Trung Quốc, chữ Hán",
+      "contoh_kalimat": [
+        {
+          "contoh": "漢字",
+          "furigana": "かんじ",
+          "arti": "chữ Hán"
+        },
+        {
+          "contoh": "漢方",
+          "furigana": "かんぽう",
+          "arti": "thuốc Đông y"
+        },
+        {
+          "contoh": "漢文",
+          "furigana": "かんぶん",
+          "arti": "văn ngôn Trung Quốc"
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "kanji": "牛",
+      "onyomi": "ギュウ",
+      "kunyomi": "うし",
+      "meaning": "bò",
+      "contoh_kalimat": [
+        {
+          "contoh": "牛",
+          "furigana": "うし",
+          "arti": "bò"
+        },
+        {
+          "contoh": "牛肉",
+          "furigana": "ぎゅうにく",
+          "arti": "thịt bò"
+        },
+        {
+          "contoh": "牛乳",
+          "furigana": "ぎゅうにゅう",
+          "arti": "sữa bò"
+        }
+      ]
+    },
+    {
+      "id": 96,
+      "kanji": "物",
+      "onyomi": "ブツ、モツ",
+      "kunyomi": "もの",
+      "meaning": "đồ vật, sự vật",
+      "contoh_kalimat": [
+        {
+          "contoh": "動物",
+          "furigana": "どうぶつ",
+          "arti": "động vật"
+        },
+        {
+          "contoh": "食べ物",
+          "furigana": "たべもの",
+          "arti": "đồ ăn"
+        },
+        {
+          "contoh": "買い物",
+          "furigana": "かいもの",
+          "arti": "mua sắm"
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "kanji": "特",
+      "onyomi": "トク",
+      "kunyomi": "",
+      "meaning": "đặc biệt",
+      "contoh_kalimat": [
+        {
+          "contoh": "特別",
+          "furigana": "とくべつ",
+          "arti": "đặc biệt"
+        },
+        {
+          "contoh": "特急",
+          "furigana": "とっきゅう",
+          "arti": "tàu tốc hành đặc biệt"
+        },
+        {
+          "contoh": "特徴",
+          "furigana": "とくちょう",
+          "arti": "đặc điểm"
+        }
+      ]
+    },
+    {
+      "id": 98,
+      "kanji": "犬",
+      "onyomi": "ケン",
+      "kunyomi": "いぬ",
+      "meaning": "chó",
+      "contoh_kalimat": [
+        {
+          "contoh": "犬",
+          "furigana": "いぬ",
+          "arti": "chó"
+        },
+        {
+          "contoh": "子犬",
+          "furigana": "こいぬ",
+          "arti": "chó con"
+        },
+        {
+          "contoh": "犬小屋",
+          "furigana": "いぬごや",
+          "arti": "chuồng chó"
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "kanji": "理",
+      "onyomi": "リ",
+      "kunyomi": "",
+      "meaning": "lý, lý do",
+      "contoh_kalimat": [
+        {
+          "contoh": "料理",
+          "furigana": "りょうり",
+          "arti": "nấu ăn, ẩm thực"
+        },
+        {
+          "contoh": "理由",
+          "furigana": "りゆう",
+          "arti": "lý do"
+        },
+        {
+          "contoh": "理解",
+          "furigana": "りかい",
+          "arti": "hiểu biết"
+        }
+      ]
+    },
+    {
+      "id": 100,
+      "kanji": "用",
+      "onyomi": "ヨウ",
+      "kunyomi": "もち-いる",
+      "meaning": "dùng, công việc",
+      "contoh_kalimat": [
+        {
+          "contoh": "用事",
+          "furigana": "ようじ",
+          "arti": "công việc, việc cần làm"
+        },
+        {
+          "contoh": "利用",
+          "furigana": "りよう",
+          "arti": "sử dụng"
+        },
+        {
+          "contoh": "用意",
+          "furigana": "ようい",
+          "arti": "chuẩn bị"
+        }
+      ]
+    },
+    {
+      "id": 101,
+      "kanji": "田",
+      "onyomi": "デン",
+      "kunyomi": "た",
+      "meaning": "ruộng lúa",
+      "contoh_kalimat": [
+        {
+          "contoh": "田んぼ",
+          "furigana": "たんぼ",
+          "arti": "ruộng lúa"
+        },
+        {
+          "contoh": "田中",
+          "furigana": "たなか",
+          "arti": "Tanaka (tên)"
+        },
+        {
+          "contoh": "田舎",
+          "furigana": "いなか",
+          "arti": "nông thôn"
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "kanji": "町",
+      "onyomi": "チョウ",
+      "kunyomi": "まち",
+      "meaning": "thị trấn, khu phố",
+      "contoh_kalimat": [
+        {
+          "contoh": "町",
+          "furigana": "まち",
+          "arti": "thị trấn"
+        },
+        {
+          "contoh": "町中",
+          "furigana": "まちなか",
+          "arti": "trung tâm thị trấn"
+        },
+        {
+          "contoh": "下町",
+          "furigana": "したまち",
+          "arti": "khu phố cũ"
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "kanji": "画",
+      "onyomi": "ガ、カク",
+      "kunyomi": "",
+      "meaning": "hình vẽ, kế hoạch, nét",
+      "contoh_kalimat": [
+        {
+          "contoh": "映画",
+          "furigana": "えいが",
+          "arti": "phim"
+        },
+        {
+          "contoh": "計画",
+          "furigana": "けいかく",
+          "arti": "kế hoạch"
+        },
+        {
+          "contoh": "画家",
+          "furigana": "がか",
+          "arti": "họa sĩ"
+        }
+      ]
+    },
+    {
+      "id": 104,
+      "kanji": "界",
+      "onyomi": "カイ",
+      "kunyomi": "",
+      "meaning": "thế giới, ranh giới",
+      "contoh_kalimat": [
+        {
+          "contoh": "世界",
+          "furigana": "せかい",
+          "arti": "thế giới"
+        },
+        {
+          "contoh": "業界",
+          "furigana": "ぎょうかい",
+          "arti": "ngành, lĩnh vực"
+        },
+        {
+          "contoh": "限界",
+          "furigana": "げんかい",
+          "arti": "giới hạn"
+        }
+      ]
+    },
+    {
+      "id": 105,
+      "kanji": "病",
+      "onyomi": "ビョウ",
+      "kunyomi": "やまい",
+      "meaning": "bệnh",
+      "contoh_kalimat": [
+        {
+          "contoh": "病気",
+          "furigana": "びょうき",
+          "arti": "bệnh"
+        },
+        {
+          "contoh": "病院",
+          "furigana": "びょういん",
+          "arti": "bệnh viện"
+        },
+        {
+          "contoh": "病人",
+          "furigana": "びょうにん",
+          "arti": "người bệnh"
+        }
+      ]
+    },
+    {
+      "id": 106,
+      "kanji": "発",
+      "onyomi": "ハツ、ホツ",
+      "kunyomi": "",
+      "meaning": "khởi hành, phát ra",
+      "contoh_kalimat": [
+        {
+          "contoh": "出発",
+          "furigana": "しゅっぱつ",
+          "arti": "khởi hành"
+        },
+        {
+          "contoh": "発音",
+          "furigana": "はつおん",
+          "arti": "phát âm"
+        },
+        {
+          "contoh": "発見",
+          "furigana": "はっけん",
+          "arti": "phát hiện"
+        }
+      ]
+    },
+    {
+      "id": 107,
+      "kanji": "的",
+      "onyomi": "テキ",
+      "kunyomi": "まと",
+      "meaning": "mục tiêu, -tính (hậu tố)",
+      "contoh_kalimat": [
+        {
+          "contoh": "目的",
+          "furigana": "もくてき",
+          "arti": "mục đích"
+        },
+        {
+          "contoh": "具体的",
+          "furigana": "ぐたいてき",
+          "arti": "cụ thể"
+        },
+        {
+          "contoh": "一般的",
+          "furigana": "いっぱんてき",
+          "arti": "chung, phổ biến"
+        }
+      ]
+    },
+    {
+      "id": 108,
+      "kanji": "目",
+      "onyomi": "モク",
+      "kunyomi": "め",
+      "meaning": "mắt, thứ tự",
+      "contoh_kalimat": [
+        {
+          "contoh": "目的",
+          "furigana": "もくてき",
+          "arti": "mục đích"
+        },
+        {
+          "contoh": "注目",
+          "furigana": "ちゅうもく",
+          "arti": "chú ý"
+        },
+        {
+          "contoh": "科目",
+          "furigana": "かもく",
+          "arti": "môn học"
+        }
+      ]
+    },
+    {
+      "id": 109,
+      "kanji": "真",
+      "onyomi": "シン",
+      "kunyomi": "ま、まこと",
+      "meaning": "thật, thực",
+      "contoh_kalimat": [
+        {
+          "contoh": "写真",
+          "furigana": "しゃしん",
+          "arti": "ảnh"
+        },
+        {
+          "contoh": "真面目",
+          "furigana": "まじめ",
+          "arti": "nghiêm túc"
+        },
+        {
+          "contoh": "真っ赤",
+          "furigana": "まっか",
+          "arti": "đỏ rực"
+        }
+      ]
+    },
+    {
+      "id": 110,
+      "kanji": "着",
+      "onyomi": "チャク",
+      "kunyomi": "き-る、つ-く",
+      "meaning": "mặc, đến",
+      "contoh_kalimat": [
+        {
+          "contoh": "着る",
+          "furigana": "きる",
+          "arti": "mặc (quần áo)"
+        },
+        {
+          "contoh": "着く",
+          "furigana": "つく",
+          "arti": "đến nơi"
+        },
+        {
+          "contoh": "到着",
+          "furigana": "とうちゃく",
+          "arti": "đến nơi"
+        }
+      ]
+    },
+    {
+      "id": 111,
+      "kanji": "知",
+      "onyomi": "チ",
+      "kunyomi": "し-る",
+      "meaning": "biết",
+      "contoh_kalimat": [
+        {
+          "contoh": "知る",
+          "furigana": "しる",
+          "arti": "biết"
+        },
+        {
+          "contoh": "知識",
+          "furigana": "ちしき",
+          "arti": "kiến thức"
+        },
+        {
+          "contoh": "知らせる",
+          "furigana": "しらせる",
+          "arti": "thông báo"
+        }
+      ]
+    },
+    {
+      "id": 112,
+      "kanji": "研",
+      "onyomi": "ケン",
+      "kunyomi": "と-ぐ",
+      "meaning": "mài, nghiên cứu",
+      "contoh_kalimat": [
+        {
+          "contoh": "研究",
+          "furigana": "けんきゅう",
+          "arti": "nghiên cứu"
+        },
+        {
+          "contoh": "研修",
+          "furigana": "けんしゅう",
+          "arti": "đào tạo"
+        },
+        {
+          "contoh": "研究者",
+          "furigana": "けんきゅうしゃ",
+          "arti": "nhà nghiên cứu"
+        }
+      ]
+    },
+    {
+      "id": 113,
+      "kanji": "社",
+      "onyomi": "シャ",
+      "kunyomi": "やしろ",
+      "meaning": "công ty, đền Shinto",
+      "contoh_kalimat": [
+        {
+          "contoh": "会社",
+          "furigana": "かいしゃ",
+          "arti": "công ty"
+        },
+        {
+          "contoh": "社会",
+          "furigana": "しゃかい",
+          "arti": "xã hội"
+        },
+        {
+          "contoh": "社長",
+          "furigana": "しゃちょう",
+          "arti": "giám đốc"
+        }
+      ]
+    },
+    {
+      "id": 114,
+      "kanji": "私",
+      "onyomi": "シ",
+      "kunyomi": "わたし、わたくし",
+      "meaning": "tôi, riêng tư",
+      "contoh_kalimat": [
+        {
+          "contoh": "私",
+          "furigana": "わたし",
+          "arti": "tôi"
+        },
+        {
+          "contoh": "私立",
+          "furigana": "しりつ",
+          "arti": "tư lập"
+        },
+        {
+          "contoh": "私生活",
+          "furigana": "しせいかつ",
+          "arti": "đời sống riêng tư"
+        }
+      ]
+    },
+    {
+      "id": 115,
+      "kanji": "秋",
+      "onyomi": "シュウ",
+      "kunyomi": "あき",
+      "meaning": "mùa thu",
+      "contoh_kalimat": [
+        {
+          "contoh": "秋",
+          "furigana": "あき",
+          "arti": "mùa thu"
+        },
+        {
+          "contoh": "秋分",
+          "furigana": "しゅうぶん",
+          "arti": "thu phân"
+        },
+        {
+          "contoh": "秋風",
+          "furigana": "あきかぜ",
+          "arti": "gió thu"
+        }
+      ]
+    },
+    {
+      "id": 116,
+      "kanji": "究",
+      "onyomi": "キュウ",
+      "kunyomi": "きわ-める",
+      "meaning": "nghiên cứu, tìm hiểu sâu",
+      "contoh_kalimat": [
+        {
+          "contoh": "研究",
+          "furigana": "けんきゅう",
+          "arti": "nghiên cứu"
+        },
+        {
+          "contoh": "究明",
+          "furigana": "きゅうめい",
+          "arti": "điều tra"
+        },
+        {
+          "contoh": "探究",
+          "furigana": "たんきゅう",
+          "arti": "khám phá"
+        }
+      ]
+    },
+    {
+      "id": 117,
+      "kanji": "空",
+      "onyomi": "クウ",
+      "kunyomi": "そら、から",
+      "meaning": "bầu trời, trống",
+      "contoh_kalimat": [
+        {
+          "contoh": "空港",
+          "furigana": "くうこう",
+          "arti": "sân bay"
+        },
+        {
+          "contoh": "空気",
+          "furigana": "くうき",
+          "arti": "không khí"
+        },
+        {
+          "contoh": "空席",
+          "furigana": "くうせき",
+          "arti": "ghế trống"
+        }
+      ]
+    },
+    {
+      "id": 118,
+      "kanji": "立",
+      "onyomi": "リツ",
+      "kunyomi": "た-つ",
+      "meaning": "đứng, thành lập",
+      "contoh_kalimat": [
+        {
+          "contoh": "立派",
+          "furigana": "りっぱ",
+          "arti": "tuyệt vời, lộng lẫy"
+        },
+        {
+          "contoh": "独立",
+          "furigana": "どくりつ",
+          "arti": "độc lập"
+        },
+        {
+          "contoh": "国立",
+          "furigana": "こくりつ",
+          "arti": "quốc lập"
+        }
+      ]
+    },
+    {
+      "id": 119,
+      "kanji": "答",
+      "onyomi": "トウ",
+      "kunyomi": "こた-える",
+      "meaning": "trả lời",
+      "contoh_kalimat": [
+        {
+          "contoh": "答える",
+          "furigana": "こたえる",
+          "arti": "trả lời"
+        },
+        {
+          "contoh": "答え",
+          "furigana": "こたえ",
+          "arti": "câu trả lời"
+        },
+        {
+          "contoh": "回答",
+          "furigana": "かいとう",
+          "arti": "câu trả lời chính thức"
+        }
+      ]
+    },
+    {
+      "id": 120,
+      "kanji": "紙",
+      "onyomi": "シ",
+      "kunyomi": "かみ",
+      "meaning": "giấy",
+      "contoh_kalimat": [
+        {
+          "contoh": "紙",
+          "furigana": "かみ",
+          "arti": "giấy"
+        },
+        {
+          "contoh": "手紙",
+          "furigana": "てがみ",
+          "arti": "thư"
+        },
+        {
+          "contoh": "新聞紙",
+          "furigana": "しんぶんし",
+          "arti": "giấy báo"
+        }
+      ]
+    },
+    {
+      "id": 121,
+      "kanji": "終",
+      "onyomi": "シュウ",
+      "kunyomi": "お-わる",
+      "meaning": "kết thúc",
+      "contoh_kalimat": [
+        {
+          "contoh": "終わる",
+          "furigana": "おわる",
+          "arti": "kết thúc"
+        },
+        {
+          "contoh": "終点",
+          "furigana": "しゅうてん",
+          "arti": "trạm cuối"
+        },
+        {
+          "contoh": "最終",
+          "furigana": "さいしゅう",
+          "arti": "cuối cùng"
+        }
+      ]
+    },
+    {
+      "id": 122,
+      "kanji": "習",
+      "onyomi": "シュウ",
+      "kunyomi": "なら-う",
+      "meaning": "học, luyện tập",
+      "contoh_kalimat": [
+        {
+          "contoh": "習う",
+          "furigana": "ならう",
+          "arti": "học (từ thầy)"
+        },
+        {
+          "contoh": "練習",
+          "furigana": "れんしゅう",
+          "arti": "luyện tập"
+        },
+        {
+          "contoh": "習慣",
+          "furigana": "しゅうかん",
+          "arti": "thói quen"
+        }
+      ]
+    },
+    {
+      "id": 123,
+      "kanji": "考",
+      "onyomi": "コウ",
+      "kunyomi": "かんが-える",
+      "meaning": "suy nghĩ, cân nhắc",
+      "contoh_kalimat": [
+        {
+          "contoh": "考える",
+          "furigana": "かんがえる",
+          "arti": "suy nghĩ, cân nhắc"
+        },
+        {
+          "contoh": "参考",
+          "furigana": "さんこう",
+          "arti": "tham khảo"
+        },
+        {
+          "contoh": "考え方",
+          "furigana": "かんがえかた",
+          "arti": "cách suy nghĩ"
+        }
+      ]
+    },
+    {
+      "id": 124,
+      "kanji": "者",
+      "onyomi": "シャ",
+      "kunyomi": "もの",
+      "meaning": "người (có trình độ)",
+      "contoh_kalimat": [
+        {
+          "contoh": "医者",
+          "furigana": "いしゃ",
+          "arti": "bác sĩ"
+        },
+        {
+          "contoh": "作者",
+          "furigana": "さくしゃ",
+          "arti": "tác giả"
+        },
+        {
+          "contoh": "若者",
+          "furigana": "わかもの",
+          "arti": "người trẻ"
+        }
+      ]
+    },
+    {
+      "id": 125,
+      "kanji": "肉",
+      "onyomi": "ニク",
+      "kunyomi": "",
+      "meaning": "thịt",
+      "contoh_kalimat": [
+        {
+          "contoh": "肉",
+          "furigana": "にく",
+          "arti": "thịt"
+        },
+        {
+          "contoh": "牛肉",
+          "furigana": "ぎゅうにく",
+          "arti": "thịt bò"
+        },
+        {
+          "contoh": "鶏肉",
+          "furigana": "とりにく",
+          "arti": "thịt gà"
+        }
+      ]
+    },
+    {
+      "id": 126,
+      "kanji": "自",
+      "onyomi": "ジ、シ",
+      "kunyomi": "みずか-ら",
+      "meaning": "tự, bản thân",
+      "contoh_kalimat": [
+        {
+          "contoh": "自分",
+          "furigana": "じぶん",
+          "arti": "bản thân"
+        },
+        {
+          "contoh": "自動",
+          "furigana": "じどう",
+          "arti": "tự động"
+        },
+        {
+          "contoh": "自由",
+          "furigana": "じゆう",
+          "arti": "tự do"
+        }
+      ]
+    },
+    {
+      "id": 127,
+      "kanji": "色",
+      "onyomi": "ショク、シキ",
+      "kunyomi": "いろ",
+      "meaning": "màu sắc",
+      "contoh_kalimat": [
+        {
+          "contoh": "色",
+          "furigana": "いろ",
+          "arti": "màu"
+        },
+        {
+          "contoh": "色々",
+          "furigana": "いろいろ",
+          "arti": "nhiều loại"
+        },
+        {
+          "contoh": "景色",
+          "furigana": "けしき",
+          "arti": "phong cảnh"
+        }
+      ]
+    },
+    {
+      "id": 128,
+      "kanji": "花",
+      "onyomi": "カ",
+      "kunyomi": "はな",
+      "meaning": "hoa",
+      "contoh_kalimat": [
+        {
+          "contoh": "花見",
+          "furigana": "はなみ",
+          "arti": "ngắm hoa anh đào"
+        },
+        {
+          "contoh": "花火",
+          "furigana": "はなび",
+          "arti": "pháo hoa"
+        },
+        {
+          "contoh": "花瓶",
+          "furigana": "かびん",
+          "arti": "bình hoa"
+        }
+      ]
+    },
+    {
+      "id": 129,
+      "kanji": "英",
+      "onyomi": "エイ",
+      "kunyomi": "",
+      "meaning": "Anh, xuất sắc",
+      "contoh_kalimat": [
+        {
+          "contoh": "英語",
+          "furigana": "えいご",
+          "arti": "tiếng Anh"
+        },
+        {
+          "contoh": "英会話",
+          "furigana": "えいかいわ",
+          "arti": "hội thoại tiếng Anh"
+        },
+        {
+          "contoh": "英雄",
+          "furigana": "えいゆう",
+          "arti": "anh hùng"
+        }
+      ]
+    },
+    {
+      "id": 130,
+      "kanji": "茶",
+      "onyomi": "チャ、サ",
+      "kunyomi": "",
+      "meaning": "trà",
+      "contoh_kalimat": [
+        {
+          "contoh": "お茶",
+          "furigana": "おちゃ",
+          "arti": "trà"
+        },
+        {
+          "contoh": "喫茶店",
+          "furigana": "きっさてん",
+          "arti": "quán cà phê"
+        },
+        {
+          "contoh": "茶色",
+          "furigana": "ちゃいろ",
+          "arti": "màu nâu"
+        }
+      ]
+    },
+    {
+      "id": 131,
+      "kanji": "親",
+      "onyomi": "シン",
+      "kunyomi": "おや、した-しい",
+      "meaning": "bố mẹ, thân thiết",
+      "contoh_kalimat": [
+        {
+          "contoh": "親",
+          "furigana": "おや",
+          "arti": "bố mẹ"
+        },
+        {
+          "contoh": "両親",
+          "furigana": "りょうしん",
+          "arti": "bố mẹ"
+        },
+        {
+          "contoh": "親友",
+          "furigana": "しんゆう",
+          "arti": "bạn thân"
+        }
+      ]
+    },
+    {
+      "id": 132,
+      "kanji": "言",
+      "onyomi": "ゲン、ゴン",
+      "kunyomi": "い-う",
+      "meaning": "nói",
+      "contoh_kalimat": [
+        {
+          "contoh": "言葉",
+          "furigana": "ことば",
+          "arti": "từ, ngôn ngữ"
+        },
+        {
+          "contoh": "発言",
+          "furigana": "はつげん",
+          "arti": "phát biểu"
+        },
+        {
+          "contoh": "宣言",
+          "furigana": "せんげん",
+          "arti": "tuyên bố"
+        }
+      ]
+    },
+    {
+      "id": 133,
+      "kanji": "計",
+      "onyomi": "ケイ",
+      "kunyomi": "はか-る",
+      "meaning": "đo, kế hoạch",
+      "contoh_kalimat": [
+        {
+          "contoh": "時計",
+          "furigana": "とけい",
+          "arti": "đồng hồ"
+        },
+        {
+          "contoh": "計画",
+          "furigana": "けいかく",
+          "arti": "kế hoạch"
+        },
+        {
+          "contoh": "合計",
+          "furigana": "ごうけい",
+          "arti": "tổng cộng"
+        }
+      ]
+    },
+    {
+      "id": 134,
+      "kanji": "試",
+      "onyomi": "シ",
+      "kunyomi": "ため-す",
+      "meaning": "thử, kỳ thi",
+      "contoh_kalimat": [
+        {
+          "contoh": "試験",
+          "furigana": "しけん",
+          "arti": "kỳ thi"
+        },
+        {
+          "contoh": "試す",
+          "furigana": "ためす",
+          "arti": "thử"
+        },
+        {
+          "contoh": "試合",
+          "furigana": "しあい",
+          "arti": "trận đấu"
+        }
+      ]
+    },
+    {
+      "id": 135,
+      "kanji": "買",
+      "onyomi": "バイ",
+      "kunyomi": "か-う",
+      "meaning": "mua",
+      "contoh_kalimat": [
+        {
+          "contoh": "買い物",
+          "furigana": "かいもの",
+          "arti": "mua sắm"
+        },
+        {
+          "contoh": "売買",
+          "furigana": "ばいばい",
+          "arti": "mua bán"
+        },
+        {
+          "contoh": "買い手",
+          "furigana": "かいて",
+          "arti": "người mua"
+        }
+      ]
+    },
+    {
+      "id": 136,
+      "kanji": "貸",
+      "onyomi": "タイ",
+      "kunyomi": "か-す",
+      "meaning": "cho mượn",
+      "contoh_kalimat": [
+        {
+          "contoh": "貸す",
+          "furigana": "かす",
+          "arti": "cho mượn"
+        },
+        {
+          "contoh": "貸し出し",
+          "furigana": "かしだし",
+          "arti": "cho mượn"
+        },
+        {
+          "contoh": "賃貸",
+          "furigana": "ちんたい",
+          "arti": "cho thuê"
+        }
+      ]
+    },
+    {
+      "id": 137,
+      "kanji": "質",
+      "onyomi": "シツ、シチ",
+      "kunyomi": "",
+      "meaning": "chất lượng, hỏi",
+      "contoh_kalimat": [
+        {
+          "contoh": "質問",
+          "furigana": "しつもん",
+          "arti": "câu hỏi"
+        },
+        {
+          "contoh": "品質",
+          "furigana": "ひんしつ",
+          "arti": "chất lượng sản phẩm"
+        },
+        {
+          "contoh": "性質",
+          "furigana": "せいしつ",
+          "arti": "tính chất"
+        }
+      ]
+    },
+    {
+      "id": 138,
+      "kanji": "赤",
+      "onyomi": "セキ、シャク",
+      "kunyomi": "あか",
+      "meaning": "đỏ",
+      "contoh_kalimat": [
+        {
+          "contoh": "赤い",
+          "furigana": "あかい",
+          "arti": "đỏ"
+        },
+        {
+          "contoh": "赤ちゃん",
+          "furigana": "あかちゃん",
+          "arti": "em bé"
+        },
+        {
+          "contoh": "赤字",
+          "furigana": "あかじ",
+          "arti": "thâm hụt"
+        }
+      ]
+    },
+    {
+      "id": 139,
+      "kanji": "走",
+      "onyomi": "ソウ",
+      "kunyomi": "はし-る",
+      "meaning": "chạy",
+      "contoh_kalimat": [
+        {
+          "contoh": "走る",
+          "furigana": "はしる",
+          "arti": "chạy"
+        },
+        {
+          "contoh": "走行",
+          "furigana": "そうこう",
+          "arti": "chạy, di chuyển"
+        },
+        {
+          "contoh": "競走",
+          "furigana": "きょうそう",
+          "arti": "cuộc đua"
+        }
+      ]
+    },
+    {
+      "id": 140,
+      "kanji": "起",
+      "onyomi": "キ",
+      "kunyomi": "お-きる",
+      "meaning": "thức dậy, trỗi dậy",
+      "contoh_kalimat": [
+        {
+          "contoh": "起きる",
+          "furigana": "おきる",
+          "arti": "thức dậy"
+        },
+        {
+          "contoh": "起こす",
+          "furigana": "おこす",
+          "arti": "đánh thức"
+        },
+        {
+          "contoh": "起床",
+          "furigana": "きしょう",
+          "arti": "thức dậy"
+        }
+      ]
+    },
+    {
+      "id": 141,
+      "kanji": "足",
+      "onyomi": "ソク",
+      "kunyomi": "あし、た-りる",
+      "meaning": "chân, đủ",
+      "contoh_kalimat": [
+        {
+          "contoh": "不足",
+          "furigana": "ふそく",
+          "arti": "thiếu hụt"
+        },
+        {
+          "contoh": "遠足",
+          "furigana": "えんそく",
+          "arti": "dã ngoại"
+        },
+        {
+          "contoh": "足音",
+          "furigana": "あしおと",
+          "arti": "tiếng bước chân"
+        }
+      ]
+    },
+    {
+      "id": 142,
+      "kanji": "転",
+      "onyomi": "テン",
+      "kunyomi": "ころ-がる",
+      "meaning": "xoay, lăn, ngã, chuyển",
+      "contoh_kalimat": [
+        {
+          "contoh": "自転車",
+          "furigana": "じてんしゃ",
+          "arti": "xe đạp"
+        },
+        {
+          "contoh": "運転",
+          "furigana": "うんてん",
+          "arti": "lái xe"
+        },
+        {
+          "contoh": "転ぶ",
+          "furigana": "ころぶ",
+          "arti": "ngã"
+        }
+      ]
+    },
+    {
+      "id": 143,
+      "kanji": "近",
+      "onyomi": "キン",
+      "kunyomi": "ちか-い",
+      "meaning": "gần",
+      "contoh_kalimat": [
+        {
+          "contoh": "近い",
+          "furigana": "ちかい",
+          "arti": "gần"
+        },
+        {
+          "contoh": "近所",
+          "furigana": "きんじょ",
+          "arti": "hàng xóm"
+        },
+        {
+          "contoh": "最近",
+          "furigana": "さいきん",
+          "arti": "gần đây"
+        }
+      ]
+    },
+    {
+      "id": 144,
+      "kanji": "送",
+      "onyomi": "ソウ",
+      "kunyomi": "おく-る",
+      "meaning": "gửi",
+      "contoh_kalimat": [
+        {
+          "contoh": "送る",
+          "furigana": "おくる",
+          "arti": "gửi"
+        },
+        {
+          "contoh": "放送",
+          "furigana": "ほうそう",
+          "arti": "phát sóng"
+        },
+        {
+          "contoh": "送別会",
+          "furigana": "そうべつかい",
+          "arti": "tiệc chia tay"
+        }
+      ]
+    },
+    {
+      "id": 145,
+      "kanji": "通",
+      "onyomi": "ツウ",
+      "kunyomi": "とお-る",
+      "meaning": "đi qua, hiểu",
+      "contoh_kalimat": [
+        {
+          "contoh": "通る",
+          "furigana": "とおる",
+          "arti": "đi qua"
+        },
+        {
+          "contoh": "交通",
+          "furigana": "こうつう",
+          "arti": "giao thông"
+        },
+        {
+          "contoh": "通学",
+          "furigana": "つうがく",
+          "arti": "đi học"
+        }
+      ]
+    },
+    {
+      "id": 146,
+      "kanji": "週",
+      "onyomi": "シュウ",
+      "kunyomi": "",
+      "meaning": "tuần",
+      "contoh_kalimat": [
+        {
+          "contoh": "週末",
+          "furigana": "しゅうまつ",
+          "arti": "cuối tuần"
+        },
+        {
+          "contoh": "今週",
+          "furigana": "こんしゅう",
+          "arti": "tuần này"
+        },
+        {
+          "contoh": "一週間",
+          "furigana": "いっしゅうかん",
+          "arti": "một tuần"
+        }
+      ]
+    },
+    {
+      "id": 147,
+      "kanji": "運",
+      "onyomi": "ウン",
+      "kunyomi": "はこ-ぶ",
+      "meaning": "vận chuyển, số phận",
+      "contoh_kalimat": [
+        {
+          "contoh": "運転",
+          "furigana": "うんてん",
+          "arti": "lái xe"
+        },
+        {
+          "contoh": "運動",
+          "furigana": "うんどう",
+          "arti": "thể dục, thể thao"
+        },
+        {
+          "contoh": "運命",
+          "furigana": "うんめい",
+          "arti": "số phận"
+        }
+      ]
+    },
+    {
+      "id": 148,
+      "kanji": "道",
+      "onyomi": "ドウ",
+      "kunyomi": "みち",
+      "meaning": "đường, cách",
+      "contoh_kalimat": [
+        {
+          "contoh": "道路",
+          "furigana": "どうろ",
+          "arti": "đường, xa lộ"
+        },
+        {
+          "contoh": "歩道",
+          "furigana": "ほどう",
+          "arti": "vỉa hè"
+        },
+        {
+          "contoh": "柔道",
+          "furigana": "じゅうどう",
+          "arti": "nhu đạo"
+        }
+      ]
+    },
+    {
+      "id": 149,
+      "kanji": "重",
+      "onyomi": "ジュウ、チョウ",
+      "kunyomi": "おも-い",
+      "meaning": "nặng, quan trọng",
+      "contoh_kalimat": [
+        {
+          "contoh": "重い",
+          "furigana": "おもい",
+          "arti": "nặng"
+        },
+        {
+          "contoh": "重要",
+          "furigana": "じゅうよう",
+          "arti": "quan trọng"
+        },
+        {
+          "contoh": "体重",
+          "furigana": "たいじゅう",
+          "arti": "cân nặng"
+        }
+      ]
+    },
+    {
+      "id": 150,
+      "kanji": "野",
+      "onyomi": "ヤ",
+      "kunyomi": "の",
+      "meaning": "đồng, hoang dã",
+      "contoh_kalimat": [
+        {
+          "contoh": "野菜",
+          "furigana": "やさい",
+          "arti": "rau"
+        },
+        {
+          "contoh": "野球",
+          "furigana": "やきゅう",
+          "arti": "bóng chày"
+        },
+        {
+          "contoh": "分野",
+          "furigana": "ぶんや",
+          "arti": "lĩnh vực"
+        }
+      ]
+    },
+    {
+      "id": 151,
+      "kanji": "銀",
+      "onyomi": "ギン",
+      "kunyomi": "",
+      "meaning": "bạc",
+      "contoh_kalimat": [
+        {
+          "contoh": "銀行",
+          "furigana": "ぎんこう",
+          "arti": "ngân hàng"
+        },
+        {
+          "contoh": "銀色",
+          "furigana": "ぎんいろ",
+          "arti": "màu bạc"
+        },
+        {
+          "contoh": "銀座",
+          "furigana": "ぎんざ",
+          "arti": "Ginza"
+        }
+      ]
+    },
+    {
+      "id": 152,
+      "kanji": "開",
+      "onyomi": "カイ",
+      "kunyomi": "ひら-く、あ-ける",
+      "meaning": "mở",
+      "contoh_kalimat": [
+        {
+          "contoh": "開く",
+          "furigana": "あく",
+          "arti": "mở"
+        },
+        {
+          "contoh": "開始",
+          "furigana": "かいし",
+          "arti": "khởi đầu"
+        },
+        {
+          "contoh": "公開",
+          "furigana": "こうかい",
+          "arti": "công khai"
+        }
+      ]
+    },
+    {
+      "id": 153,
+      "kanji": "院",
+      "onyomi": "イン",
+      "kunyomi": "",
+      "meaning": "viện, bệnh viện",
+      "contoh_kalimat": [
+        {
+          "contoh": "病院",
+          "furigana": "びょういん",
+          "arti": "bệnh viện"
+        },
+        {
+          "contoh": "大学院",
+          "furigana": "だいがくいん",
+          "arti": "sau đại học"
+        },
+        {
+          "contoh": "入院",
+          "furigana": "にゅういん",
+          "arti": "nhập viện"
+        }
+      ]
+    },
+    {
+      "id": 154,
+      "kanji": "集",
+      "onyomi": "シュウ",
+      "kunyomi": "あつ-まる",
+      "meaning": "tập hợp, thu thập",
+      "contoh_kalimat": [
+        {
+          "contoh": "集まる",
+          "furigana": "あつまる",
+          "arti": "tập hợp"
+        },
+        {
+          "contoh": "集中",
+          "furigana": "しゅうちゅう",
+          "arti": "tập trung"
+        },
+        {
+          "contoh": "募集",
+          "furigana": "ぼしゅう",
+          "arti": "tuyển dụng"
+        }
+      ]
+    },
+    {
+      "id": 155,
+      "kanji": "青",
+      "onyomi": "セイ",
+      "kunyomi": "あお",
+      "meaning": "xanh dương, xanh lá (cũ)",
+      "contoh_kalimat": [
+        {
+          "contoh": "青い",
+          "furigana": "あおい",
+          "arti": "xanh"
+        },
+        {
+          "contoh": "青春",
+          "furigana": "せいしゅん",
+          "arti": "tuổi trẻ, thanh xuân"
+        },
+        {
+          "contoh": "青信号",
+          "furigana": "あおしんごう",
+          "arti": "đèn xanh"
+        }
+      ]
+    },
+    {
+      "id": 156,
+      "kanji": "音",
+      "onyomi": "オン、イン",
+      "kunyomi": "おと",
+      "meaning": "âm thanh",
+      "contoh_kalimat": [
+        {
+          "contoh": "音楽",
+          "furigana": "おんがく",
+          "arti": "âm nhạc"
+        },
+        {
+          "contoh": "発音",
+          "furigana": "はつおん",
+          "arti": "phát âm"
+        },
+        {
+          "contoh": "足音",
+          "furigana": "あしおと",
+          "arti": "tiếng bước chân"
+        }
+      ]
+    },
+    {
+      "id": 157,
+      "kanji": "題",
+      "onyomi": "ダイ",
+      "kunyomi": "",
+      "meaning": "tiêu đề, chủ đề, câu hỏi",
+      "contoh_kalimat": [
+        {
+          "contoh": "問題",
+          "furigana": "もんだい",
+          "arti": "vấn đề, câu hỏi"
+        },
+        {
+          "contoh": "宿題",
+          "furigana": "しゅくだい",
+          "arti": "bài tập về nhà"
+        },
+        {
+          "contoh": "題名",
+          "furigana": "だいめい",
+          "arti": "tiêu đề"
+        }
+      ]
+    },
+    {
+      "id": 158,
+      "kanji": "風",
+      "onyomi": "フウ",
+      "kunyomi": "かぜ",
+      "meaning": "gió, phong cách",
+      "contoh_kalimat": [
+        {
+          "contoh": "風",
+          "furigana": "かぜ",
+          "arti": "gió"
+        },
+        {
+          "contoh": "台風",
+          "furigana": "たいふう",
+          "arti": "bão"
+        },
+        {
+          "contoh": "風邪",
+          "furigana": "かぜ",
+          "arti": "cảm lạnh"
+        }
+      ]
+    },
+    {
+      "id": 159,
+      "kanji": "飯",
+      "onyomi": "ハン",
+      "kunyomi": "めし",
+      "meaning": "cơm, bữa ăn",
+      "contoh_kalimat": [
+        {
+          "contoh": "ご飯",
+          "furigana": "ごはん",
+          "arti": "cơm, bữa ăn"
+        },
+        {
+          "contoh": "朝飯",
+          "furigana": "あさめし",
+          "arti": "bữa sáng"
+        },
+        {
+          "contoh": "晩ご飯",
+          "furigana": "ばんごはん",
+          "arti": "bữa tối"
+        }
+      ]
+    },
+    {
+      "id": 160,
+      "kanji": "飲",
+      "onyomi": "イン",
+      "kunyomi": "の-む",
+      "meaning": "uống",
+      "contoh_kalimat": [
+        {
+          "contoh": "飲み物",
+          "furigana": "のみもの",
+          "arti": "đồ uống"
+        },
+        {
+          "contoh": "飲酒",
+          "furigana": "いんしゅ",
+          "arti": "uống rượu"
+        },
+        {
+          "contoh": "飲食店",
+          "furigana": "いんしょくてん",
+          "arti": "quán ăn"
+        }
+      ]
+    },
+    {
+      "id": 161,
+      "kanji": "館",
+      "onyomi": "カン",
+      "kunyomi": "やかた",
+      "meaning": "tòa nhà, cơ sở công cộng",
+      "contoh_kalimat": [
+        {
+          "contoh": "図書館",
+          "furigana": "としょかん",
+          "arti": "thư viện"
+        },
+        {
+          "contoh": "博物館",
+          "furigana": "はくぶつかん",
+          "arti": "bảo tàng"
+        },
+        {
+          "contoh": "旅館",
+          "furigana": "りょかん",
+          "arti": "nhà trọ Nhật"
+        }
+      ]
+    },
+    {
+      "id": 162,
+      "kanji": "駅",
+      "onyomi": "エキ",
+      "kunyomi": "",
+      "meaning": "ga, nhà ga",
+      "contoh_kalimat": [
+        {
+          "contoh": "駅前",
+          "furigana": "えきまえ",
+          "arti": "trước ga"
+        },
+        {
+          "contoh": "駅員",
+          "furigana": "えきいん",
+          "arti": "nhân viên nhà ga"
+        },
+        {
+          "contoh": "終点駅",
+          "furigana": "しゅうてんえき",
+          "arti": "ga cuối"
+        }
+      ]
+    },
+    {
+      "id": 163,
+      "kanji": "験",
+      "onyomi": "ケン、ゲン",
+      "kunyomi": "",
+      "meaning": "kinh nghiệm, kỳ thi",
+      "contoh_kalimat": [
+        {
+          "contoh": "試験",
+          "furigana": "しけん",
+          "arti": "kỳ thi"
+        },
+        {
+          "contoh": "経験",
+          "furigana": "けいけん",
+          "arti": "kinh nghiệm"
+        },
+        {
+          "contoh": "受験",
+          "furigana": "じゅけん",
+          "arti": "thi tuyển"
+        }
+      ]
+    },
+    {
+      "id": 164,
+      "kanji": "魚",
+      "onyomi": "ギョ",
+      "kunyomi": "さかな",
+      "meaning": "cá",
+      "contoh_kalimat": [
+        {
+          "contoh": "魚屋",
+          "furigana": "さかなや",
+          "arti": "cửa hàng cá"
+        },
+        {
+          "contoh": "金魚",
+          "furigana": "きんぎょ",
+          "arti": "cá vàng"
+        },
+        {
+          "contoh": "焼き魚",
+          "furigana": "やきざかな",
+          "arti": "cá nướng"
+        }
+      ]
+    },
+    {
+      "id": 165,
+      "kanji": "鳥",
+      "onyomi": "チョウ",
+      "kunyomi": "とり",
+      "meaning": "chim",
+      "contoh_kalimat": [
+        {
+          "contoh": "鳥",
+          "furigana": "とり",
+          "arti": "chim"
+        },
+        {
+          "contoh": "焼き鳥",
+          "furigana": "やきとり",
+          "arti": "gà nướng Nhật"
+        },
+        {
+          "contoh": "白鳥",
+          "furigana": "はくちょう",
+          "arti": "thiên nga"
+        }
+      ]
+    },
+    {
+      "id": 166,
+      "kanji": "黒",
+      "onyomi": "コク",
+      "kunyomi": "くろ",
+      "meaning": "đen",
+      "contoh_kalimat": [
+        {
+          "contoh": "黒い",
+          "furigana": "くろい",
+          "arti": "đen"
+        },
+        {
+          "contoh": "黒板",
+          "furigana": "こくばん",
+          "arti": "bảng đen"
+        },
+        {
+          "contoh": "暗黒",
+          "furigana": "あんこく",
+          "arti": "bóng tối"
+        }
+      ]
+    },
+    {
+      "id": 167,
+      "kanji": "手",
+      "onyomi": "シュ",
+      "kunyomi": "て",
+      "meaning": "tay",
+      "contoh_kalimat": [
+        {
+          "contoh": "手紙",
+          "furigana": "てがみ",
+          "arti": "thư"
+        },
+        {
+          "contoh": "上手",
+          "furigana": "じょうず",
+          "arti": "giỏi, khéo léo"
+        },
+        {
+          "contoh": "選手",
+          "furigana": "せんしゅ",
+          "arti": "vận động viên"
+        }
+      ]
+    }
+  ]
+}

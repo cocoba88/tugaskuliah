@@ -1,0 +1,382 @@
+[
+  {
+    "id": "question_n5_5_001",
+    "question": "「先週」の意味は？",
+    "furigana": "「先週[せんしゅう]」の意味[いみ]は？",
+    "romaji": "'Senshuu' no imi wa?",
+    "level": "N5",
+    "category": "VOCABULARY",
+    "options": [
+      "Tuần sau",
+      "Tuần trước",
+      "Mỗi tuần",
+      "Hai tuần trước"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Nghĩa của '先週 (せんしゅう)' là gì?",
+    "answerExplanation": "'先週 (senshuu)' có nghĩa là tuần trước. Chữ Hán '先' nghĩa là 'trước/trước đây' và '週' nghĩa là 'tuần'. So sánh: '来週 (raishuu)' = tuần sau (来 = đến/sẽ), '毎週 (maishuu)' = mỗi tuần (毎 = mỗi), '先々週 (sensenshuu)' = hai tuần trước. Mẫu thời gian với 先: 先月 (sengetsu) = tháng trước, 先年 không phổ biến (dùng 去年 = năm ngoái).",
+    "hint": "Chữ Hán 先 nghĩa là 'trước' hoặc 'trước đây' — kết hợp với 週 (tuần)",
+    "difficultyScore": 1
+  },
+  {
+    "id": "question_n5_5_002",
+    "question": "「日本語」の読み方は？",
+    "furigana": "「日本語」の読み方は？",
+    "romaji": "'Nihongo' no yomikata wa?",
+    "level": "N5",
+    "category": "KANJI",
+    "options": [
+      "にっぽんご",
+      "にほんこ",
+      "にほんご",
+      "にんほんご"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Cách đọc '日本語' là gì?",
+    "answerExplanation": "'日本語' đọc là 'にほんご (nihongo)' và có nghĩa là tiếng Nhật. '日本' = にほん (Nhật Bản), '語' = ご (ngôn ngữ). Mặc dù '日本' có thể đọc 'にっぽん' trong ngữ cảnh khác, cách đọc chuẩn cho '日本語' là 'にほんご'. 'にほんこ' sai vì 語 đọc là 'ご' (âm hữu thanh), không phải 'こ'. 'にんほんご' thừa ん.",
+    "hint": "Chữ Hán cuối 語 nghĩa là 'ngôn ngữ' và luôn đọc bằng âm hữu thanh — không phải こ",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_5_003",
+    "question": "日本語を　少し　___。",
+    "furigana": "日本語[にほんご]を　少[すこ]し　___。",
+    "romaji": "Nihongo wo sukoshi ___.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "話す",
+      "話し",
+      "話して",
+      "話します"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "Tôi nói được một chút tiếng Nhật.",
+    "answerExplanation": "Đây là câu phát biểu độc lập cần thể lịch sự ở cuối → '話します (hanashimasu)'. Trong hội thoại lịch sự/trang trọng, câu luôn kết thúc bằng ～ます/～ました. '話す' = thể từ điển (thân mật, không lịch sự), '話し' = gốc masu không có đuôi (không hoàn chỉnh để kết thúc câu), '話して' = thể te (để nối câu hoặc yêu cầu, không dùng để kết thúc).",
+    "hint": "Câu lịch sự đứng một mình BẮT BUỘC kết thúc bằng thể ～ます",
+    "difficultyScore": 1
+  },
+  {
+    "id": "question_n5_5_004",
+    "question": "（Reading）\nわたしは まいにち 7じに おきます。あさごはんは パンと たまごを たべます。ときどき コーヒーも のみます。でも きょうは じかんが ありませんでしたから、あさごはんを たべませんでした。\n\nしつもん：きょう、あさごはんを たべましたか。",
+    "furigana": "わたしは まいにち 7じに おきます。あさごはんは パンと たまごを たべます。ときどき コーヒーも のみます。でも きょうは じかんが ありませんでしたから、あさごはんを たべませんでした。\n\nしつもん：きょう、あさごはんを たべましたか。",
+    "romaji": "Watashi wa mainichi 7-ji ni okimasu. Asagohan wa pan to tamago o tabemasu. Tokidoki koohii mo nomimasu. Demo kyou wa jikan ga arimasen deshita kara, asagohan o tabemasen deshita.\n\nShitsumon: Kyou, asagohan o tabemashita ka.",
+    "level": "N5",
+    "category": "READING",
+    "options": [
+      "はい、パンを たべました",
+      "はい、たまごを たべました",
+      "いいえ、たべませんでした",
+      "はい、コーヒーを のみました"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Tôi thức dậy lúc 7 giờ mỗi ngày. Bữa sáng ăn bánh mì và trứng. Thỉnh thoảng cũng uống cà phê. Nhưng hôm nay không có thời gian, nên không ăn sáng.\n\nCâu hỏi: Hôm nay bạn có ăn sáng không?",
+    "answerExplanation": "Mấu chốt: 'でも きょうは じかんが ありませんでしたから、あさごはんを たべませんでした' = nhưng hôm nay vì không có thời gian, không ăn sáng. Từ 'でも (demo = nhưng)' báo hiệu sự tương phản với thói quen hàng ngày. Mặc dù thường ăn bánh mì và trứng, nhưng HÔM NAY không ăn. Đáp án: いいえ、たべませんでした.",
+    "hint": "Chú ý từ 'でも' (nhưng) báo hiệu sự thay đổi so với thói quen — điều gì xảy ra HÔM NAY?",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_5_005",
+    "question": "「消す」の意味は？",
+    "furigana": "「消[け]す」の意味[いみ]は？",
+    "romaji": "'Kesu' no imi wa?",
+    "level": "N5",
+    "category": "VOCABULARY",
+    "options": [
+      "Bật",
+      "Tắt",
+      "Mở",
+      "Đóng"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Nghĩa của '消す (けす)' là gì?",
+    "answerExplanation": "'消す (kesu)' có nghĩa là tắt, dập tắt hoặc xóa — hành động làm cho thứ gì đó ngừng sáng/tồn tại. Ví dụ: 電気を消す = tắt đèn, テレビを消す = tắt TV. Từ trái nghĩa: 'つける' = bật. '開ける (akeru)' = mở, '閉める (shimeru)' = đóng — cặp trái nghĩa khác.",
+    "hint": "Bạn làm gì với đèn hoặc TV khi sắp đi ngủ?",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_5_006",
+    "question": "「外国」の読み方は？",
+    "furigana": "「外国」の読み方は？",
+    "romaji": "'Gaikoku' no yomikata wa?",
+    "level": "N5",
+    "category": "KANJI",
+    "options": [
+      "がいくに",
+      "そとくに",
+      "がいごく",
+      "がいこく"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "Cách đọc '外国' là gì?",
+    "answerExplanation": "'外国' đọc là 'がいこく (gaikoku)' và có nghĩa là nước ngoài. '外' = がい (ngoài, âm on), '国' = こく (nước, âm on). Cả hai chữ Hán dùng âm on. 'がいごく' sai — 国 không trải qua rendaku ở đây. 'そとくに' và 'がいくに' kết hợp sai âm on và âm kun.",
+    "hint": "Cả hai chữ Hán đọc bằng âm on — 外 = がい, 国 = こく (không có rendaku)",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_5_007",
+    "question": "コーヒー___　飲みません。",
+    "furigana": "コーヒー___　飲[の]みません。",
+    "romaji": "Koohii ___ nomimasen.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "に",
+      "で",
+      "が",
+      "は"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "Cà phê thì tôi không uống.",
+    "answerExplanation": "Trong câu phủ định diễn tả sự tương phản hoặc nhấn mạnh, trợ từ 'は' thường thay thế 'を' để tạo sắc thái 'về cà phê thì tôi KHÔNG uống (nhưng có thể đồ uống khác thì có)'. Mẫu câu: ～は ～ません = về ~, không làm. 'に' = đích đến/thời gian, 'で' = nơi chốn/công cụ, 'が' = trợ từ chỉ chủ ngữ hoặc khả năng. Trong ngữ cảnh phủ định tương phản này, 'は' phù hợp nhất.",
+    "hint": "Trong câu PHỦ ĐỊNH, trợ từ này thường thay thế を để tạo sắc thái tương phản hoặc nhấn mạnh",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n5_5_008",
+    "question": "「開ける」の意味は？",
+    "furigana": "「開[あ]ける」の意味[いみ]は？",
+    "romaji": "'Akeru' no imi wa?",
+    "level": "N5",
+    "category": "VOCABULARY",
+    "options": [
+      "Đóng",
+      "Tắt",
+      "Mở",
+      "Bật"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Nghĩa của '開ける (あける)' là gì?",
+    "answerExplanation": "'開ける (akeru)' có nghĩa là mở — hành động làm cho thứ gì đó đang đóng trở nên mở. Ví dụ: ドアを開ける = mở cửa, 窓を開ける = mở cửa sổ. Từ trái nghĩa: '閉める (shimeru)' = đóng. '消す (kesu)' = tắt, 'つける' = bật — cặp trái nghĩa khác (cho đèn/TV).",
+    "hint": "Hành động thực hiện với cửa, cửa sổ hoặc hộp để có thể nhìn thấy bên trong",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_5_009",
+    "question": "「日曜日」の読み方は？",
+    "furigana": "「日曜日」の読み方は？",
+    "romaji": "'Nichiyoubi' no yomikata wa?",
+    "level": "N5",
+    "category": "KANJI",
+    "options": [
+      "にちようび",
+      "ひようび",
+      "じつようび",
+      "にちよび"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Cách đọc '日曜日' là gì?",
+    "answerExplanation": "'日曜日' đọc là 'にちようび (nichiyoubi)' và có nghĩa là Chủ nhật. '日' = にち (âm on), '曜' = よう, '日' = び. Chữ Hán đầu tiên 日 đọc là 'にち' không phải 'ひ' (âm kun) hay 'じつ' (âm on thay thế sai ở đây). Cũng không phải 'にちよび' — phải có âm dài よう không phải よ.",
+    "hint": "Chữ Hán đầu tiên 日 đọc bằng âm on phổ biến nhất — cũng chú ý âm dài よう ở giữa",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_5_010",
+    "question": "たくさん　本を　___ください。",
+    "furigana": "たくさん　本[ほん]を　___ください。",
+    "romaji": "Takusan hon o ___ kudasai.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "読み",
+      "読んで",
+      "読みます",
+      "読んでも"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Vui lòng đọc nhiều sách.",
+    "answerExplanation": "Mẫu câu yêu cầu lịch sự: Động từ thể te + ください = xin hãy ~. 読む (yomu) → thể te = 読んで (yonde) + ください = xin hãy đọc. '読み' = chỉ gốc masu (không hoàn chỉnh trước ください), '読みます' = thể lịch sự không thể dùng trước ください, '読んでも' = dù có đọc (sắc thái cho phép/nhượng bộ: 読んでもいいです = được phép đọc).",
+    "hint": "Trước ください luôn dùng thể て — 読む → 読んで",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_5_011",
+    "question": "「渡す」の意味は？",
+    "furigana": "「渡[わた]す」の意味[いみ]は？",
+    "romaji": "'Watasu' no imi wa?",
+    "level": "N5",
+    "category": "VOCABULARY",
+    "options": [
+      "Nhận",
+      "Băng qua",
+      "Lấy",
+      "Giao"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "Nghĩa của '渡す (わたす)' là gì?",
+    "answerExplanation": "'渡す (watasu)' có nghĩa là trao hoặc đưa trực tiếp vào tay ai đó. CHÚ Ý: đừng nhầm với '渡る (wataru)' = băng qua (đường/sông) — cùng chữ Hán nhưng đuôi khác! '受け取る (uketoru)' = nhận, '取る (toru)' = lấy. Ví dụ: 先生にレポートを渡す = nộp báo cáo cho giáo viên.",
+    "hint": "Hành động đưa thứ gì đó từ tay sang tay — KHÔNG PHẢI băng qua (đó là 渡る)",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_5_012",
+    "question": "「右」の読み方は？",
+    "furigana": "「右」の読み方は？",
+    "romaji": "'Migi' no yomikata wa?",
+    "level": "N5",
+    "category": "KANJI",
+    "options": [
+      "ひだり",
+      "まえ",
+      "うしろ",
+      "みぎ"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "Cách đọc '右' là gì?",
+    "answerExplanation": "'右' đọc là 'みぎ (migi)' và có nghĩa là bên phải. Từ trái nghĩa là '左 (ひだり/hidari)' = bên trái. Tất cả lựa chọn đều là từ chỉ hướng/vị trí: 'ひだり' = trái (左), 'まえ' = trước (前), 'うしろ' = sau (後ろ). Mẹo ghi nhớ: chữ Hán 右 gồm ナ (katakana na) + 口 (miệng).",
+    "hint": "Từ trái nghĩa của '左 (ひだり)' = bên trái",
+    "difficultyScore": 1
+  },
+  {
+    "id": "question_n5_5_013",
+    "question": "これは　私___　傘です。",
+    "furigana": "これは　私[わたし]___　傘[かさ]です。",
+    "romaji": "Kore wa watashi ___ kasa desu.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "と",
+      "の",
+      "で",
+      "を"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Đây là ô/dù của tôi.",
+    "answerExplanation": "Trợ từ 'の' chỉ sự sở hữu hoặc mối quan hệ giữa các danh từ. 'わたしの かさ' = ô của tôi. Mẫu câu: [Chủ sở hữu] + の + [Vật]. 'と' = và/cùng, 'で' = bằng (công cụ)/ở (nơi hoạt động), 'を' = tân ngữ trực tiếp. Ví dụ khác: 日本の食べ物 = thức ăn Nhật Bản, 友だちのかばん = túi của bạn.",
+    "hint": "Trợ từ chỉ SỰ SỞ HỮU — nối chủ sở hữu với vật được sở hữu",
+    "difficultyScore": 1
+  },
+  {
+    "id": "question_n5_5_014",
+    "question": "（Reading）\nやまださんは スポーツが すきです。でも、サッカーは あまり すきじゃ ありません。テニスと バスケットボールが いちばん すきです。まいしゅう どようびに ともだちと テニスを します。\n\nしつもん：やまださんは まいしゅう なにを しますか。",
+    "furigana": "やまださんは スポーツが 好[す]きです。でも、サッカーは あまり 好[す]きじゃ ありません。テニスと バスケットボールが 一番[いちばん] 好[す]きです。毎週[まいしゅう] 土曜日[どようび]に 友達[ともだち]と テニスを します。\n\nしつもん：やまださんは 毎週[まいしゅう] なにを しますか。",
+    "romaji": "Yamada-san wa supootsu ga suki desu. Demo, sakkaa wa amari suki ja arimasen. Tenisu to basukettbooru ga ichiban suki desu. Maishuu doyoubi ni tomodachi to tenisu o shimasu.\n\nShitsumon: Yamada-san wa maishuu nani o shimasu ka.",
+    "level": "N5",
+    "category": "READING",
+    "options": [
+      "サッカーを します",
+      "バスケットボールを します",
+      "テニスを します",
+      "すいえいを します"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Yamada thích thể thao. Nhưng không thích bóng đá lắm. Thích tennis và bóng rổ nhất. Mỗi thứ Bảy chơi tennis cùng bạn bè.\n\nCâu hỏi: Yamada làm gì mỗi tuần?",
+    "answerExplanation": "Bài văn nói: 'まいしゅう どようびに ともだちと テニスを します' = mỗi thứ Bảy chơi tennis cùng bạn bè. Câu hỏi hỏi về hoạt động THƯỜNG XUYÊN hàng tuần, không phải môn thể thao yêu thích. Mặc dù bóng rổ cũng yêu thích, nhưng điều được nêu rõ ràng làm mỗi tuần là tennis. サッカー không được thích, すいえい (bơi) không được đề cập.",
+    "hint": "Câu hỏi hỏi về hoạt động THƯỜNG XUYÊN hàng tuần — tìm câu có từ 'まいしゅう' trong bài văn",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_5_015",
+    "question": "「遅い」の意味は？",
+    "furigana": "「遅[おそ]い」の意味[いみ]は？",
+    "romaji": "'Osoi' no imi wa?",
+    "level": "N5",
+    "category": "VOCABULARY",
+    "options": [
+      "Chậm / Trễ",
+      "Nhanh",
+      "Sớm",
+      "Gần"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Nghĩa của '遅い (おそい)' là gì?",
+    "answerExplanation": "'遅い (osoi)' có hai nghĩa: chậm (tốc độ thấp) VÀ muộn (đến quá giờ quy định). Từ trái nghĩa: '速い (hayai)' = nhanh và '早い (hayai)' = sớm. Mặc dù cả hai từ trái nghĩa phát âm giống nhau (hayai), chữ Hán khác nhau! Ví dụ: この電車は遅い = tàu này chậm, 学校に遅い = muộn đến trường.",
+    "hint": "Tính từ này có hai sắc thái: tốc độ THẤP hoặc đến muộn hơn THỜI GIAN quy định",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_5_016",
+    "question": "「金曜日」の読み方は？",
+    "furigana": "「金曜日」の読み方は？",
+    "romaji": "'Kinyoubi' no yomikata wa?",
+    "level": "N5",
+    "category": "KANJI",
+    "options": [
+      "きんよび",
+      "ぎんようび",
+      "きんようび",
+      "きんようひ"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Cách đọc '金曜日' là gì?",
+    "answerExplanation": "'金曜日' đọc là 'きんようび (kinyoubi)' và có nghĩa là thứ Sáu. '金' = きん (vàng/kim loại, âm on), '曜' = よう, '日' = び. Lỗi thường gặp: 'ぎんようび' sai vì 金 đọc là きん không phải ぎん (銀 = bạc đọc là ぎん), 'きんよび' thiếu nguyên âm dài う, 'きんようひ' sai vì 日 ở cuối tên ngày đọc là び không phải ひ.",
+    "hint": "Chữ Hán 金 ở đây nghĩa là vàng/kim loại và đọc là きん — đừng nhầm với 銀 (ぎん = bạc)",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_5_017",
+    "question": "あの　レストランは　おいしい___、やすいです。",
+    "furigana": "あの　レストランは　おいしい___、やすいです。",
+    "romaji": "Ano resutoran wa oishii ___, yasui desu.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "で",
+      "し",
+      "くて",
+      "から"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Nhà hàng đó ngon và rẻ.",
+    "answerExplanation": "Để nối hai tính từ đuôi i (ngon VÀ rẻ), dùng thể te: bỏ い rồi thêm くて. おいしい → おいしくて + やすいです = ngon VÀ rẻ. 'で' = thể te cho tính từ đuôi na (không phải đuôi i), 'し' = liệt kê lý do (tự nhiên hơn ở N4), 'から' = vì (nhân quả). So sánh với câu hỏi module 1 #020: きれいで (tính từ đuôi na + で).",
+    "hint": "Nối hai tính từ đuôi i: bỏ い rồi thêm liên từ phù hợp",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_5_018",
+    "question": "「閉める」の意味は？",
+    "furigana": "「閉[し]める」の意味[いみ]は？",
+    "romaji": "'Shimeru' no imi wa?",
+    "level": "N5",
+    "category": "VOCABULARY",
+    "options": [
+      "Mở",
+      "Đóng",
+      "Tắt",
+      "Bật"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Nghĩa của '閉める (しめる)' là gì?",
+    "answerExplanation": "'閉める (shimeru)' có nghĩa là đóng — hành động làm cho thứ gì đó đang mở trở nên đóng. Ví dụ: ドアを閉める = đóng cửa, 窓を閉める = đóng cửa sổ. Từ trái nghĩa: '開ける (akeru)' = mở. '消す (kesu)' = tắt (cho đèn/TV), 'つける' = bật — cặp trái nghĩa khác.",
+    "hint": "Trái nghĩa của '開ける (あける)' = mở. Hành động thực hiện với cửa hoặc cửa sổ để không mở",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_5_019",
+    "question": "「食堂」の読み方は？",
+    "furigana": "「食堂」の読み方は？",
+    "romaji": "'Shokudou' no yomikata wa?",
+    "level": "N5",
+    "category": "KANJI",
+    "options": [
+      "しょくどう",
+      "しょくとう",
+      "たべどう",
+      "しょくどの"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Cách đọc '食堂' là gì?",
+    "answerExplanation": "'食堂' đọc là 'しょくどう (shokudou)' và có nghĩa là căng tin hoặc phòng ăn. '食' = しょく (ăn, âm on), '堂' = どう (phòng/sảnh). Cả hai chữ Hán dùng âm on. 'しょくとう' sai vì 堂 = どう không phải とう, 'たべどう' trộn âm kun (食べる) + âm on sai, 'しょくどの' thêm đuôi の không tồn tại.",
+    "hint": "Nơi ăn uống ở trường hoặc công ty — cả hai chữ Hán đọc bằng âm on: 食 = しょく, 堂 = どう",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_5_020",
+    "question": "映画館___　映画を　見ました。",
+    "furigana": "映画館[えいがかん]___　映画[えいが]を　見[み]ました。",
+    "romaji": "Eigakan ___ eiga o mimashita.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "に",
+      "へ",
+      "を",
+      "で"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "Tôi đã xem phim ở rạp chiếu phim.",
+    "answerExplanation": "Trợ từ 'で' chỉ nơi mà một hoạt động được thực hiện. Xem phim là hoạt động → 映画館で見ました = xem Ở rạp chiếu phim. 'に' = vị trí tồn tại tĩnh (あります/います) hoặc đích đến, 'へ' = chỉ hướng di chuyển, 'を' = đã dùng cho tân ngữ 映画を. Nhớ sự khác biệt: に = nơi TỒN TẠI, で = nơi THỰC HIỆN.",
+    "hint": "Xem phim = HOẠT ĐỘNG → trợ từ cho nơi thực hiện hoạt động",
+    "difficultyScore": 1
+  }
+]

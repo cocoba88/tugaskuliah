@@ -1,0 +1,572 @@
+[
+  {
+    "id": "question_n2_5_001",
+    "question": "「恩恵」の意味は？",
+    "furigana": "「恩恵[おんけい]」の意味[いみ]は？",
+    "romaji": "'Onkei' no imi wa?",
+    "level": "N2",
+    "category": "VOCABULARY",
+    "options": [
+      "Anugerah",
+      "Hukuman",
+      "Pengorbanan",
+      "Penderitaan"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Apa arti '恩恵'?",
+    "answerExplanation": "「恩恵」(onkei) berarti anugerah, berkah, atau manfaat yang diterima. Contoh: 自然の恩恵を受ける (menerima anugerah dari alam). Kata ini sering digunakan dalam konteks formal untuk menyatakan keuntungan atau manfaat yang diperoleh dari sesuatu.",
+    "hint": "Sesuatu yang baik yang diterima dari alam, teknologi, dsb.",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_5_002",
+    "question": "「契機」の意味は？",
+    "furigana": "「契機[けいき]」の意味[いみ]は？",
+    "romaji": "'Keiki' no imi wa?",
+    "level": "N2",
+    "category": "VOCABULARY",
+    "options": [
+      "Kontrak kerja",
+      "Momentum",
+      "Cuaca",
+      "Perjanjian"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Apa arti '契機'?",
+    "answerExplanation": "「契機」(keiki) berarti momentum, kesempatan, atau titik balik yang memicu suatu perubahan. Contoh: 事故を契機に安全対策が見直された (Kecelakaan itu menjadi momentum untuk meninjau ulang langkah-langkah keselamatan). Jangan tertukar dengan 景気 (keiki) yang berarti kondisi ekonomi.",
+    "hint": "Titik awal yang memicu perubahan",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_5_003",
+    "question": "「遵守」の意味は？",
+    "furigana": "「遵守[じゅんしゅ]」の意味[いみ]は？",
+    "romaji": "'Junshu' no imi wa?",
+    "level": "N2",
+    "category": "VOCABULARY",
+    "options": [
+      "Pelanggaran",
+      "Penolakan",
+      "Kepatuhan",
+      "Pengawasan"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Apa arti '遵守'?",
+    "answerExplanation": "「遵守」(junshu) berarti kepatuhan atau mematuhi aturan/hukum. Contoh: 法律を遵守する (mematuhi hukum). Kata ini sering muncul dalam konteks hukum, peraturan perusahaan, dan dokumen resmi. Lawan katanya adalah 違反 (ihan) yang berarti pelanggaran.",
+    "hint": "Mengikuti aturan dengan baik",
+    "difficultyScore": 6
+  },
+  {
+    "id": "question_n2_5_004",
+    "question": "「膨大」の意味は？",
+    "furigana": "「膨大[ぼうだい]」の意味[いみ]は？",
+    "romaji": "'Boudai' no imi wa?",
+    "level": "N2",
+    "category": "VOCABULARY",
+    "options": [
+      "Sangat kecil",
+      "Biasa saja",
+      "Sangat besar",
+      "Sangat sempit"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Apa arti '膨大'?",
+    "answerExplanation": "「膨大」(boudai) berarti sangat besar atau luar biasa banyak (jumlah/volume). Contoh: 膨大なデータを処理する (memproses data yang sangat besar). Kanji 膨 berarti mengembang dan 大 berarti besar, sehingga menggambarkan sesuatu yang membengkak menjadi sangat besar.",
+    "hint": "Bayangkan jumlah data yang sangat-sangat banyak",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_5_005",
+    "question": "「抜本的」の意味は？",
+    "furigana": "「抜本的[ばっぽんてき]」の意味[いみ]は？",
+    "romaji": "'Bapponteki' no imi wa?",
+    "level": "N2",
+    "category": "VOCABULARY",
+    "options": [
+      "Sementara",
+      "Mendasar dan menyeluruh",
+      "Bertahap",
+      "Sebagian kecil"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Apa arti '抜本的'?",
+    "answerExplanation": "「抜本的」(ばっぽんてき/bapponteki) berarti fundamental, mendasar, atau drastis. Kata ini menggambarkan perubahan atau perbaikan yang dilakukan dari akar permasalahannya, bukan sekadar permukaan. Kanji '抜' berarti mencabut, '本' berarti akar/dasar, dan '的' berarti bersifat. Contoh: 抜本的な改革を行う (melakukan reformasi yang mendasar). Sering digunakan bersama kata seperti 改革 (reformasi), 見直し (peninjauan ulang), atau 解決 (penyelesaian).",
+    "hint": "Perubahan yang menyentuh akar masalah, bukan hanya permukaan",
+    "difficultyScore": 6
+  },
+  {
+    "id": "question_n2_5_006",
+    "question": "「把握」の読み方は？",
+    "furigana": "「把握[はあく]」の読[よ]み方[かた]は？",
+    "romaji": "'Haaku' no yomikata wa?",
+    "level": "N2",
+    "category": "KANJI",
+    "options": [
+      "はあく",
+      "ばあく",
+      "はかく",
+      "ひあく"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Bagaimana cara membaca '把握'?",
+    "answerExplanation": "「把握」dibaca 'はあく' (haaku) yang berarti memahami, menguasai, atau mengetahui secara menyeluruh. Contoh: 状況を把握する (memahami situasi). Kanji 把 (は) berarti menggenggam dan 握 (あく) juga berarti menggenggam, sehingga secara harfiah berarti 'menggenggam erat' yaitu memahami sepenuhnya.",
+    "hint": "Ha + aku",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_5_007",
+    "question": "「顕著」の読み方は？",
+    "furigana": "「顕著[けんちょ]」の読[よ]み方[かた]は？",
+    "romaji": "'Kencho' no yomikata wa?",
+    "level": "N2",
+    "category": "KANJI",
+    "options": [
+      "けんじゃく",
+      "げんちょ",
+      "けんちょ",
+      "げんじょ"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Bagaimana cara membaca '顕著'?",
+    "answerExplanation": "「顕著」dibaca 'けんちょ' (kencho) yang berarti mencolok, menonjol, atau sangat jelas terlihat. Contoh: 顕著な成果を上げた (mencapai hasil yang mencolok). Kanji 顕 (けん) berarti jelas/tampak dan 著 (ちょ) berarti menonjol.",
+    "hint": "Ken + cho",
+    "difficultyScore": 6
+  },
+  {
+    "id": "question_n2_5_008",
+    "question": "「促進」の読み方は？",
+    "furigana": "「促進[そくしん]」の読[よ]み方[かた]は？",
+    "romaji": "'Sokushin' no yomikata wa?",
+    "level": "N2",
+    "category": "KANJI",
+    "options": [
+      "そくしん",
+      "しょくしん",
+      "そくじん",
+      "ちょくしん"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Bagaimana cara membaca '促進'?",
+    "answerExplanation": "「促進」dibaca 'そくしん' (sokushin) yang berarti mendorong, mempercepat, atau mempromosikan. Contoh: 健康促進のためにスポーツをする (berolahraga untuk meningkatkan kesehatan). Kanji 促 (そく) berarti mendorong/mempercepat dan 進 (しん) berarti maju.",
+    "hint": "Soku + shin",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_5_009",
+    "question": "「矛盾」の読み方は？",
+    "furigana": "「矛盾[むじゅん]」の読[よ]み方[かた]は？",
+    "romaji": "'Mujun' no yomikata wa?",
+    "level": "N2",
+    "category": "KANJI",
+    "options": [
+      "ぼうじゅん",
+      "むじゅん",
+      "むとん",
+      "ほうじゅん"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Bagaimana cara membaca '矛盾'?",
+    "answerExplanation": "「矛盾」dibaca 'むじゅん' (mujun) yang berarti kontradiksi atau pertentangan. Kata ini berasal dari cerita Tiongkok kuno tentang pedagang yang menjual tombak (矛) yang bisa menembus apa saja dan perisai (盾) yang tidak bisa ditembus apa pun. Contoh: 彼の発言には矛盾がある (Ada kontradiksi dalam pernyataannya).",
+    "hint": "Mu + jun",
+    "difficultyScore": 6
+  },
+  {
+    "id": "question_n2_5_010",
+    "question": "「配慮」の読み方は？",
+    "furigana": "「配慮[はいりょ]」の読[よ]み方[かた]は？",
+    "romaji": "'Hairyo' no yomikata wa?",
+    "level": "N2",
+    "category": "KANJI",
+    "options": [
+      "はいりょく",
+      "ばいりょ",
+      "はいりょ",
+      "はいろ"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Bagaimana cara membaca '配慮'?",
+    "answerExplanation": "「配慮」dibaca 'はいりょ' (hairyo) yang berarti pertimbangan, perhatian, atau kepedulian terhadap orang lain. Contoh: 環境に配慮した製品 (produk yang mempertimbangkan lingkungan). Kanji 配 (はい) berarti membagi/mengatur dan 慮 (りょ) berarti memikirkan/mempertimbangkan.",
+    "hint": "Hai + ryo",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_5_011",
+    "question": "留学___、国際関係に興味を持った。",
+    "furigana": "留学[りゅうがく]___、国際[こくさい]関係[かんけい]に興味[きょうみ]を持[も]った。",
+    "romaji": "Ryuugaku ___, kokusai kankei ni kyoumi wo motta.",
+    "level": "N2",
+    "category": "GRAMMAR",
+    "options": [
+      "をきっかけに",
+      "をはじめ",
+      "をもとに",
+      "をこめて"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Dengan studi ke luar negeri sebagai pemicu, saya jadi tertarik pada hubungan internasional.",
+    "answerExplanation": "「〜をきっかけに」berarti 'dengan ... sebagai pemicu/momentum'. Pola ini digunakan untuk menyatakan bahwa suatu peristiwa menjadi titik awal atau pemicu terjadinya perubahan. 留学をきっかけに = dengan studi ke luar negeri sebagai pemicu. Berbeda dengan をはじめ (dimulai dari), をもとに (berdasarkan), dan をこめて (dengan penuh).",
+    "hint": "Suatu peristiwa yang menjadi pemicu perubahan",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_5_012",
+    "question": "開会式___、注意事項を説明します。",
+    "furigana": "開会式[かいかいしき]___、注意[ちゅうい]事項[じこう]を説明[せつめい]します。",
+    "romaji": "Kaikaishiki ___, chuui jikou wo setsumei shimasu.",
+    "level": "N2",
+    "category": "GRAMMAR",
+    "options": [
+      "に関して",
+      "に先立って",
+      "に反して",
+      "に沿って"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Sebelum upacara pembukaan, kami akan menjelaskan hal-hal yang perlu diperhatikan.",
+    "answerExplanation": "「〜に先立って」(ni sakidatte) berarti 'sebelum / mendahului / sebelum dimulainya'. Pola ini digunakan dalam situasi formal untuk menyatakan bahwa sesuatu dilakukan sebelum acara utama. に関して (mengenai), に反して (bertentangan dengan), dan に沿って (sesuai dengan) tidak cocok secara konteks.",
+    "hint": "Sesuatu yang dilakukan sebelum acara utama dimulai",
+    "difficultyScore": 6
+  },
+  {
+    "id": "question_n2_5_013",
+    "question": "3日間___、会議が行われた。",
+    "furigana": "3日間[みっかかん]___、会議[かいぎ]が行[おこな]われた。",
+    "romaji": "Mikkakan ___, kaigi ga okonawareta.",
+    "level": "N2",
+    "category": "GRAMMAR",
+    "options": [
+      "にかけて",
+      "にわたって",
+      "において",
+      "にかかわらず"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Rapat dilaksanakan selama 3 hari berturut-turut.",
+    "answerExplanation": "「〜にわたって」berarti 'selama / sepanjang / meliputi'. Pola ini menekankan bahwa sesuatu berlangsung secara terus-menerus selama periode waktu atau rentang tertentu. 3日間にわたって = selama 3 hari penuh. にかけて (dari...sampai), において (di/pada), にかかわらず (terlepas dari) tidak sesuai konteks.",
+    "hint": "Menekankan keberlangsungan dalam rentang waktu tertentu",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_5_014",
+    "question": "考えれば考える___、分からなくなる。",
+    "furigana": "考[かんが]えれば考[かんが]える___、分[わ]からなくなる。",
+    "romaji": "Kangaereba kangaeru ___, wakaranaku naru.",
+    "level": "N2",
+    "category": "GRAMMAR",
+    "options": [
+      "ばかり",
+      "ほど",
+      "だけ",
+      "くらい"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Semakin dipikirkan, semakin tidak mengerti.",
+    "answerExplanation": "「〜ば〜ほど」berarti 'semakin ... semakin ...'. Pola ini menggunakan bentuk kondisional (ば形) + bentuk kamus + ほど untuk menyatakan bahwa seiring meningkatnya satu hal, hal lain juga ikut meningkat. 考えれば考えるほど = semakin dipikirkan, semakin ... . Ini adalah pola yang sangat umum di JLPT N2.",
+    "hint": "Pola 'semakin A, semakin B'",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_5_015",
+    "question": "いくら忙しい___、食事は取るべきだ。",
+    "furigana": "いくら忙[いそが]しい___、食事[しょくじ]は取[と]るべきだ。",
+    "romaji": "Ikura isogashii ___, shokuji wa toru beki da.",
+    "level": "N2",
+    "category": "GRAMMAR",
+    "options": [
+      "としても",
+      "にしても",
+      "からには",
+      "ものなら"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Sekalipun sesibuk apa pun, seharusnya tetap makan.",
+    "answerExplanation": "「〜にしても」berarti 'sekalipun / meskipun / bahkan jika'. Pola ini digunakan untuk mengakui suatu kondisi, tetapi menyatakan bahwa hal lain tetap berlaku. いくら忙しいにしても = sekalipun sesibuk apa pun. としても juga mirip, tetapi にしても lebih menekankan konsesi dan sering dipakai dengan いくら. からには (karena sudah) dan ものなら (kalau sampai) berbeda maknanya.",
+    "hint": "Mengakui kondisi, tapi menyatakan hal lain tetap berlaku",
+    "difficultyScore": 6
+  },
+  {
+    "id": "question_n2_5_016",
+    "question": "問い合わせ___、まだ在庫があるとのことだった。",
+    "furigana": "問[と]い合[あ]わせ___、まだ在庫[ざいこ]があるとのことだった。",
+    "romaji": "Toiawase ___, mada zaiko ga aru to no koto datta.",
+    "level": "N2",
+    "category": "GRAMMAR",
+    "options": [
+      "たところ",
+      "たばかり",
+      "たとたん",
+      "たあげく"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Ketika saya menanyakan, ternyata masih ada stok.",
+    "answerExplanation": "「〜たところ」berarti 'ketika mencoba ... / setelah melakukan ... (ternyata)'. Pola ini digunakan untuk menyatakan bahwa setelah melakukan suatu tindakan, ditemukan hasil atau fakta tertentu. 問い合わせたところ = ketika ditanyakan (ternyata). たばかり (baru saja), たとたん (tepat saat), たあげく (setelah akhirnya) memiliki nuansa yang berbeda.",
+    "hint": "Setelah melakukan sesuatu, mendapat informasi tertentu",
+    "difficultyScore": 6
+  },
+  {
+    "id": "question_n2_5_017",
+    "question": "十分に検討した___、最終的な判断を下した。",
+    "furigana": "十分[じゅうぶん]に検討[けんとう]した___、最終的[さいしゅうてき]な判断[はんだん]を下[くだ]した。",
+    "romaji": "Juubun ni kentou shita ___, saishuuteki na handan wo kudashita.",
+    "level": "N2",
+    "category": "GRAMMAR",
+    "options": [
+      "上で",
+      "末に",
+      "以上",
+      "次第"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Setelah mempertimbangkan secara cukup, keputusan akhir diambil.",
+    "answerExplanation": "「〜た上で」berarti 'setelah melakukan ... (baru kemudian)'. Pola ini menekankan bahwa tindakan pertama dilakukan secara sengaja dan menyeluruh sebelum tindakan kedua. 検討した上で = setelah mempertimbangkan dengan matang. 末に (setelah akhirnya - menekankan proses panjang), 以上 (karena sudah / selama), 次第 (segera setelah / tergantung) memiliki nuansa berbeda.",
+    "hint": "Melakukan sesuatu dengan sengaja terlebih dahulu sebelum mengambil tindakan berikutnya",
+    "difficultyScore": 6
+  },
+  {
+    "id": "question_n2_5_018",
+    "question": "読解：次の文章を読んで、質問に答えなさい。\n\n「○○市防災課からのお知らせ\n\n市民の皆様へ\n\n来月15日（土）午前9時より、○○市総合体育館にて地域防災訓練を実施いたします。近年、大規模な自然災害が増加しており、日頃からの備えがますます重要となっております。\n\n当日は、避難経路の確認、消火器の使い方、応急手当の実習などを予定しております。参加される方は、動きやすい服装でお越しください。また、各自で飲料水と筆記用具をご持参くださいますようお願いいたします。なお、小さなお子様連れの方には、託児サービスも用意しておりますので、事前にお申し込みください。\n\n多くの皆様のご参加をお待ちしております。」\n\n質問：参加者が持参するよう求められているものは何か。",
+    "furigana": "読解[どっかい]：次[つぎ]の文章[ぶんしょう]を読[よ]んで、質問[しつもん]に答[こた]えなさい。",
+    "romaji": "Dokkai: Tsugi no bunshou wo yonde, shitsumon ni kotaenasai.",
+    "level": "N2",
+    "category": "READING",
+    "options": [
+      "消火器と応急手当キット",
+      "飲料水と筆記用具",
+      "防災グッズと非常食",
+      "身分証明書と参加費"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Apa yang diminta untuk dibawa oleh peserta?",
+    "answerExplanation": "Dalam surat dari Bagian Penanggulangan Bencana Kota tersebut, tertulis 「各自で飲料水と筆記用具をご持参くださいますようお願いいたします」yang berarti 'kami mohon agar masing-masing membawa air minum dan alat tulis'. Oleh karena itu, jawaban yang benar adalah 飲料水と筆記用具 (air minum dan alat tulis). Pilihan lain seperti alat pemadam kebakaran, makanan darurat, dan biaya pendaftaran tidak disebutkan sebagai barang yang harus dibawa peserta.",
+    "hint": "Perhatikan kalimat yang mengandung kata ご持参ください (mohon dibawa)",
+    "difficultyScore": 6
+  },
+  {
+    "id": "question_n2_5_019",
+    "question": "読解：次の文章を読んで、質問に答えなさい。\n\n「インタビュアー：日本で起業された経緯を教えてください。\n\nリカルドさん：母国ブラジルで日本食レストランを経営していたのですが、本場の味を学びたいと思い、10年前に来日しました。最初は言葉の壁よりも、日本独特のビジネス慣習に戸惑いました。例えば、取引先との信頼関係の構築に非常に時間がかかることや、書類手続きの複雑さには本当に苦労しました。しかし、一番大変だったのは、資金調達です。外国人が日本の銀行から融資を受けるのは容易ではありませんでした。最終的には、クラウドファンディングと個人投資家の支援で開業資金を集めることができました。」\n\n質問：リカルドさんが最も苦労したことは何か。",
+    "furigana": "読解[どっかい]：次[つぎ]の文章[ぶんしょう]を読[よ]んで、質問[しつもん]に答[こた]えなさい。",
+    "romaji": "Dokkai: Tsugi no bunshou wo yonde, shitsumon ni kotaenasai.",
+    "level": "N2",
+    "category": "READING",
+    "options": [
+      "日本語を覚えること",
+      "日本のビジネス慣習に慣れること",
+      "資金調達をすること",
+      "日本食の技術を学ぶこと"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Apa kesulitan terbesar yang dialami Ricardo?",
+    "answerExplanation": "Dalam wawancara tersebut, Ricardo menyebutkan bahwa meskipun ia kesulitan dengan kebiasaan bisnis Jepang, hal yang paling sulit adalah penggalangan dana (資金調達). Ia mengatakan 「一番大変だったのは、資金調達です」yang berarti 'yang paling sulit adalah penggalangan dana'. Ia juga menjelaskan bahwa sulit bagi orang asing untuk mendapat pinjaman dari bank Jepang. Akhirnya ia berhasil mengumpulkan modal melalui crowdfunding dan investor individu.",
+    "hint": "Cari ungkapan 一番大変だった (yang paling sulit)",
+    "difficultyScore": 7
+  },
+  {
+    "id": "question_n2_5_020",
+    "question": "読解：次の文章を読んで、質問に答えなさい。\n\n「経済成長と環境保護の両立は、現代社会における最大の課題の一つである。多くの国々が経済発展を優先するあまり、環境問題を後回しにしてきた結果、気候変動や生態系の破壊といった深刻な問題が顕在化している。\n\n一方で、環境規制を厳しくしすぎると、産業の競争力が低下し、雇用が失われるという懸念もある。つまり、経済か環境かという二者択一的な考え方では、根本的な解決には至らないのである。\n\n筆者は、この問題を乗り越えるためには、環境に配慮した技術革新への投資を大幅に増やすと同時に、持続可能なビジネスモデルを構築する企業に対して税制上の優遇措置を設けるべきだと考える。経済成長そのものを否定するのではなく、成長の質を変えることが、唯一の現実的な道筋ではないだろうか。」\n\n質問：筆者が提案する解決策として最も適切なものはどれか。",
+    "furigana": "読解[どっかい]：次[つぎ]の文章[ぶんしょう]を読[よ]んで、質問[しつもん]に答[こた]えなさい。",
+    "romaji": "Dokkai: Tsugi no bunshou wo yonde, shitsumon ni kotaenasai.",
+    "level": "N2",
+    "category": "READING",
+    "options": [
+      "経済成長を完全に止めて環境保護を最優先にする",
+      "環境規制を撤廃して経済発展を加速させる",
+      "環境技術への投資拡大と持続可能な企業への税制優遇で成長の質を転換する",
+      "経済と環境の問題は解決不可能なので現状維持する"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Apa solusi yang paling tepat yang diusulkan oleh penulis?",
+    "answerExplanation": "Penulis menyatakan bahwa pendekatan 'memilih salah satu antara ekonomi atau lingkungan' tidak akan menyelesaikan masalah secara fundamental. Solusi yang diusulkan penulis adalah: (1) meningkatkan investasi secara signifikan pada inovasi teknologi yang ramah lingkungan, dan (2) memberikan insentif pajak kepada perusahaan yang membangun model bisnis berkelanjutan. Penulis menekankan bahwa bukan pertumbuhan ekonomi yang harus ditolak, melainkan kualitas pertumbuhan yang harus diubah (成長の質を変える). Oleh karena itu, jawaban yang tepat adalah pilihan ketiga yang mencakup kedua elemen tersebut.",
+    "hint": "Perhatikan paragraf terakhir tentang solusi penulis, terutama kalimat yang dimulai dengan 筆者は",
+    "difficultyScore": 8
+  },
+  {
+    "id": "question_n2_5_021",
+    "question": "彼女に___、そんなミスをするはずがない。",
+    "furigana": "彼女[かのじょ]に___、そんなミスをするはずがない。",
+    "romaji": "Kanojo ni ___, sonna misu wo suru hazu ga nai.",
+    "level": "N2",
+    "category": "GRAMMAR",
+    "options": [
+      "限って",
+      "対して",
+      "関して",
+      "応じて"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Khusus untuk dia, tidak mungkin melakukan kesalahan seperti itu.",
+    "answerExplanation": "「〜に限って」(~ni kagitte) berarti 'khusus untuk~' atau 'hanya dalam kasus~'. Pola ini digunakan untuk menyatakan bahwa sesuatu berlaku secara khusus untuk orang atau hal tertentu, sering kali diikuti pernyataan negatif. Contoh: うちの子に限ってそんなことはない (Anak saya tidak mungkin melakukan hal seperti itu).",
+    "hint": "Pola yang menunjukkan bahwa sesuatu berlaku khusus untuk seseorang",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_5_022",
+    "question": "約束した___、必ず守らなければならない。",
+    "furigana": "約束[やくそく]した___、必[かなら]ず守[まも]らなければならない。",
+    "romaji": "Yakusoku shita ___, kanarazu mamoranakereba naranai.",
+    "level": "N2",
+    "category": "GRAMMAR",
+    "options": [
+      "ものの",
+      "からには",
+      "ところで",
+      "わりに"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Karena sudah berjanji, harus ditepati.",
+    "answerExplanation": "「〜からには」(~kara ni wa) berarti 'karena sudah~' atau 'begitu sudah~'. Pola ini menyatakan bahwa karena seseorang sudah membuat keputusan atau memulai sesuatu, maka ada kewajiban atau tanggung jawab yang harus diambil. Biasanya diikuti oleh kalimat yang menyatakan tekad atau kewajiban.",
+    "hint": "Pola yang menekankan tanggung jawab setelah membuat keputusan",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_5_023",
+    "question": "有名だからといって、料理がおいしい___。",
+    "furigana": "有名[ゆうめい]だからといって、料理[りょうり]がおいしい___。",
+    "romaji": "Yuumei da kara to itte, ryouri ga oishii ___.",
+    "level": "N2",
+    "category": "GRAMMAR",
+    "options": [
+      "にちがいない",
+      "とは限らない",
+      "に決まっている",
+      "はずだ"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Meskipun terkenal, belum tentu masakannya enak.",
+    "answerExplanation": "「〜とは限らない」(~to wa kagiranai) berarti 'belum tentu~' atau 'tidak selalu~'. Pola ini digunakan untuk menyangkal anggapan umum, menyatakan bahwa sesuatu tidak selalu benar. Sering digunakan bersama からといって (meskipun/hanya karena).",
+    "hint": "Pola yang menyatakan bahwa asumsi umum tidak selalu benar",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_5_024",
+    "question": "双方の意見が対立して、なかなか結論が出ない。「対立」の意味は？",
+    "furigana": "双方[そうほう]の意見[いけん]が対立[たいりつ]して、なかなか結論[けつろん]が出[で]ない。「対立[たいりつ]」の意味[いみ]は？",
+    "romaji": "Souhou no iken ga tairitsu shite, nakanaka ketsuron ga denai. 'Tairitsu' no imi wa?",
+    "level": "N2",
+    "category": "VOCABULARY",
+    "options": [
+      "Saling berhadapan dan bertentangan",
+      "Saling bekerja sama",
+      "Saling mengabaikan",
+      "Saling mendukung"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Pendapat kedua belah pihak bertentangan sehingga sulit mencapai kesimpulan. Apa arti '対立'?",
+    "answerExplanation": "「対立」(tairitsu) berarti pertentangan, konfrontasi, atau saling berhadapan dengan posisi yang berlawanan. Kanji 対 (tai) berarti berhadapan dan 立 (ritsu) berarti berdiri. Sering digunakan: 意見が対立する (pendapat bertentangan), 与野と対立する (berkonfrontasi dengan oposisi).",
+    "hint": "Dua pihak yang saling berhadapan dengan posisi berlawanan",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_5_025",
+    "question": "長い交渉の結果、ようやく合意に達した。「交渉」の意味は？",
+    "furigana": "長[なが]い交渉[こうしょう]の結果[けっか]、ようやく合意[ごうい]に達[たっ]した。「交渉[こうしょう]」の意味[いみ]は？",
+    "romaji": "Nagai koushou no kekka, youyaku goui ni tasshita. 'Koushou' no imi wa?",
+    "level": "N2",
+    "category": "VOCABULARY",
+    "options": [
+      "Perundingan untuk mencapai kesepakatan",
+      "Pertengkaran tanpa solusi",
+      "Pengumuman sepihak",
+      "Pengunduran diri"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Setelah negosiasi panjang, akhirnya tercapai kesepakatan. Apa arti '交渉'?",
+    "answerExplanation": "「交渉」(koushou) berarti negosiasi, perundingan, atau tawar-menawar untuk mencapai kesepakatan. Kanji 交 (kou) berarti saling/bertukar dan 渉 (shou) berarti menyeberangi/berhubungan. Contoh: 給料交渉 (negosiasi gaji), 平和交渉 (negosiasi perdamaian).",
+    "hint": "Proses pembicaraan antara dua pihak untuk mencapai kesepakatan",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_5_026",
+    "question": "国際問題では、協調して対応することが求められる。「協調」の意味は？",
+    "furigana": "国際[こくさい]問題[もんだい]では、協調[きょうちょう]して対応[たいおう]することが求[もと]められる。「協調[きょうちょう]」の意味[いみ]は？",
+    "romaji": "Kokusai mondai de wa, kyouchou shite taiou suru koto ga motomerareru. 'Kyouchou' no imi wa?",
+    "level": "N2",
+    "category": "VOCABULARY",
+    "options": [
+      "Bertindak sendiri-sendiri",
+      "Bekerja sama secara harmonis",
+      "Bersaing secara ketat",
+      "Saling mengkritik"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Dalam masalah internasional, diperlukan respons yang kooperatif. Apa arti '協調'?",
+    "answerExplanation": "「協調」(kyouchou) berarti kerjasama yang harmonis, koordinasi, atau keselarasan. Kanji 協 (kyou) berarti bersama/bekerja sama dan 調 (chou) berarti menyesuaikan/menyelaraskan. Contoh: 国際協調 (kerja sama internasional), 協調性 (sifat kooperatif).",
+    "hint": "Bekerja bersama dengan selaras untuk tujuan yang sama",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_5_027",
+    "question": "「労働条件」の読み方は？",
+    "furigana": "「労働[ろうどう]条件[じょうけん]」の読[よ]み方[かた]は？",
+    "romaji": "'Roudou jouken' no yomikata wa?",
+    "level": "N2",
+    "category": "KANJI",
+    "options": [
+      "ろうどうじょうけん",
+      "ろどうじょけん",
+      "ろうとうしょうけん",
+      "らどうじょうけん"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Bagaimana cara membaca '労働条件'?",
+    "answerExplanation": "「労働条件」 dibaca 'ろうどうじょうけん' (roudou jouken) yang berarti kondisi/syarat kerja. 労働 (roudou) berarti tenaga kerja/buruh dan 条件 (jouken) berarti syarat/kondisi. Contoh: 労働条件の改善 (perbaikan kondisi kerja).",
+    "hint": "Rou + dou + jou + ken",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_5_028",
+    "question": "「教育方針」の読み方は？",
+    "furigana": "「教育[きょういく]方針[ほうしん]」の読[よ]み方[かた]は？",
+    "romaji": "'Kyouiku houshin' no yomikata wa?",
+    "level": "N2",
+    "category": "KANJI",
+    "options": [
+      "きょういくほうしん",
+      "きょいくぼうしん",
+      "きょういくほうじん",
+      "きょいくほうしん"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Bagaimana cara membaca '教育方針'?",
+    "answerExplanation": "「教育方針」 dibaca 'きょういくほうしん' (kyouiku houshin) yang berarti kebijakan/arah pendidikan. 教育 (kyouiku) berarti pendidikan dan 方針 (houshin) berarti kebijakan/pedoman. Contoh: 学校の教育方針 (kebijakan pendidikan sekolah).",
+    "hint": "Kyou + iku + hou + shin",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_5_029",
+    "question": "読解：次の文章を読んで、質問に答えなさい。\n\nSNSの普及は、情報の伝達方法を根本的に変えた。かつては新聞やテレビといったマスメディアが情報の主な発信源であったが、現在では個人が自由に情報を発信できるようになった。これにより、市民の声が直接社会に届くようになった一方で、真偽の確認されていない情報が瞬時に拡散されるという深刻な問題も生じている。\n\n専門家は、情報リテラシーの教育が急務であると指摘する。情報を受け取る側も、発信する側も、その内容の正確性を確認する責任がある。SNSの利便性に限らず、そのリスクについても十分に理解した上で利用すべきである。\n\n質問：筆者が最も伝えたいことは何か。",
+    "furigana": "読解[どっかい]：次[つぎ]の文章[ぶんしょう]を読[よ]んで、質問[しつもん]に答[こた]えなさい。",
+    "romaji": "Dokkai: Tsugi no bunshou wo yonde, shitsumon ni kotaenasai.",
+    "level": "N2",
+    "category": "READING",
+    "options": [
+      "SNSを全面的に禁止すべきだ",
+      "マスメディアだけを信頼すべきだ",
+      "SNSの利便性とリスクの両方を理解して利用すべきだ",
+      "個人の情報発信は制限されるべきだ"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Bacalah teks berikut dan jawab pertanyaannya.\n\nPenyebaran SNS telah mengubah cara penyampaian informasi secara mendasar. Dulu media massa seperti koran dan TV adalah sumber informasi utama, tetapi sekarang individu dapat menyebarkan informasi secara bebas. Ini membuat suara warga langsung terdengar di masyarakat, namun juga menimbulkan masalah serius di mana informasi yang belum diverifikasi menyebar secara instan.\n\nPara ahli menunjukkan bahwa pendidikan literasi informasi sangat mendesak. Baik penerima maupun pengirim informasi memiliki tanggung jawab untuk memverifikasi keakuratannya. Tidak hanya manfaat SNS, tetapi risikonya juga harus dipahami dengan baik sebelum menggunakannya.\n\nApa yang paling ingin disampaikan oleh penulis?",
+    "answerExplanation": "Kalimat kunci ada di akhir paragraf kedua: 'SNSの利便性に限らず、そのリスクについても十分に理解した上で利用すべきである' (Tidak hanya manfaat SNS, tetapi risikonya juga harus dipahami sebelum menggunakannya). Penulis tidak menentang SNS sepenuhnya, tetapi menekankan perlunya memahami KEDUA sisi - manfaat dan risiko.",
+    "hint": "Perhatikan kalimat terakhir yang menggunakan pola ～に限らず (tidak hanya) dan ～べきである (seharusnya)",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_5_030",
+    "question": "読解：次の文章を読んで、質問に答えなさい。\n\n「働き方改革」が叫ばれて久しいが、日本企業の多くは依然として長時間労働の問題を抱えている。政府は法律で残業時間の上限を設けたが、実際にはサービス残業や持ち帰り残業が行われているケースも少なくないと言われている。\n\n一方で、残業を減らしたからといって生産性が向上するとは限らない。業務の効率化や優先順位の見直しが伴わなければ、単に仕事が終わらないまま退社することになり、かえって社員のストレスが増す可能性もある。真の働き方改革とは、労働時間の短縮だけでなく、仕事の進め方そのものを変革することに他ならない。\n\n質問：筆者が考える「真の働き方改革」とは何か。",
+    "furigana": "読解[どっかい]：次[つぎ]の文章[ぶんしょう]を読[よ]んで、質問[しつもん]に答[こた]えなさい。",
+    "romaji": "Dokkai: Tsugi no bunshou wo yonde, shitsumon ni kotaenasai.",
+    "level": "N2",
+    "category": "READING",
+    "options": [
+      "残業時間をゼロにすること",
+      "サービス残業を厳しく取り締まること",
+      "労働時間の短縮と仕事の進め方の変革を両方行うこと",
+      "社員のストレスを軽減するためにすべての規制を撤廃すること"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Bacalah teks berikut dan jawab pertanyaannya.\n\n'Reformasi cara kerja' sudah lama digaungkan, tetapi banyak perusahaan Jepang masih menghadapi masalah kerja lembur panjang. Pemerintah menetapkan batas lembur dalam undang-undang, tetapi dikatakan masih ada kasus lembur tanpa bayaran dan lembur yang dibawa pulang.\n\nDi sisi lain, mengurangi lembur belum tentu meningkatkan produktivitas. Tanpa efisiensi kerja dan peninjauan prioritas, karyawan justru pulang dengan pekerjaan yang belum selesai, yang malah bisa menambah stres. Reformasi cara kerja yang sesungguhnya bukan hanya mengurangi jam kerja, tetapi juga mengubah cara kerja itu sendiri.\n\nMenurut penulis, apa yang dimaksud dengan 'reformasi cara kerja yang sesungguhnya'?",
+    "answerExplanation": "Kalimat kunci terletak di akhir: '真の働き方改革とは、労働時間の短縮だけでなく、仕事の進め方そのものを変革することに他ならない' (Reformasi cara kerja yang sesungguhnya tidak lain adalah mengubah cara kerja itu sendiri, bukan hanya mengurangi jam kerja). Penulis menekankan bahwa KEDUA aspek diperlukan: pengurangan jam kerja DAN perubahan cara kerja.",
+    "hint": "Perhatikan kalimat terakhir yang menggunakan pola ～だけでなく...に他ならない (bukan hanya... tetapi juga tidak lain adalah...)",
+    "difficultyScore": 4
+  }
+]

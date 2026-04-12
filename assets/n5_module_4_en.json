@@ -1,0 +1,382 @@
+[
+  {
+    "id": "question_n5_4_001",
+    "question": "「水」が一つの単語として使われる時の読み方は？",
+    "furigana": "「水[みず]」が一[ひと]つの単語[たんご]として使[つか]われる時[とき]の読[よ]み方[かた]は？",
+    "romaji": "'Mizu' ga hitotsu no tango to shite tsukawareru toki no yomikata wa?",
+    "level": "N5",
+    "category": "KANJI",
+    "options": [
+      "すい",
+      "みず",
+      "みずうみ",
+      "みち"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "How do you read '水' when it stands alone as a single word?",
+    "answerExplanation": "'水' when standing alone is read 'みず (mizu)' using kun-yomi, meaning water. 'すい (sui)' is the on-yomi only used in compound words like 水曜日 (suiyoubi) or 水泳 (suiei). 'みずうみ (mizuumi)' = 湖 lake (different word), 'みち (michi)' = 道 road (different kanji).",
+    "hint": "When a kanji stands alone it usually uses kun-yomi — think of the native Japanese word for 'water'",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_4_002",
+    "question": "ひるごはんは　いつも　12時___　食べます。",
+    "furigana": "昼[ひる]ごはんは　いつも　12時[じ]___　食[た]べます。",
+    "romaji": "Hirugohan wa itsumo 12-ji ___ tabemasu.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "で",
+      "を",
+      "に",
+      "が"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "I always eat lunch at 12 o'clock.",
+    "answerExplanation": "The particle 'に' is used after specific times (hours, days, dates) to indicate when an action is performed. '12時に食べます' = eat at 12 o'clock. 'で' = place of activity or tool, 'を' = direct object, 'が' = subject marker. Note: に is NOT used after relative time words like きのう, あした, いま.",
+    "hint": "After SPECIFIC times (hours, dates), use the time-marking particle",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_4_003",
+    "question": "「学校」の「校」の読み方は？",
+    "furigana": "「学校[がっこう]」の「校」の読[よ]み方[かた]は？",
+    "romaji": "'Gakkou' no 'kou' no yomikata wa?",
+    "level": "N5",
+    "category": "KANJI",
+    "options": [
+      "がっ",
+      "がく",
+      "こう",
+      "かお"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "How do you read the kanji '校' in '学校'?",
+    "answerExplanation": "'校' in '学校 (がっこう)' is read 'こう'. The full word: 学 (がく → がっ due to sokuon) + 校 (こう) = がっこう. 'がっ' and 'がく' are readings of kanji 学 (not 校), 'かお' = 顔 face (a completely different kanji). Kanji 校 also appears in 高校 (こうこう = high school).",
+    "hint": "Think of the full word: がっ＿＿ — the sound after がっ is the reading of kanji 校",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n5_4_004",
+    "question": "あした、友だち___　映画を見ます。",
+    "furigana": "あした、友[とも]だち___　映画[えいが]を見[み]ます。",
+    "romaji": "Ashita, tomodachi ___ eiga o mimasu.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "と",
+      "に",
+      "で",
+      "が"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Tomorrow I will watch a movie with my friend.",
+    "answerExplanation": "The particle 'と' indicates 'together with' someone when doing an activity. Pattern: [person] + と + [activity]. 'に' = destination/receiver marker (友だちに会う = to meet a friend), 'で' = place of activity or tool, 'が' = subject marker. Here, the friend is the partner watching the movie together.",
+    "hint": "The particle that indicates a PARTNER — the person doing the activity TOGETHER WITH you",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_4_005",
+    "question": "「本屋」の正しい読み方はどれですか。",
+    "furigana": "「本屋[ほんや]」の正[ただ]しい読[よ]み方[かた]はどれですか。",
+    "romaji": "'Honya' no tadashii yomikata wa dore desu ka.",
+    "level": "N5",
+    "category": "KANJI",
+    "options": [
+      "ほんいえ",
+      "もとや",
+      "ほんや",
+      "ほんおく"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Which is the correct reading for '本屋'?",
+    "answerExplanation": "'本屋' is read 'ほんや (honya)' and means bookstore. '本' = ほん (book), '屋' = や (shop/store). The ～屋 pattern for shops: パン屋 (panya = bakery), 花屋 (hanaya = flower shop). 'ほんいえ' is wrong because いえ (家) = private house (different from 屋), 'もとや' uses the wrong reading for 本, 'ほんおく' doesn't exist.",
+    "hint": "The kanji 屋 is often read 'や' and means shop — the same pattern as パン屋, 花屋",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n5_4_006",
+    "question": "きのう、図書館___　勉強しました。",
+    "furigana": "きのう、図書館[としょかん]___　勉強[べんきょう]しました。",
+    "romaji": "Kinou, toshokan ___ benkyou shimashita.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "に",
+      "で",
+      "を",
+      "へ"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Yesterday I studied at the library.",
+    "answerExplanation": "The particle 'で' indicates the place where an activity is performed. Here, the library is where the studying activity takes place. 'に' = static location of existence (with います/あります) or destination, 'を' = direct object, 'へ' = direction of movement. Distinguish: 図書館に います (being at the library) vs 図書館で 勉強します (studying at the library).",
+    "hint": "The library is the PLACE of the studying ACTIVITY — not a place of static existence",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_4_007",
+    "question": "「日本」の「日」の読み方は？",
+    "furigana": "「日本[にほん]」の「日」の読[よ]み方[かた]は？",
+    "romaji": "'Nihon' no 'ni' no yomikata wa?",
+    "level": "N5",
+    "category": "KANJI",
+    "options": [
+      "ひ",
+      "にち",
+      "か",
+      "に"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "How do you read the kanji '日' in '日本'?",
+    "answerExplanation": "'日' in '日本 (にほん)' is read 'に'. The kanji 日 has many readings depending on context: 'に' in 日本, 'にち' in 日曜日 (にちようび), 'ひ' in 今日の日 (きょうのひ = today), 'か' in 二日 (ふつか = the 2nd). What is asked is only the reading in the word 日本.",
+    "hint": "Think of the full word: ＿ほん — the sound before ほん is the reading of this kanji",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n5_4_008",
+    "question": "「飼う」の意味は？",
+    "furigana": "「飼[か]う」の意味[いみ]は？",
+    "romaji": "'Kau' no imi wa?",
+    "level": "N5",
+    "category": "VOCABULARY",
+    "options": [
+      "To buy",
+      "To sell",
+      "To raise/keep",
+      "To hold"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "What is the meaning of '飼う (かう)'?",
+    "answerExplanation": "'飼う (kau)' means to keep/raise an animal. CAUTION: it sounds the same as '買う (kau)' = to buy, but the kanji is different! The kanji '飼' contains the element 食 (food) suggesting the action of feeding/caring for animals. '売る (uru)' = to sell, '持つ (motsu)' = to hold/carry. Example: 猫を飼う = to keep a cat.",
+    "hint": "This kanji contains the element 食 (food) — this action involves caring for and feeding living creatures",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n5_4_009",
+    "question": "（Reading）\nわたしは まいあさ 6じに おきます。かおを あらって、ごはんを たべます。7じに いえを でて、がっこうへ いきます。がっこうは 8じから 3じまでです。\n\nしつもん：がっこうは なんじまでですか。",
+    "furigana": "わたしは まいあさ 6じに おきます。かおを あらって、ごはんを たべます。7じに いえを でて、がっこうへ いきます。がっこうは 8じから 3じまでです。\n\nしつもん：がっこうは なんじまでですか。",
+    "romaji": "Watashi wa maiasa 6-ji ni okimasu. Kao o aratte, gohan o tabemasu. 7-ji ni ie o dete, gakkou e ikimasu. Gakkou wa 8-ji kara 3-ji made desu.\n\nShitsumon: Gakkou wa nan-ji made desu ka.",
+    "level": "N5",
+    "category": "READING",
+    "options": [
+      "6じ",
+      "7じ",
+      "8じ",
+      "3じ"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "I wake up at 6 every morning. I wash my face and eat. I leave the house at 7 and go to school. School is from 8 to 3.\n\nQuestion: Until what time is school?",
+    "answerExplanation": "The text says: 'がっこうは 8じから 3じまでです' = school is from 8 to 3. The word 'まで' = until. The question asks for the ending time (まで), which is 3じ. Don't confuse: 6じ = wake up, 7じ = leave home, 8じ = school starts (から).",
+    "hint": "Notice the word 'まで' (until) in the question — look for the number before 'まで' in the text",
+    "difficultyScore": 1
+  },
+  {
+    "id": "question_n5_4_010",
+    "question": "「大きい」の反対は？",
+    "furigana": "「大[おお]きい」の反対[はんたい]は？",
+    "romaji": "'Ookii' no hantai wa?",
+    "level": "N5",
+    "category": "VOCABULARY",
+    "options": [
+      "ながい",
+      "ちいさい",
+      "みじかい",
+      "ひくい"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "What is the opposite of '大きい (big)'?",
+    "answerExplanation": "'大きい (ookii)' = big. Its opposite is 'ちいさい (chiisai)' = small. Other words: 'ながい (nagai)' = long (opposite: みじかい), 'みじかい (mijikai)' = short (length), 'ひくい (hikui)' = low (opposite: たかい). All are size/dimension adjectives, but only ちいさい is the opposite of 大きい.",
+    "hint": "The opposite of 'big' — think of the adjective that describes the opposite size",
+    "difficultyScore": 1
+  },
+  {
+    "id": "question_n5_4_011",
+    "question": "このリンゴは___です。",
+    "furigana": "このリンゴは___です。",
+    "romaji": "Kono ringo wa ___ desu.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "あまくて",
+      "あまい",
+      "あまく",
+      "あまいの"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "This apple is sweet.",
+    "answerExplanation": "An i-adjective in its basic form can directly be followed by 'です' to make a polite descriptive sentence. あまい + です = sweet. 'あまくて' = te-form (for connecting: sweet AND ~), 'あまく' = adverbial form (modifying a verb), 'あまいの' = nominalization (the sweet one). Only the basic form あまい is correct before です for a simple sentence.",
+    "hint": "Before です, i-adjectives stay in their BASIC form (no need to change to another form)",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_4_012",
+    "question": "「長い」の反対語は？",
+    "furigana": "「長[なが]い」の反対語[はんたいご]は？",
+    "romaji": "'Nagai' no hantaigo wa?",
+    "level": "N5",
+    "category": "VOCABULARY",
+    "options": [
+      "高い",
+      "低い",
+      "小さい",
+      "短い"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "What is the opposite of '長い (long)'?",
+    "answerExplanation": "'長い (nagai)' = long. Its opposite is '短い (mijikai)' = short (for length/duration). Other antonym pairs: '高い (takai)' = tall/expensive ↔ '低い (hikui)' = low, '大きい (ookii)' = big ↔ '小さい (chiisai)' = small. All describe dimensions/size, but only 短い is the opposite of 長い.",
+    "hint": "Think of a rope that is not long — the adjective for the size opposite of 'long'",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_4_013",
+    "question": "「花見」の正しい読み方はどれですか。",
+    "furigana": "「花見[はなみ]」の正[ただ]しい読[よ]み方[かた]はどれですか。",
+    "romaji": "'Hanami' no tadashii yomikata wa dore desu ka.",
+    "level": "N5",
+    "category": "KANJI",
+    "options": [
+      "かけん",
+      "はなけん",
+      "かみ",
+      "はなみ"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "Which is the correct reading for '花見'?",
+    "answerExplanation": "'花見' is read 'はなみ (hanami)' and means the activity of viewing/enjoying flowers (especially cherry blossoms). '花' = はな (flower, kun-yomi), '見' = み (from 見る miru = to see, kun-yomi). Both kanji use kun-yomi because this is a native Japanese word. 'かけん' and 'はなけん' use incorrect on-yomi, 'かみ' = 紙 (paper) or 髪 (hair) — different words.",
+    "hint": "A Japanese tradition of enjoying cherry blossoms in spring — both kanji are read with kun-yomi",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n5_4_014",
+    "question": "テストが　ありますから、たくさん___たいです。",
+    "furigana": "テストが　ありますから、たくさん___たいです。",
+    "romaji": "Tesuto ga arimasu kara, takusan ___ tai desu.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "べんきょうする",
+      "べんきょうし",
+      "べんきょうして",
+      "べんきょうした"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Because there is an exam, I want to study a lot.",
+    "answerExplanation": "The desire pattern 'want to do ~' = Masu-stem + たいです. べんきょうします → masu-stem = べんきょうし → べんきょうしたいです = want to study. 'べんきょうする' = dictionary form (cannot directly + たい), 'べんきょうして' = te-form, 'べんきょうした' = past form. Only the masu-stem is used before たいです.",
+    "hint": "Before たいです, use the masu-stem — the ます form without the ます ending",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_4_015",
+    "question": "「月曜日」の「月」の読み方は？",
+    "furigana": "「月曜日[げつようび]」の「月」の読[よ]み方[かた]は？",
+    "romaji": "'Getsuyoubi' no 'getsu' no yomikata wa?",
+    "level": "N5",
+    "category": "KANJI",
+    "options": [
+      "がつ",
+      "つき",
+      "げつ",
+      "げつよう"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "How do you read the kanji '月' in '月曜日'?",
+    "answerExplanation": "'月' in '月曜日 (げつようび)' is read 'げつ'. The kanji 月 has several readings: 'げつ' in 月曜日 (Monday), 'がつ' in 一月 (いちがつ = January), 'つき' when standing alone (moon in the sky). 'げつよう' = 月曜 as a whole (not just the reading of kanji 月).",
+    "hint": "Think of the full word: ＿＿ようび — the sound before ようび is the reading of this kanji",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n5_4_016",
+    "question": "「高い」の意味は？",
+    "furigana": "「高[たか]い」の意味[いみ]は？",
+    "romaji": "'Takai' no imi wa?",
+    "level": "N5",
+    "category": "VOCABULARY",
+    "options": [
+      "Low",
+      "Cheap",
+      "Tall / Expensive",
+      "Short"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "What is the meaning of '高い (たかい)'?",
+    "answerExplanation": "'高い (takai)' has two meanings: 'tall/high' (for the height of objects/buildings) AND 'expensive' (for price). Examples: この山は高い = this mountain is tall, この服は高い = this clothing is expensive. Its opposites: '低い (hikui)' = low, '安い (yasui)' = cheap. '短い (mijikai)' = short (length, not height).",
+    "hint": "This adjective has TWO meanings related to vertical size AND price",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_4_017",
+    "question": "この　へやは　あかるい___、ひろいです。",
+    "furigana": "この　部屋[へや]は　明[あか]るい___、広[ひろ]いです。",
+    "romaji": "Kono heya wa akarui ___, hiroi desu.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "で",
+      "し",
+      "くて",
+      "から"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "This room is bright and spacious.",
+    "answerExplanation": "To connect two i-adjectives (bright AND spacious), use the te-form of i-adjectives: remove い then add くて. あかるい → あかるくて + ひろいです = bright AND spacious. 'で' = te-form for na-adjectives (not -i), 'し' = listing reasons (more N4 level), 'から' = because (cause-effect, not combining properties).",
+    "hint": "Connecting two i-adjectives: change the い ending to the appropriate connecting form",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_4_018",
+    "question": "（Reading）\nわたしの かぞくは 4にんです。ちちと ははと あねと わたしです。ちちは かいしゃいんで、ははは せんせいです。あねは だいがくせいです。わたしは こうこうせいです。\n\nしつもん：おかあさんの しごとは なんですか。",
+    "furigana": "わたしの 家族[かぞく]は 4人[にん]です。父[ちち]と 母[はは]と 姉[あね]と わたしです。父[ちち]は 会社員[かいしゃいん]で、母[はは]は 先生[せんせい]です。姉[あね]は 大学生[だいがくせい]です。わたしは 高校生[こうこうせい]です。\n\nしつもん：おかあさんの 仕事[しごと]は なんですか。",
+    "romaji": "Watashi no kazoku wa 4-nin desu. Chichi to haha to ane to watashi desu. Chichi wa kaishain de, haha wa sensei desu. Ane wa daigakusei desu. Watashi wa koukousei desu.\n\nShitsumon: Okaasan no shigoto wa nan desu ka.",
+    "level": "N5",
+    "category": "READING",
+    "options": [
+      "かいしゃいん",
+      "せんせい",
+      "だいがくせい",
+      "こうこうせい"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "My family has 4 people: father, mother, older sister, and me. Father is a company employee, mother is a teacher. My sister is a university student. I am a high school student.\n\nQuestion: What is the mother's job?",
+    "answerExplanation": "The text says: 'ははは せんせいです' = mother is a teacher. NOTE: the question uses 'おかあさん' (polite term for mother), which is the same as 'はは' (humble term for one's own mother) in the text. 'かいしゃいん' = father's job, 'だいがくせい' = sister's status, 'こうこうせい' = writer's status.",
+    "hint": "Find the sentence about はは (mother) in the text — remember おかあさん = はは (both mean mother)",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_4_019",
+    "question": "「水色」はどんな色ですか。",
+    "furigana": "「水色[みずいろ]」はどんな色[いろ]ですか。",
+    "romaji": "'Mizuiro' wa donna iro desu ka.",
+    "level": "N5",
+    "category": "VOCABULARY",
+    "options": [
+      "Light blue",
+      "Red",
+      "Green",
+      "Yellow"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "What color is '水色 (みずいろ)'?",
+    "answerExplanation": "'水色 (mizuiro)' literally means 'water color' — that is light blue/sky blue, like the color of clear water. '水 (mizu)' = water, '色 (iro)' = color. Other colors in Japanese: '赤 (aka)' = red, '緑 (midori)' = green, '黄色 (kiiro)' = yellow.",
+    "hint": "Think of the color of clear water in a pool or shallow sea — 水 = water, 色 = color",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n5_4_020",
+    "question": "「飲む」の意味は？",
+    "furigana": "「飲[の]む」の意味[いみ]は？",
+    "romaji": "'Nomu' no imi wa?",
+    "level": "N5",
+    "category": "VOCABULARY",
+    "options": [
+      "To eat",
+      "To cook",
+      "To wash",
+      "To drink"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "What is the meaning of '飲む (のむ)'?",
+    "answerExplanation": "'飲む (nomu)' means to drink — taking liquid into the body through the mouth. The kanji '飲' contains the elements 食 (food/consumption) and 欠 (opening the mouth). Other words: '食べる (taberu)' = to eat, '料理する (ryouri suru)' = to cook, '洗う (arau)' = to wash. All relate to daily activities but have different meanings.",
+    "hint": "The action done with water, tea, coffee, or juice — putting liquid into the mouth",
+    "difficultyScore": 1
+  }
+]

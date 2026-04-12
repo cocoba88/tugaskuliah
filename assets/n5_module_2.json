@@ -1,0 +1,382 @@
+[
+  {
+    "id": "question_n5_2_001",
+    "question": "毎朝、電車___会社へ行きます。",
+    "furigana": "毎朝[まいあさ]、電車[でんしゃ]___会社[かいしゃ]へ行[い]きます。",
+    "romaji": "Maiasa, densha ___ kaisha e ikimasu.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "を",
+      "が",
+      "に",
+      "で"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "Setiap pagi saya pergi ke kantor menggunakan kereta.",
+    "answerExplanation": "Partikel 'で' menunjukkan sarana atau alat yang digunakan untuk melakukan tindakan. Di sini 'でんしゃで' = dengan/naik kereta. 'を' = penanda objek langsung, 'が' = penanda subjek, 'に' = penanda tempat keberadaan atau tujuan. Untuk menyatakan sarana transportasi, selalu gunakan 'で'.",
+    "hint": "Partikel yang menunjukkan SARANA atau ALAT yang digunakan untuk melakukan sesuatu",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_2_002",
+    "question": "「図書館」の正しい読み方はどれですか。",
+    "furigana": "「図書館[としょかん]」の正[ただ]しい読[よ]み方[かた]はどれですか。",
+    "romaji": "'Toshokan' no tadashii yomikata wa dore desu ka.",
+    "level": "N5",
+    "category": "KANJI",
+    "options": [
+      "ずしょかん",
+      "としょかん",
+      "としょうかん",
+      "としょがん"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Manakah cara membaca yang benar untuk '図書館'?",
+    "answerExplanation": "'図書館' dibaca 'としょかん' (toshokan) dan berarti perpustakaan. '図' = と (to), '書' = しょ (sho), '館' = かん (kan). Kesalahan umum: 'ず' bukan bacaan untuk 図 di sini, tidak ada bunyi panjang 'う' setelah しょ, dan 館 dibaca 'かん' bukan 'がん'.",
+    "hint": "Tempat umum untuk meminjam dan membaca buku — terdiri dari 3 kanji yang masing-masing dibaca と・しょ・かん",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_2_003",
+    "question": "テストは　来週の　___曜日です。",
+    "furigana": "テストは　来週[らいしゅう]の　___曜日[ようび]です。",
+    "romaji": "Tesuto wa raishuu no ___ youbi desu.",
+    "level": "N5",
+    "category": "VOCABULARY",
+    "options": [
+      "水",
+      "氷",
+      "永",
+      "泉"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Tes-nya hari Rabu minggu depan.",
+    "answerExplanation": "'水曜日 (すいようび)' berarti hari Rabu. Kanji '水' bermakna air dan merupakan salah satu dari tujuh kanji hari. Pilihan lain: '氷 (こおり)' = es, '永 (えい)' = abadi, '泉 (いずみ)' = mata air — ketiganya berkaitan dengan air tetapi bukan kanji untuk nama hari.",
+    "hint": "Salah satu dari 7 kanji hari dalam seminggu — kanji ini berarti 'air'",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_2_004",
+    "question": "山田さんは　毎日　日記___　書きます。",
+    "furigana": "山田[やまだ]さんは　毎日[まいにち]　日記[にっき]___　書[か]きます。",
+    "romaji": "Yamada-san wa mainichi nikki ___ kakimasu.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "が",
+      "に",
+      "で",
+      "を"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "Yamada-san menulis buku harian setiap hari.",
+    "answerExplanation": "Partikel 'を' menandai objek langsung dari kata kerja transitif. '日記を書きます' = menulis buku harian. '書く (kaku)' adalah kata kerja transitif yang memerlukan objek → ditandai 'を'. 'が' = penanda subjek, 'に' = penanda tujuan/waktu, 'で' = penanda tempat/alat.",
+    "hint": "Buku harian adalah BENDA yang ditulis — partikel apa yang menandai objek langsung?",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_2_005",
+    "question": "「曜日」の「曜」の読み方は？",
+    "furigana": "「曜日[ようび]」の「曜」の読[よ]み方[かた]は？",
+    "romaji": "'Youbi' no 'you' no yomikata wa?",
+    "level": "N5",
+    "category": "KANJI",
+    "options": [
+      "ひ",
+      "にち",
+      "か",
+      "よう"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "Bagaimana cara membaca kanji '曜' dalam '曜日'?",
+    "answerExplanation": "'曜' dalam '曜日' dibaca 'よう (you)'. Kanji ini selalu muncul dalam nama-nama hari: 月曜日 (げつようび), 火曜日 (かようび), 水曜日 (すいようび), dll. Pilihan lain: 'ひ' = bacaan kun 日, 'にち' = bacaan on 日, 'か' = bacaan kun 日 untuk tanggal. Semuanya adalah bacaan kanji '日', bukan '曜'.",
+    "hint": "Ingat nama hari: げつ＿＿び、か＿＿び — bunyi yang selalu muncul di tengah adalah bacaan kanji ini",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_2_006",
+    "question": "今日は　天気が　___です。",
+    "furigana": "今日[きょう]は　天気[てんき]が　___です。",
+    "romaji": "Kyou wa tenki ga ___ desu.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "いい",
+      "いく",
+      "よく",
+      "いくて"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Hari ini cuacanya bagus.",
+    "answerExplanation": "Kata sifat-i dalam bentuk dasar langsung bisa diikuti 'です' untuk kalimat sopan. 'いい (ii)' = bagus/baik, adalah bentuk dasar yang tepat sebelum です. 'いく' bukan bentuk yang ada, 'よく' = bentuk adverbia dari いい (digunakan untuk memodifikasi kata kerja), 'いくて' bukan bentuk yang benar (te-form yang benar: よくて).",
+    "hint": "Sebelum です, kata sifat-i tetap dalam bentuk DASAR — kata sifat ini berarti 'bagus/baik'",
+    "difficultyScore": 1
+  },
+  {
+    "id": "question_n5_2_007",
+    "question": "「郵便局」の正しい読み方はどれですか。",
+    "furigana": "「郵便局[ゆうびんきょく]」の正[ただ]しい読[よ]み方[かた]はどれですか。",
+    "romaji": "'Yuubinkyoku' no tadashii yomikata wa dore desu ka.",
+    "level": "N5",
+    "category": "KANJI",
+    "options": [
+      "ゆうべんきょく",
+      "ゆびんきょく",
+      "ゆうびんきょく",
+      "ゆうびんきょう"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Manakah cara membaca yang benar untuk '郵便局'?",
+    "answerExplanation": "'郵便局' dibaca 'ゆうびんきょく' (yuubinkyoku) dan berarti kantor pos. '郵' = ゆう (yuu, bunyi panjang), '便' = びん (bin), '局' = きょく (kyoku). Kesalahan umum: 'べん' bukan bacaan 便 di sini (便 bisa dibaca べん dalam 便利), bunyi 'ゆう' harus panjang (bukan ゆ saja), dan '局' dibaca きょく bukan きょう.",
+    "hint": "Tempat untuk mengirim surat dan paket — perhatikan bunyi panjang ゆう dan akhiran きょく",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n5_2_008",
+    "question": "「つめたい」の意味は？",
+    "furigana": "「冷[つめ]たい」の意味[いみ]は？",
+    "romaji": "'Tsumetai' no imi wa?",
+    "level": "N5",
+    "category": "VOCABULARY",
+    "options": [
+      "Panas",
+      "Dingin (benda/minuman)",
+      "Hangat",
+      "Sejuk"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Apa arti 'つめたい'?",
+    "answerExplanation": "'つめたい (tsumetai)' berarti dingin, khusus untuk benda yang bisa disentuh seperti air, minuman, es, atau tangan. Berbeda dengan 'さむい (samui)' yang berarti dingin untuk suhu udara/cuaca. 'あつい (atsui)' = panas, 'あたたかい (atatakai)' = hangat, 'すずしい (suzushii)' = sejuk (untuk udara).",
+    "hint": "Kata sifat ini mendeskripsikan suhu BENDA yang bisa disentuh — seperti minuman es atau air dingin",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_2_009",
+    "question": "ここ___写真を撮ってもいいですか。",
+    "furigana": "ここ___写真[しゃしん]を撮[と]ってもいいですか。",
+    "romaji": "Koko ___ shashin o tottemo ii desu ka.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "を",
+      "が",
+      "で",
+      "に"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Bolehkah saya mengambil foto di sini?",
+    "answerExplanation": "Partikel 'で' menunjukkan tempat di mana suatu aktivitas dilakukan. 'ここで写真を撮る' = mengambil foto DI SINI. 'を' = sudah dipakai untuk objek '写真を', 'が' = penanda subjek, 'に' = penanda tempat keberadaan (dengan います/あります) atau tujuan. Untuk tempat aktivitas, gunakan 'で'.",
+    "hint": "Partikel yang menunjukkan LOKASI di mana suatu kegiatan berlangsung",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_2_010",
+    "question": "「病院」の「院」の読み方は？",
+    "furigana": "「病院[びょういん]」の「院」の読[よ]み方[かた]は？",
+    "romaji": "'Byouin' no 'in' no yomikata wa?",
+    "level": "N5",
+    "category": "KANJI",
+    "options": [
+      "えん",
+      "いえ",
+      "いん",
+      "いみ"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Bagaimana cara membaca kanji '院' dalam '病院'?",
+    "answerExplanation": "'院' dalam '病院 (びょういん)' dibaca 'いん (in)'. Kanji ini juga muncul dalam: 大学院 (だいがくいん = sekolah pascasarjana), 入院 (にゅういん = rawat inap), 美容院 (びよういん = salon kecantikan). Pilihan lain: 'えん' = bacaan untuk 園 atau 円, 'いえ' = bacaan untuk 家, 'いみ' = bacaan untuk 意味 (bukan satu kanji).",
+    "hint": "Perhatikan kata びょう＿＿ — bunyi terakhirnya adalah bacaan kanji ini",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_2_011",
+    "question": "私は　新しい　かばんが　___です。",
+    "furigana": "私[わたし]は　新[あたら]しい　かばんが　___です。",
+    "romaji": "Watashi wa atarashii kaban ga ___ desu.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "すき",
+      "じょうず",
+      "ほしい",
+      "たのしい"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Saya ingin tas baru.",
+    "answerExplanation": "Pola ～は ～が ほしいです digunakan untuk menyatakan keinginan memiliki benda. 'ほしい' = ingin (memiliki). 'すき' = suka (menyatakan perasaan suka, bukan keinginan memiliki), 'じょうず' = pandai (kemampuan, tidak cocok untuk benda), 'たのしい' = menyenangkan (mendeskripsikan pengalaman, bukan keinginan). Konteks kalimat ini jelas menyatakan KEINGINAN akan benda baru.",
+    "hint": "Kata ini menyatakan keinginan untuk MEMILIKI sesuatu — bukan suka, pandai, atau senang",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_2_012",
+    "question": "「鉛筆」の正しい読み方はどれですか。",
+    "furigana": "「鉛筆[えんぴつ]」の正[ただ]しい読[よ]み方[かた]はどれですか。",
+    "romaji": "'Enpitsu' no tadashii yomikata wa dore desu ka.",
+    "level": "N5",
+    "category": "KANJI",
+    "options": [
+      "えんびつ",
+      "えんぴつ",
+      "かねふで",
+      "えんふで"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Manakah cara membaca yang benar untuk '鉛筆'?",
+    "answerExplanation": "'鉛筆' dibaca 'えんぴつ' (enpitsu) dan berarti pensil. '鉛' = えん (en), '筆' berubah dari 'ひつ' menjadi 'ぴつ' (pitsu) karena fenomena rendaku. Kesalahan umum: 'えんびつ' (salah — bunyi 'b' bukan 'p'), 'かねふで' dan 'えんふで' menggunakan bacaan kun-yomi yang tidak dipakai dalam kata majemuk ini.",
+    "hint": "Alat tulis dari kayu berisi grafit — perhatikan bunyi 'p' (ぴ) di suku kata kedua, bukan 'b' (び)",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n5_2_013",
+    "question": "「危ない」はどんな意味ですか。",
+    "furigana": "「危[あぶ]ない」はどんな意味[いみ]ですか。",
+    "romaji": "'Abunai' wa donna imi desu ka.",
+    "level": "N5",
+    "category": "VOCABULARY",
+    "options": [
+      "Aman",
+      "Berbahaya",
+      "Menyeramkan",
+      "Menyakitkan"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Apa arti dari '危ない (あぶない)'?",
+    "answerExplanation": "'危ない (abunai)' berarti berbahaya — menggambarkan situasi yang berisiko atau bisa menyebabkan celaka. Sering diucapkan sebagai peringatan: 'Abunai!' = 'Awas!/Bahaya!'. Lawan katanya 'あんぜん (安全)' = aman. 'こわい' = menyeramkan (perasaan takut), 'いたい' = menyakitkan (rasa sakit fisik). Keduanya berbeda nuansa dari 'berbahaya'.",
+    "hint": "Kata ini sering diucapkan sebagai teriakan peringatan ketika ada risiko atau ancaman kecelakaan",
+    "difficultyScore": 1
+  },
+  {
+    "id": "question_n5_2_014",
+    "question": "「銀行」の「行」の読み方は？",
+    "furigana": "「銀行[ぎんこう]」の「行」の読[よ]み方[かた]は？",
+    "romaji": "'Ginkou' no 'kou' no yomikata wa?",
+    "level": "N5",
+    "category": "KANJI",
+    "options": [
+      "ぎょう",
+      "おこな",
+      "こう",
+      "い"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Bagaimana cara membaca kanji '行' dalam '銀行'?",
+    "answerExplanation": "'行' dalam '銀行 (ぎんこう)' dibaca 'こう' sebagai on-yomi. Kanji '行' memiliki banyak bacaan tergantung konteks: 'こう' dalam 銀行 (bank) dan 旅行 (perjalanan), 'ぎょう' dalam 行事 (acara) dan 一行 (satu baris), 'おこな' dalam 行う (melaksanakan), 'い' dalam 行く (pergi). Yang diminta di sini adalah bacaan dalam kata 銀行.",
+    "hint": "Pikirkan kata lengkapnya: ぎん＿＿ — bunyi setelah ぎん adalah bacaan kanji ini",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_2_015",
+    "question": "日本___住んでいます。",
+    "furigana": "日本[にほん]___住[す]んでいます。",
+    "romaji": "Nihon ___ sundeimasu.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "を",
+      "が",
+      "で",
+      "に"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "Saya tinggal di Jepang.",
+    "answerExplanation": "Kata kerja '住む (sumu)' = tinggal, menggunakan partikel 'に' untuk menandai tempat tinggal. Pola: [tempat] + に + 住んでいます. Perbedaan に vs で: 'に' menunjukkan titik lokasi keberadaan tetap (tinggal, ada), sedangkan 'で' menunjukkan tempat aktivitas sementara (bekerja, belajar). 'を' = penanda objek, 'が' = penanda subjek — keduanya tidak cocok di sini.",
+    "hint": "Kata kerja 住む (tinggal) selalu berpasangan dengan partikel lokasi yang menunjukkan TEMPAT KEBERADAAN tetap",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n5_2_016",
+    "question": "「切手」を買う場所はどこですか。",
+    "furigana": "「切手[きって]」を買[か]う場所[ばしょ]はどこですか。",
+    "romaji": "'Kitte' o kau basho wa doko desu ka.",
+    "level": "N5",
+    "category": "VOCABULARY",
+    "options": [
+      "図書館",
+      "郵便局",
+      "銀行",
+      "病院"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Di mana tempat membeli '切手' (perangko)?",
+    "answerExplanation": "'切手 (kitte)' adalah perangko — kertas kecil bertanda pos yang ditempel pada surat atau paket sebelum dikirim. Perangko dibeli di '郵便局 (ゆうびんきょく)' = kantor pos. '図書館 (としょかん)' = perpustakaan (tempat pinjam buku), '銀行 (ぎんこう)' = bank (tempat urusan uang), '病院 (びょういん)' = rumah sakit (tempat berobat).",
+    "hint": "Perangko digunakan untuk mengirim surat — pikirkan tempat yang berhubungan dengan pengiriman surat dan paket",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_2_017",
+    "question": "「雑誌」の正しい読み方はどれですか。",
+    "furigana": "「雑誌[ざっし]」の正[ただ]しい読[よ]み方[かた]はどれですか。",
+    "romaji": "'Zasshi' no tadashii yomikata wa dore desu ka.",
+    "level": "N5",
+    "category": "KANJI",
+    "options": [
+      "ざつし",
+      "ぞっし",
+      "ざし",
+      "ざっし"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "Manakah cara membaca yang benar untuk '雑誌'?",
+    "answerExplanation": "'雑誌' dibaca 'ざっし' (zasshi) dan berarti majalah. '雑' berubah dari 'ざつ' menjadi 'ざっ' karena sokuon (huruf kecil っ yang menyebabkan konsonan ganda). '誌' = し (shi). Kesalahan umum: 'ざつし' (tanpa sokuon), 'ぞっし' (vokal salah), 'ざし' (kurang sokuon).",
+    "hint": "Majalah — kanji pertama mengalami perubahan suara sokuon (っ) saat digabung dengan kanji kedua",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n5_2_018",
+    "question": "あの映画を　もう　___か。",
+    "furigana": "あの映画[えいが]を　もう　___か。",
+    "romaji": "Ano eiga o mou ___ ka.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "見ます",
+      "見ました",
+      "見ています",
+      "見たいです"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Apakah kamu sudah menonton film itu?",
+    "answerExplanation": "Kata 'もう' dalam kalimat tanya berarti 'sudah' dan memerlukan bentuk lampau ～ました. 'もう見ましたか' = 'Sudah menonton?' (menanyakan apakah sudah selesai dilakukan). '見ます' = menonton (kebiasaan/rencana), '見ています' = sedang menonton, '見たいです' = ingin menonton. Hanya bentuk lampau yang cocok dengan 'もう' dalam konteks pertanyaan.",
+    "hint": "Kata 'もう' dalam pertanyaan berarti 'sudah' — kata kerja harus dalam bentuk yang menyatakan aksi SUDAH selesai",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_2_019",
+    "question": "「暖かい」はどんな意味ですか。",
+    "furigana": "「暖[あたた]かい」はどんな意味[いみ]ですか。",
+    "romaji": "'Atatakai' wa donna imi desu ka.",
+    "level": "N5",
+    "category": "VOCABULARY",
+    "options": [
+      "Dingin",
+      "Panas",
+      "Sejuk",
+      "Hangat"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "Apa arti dari '暖かい (あたたかい)'?",
+    "answerExplanation": "'暖かい (atatakai)' berarti hangat — suhu yang nyaman, tidak terlalu panas dan tidak dingin. Biasanya untuk menggambarkan cuaca atau udara yang menyenangkan. Bandingkan: '寒い (samui)' = dingin (udara), '暑い (atsui)' = panas (udara), '涼しい (suzushii)' = sejuk. Kanji '暖' mengandung elemen 日 (matahari) yang mengisyaratkan kehangatan.",
+    "hint": "Suhu yang nyaman dan menyenangkan — di antara panas dan dingin, cenderung ke arah yang positif",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_2_020",
+    "question": "「学生」の「生」の読み方は？",
+    "furigana": "「学生[がくせい]」の「生」の読[よ]み方[かた]は？",
+    "romaji": "'Gakusei' no 'sei' no yomikata wa?",
+    "level": "N5",
+    "category": "KANJI",
+    "options": [
+      "しょう",
+      "せい",
+      "なま",
+      "い"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Bagaimana cara membaca kanji '生' dalam '学生'?",
+    "answerExplanation": "'生' dalam '学生 (がくせい)' dibaca 'せい' sebagai on-yomi. Kanji '生' memiliki banyak cara baca dalam bahasa Jepang: 'せい' dalam 学生 (pelajar) dan 生活 (kehidupan), 'しょう' dalam 一生 (seumur hidup), 'なま' dalam 生野菜 (sayuran mentah), dan 'い' dalam 生きる (hidup). Yang diminta di sini adalah bacaan dalam kata 学生.",
+    "hint": "Pikirkan kata lengkapnya: がく＿＿ — bunyi setelah がく adalah bacaan kanji ini",
+    "difficultyScore": 2
+  }
+]

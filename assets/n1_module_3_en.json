@@ -1,0 +1,382 @@
+[
+  {
+    "id": "question_n1_3_001",
+    "question": "「蓋然性」の意味として最も適切なものはどれか。",
+    "furigana": "「蓋然性[がいぜんせい]」の意味[いみ]として最[もっと]も適切[てきせつ]なものはどれか。",
+    "romaji": "'Gaizensei' no imi to shite mottomo tekisetsu na mono wa dore ka.",
+    "level": "N1",
+    "category": "VOCABULARY",
+    "options": [
+      "ある事柄が起こる確率や見込み",
+      "物事の本質的な性質",
+      "人間の持つ潜在的な能力",
+      "社会における一般的な傾向"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Which is the most accurate meaning of '蓋然性'?",
+    "answerExplanation": "'蓋然性' (gaizensei) is an academic and legal term meaning probability or the likelihood of something occurring. This word is often used in scientific, legal, and philosophical contexts to indicate the degree of probability of an event occurring.",
+    "hint": "This term relates to how likely something is to occur.",
+    "difficultyScore": 8
+  },
+  {
+    "id": "question_n1_3_002",
+    "question": "彼女は仕事に対して___で、常に最高の成果を追い求めている。",
+    "furigana": "彼女[かのじょ]は仕事[しごと]に対[たい]して___で、常[つね]に最高[さいこう]の成果[せいか]を追[お]い求[もと]めている。",
+    "romaji": "Kanojo wa shigoto ni taishite ___ de, tsune ni saikou no seika wo oimotomete iru.",
+    "level": "N1",
+    "category": "VOCABULARY",
+    "options": [
+      "貪欲",
+      "貧弱",
+      "従順",
+      "寛大"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "She is ___ toward her work, and always pursues the best results.",
+    "answerExplanation": "'貪欲' (don'yoku) means greedy or voracious, but in this context it is used positively to describe someone who is very ambitious and enthusiastic in pursuing their goals. This word can have a positive nuance (strong ambition) or negative nuance (greed) depending on context.",
+    "hint": "This word can mean positive (ambitious) or negative (greedy).",
+    "difficultyScore": 7
+  },
+  {
+    "id": "question_n1_3_003",
+    "question": "人権団体は少数民族の権利を___する声明を発表した。",
+    "furigana": "人権[じんけん]団体[だんたい]は少数[しょうすう]民族[みんぞく]の権利[けんり]を___する声明[せいめい]を発表[はっぴょう]した。",
+    "romaji": "Jinken dantai wa shousu minzoku no kenri wo ___ suru seimei wo happyou shita.",
+    "level": "N1",
+    "category": "VOCABULARY",
+    "options": [
+      "擁護",
+      "抑圧",
+      "排除",
+      "黙殺"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "The human rights organization issued a statement to ___ the rights of minorities.",
+    "answerExplanation": "'擁護' (yougo) means defense or advocacy. This is a term often used in legal and political contexts to express support for or protection of someone's or a group's rights. It differs from the other options which have negative meanings.",
+    "hint": "Human rights organizations aim to protect and support the rights of people.",
+    "difficultyScore": 7
+  },
+  {
+    "id": "question_n1_3_004",
+    "question": "この規則は長年の間に___してしまった。",
+    "furigana": "この規則[きそく]は長年[ながねん]の間[あいだ]に___してしまった。",
+    "romaji": "Kono kisoku wa naganen no aida ni ___ shite shimatta.",
+    "level": "N1",
+    "category": "VOCABULARY",
+    "options": [
+      "形骸化",
+      "簡略化",
+      "一般化",
+      "抽象化"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "This rule has ___ over the years.",
+    "answerExplanation": "'形骸化' (けいがいか) means to become a mere formality, losing substance and retaining only its outer form. In this context, a rule that was once meaningful has become just a formality after many years. '簡略化' means simplification, '一般化' means generalization, '抽象化' means abstraction.",
+    "hint": "This word describes something that has lost its substance and only its outer shell remains.",
+    "difficultyScore": 8
+  },
+  {
+    "id": "question_n1_3_005",
+    "question": "彼はいつも小さなことを大げさに話す。まさに___だ。",
+    "furigana": "彼[かれ]はいつも小[ちい]さなことを大[おお]げさに話[はな]す。まさに___だ。",
+    "romaji": "Kare wa itsumo chiisana koto wo oogesa ni hanasu. Masa ni ___ da.",
+    "level": "N1",
+    "category": "VOCABULARY",
+    "options": [
+      "針小棒大",
+      "誇大妄想",
+      "大言壮語",
+      "我田引水"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "He always exaggerates small matters. He is truly ___.",
+    "answerExplanation": "'針小棒大' (しんしょうぼうだい) is a yojijukugo meaning to make a mountain out of a molehill, to exaggerate small things. Literally: 'a small needle becomes a large stick'. '誇大妄想' means delusions of grandeur, '大言壮語' means big talk, '我田引水' means to act in one's own self-interest.",
+    "hint": "This yojijukugo literally describes something as small as a needle being made as big as a stick.",
+    "difficultyScore": 8
+  },
+  {
+    "id": "question_n1_3_006",
+    "question": "「憂慮」の読み方はどれか。",
+    "furigana": "「憂慮[ゆうりょ]」の読[よ]み方[かた]はどれか。",
+    "romaji": "'Yuuryo' no yomikata wa dore ka.",
+    "level": "N1",
+    "category": "KANJI",
+    "options": [
+      "ゆうりょ",
+      "うりょう",
+      "ゆうろ",
+      "うりょ"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "How do you read '憂慮'?",
+    "answerExplanation": "'憂慮' is read 'ゆうりょ' (yuuryo) and means deep worry or grave concern. '憂' (ゆう) means grief or worry, and '慮' (りょ) means consideration or thought. This word is often used in formal contexts to express serious concern.",
+    "hint": "The first kanji is read with the sound 'yuu' and the second with the sound 'ryo'.",
+    "difficultyScore": 7
+  },
+  {
+    "id": "question_n1_3_007",
+    "question": "「忖度」の読み方はどれか。",
+    "furigana": "「忖度[そんたく]」の読[よ]み方[かた]はどれか。",
+    "romaji": "'Sontaku' no yomikata wa dore ka.",
+    "level": "N1",
+    "category": "KANJI",
+    "options": [
+      "そんたく",
+      "すんど",
+      "そんど",
+      "しんたく"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "How do you read '忖度'?",
+    "answerExplanation": "'忖度' is read 'そんたく' (sontaku) and means to surmise or guess another person's feelings or thoughts, then act accordingly. This word became very popular in Japanese political discourse, particularly referring to subordinates anticipating their superiors' wishes without being directly ordered.",
+    "hint": "This word became famous during a Japanese political scandal in 2017.",
+    "difficultyScore": 8
+  },
+  {
+    "id": "question_n1_3_008",
+    "question": "「毀損」の読み方はどれか。",
+    "furigana": "「毀損[きそん]」の読[よ]み方[かた]はどれか。",
+    "romaji": "'Kison' no yomikata wa dore ka.",
+    "level": "N1",
+    "category": "KANJI",
+    "options": [
+      "きそん",
+      "かいそん",
+      "こそん",
+      "けそん"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "How do you read '毀損'?",
+    "answerExplanation": "'毀損' is read 'きそん' (kison) and means damage or defamation. In legal contexts, this word is often used in the phrase '名誉毀損' (meiyo kison) meaning defamation of character. '毀' means to destroy and '損' means loss or damage.",
+    "hint": "The first kanji has the same sound as the kanji 気.",
+    "difficultyScore": 8
+  },
+  {
+    "id": "question_n1_3_009",
+    "question": "「乖離」の読み方はどれか。",
+    "furigana": "「乖離[かいり]」の読[よ]み方[かた]はどれか。",
+    "romaji": "'Kairi' no yomikata wa dore ka.",
+    "level": "N1",
+    "category": "KANJI",
+    "options": [
+      "かいり",
+      "がいり",
+      "けいり",
+      "こうり"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "How do you read '乖離'?",
+    "answerExplanation": "'乖離' is read 'かいり' (kairi) and means deviation, gap, or divergence. This word is often used to describe the gap between theory and reality, or between expectations and actuality. Example: '理想と現実の乖離' (the gap between ideals and reality).",
+    "hint": "The first kanji has the same reading as the kanji in the word '会議' (kaigi).",
+    "difficultyScore": 9
+  },
+  {
+    "id": "question_n1_3_010",
+    "question": "「逼迫」の読み方はどれか。",
+    "furigana": "「逼迫[ひっぱく]」の読[よ]み方[かた]はどれか。",
+    "romaji": "'Hippaku' no yomikata wa dore ka.",
+    "level": "N1",
+    "category": "KANJI",
+    "options": [
+      "ひっぱく",
+      "へきはく",
+      "ひつばく",
+      "へいはく"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "How do you read '逼迫'?",
+    "answerExplanation": "'逼迫' is read 'ひっぱく' (hippaku) and means a pressing/urgent situation, being under pressure, or critical conditions. This word is often used to describe difficult financial situations or emergencies. Example: '財政が逼迫している' (finances are under pressure).",
+    "hint": "The first kanji undergoes a sound change (促音) resulting in a 'っ' sound in the middle.",
+    "difficultyScore": 8
+  },
+  {
+    "id": "question_n1_3_011",
+    "question": "東京公演___、全国20都市でのツアーが開幕した。",
+    "furigana": "東京[とうきょう]公演[こうえん]___、全国[ぜんこく]20都市[とし]でのツアーが開幕[かいまく]した。",
+    "romaji": "Toukyou kouen ___, zenkoku 20 toshi de no tsuaa ga kaimaku shita.",
+    "level": "N1",
+    "category": "GRAMMAR",
+    "options": [
+      "を皮切りに",
+      "をもとに",
+      "をめぐって",
+      "を問わず"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "___ the Tokyo performance, a tour across 20 cities nationwide begins.",
+    "answerExplanation": "'~を皮切りに' (wo kawakiri ni) means 'starting from' or 'beginning with'. This pattern is used to show that an event becomes the starting point of a series of similar events that follow. In this sentence, the Tokyo performance is the starting point of a national tour.",
+    "hint": "A grammar pattern that indicates something as the starting point of a series of events.",
+    "difficultyScore": 7
+  },
+  {
+    "id": "question_n1_3_012",
+    "question": "現場の状況___対策を講じなければ、問題は解決しない。",
+    "furigana": "現場[げんば]の状況[じょうきょう]___対策[たいさく]を講[こう]じなければ、問題[もんだい]は解決[かいけつ]しない。",
+    "romaji": "Genba no joukyou ___ taisaku wo koujinakereba, mondai wa kaiketsu shinai.",
+    "level": "N1",
+    "category": "GRAMMAR",
+    "options": [
+      "に即した",
+      "に応じた",
+      "に反した",
+      "に先立つ"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "If measures ___ the situation on the ground are not taken, the problem will not be resolved.",
+    "answerExplanation": "'~に即して' (ni sokushite) or its modifying form '~に即した' means 'in accordance with' or 'based on'. This pattern emphasizes that actions or decisions must align with the actual facts or conditions. '即' carries the meaning of 'directly in accordance with'.",
+    "hint": "Actions must be aligned with and based on the actual situation on the ground.",
+    "difficultyScore": 7
+  },
+  {
+    "id": "question_n1_3_013",
+    "question": "あの映画の感動的なラストシーンは、観る者を涙させ___。",
+    "furigana": "あの映画[えいが]の感動的[かんどうてき]なラストシーンは、観[み]る者[もの]を涙[なみだ]させ___。",
+    "romaji": "Ano eiga no kandouteki na rasuto shiin wa, miru mono wo namida sase ___.",
+    "level": "N1",
+    "category": "GRAMMAR",
+    "options": [
+      "ずにはおかない",
+      "ないではいられない",
+      "ざるをえない",
+      "ないわけにはいかない"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "The moving final scene of that film will surely ___ make the audience shed tears.",
+    "answerExplanation": "'~ずにはおかない' (zu ni wa okanai) means 'will certainly' or 'cannot help but'. This pattern shows that something will inevitably produce a certain effect, and the subject is usually not the first person (unlike '~ないではいられない' where the subject is usually first person). In this sentence, the film will certainly make the audience cry.",
+    "hint": "This pattern shows that something will inevitably provoke a certain reaction in others.",
+    "difficultyScore": 8
+  },
+  {
+    "id": "question_n1_3_014",
+    "question": "姉の堅実な生き方___、妹は衝動的に行動することが多い。",
+    "furigana": "姉[あね]の堅実[けんじつ]な生[い]き方[かた]___、妹[いもうと]は衝動的[しょうどうてき]に行動[こうどう]することが多[おお]い。",
+    "romaji": "Ane no kenjitsu na ikikata ___, imouto wa shoudouteki ni koudou suru koto ga ooi.",
+    "level": "N1",
+    "category": "GRAMMAR",
+    "options": [
+      "にひきかえ",
+      "にもかかわらず",
+      "にしたがって",
+      "につれて"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "___ the older sister's solid way of living, the younger sister often acts impulsively.",
+    "answerExplanation": "'~にひきかえ' (ni hikikae) means 'in contrast to' or 'as opposed to'. This pattern is used to compare two things that are very different. Usually the first thing mentioned is positive while the second is negative (or vice versa). Here, the solid older sister is contrasted with the impulsive younger sister.",
+    "hint": "A comparison pattern that shows a sharp contrast between two things.",
+    "difficultyScore": 7
+  },
+  {
+    "id": "question_n1_3_015",
+    "question": "会議中にスマートフォンで私用のメールを打つとは、非常識___。",
+    "furigana": "会議中[かいぎちゅう]にスマートフォンで私用[しよう]のメールを打[う]つとは、非常識[ひじょうしき]___。",
+    "romaji": "Kaigichuu ni sumaatofon de shiyou no meeru wo utsu to wa, hijoushiki ___.",
+    "level": "N1",
+    "category": "GRAMMAR",
+    "options": [
+      "極まりない",
+      "に至らない",
+      "にほかならない",
+      "きわめている"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Typing personal emails on a smartphone during a meeting is truly rude ___.",
+    "answerExplanation": "'~極まりない' (kiwamarinai) means 'extremely' or 'to the utmost degree' and is used to emphasize an extreme degree of a characteristic, usually negative. This pattern attaches to na-adjectives (without な). '非常識極まりない' means 'extremely rude/inconsiderate'. Note that the form can also be '極まる'.",
+    "hint": "A pattern that shows the most extreme degree of a characteristic.",
+    "difficultyScore": 8
+  },
+  {
+    "id": "question_n1_3_016",
+    "question": "専門家で___、少なくとも基本的な知識は身につけておくべきだ。",
+    "furigana": "専門家[せんもんか]で___、少[すく]なくとも基本的[きほんてき]な知識[ちしき]は身[み]につけておくべきだ。",
+    "romaji": "Senmonka de ___, sukunaku tomo kihonteki na chishiki wa mi ni tsukete oku beki da.",
+    "level": "N1",
+    "category": "GRAMMAR",
+    "options": [
+      "ないまでも",
+      "なくてはならない",
+      "あるまいし",
+      "ないことには"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "___ an expert, at least we should have basic knowledge.",
+    "answerExplanation": "'~ないまでも' (nai made mo) means 'even if not to the extent of... at least...' or 'if not... at the very least...'. This pattern is used to express that even if the highest standard is not achieved, at least a minimum standard should be met. Here, even if one cannot become an expert, at least basic knowledge is needed.",
+    "hint": "A pattern that expresses the minimum standard that must be met even if the ideal standard is not achieved.",
+    "difficultyScore": 7
+  },
+  {
+    "id": "question_n1_3_017",
+    "question": "彼は大手企業で働く___、週末には地域のボランティア活動にも積極的に参加している。",
+    "furigana": "彼[かれ]は大手[おおて]企業[きぎょう]で働[はたら]く___、週末[しゅうまつ]には地域[ちいき]のボランティア活動[かつどう]にも積極的[せっきょくてき]に参加[さんか]している。",
+    "romaji": "Kare wa oote kigyou de hataraku ___, shuumatsu ni wa chiiki no borantia katsudou ni mo sekkyokuteki ni sanka shite iru.",
+    "level": "N1",
+    "category": "GRAMMAR",
+    "options": [
+      "かたわら",
+      "ものの",
+      "ところを",
+      "あげく"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "___ working at a large company, she also actively participates in volunteer activities in her community on weekends.",
+    "answerExplanation": "'~かたわら' (wordwara) means 'alongside' or 'while also'. This pattern is used to show that someone engages in two activities simultaneously, where the first activity is the main activity and the second is supplementary. Unlike '~ながら' which is more casual, '~かたわら' is more formal and indicates long-term activities.",
+    "hint": "A formal pattern showing two long-term activities carried out simultaneously.",
+    "difficultyScore": 7
+  },
+  {
+    "id": "question_n1_3_018",
+    "question": "次の文章を読んで、問いに答えなさい。\n\n日本は世界でも類を見ない速度で高齢化が進行しており、2025年には国民の約三割が65歳以上となった。こうした状況の中、終末期医療のあり方をめぐる議論が再燃している。一方では、患者の自己決定権を尊重し、延命治療の中止を認めるべきだという声がある。他方では、生命の神聖さを重視する立場から、いかなる場合も積極的に生命を終わらせる行為は容認されるべきではないとの主張も根強い。さらに、認知症を患う高齢者の場合、本人の意思確認が困難であるという実務上の問題も存在する。事前指示書の法的整備が進められているものの、その有効性や運用面での課題は山積している。医療現場では、家族の意向と患者の推定意思が対立するケースも少なくなく、医療従事者は極めて困難な倫理的判断を迫られている。この問題に対する画一的な解答は存在せず、個々の事例に即した慎重な議論が求められている。\n\nこの文章で提示されている倫理的ジレンマの核心は何か。",
+    "furigana": "次[つぎ]の文章[ぶんしょう]を読[よ]んで、問[と]いに答[こた]えなさい。\n\n日本[にほん]は世界[せかい]でも類[るい]を見[み]ない速度[そくど]で高齢化[こうれいか]が進行[しんこう]しており、2025年[ねん]には国民[こくみん]の約[やく]三割[さんわり]が65歳[さい]以上[いじょう]となった。こうした状況[じょうきょう]の中[なか]、終末期[しゅうまつき]医療[いりょう]のあり方[かた]をめぐる議論[ぎろん]が再燃[さいねん]している。一方[いっぽう]では、患者[かんじゃ]の自己[じこ]決定権[けっていけん]を尊重[そんちょう]し、延命[えんめい]治療[ちりょう]の中止[ちゅうし]を認[みと]めるべきだという声[こえ]がある。他方[たほう]では、生命[せいめい]の神聖[しんせい]さを重視[じゅうし]する立場[たちば]から、いかなる場合[ばあい]も積極的[せっきょくてき]に生命[せいめい]を終[お]わらせる行為[こうい]は容認[ようにん]されるべきではないとの主張[しゅちょう]も根強[ねづよ]い。さらに、認知症[にんちしょう]を患[わずら]う高齢者[こうれいしゃ]の場合[ばあい]、本人[ほんにん]の意思[いし]確認[かくにん]が困難[こんなん]であるという実務上[じつむじょう]の問題[もんだい]も存在[そんざい]する。事前[じぜん]指示書[しじしょ]の法的[ほうてき]整備[せいび]が進[すす]められているものの、その有効性[ゆうこうせい]や運用面[うんようめん]での課題[かだい]は山積[さんせき]している。医療[いりょう]現場[げんば]では、家族[かぞく]の意向[いこう]と患者[かんじゃ]の推定[すいてい]意思[いし]が対立[たいりつ]するケースも少[すく]なくなく、医療[いりょう]従事者[じゅうじしゃ]は極[きわ]めて困難[こんなん]な倫理的[りんりてき]判断[はんだん]を迫[せま]られている。この問題[もんだい]に対[たい]する画一的[かくいつてき]な解答[かいとう]は存在[そんざい]せず、個々[ここ]の事例[じれい]に即[そく]した慎重[しんちょう]な議論[ぎろん]が求[もと]められている。\n\nこの文章[ぶんしょう]で提示[ていじ]されている倫理的[りんりてき]ジレンマの核心[かくしん]は何[なに]か。",
+    "romaji": "Tsugi no bunshou wo yonde, toi ni kotaenasai. Nihon wa sekai demo rui wo minai sokudo de koureika ga shinkou shite ori... Kono bunshou de teiji sarete iru rinriteki jirenma no kakushin wa nani ka.",
+    "level": "N1",
+    "category": "READING",
+    "options": [
+      "患者の自己決定権と生命の神聖さの間の対立",
+      "高齢化社会における医療費の増大",
+      "事前指示書の法的有効性の問題",
+      "医療従事者の人手不足"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "What is the core ethical dilemma presented in this passage?",
+    "answerExplanation": "This passage presents the central ethical dilemma of the conflict between the patient's right to self-determination (自己決定権), wanting to stop life-prolonging treatment, and the view that upholds the sanctity of life (生命の神聖さ), which rejects actively ending life. Although the text also mentions practical issues such as advance directives and family conflicts, the core ethical dilemma lies in these two mutually contradicting principles.",
+    "hint": "Note the two main opposing viewpoints in the text.",
+    "difficultyScore": 8
+  },
+  {
+    "id": "question_n1_3_019",
+    "question": "次の文章を読んで、問いに答えなさい。\n\n近年、行動経済学の分野で注目を集めているのが「決定疲労」という概念である。人間の意思決定能力は有限な認知資源に依存しており、一日の中で多くの判断を下すほど、その質は低下していく。ある研究では、スーパーマーケットにおいて24種類のジャムを陳列した場合と6種類のみを陳列した場合を比較したところ、選択肢が少ない方が実際の購買率は六倍も高かったという結果が得られた。また、裁判官の仮釈放決定に関する調査では、午前中の審理では仮釈放が認められる割合が約65％であったのに対し、昼食前にはその割合がほぼ零に近づくことが明らかになった。これらの知見は、選択肢の過剰が消費者の購買意欲を減退させるだけでなく、専門家の判断にも深刻な影響を及ぼすことを示唆している。企業はこの知見を踏まえ、商品ラインナップの最適化や、購買プロセスにおける意思決定の負荷軽減に取り組み始めている。\n\nこの文章の研究結果から導かれる結論として最も適切なものはどれか。",
+    "furigana": "次[つぎ]の文章[ぶんしょう]を読[よ]んで、問[と]いに答[こた]えなさい。\n\n近年[きんねん]、行動[こうどう]経済学[けいざいがく]の分野[ぶんや]で注目[ちゅうもく]を集[あつ]めているのが「決定[けってい]疲労[ひろう]」という概念[がいねん]である。人間[にんげん]の意思[いし]決定[けってい]能力[のうりょく]は有限[ゆうげん]な認知[にんち]資源[しげん]に依存[いぞん]しており、一日[いちにち]の中[なか]で多[おお]くの判断[はんだん]を下[くだ]すほど、その質[しつ]は低下[ていか]していく。ある研究[けんきゅう]では、スーパーマーケットにおいて24種類[しゅるい]のジャムを陳列[ちんれつ]した場合[ばあい]と6種類[しゅるい]のみを陳列[ちんれつ]した場合[ばあい]を比較[ひかく]したところ、選択肢[せんたくし]が少[すく]ない方[ほう]が実際[じっさい]の購買率[こうばいりつ]は六倍[ろくばい]も高[たか]かったという結果[けっか]が得[え]られた。また、裁判官[さいばんかん]の仮釈放[かりしゃくほう]決定[けってい]に関[かん]する調査[ちょうさ]では、午前中[ごぜんちゅう]の審理[しんり]では仮釈放[かりしゃくほう]が認[みと]められる割合[わりあい]が約[やく]65％であったのに対[たい]し、昼食前[ちゅうしょくまえ]にはその割合[わりあい]がほぼ零[ゼロ]に近[ちか]づくことが明[あき]らかになった。これらの知見[ちけん]は、選択肢[せんたくし]の過剰[かじょう]が消費者[しょうひしゃ]の購買[こうばい]意欲[いよく]を減退[げんたい]させるだけでなく、専門家[せんもんか]の判断[はんだん]にも深刻[しんこく]な影響[えいきょう]を及[およ]ぼすことを示唆[しさ]している。企業[きぎょう]はこの知見[ちけん]を踏[ふ]まえ、商品[しょうひん]ラインナップの最適化[さいてきか]や、購買[こうばい]プロセスにおける意思[いし]決定[けってい]の負荷[ふか]軽減[けいげん]に取[と]り組[く]み始[はじ]めている。\n\nこの文章[ぶんしょう]の研究[けんきゅう]結果[けっか]から導[みちび]かれる結論[けつろん]として最[もっと]も適切[てきせつ]なものはどれか。",
+    "romaji": "Tsugi no bunshou wo yonde, toi ni kotaenasai. Kinnen, koudou keizaigaku no bun'ya de chuumoku wo atsumete iru no ga 'kettei hirou' to iu gainen de aru... Kono bunshou no kenkyuu kekka kara michibikareru ketsuron to shite mottomo tekisetsu na mono wa dore ka.",
+    "level": "N1",
+    "category": "READING",
+    "options": [
+      "意思決定の回数が増えるほど判断力が低下し、選択肢の過多は消費者にも専門家にも悪影響を及ぼす",
+      "スーパーマーケットでは商品の種類を減らすべきである",
+      "裁判官は午前中にのみ審理を行うべきである",
+      "行動経済学は従来の経済学より優れている"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Which is the most appropriate conclusion that can be drawn from the research findings in this passage?",
+    "answerExplanation": "This passage presents two research findings: the jam experiment (fewer choices resulted in more purchases) and the judge study (decision quality declined over time). The main conclusion drawn by the author is that excessive choice not only reduces consumer purchase intent but also seriously impacts the judgment of professionals. The other options are either too specific or are overgeneralizations not supported by the text.",
+    "hint": "Look for the sentence starting with 'これらの知見は' to find the author's conclusion.",
+    "difficultyScore": 8
+  },
+  {
+    "id": "question_n1_3_020",
+    "question": "次の文章を読んで、問いに答えなさい。\n\n山田詠美の短編「風味絶佳」における食の描写は、単なる日常の記録にとどまらず、登場人物の内面世界を映し出す鏡としての機能を果たしている。主人公が丹精込めて作る料理の一つ一つは、言葉にできない感情の代弁者である。特に注目すべきは、物語の転換点で繰り返し登場する「味噌汁」の象徴性である。この極めて日常的な食物が、実は家族の絆の脆さと再生の可能性を同時に体現している。評論家の中村光夫が指摘するように、日本文学における食の表象は、西洋文学のそれとは本質的に異なり、「存在の確認」としての意味合いを持つ。山田の作品では、この伝統が現代的な文脈の中で巧みに再解釈されており、食べるという行為そのものが、断絶した人間関係を修復する唯一の回路として描かれている。\n\nこの評論の論旨として最も適切なものはどれか。",
+    "furigana": "次[つぎ]の文章[ぶんしょう]を読[よ]んで、問[と]いに答[こた]えなさい。\n\n山田[やまだ]詠美[えいみ]の短編[たんぺん]「風味[ふうみ]絶佳[ぜっか]」における食[しょく]の描写[びょうしゃ]は、単[たん]なる日常[にちじょう]の記録[きろく]にとどまらず、登場[とうじょう]人物[じんぶつ]の内面[ないめん]世界[せかい]を映[うつ]し出[だ]す鏡[かがみ]としての機能[きのう]を果[は]たしている。主人公[しゅじんこう]が丹精[たんせい]込[こ]めて作[つく]る料理[りょうり]の一[ひと]つ一[ひと]つは、言葉[ことば]にできない感情[かんじょう]の代弁者[だいべんしゃ]である。特[とく]に注目[ちゅうもく]すべきは、物語[ものがたり]の転換点[てんかんてん]で繰[く]り返[かえ]し登場[とうじょう]する「味噌汁[みそしる]」の象徴性[しょうちょうせい]である。この極[きわ]めて日常的[にちじょうてき]な食物[しょくもつ]が、実[じつ]は家族[かぞく]の絆[きずな]の脆[もろ]さと再生[さいせい]の可能性[かのうせい]を同時[どうじ]に体現[たいげん]している。評論家[ひょうろんか]の中村[なかむら]光夫[みつお]が指摘[してき]するように、日本[にほん]文学[ぶんがく]における食[しょく]の表象[ひょうしょう]は、西洋[せいよう]文学[ぶんがく]のそれとは本質的[ほんしつてき]に異[こと]なり、「存在[そんざい]の確認[かくにん]」としての意味合[いみあ]いを持[も]つ。山田[やまだ]の作品[さくひん]では、この伝統[でんとう]が現代的[げんだいてき]な文脈[ぶんみゃく]の中[なか]で巧[たく]みに再[さい]解釈[かいしゃく]されており、食[た]べるという行為[こうい]そのものが、断絶[だんぜつ]した人間[にんげん]関係[かんけい]を修復[しゅうふく]する唯一[ゆいいつ]の回路[かいろ]として描[えが]かれている。\n\nこの評論[ひょうろん]の論旨[ろんし]として最[もっと]も適切[てきせつ]なものはどれか。",
+    "romaji": "Tsugi no bunshou wo yonde, toi ni kotaenasai. Yamada Eimi no tanpen 'Fuumi Zekka' ni okeru shoku no byousha wa... Kono hyouron no ronshi to shite mottomo tekisetsu na mono wa dore ka.",
+    "level": "N1",
+    "category": "READING",
+    "options": [
+      "山田の作品において食の描写は登場人物の内面や人間関係の修復を象徴する文学的装置として機能している",
+      "日本文学における食の描写は西洋文学よりも優れている",
+      "味噌汁は日本文化において最も重要な食物である",
+      "山田詠美は日本で最も優れた短編作家である"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Which is the most appropriate summary of the main argument of this literary criticism?",
+    "answerExplanation": "This literary criticism argues that the depiction of food in Yamada's works functions as a literary device that reflects the characters' inner world and serves as the only path to repairing broken human relationships. The author analyzes the symbolism of miso soup as a representation of fragility and the potential for restoring family bonds. Options B, C, and D are overgeneralizations not supported by the text.",
+    "hint": "Note how the author connects the depiction of food with its literary function.",
+    "difficultyScore": 9
+  }
+]

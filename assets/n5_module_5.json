@@ -1,0 +1,382 @@
+[
+  {
+    "id": "question_n5_5_001",
+    "question": "「先週」の意味は？",
+    "furigana": "「先週[せんしゅう]」の意味[いみ]は？",
+    "romaji": "'Senshuu' no imi wa?",
+    "level": "N5",
+    "category": "VOCABULARY",
+    "options": [
+      "Minggu depan",
+      "Minggu lalu",
+      "Setiap minggu",
+      "Dua minggu lalu"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Apa arti '先週 (せんしゅう)'?",
+    "answerExplanation": "'先週 (senshuu)' berarti minggu lalu. Kanji '先' bermakna 'sebelum/dahulu' dan '週' bermakna 'minggu'. Bandingkan: '来週 (raishuu)' = minggu depan (来 = datang/akan), '毎週 (maishuu)' = setiap minggu (毎 = setiap), '先々週 (sensenshuu)' = dua minggu lalu. Pola waktu dengan 先: 先月 (sengetsu) = bulan lalu, 先年 tidak umum (gunakan 去年 = tahun lalu).",
+    "hint": "Kanji 先 bermakna 'sebelum' atau 'dahulu' — gabungkan dengan 週 (minggu)",
+    "difficultyScore": 1
+  },
+  {
+    "id": "question_n5_5_002",
+    "question": "「日本語」の読み方は？",
+    "furigana": "「日本語」の読み方は？",
+    "romaji": "'Nihongo' no yomikata wa?",
+    "level": "N5",
+    "category": "KANJI",
+    "options": [
+      "にっぽんご",
+      "にほんこ",
+      "にほんご",
+      "にんほんご"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Bagaimana cara membaca '日本語'?",
+    "answerExplanation": "'日本語' dibaca 'にほんご (nihongo)' dan artinya bahasa Jepang. '日本' = にほん (Jepang), '語' = ご (bahasa). Meskipun '日本' bisa dibaca 'にっぽん' dalam konteks lain, untuk '日本語' bacaan standarnya adalah 'にほんご'. 'にほんこ' salah karena 語 dibaca 'ご' (bunyi bersuara), bukan 'こ'. 'にんほんご' kelebihan ん.",
+    "hint": "Kanji terakhir 語 berarti 'bahasa' dan selalu dibaca dengan bunyi bersuara — bukan こ",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_5_003",
+    "question": "日本語を　少し　___。",
+    "furigana": "日本語[にほんご]を　少[すこ]し　___。",
+    "romaji": "Nihongo wo sukoshi ___.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "話す",
+      "話し",
+      "話して",
+      "話します"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "Saya berbicara sedikit bahasa Jepang.",
+    "answerExplanation": "Kalimat ini adalah pernyataan mandiri yang membutuhkan bentuk sopan di akhir → '話します (hanashimasu)'. Dalam percakapan sopan/formal, kalimat selalu diakhiri bentuk ～ます/～ました. '話す' = bentuk kamus (casual, tidak sopan), '話し' = masu-stem tanpa akhiran (tidak lengkap sebagai akhir kalimat), '話して' = te-form (untuk menghubungkan kalimat atau permintaan, bukan untuk mengakhiri).",
+    "hint": "Kalimat sopan yang berdiri sendiri WAJIB diakhiri bentuk ～ます",
+    "difficultyScore": 1
+  },
+  {
+    "id": "question_n5_5_004",
+    "question": "（Reading）\nわたしは まいにち 7じに おきます。あさごはんは パンと たまごを たべます。ときどき コーヒーも のみます。でも きょうは じかんが ありませんでしたから、あさごはんを たべませんでした。\n\nしつもん：きょう、あさごはんを たべましたか。",
+    "furigana": "わたしは まいにち 7じに おきます。あさごはんは パンと たまごを たべます。ときどき コーヒーも のみます。でも きょうは じかんが ありませんでしたから、あさごはんを たべませんでした。\n\nしつもん：きょう、あさごはんを たべましたか。",
+    "romaji": "Watashi wa mainichi 7-ji ni okimasu. Asagohan wa pan to tamago o tabemasu. Tokidoki koohii mo nomimasu. Demo kyou wa jikan ga arimasen deshita kara, asagohan o tabemasen deshita.\n\nShitsumon: Kyou, asagohan o tabemashita ka.",
+    "level": "N5",
+    "category": "READING",
+    "options": [
+      "はい、パンを たべました",
+      "はい、たまごを たべました",
+      "いいえ、たべませんでした",
+      "はい、コーヒーを のみました"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Saya bangun jam 7 setiap hari. Sarapan makan roti dan telur. Kadang minum kopi juga. Tapi hari ini tidak ada waktu, jadi tidak sarapan.\n\nPertanyaan: Apakah hari ini sarapan?",
+    "answerExplanation": "Kunci: 'でも きょうは じかんが ありませんでしたから、あさごはんを たべませんでした' = tapi hari ini karena tidak ada waktu, tidak makan sarapan. Kata 'でも (demo = tapi)' menandakan kontras dengan kebiasaan sehari-hari. Meskipun biasanya makan roti dan telur, HARI INI tidak makan. Jawaban: いいえ、たべませんでした.",
+    "hint": "Perhatikan kata 'でも' (tapi) yang menandakan perubahan dari kebiasaan — apa yang terjadi HARI INI?",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_5_005",
+    "question": "「消す」の意味は？",
+    "furigana": "「消[け]す」の意味[いみ]は？",
+    "romaji": "'Kesu' no imi wa?",
+    "level": "N5",
+    "category": "VOCABULARY",
+    "options": [
+      "Menyalakan",
+      "Memadamkan",
+      "Membuka",
+      "Menutup"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Apa arti '消す (けす)'?",
+    "answerExplanation": "'消す (kesu)' berarti memadamkan, mematikan, atau menghapus — aksi membuat sesuatu berhenti menyala/ada. Contoh: 電気を消す = mematikan lampu, テレビを消す = mematikan TV. Lawan katanya: 'つける' = menyalakan. '開ける (akeru)' = membuka, '閉める (shimeru)' = menutup — pasangan antonim yang berbeda.",
+    "hint": "Apa yang Anda lakukan pada lampu atau TV ketika hendak tidur?",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_5_006",
+    "question": "「外国」の読み方は？",
+    "furigana": "「外国」の読み方は？",
+    "romaji": "'Gaikoku' no yomikata wa?",
+    "level": "N5",
+    "category": "KANJI",
+    "options": [
+      "がいくに",
+      "そとくに",
+      "がいごく",
+      "がいこく"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "Bagaimana cara membaca '外国'?",
+    "answerExplanation": "'外国' dibaca 'がいこく (gaikoku)' dan artinya negara asing/luar negeri. '外' = がい (luar, on-yomi), '国' = こく (negara, on-yomi). Kedua kanji menggunakan on-yomi. 'がいごく' salah — 国 tidak mengalami rendaku di sini. 'そとくに' dan 'がいくに' mencampur on-yomi dan kun-yomi secara tidak tepat.",
+    "hint": "Kedua kanji ini dibaca on-yomi — 外 = がい, 国 = こく (tanpa rendaku)",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_5_007",
+    "question": "コーヒー___　飲みません。",
+    "furigana": "コーヒー___　飲[の]みません。",
+    "romaji": "Koohii ___ nomimasen.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "に",
+      "で",
+      "が",
+      "は"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "Kopi, saya tidak minum.",
+    "answerExplanation": "Dalam kalimat negatif yang menyatakan kontras atau penekanan, partikel 'は' sering menggantikan 'を' untuk memberikan nuansa 'kalau kopi, saya TIDAK minum (tapi mungkin minuman lain iya)'. Pola: ～は ～ません = mengenai ~, tidak melakukan. 'に' = tujuan/waktu, 'で' = tempat/alat, 'が' = penanda subjek atau kemampuan. Dalam konteks negatif kontras ini, 'は' paling tepat.",
+    "hint": "Dalam kalimat NEGATIF, partikel ini sering menggantikan を untuk memberi nuansa kontras atau penekanan",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n5_5_008",
+    "question": "「開ける」の意味は？",
+    "furigana": "「開[あ]ける」の意味[いみ]は？",
+    "romaji": "'Akeru' no imi wa?",
+    "level": "N5",
+    "category": "VOCABULARY",
+    "options": [
+      "Menutup",
+      "Memadamkan",
+      "Membuka",
+      "Menyalakan"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Apa arti '開ける (あける)'?",
+    "answerExplanation": "'開ける (akeru)' berarti membuka — aksi membuat sesuatu yang tertutup menjadi terbuka. Contoh: ドアを開ける = membuka pintu, 窓を開ける = membuka jendela. Lawan katanya: '閉める (shimeru)' = menutup. '消す (kesu)' = memadamkan, 'つける' = menyalakan — pasangan antonim yang berbeda (untuk lampu/TV).",
+    "hint": "Aksi yang dilakukan pada pintu, jendela, atau kotak agar bisa melihat isinya",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_5_009",
+    "question": "「日曜日」の読み方は？",
+    "furigana": "「日曜日」の読み方は？",
+    "romaji": "'Nichiyoubi' no yomikata wa?",
+    "level": "N5",
+    "category": "KANJI",
+    "options": [
+      "にちようび",
+      "ひようび",
+      "じつようび",
+      "にちよび"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Bagaimana cara membaca '日曜日'?",
+    "answerExplanation": "'日曜日' dibaca 'にちようび (nichiyoubi)' dan artinya hari Minggu. '日' = にち (on-yomi), '曜' = よう, '日' = び. Kanji pertama 日 dibaca 'にち' bukan 'ひ' (kun-yomi) atau 'じつ' (on-yomi alternatif yang salah di sini). Juga bukan 'にちよび' — harus ada bunyi panjang よう bukan よ.",
+    "hint": "Kanji pertama 日 dibaca dengan on-yomi yang paling umum — perhatikan juga bunyi panjang よう di tengah",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_5_010",
+    "question": "たくさん　本を　___ください。",
+    "furigana": "たくさん　本[ほん]を　___ください。",
+    "romaji": "Takusan hon o ___ kudasai.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "読み",
+      "読んで",
+      "読みます",
+      "読んでも"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Tolong baca banyak buku.",
+    "answerExplanation": "Pola permintaan sopan: Kata Kerja Bentuk Te + ください = tolong ~. 読む (yomu) → te-form = 読んで (yonde) + ください = tolong baca. '読み' = masu-stem saja (tidak lengkap sebelum ください), '読みます' = bentuk sopan yang tidak bisa dipakai sebelum ください, '読んでも' = meskipun membaca (nuansa izin/konsesi: 読んでもいいです = boleh membaca).",
+    "hint": "Sebelum ください selalu gunakan て-form — 読む → 読んで",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_5_011",
+    "question": "「渡す」の意味は？",
+    "furigana": "「渡[わた]す」の意味[いみ]は？",
+    "romaji": "'Watasu' no imi wa?",
+    "level": "N5",
+    "category": "VOCABULARY",
+    "options": [
+      "Menerima",
+      "Menyeberangi",
+      "Mengambil",
+      "Menyerahkan"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "Apa arti '渡す (わたす)'?",
+    "answerExplanation": "'渡す (watasu)' berarti menyerahkan atau memberikan langsung ke tangan seseorang. PERHATIAN: jangan tertukar dengan '渡る (wataru)' = menyeberangi (jalan/sungai) — kanji sama tapi akhiran berbeda! '受け取る (uketoru)' = menerima, '取る (toru)' = mengambil. Contoh: 先生にレポートを渡す = menyerahkan laporan kepada guru.",
+    "hint": "Aksi memberikan sesuatu dari tangan ke tangan orang lain — BUKAN menyeberangi (itu 渡る)",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_5_012",
+    "question": "「右」の読み方は？",
+    "furigana": "「右」の読み方は？",
+    "romaji": "'Migi' no yomikata wa?",
+    "level": "N5",
+    "category": "KANJI",
+    "options": [
+      "ひだり",
+      "まえ",
+      "うしろ",
+      "みぎ"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "Bagaimana cara membaca '右'?",
+    "answerExplanation": "'右' dibaca 'みぎ (migi)' dan artinya kanan. Lawan katanya '左 (ひだり/hidari)' = kiri. Semua opsi adalah kata arah/posisi: 'ひだり' = kiri (左), 'まえ' = depan (前), 'うしろ' = belakang (後ろ). Cara mengingat: kanji 右 terdiri dari ナ (katakana na) + 口 (mulut).",
+    "hint": "Lawan kata dari '左 (ひだり)' = kiri",
+    "difficultyScore": 1
+  },
+  {
+    "id": "question_n5_5_013",
+    "question": "これは　私___　傘です。",
+    "furigana": "これは　私[わたし]___　傘[かさ]です。",
+    "romaji": "Kore wa watashi ___ kasa desu.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "と",
+      "の",
+      "で",
+      "を"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Ini adalah payung saya.",
+    "answerExplanation": "Partikel 'の' menunjukkan kepemilikan atau hubungan antar kata benda. 'わたしの かさ' = payung milik saya. Pola: [Pemilik] + の + [Benda]. 'と' = dan/bersama, 'で' = dengan (alat)/di (tempat aktivitas), 'を' = objek langsung. Contoh lain: 日本の食べ物 = makanan Jepang, 友だちのかばん = tas teman.",
+    "hint": "Partikel yang menunjukkan KEPEMILIKAN — menghubungkan pemilik dengan benda yang dimiliki",
+    "difficultyScore": 1
+  },
+  {
+    "id": "question_n5_5_014",
+    "question": "（Reading）\nやまださんは スポーツが すきです。でも、サッカーは あまり すきじゃ ありません。テニスと バスケットボールが いちばん すきです。まいしゅう どようびに ともだちと テニスを します。\n\nしつもん：やまださんは まいしゅう なにを しますか。",
+    "furigana": "やまださんは スポーツが 好[す]きです。でも、サッカーは あまり 好[す]きじゃ ありません。テニスと バスケットボールが 一番[いちばん] 好[す]きです。毎週[まいしゅう] 土曜日[どようび]に 友達[ともだち]と テニスを します。\n\nしつもん：やまださんは 毎週[まいしゅう] なにを しますか。",
+    "romaji": "Yamada-san wa supootsu ga suki desu. Demo, sakkaa wa amari suki ja arimasen. Tenisu to basukettbooru ga ichiban suki desu. Maishuu doyoubi ni tomodachi to tenisu o shimasu.\n\nShitsumon: Yamada-san wa maishuu nani o shimasu ka.",
+    "level": "N5",
+    "category": "READING",
+    "options": [
+      "サッカーを します",
+      "バスケットボールを します",
+      "テニスを します",
+      "すいえいを します"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Yamada suka olahraga. Tapi tidak terlalu suka sepak bola. Tenis dan basket paling disukainya. Setiap Sabtu bermain tenis bersama teman.\n\nPertanyaan: Apa yang Yamada lakukan setiap minggu?",
+    "answerExplanation": "Teks: 'まいしゅう どようびに ともだちと テニスを します' = setiap Sabtu bermain tenis bersama teman. Yang ditanyakan adalah kegiatan RUTIN mingguan, bukan olahraga favorit. Meskipun basket juga favorit, yang secara eksplisit dilakukan setiap minggu adalah tenis. サッカー tidak disukai, すいえい (renang) tidak disebutkan.",
+    "hint": "Pertanyaan menanyakan kegiatan RUTIN mingguan — cari kalimat dengan kata 'まいしゅう' di teks",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_5_015",
+    "question": "「遅い」の意味は？",
+    "furigana": "「遅[おそ]い」の意味[いみ]は？",
+    "romaji": "'Osoi' no imi wa?",
+    "level": "N5",
+    "category": "VOCABULARY",
+    "options": [
+      "Lambat / Telat",
+      "Cepat",
+      "Awal",
+      "Dekat"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Apa arti '遅い (おそい)'?",
+    "answerExplanation": "'遅い (osoi)' memiliki dua arti: lambat (kecepatan rendah) DAN telat (datang melewati waktu yang ditentukan). Lawan katanya: '速い (hayai)' = cepat dan '早い (hayai)' = awal/pagi. Meski kedua lawan kata bunyinya sama (hayai), kanjinya berbeda! Contoh: この電車は遅い = kereta ini lambat, 学校に遅い = telat ke sekolah.",
+    "hint": "Kata sifat ini punya dua nuansa: kecepatan RENDAH atau datang melewati WAKTU",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_5_016",
+    "question": "「金曜日」の読み方は？",
+    "furigana": "「金曜日」の読み方は？",
+    "romaji": "'Kinyoubi' no yomikata wa?",
+    "level": "N5",
+    "category": "KANJI",
+    "options": [
+      "きんよび",
+      "ぎんようび",
+      "きんようび",
+      "きんようひ"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Bagaimana cara membaca '金曜日'?",
+    "answerExplanation": "'金曜日' dibaca 'きんようび (kinyoubi)' dan artinya hari Jumat. '金' = きん (emas/logam, on-yomi), '曜' = よう, '日' = び. Kesalahan umum: 'ぎんようび' salah karena 金 dibaca きん bukan ぎん (銀 = perak yang dibaca ぎん), 'きんよび' kurang bunyi panjang う, 'きんようひ' salah karena 日 di akhir nama hari dibaca び bukan ひ.",
+    "hint": "Kanji 金 di sini bermakna emas/logam dan dibaca きん — jangan tertukar dengan 銀 (ぎん = perak)",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_5_017",
+    "question": "あの　レストランは　おいしい___、やすいです。",
+    "furigana": "あの　レストランは　おいしい___、やすいです。",
+    "romaji": "Ano resutoran wa oishii ___, yasui desu.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "で",
+      "し",
+      "くて",
+      "から"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Restoran itu enak dan murah.",
+    "answerExplanation": "Untuk menghubungkan dua kata sifat-i (enak DAN murah), gunakan te-form: buang い lalu tambah くて. おいしい → おいしくて + やすいです = enak DAN murah. 'で' = te-form untuk kata sifat-na (bukan -i), 'し' = menyebutkan alasan (lebih natural di N4), 'から' = karena (sebab-akibat). Bandingkan dengan soal batch 1 #020: きれいで (kata sifat-na + で).",
+    "hint": "Menghubungkan dua kata sifat-i: hilangkan い lalu tambahkan penghubung yang tepat",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_5_018",
+    "question": "「閉める」の意味は？",
+    "furigana": "「閉[し]める」の意味[いみ]は？",
+    "romaji": "'Shimeru' no imi wa?",
+    "level": "N5",
+    "category": "VOCABULARY",
+    "options": [
+      "Membuka",
+      "Menutup",
+      "Memadamkan",
+      "Menyalakan"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Apa arti '閉める (しめる)'?",
+    "answerExplanation": "'閉める (shimeru)' berarti menutup — aksi membuat sesuatu yang terbuka menjadi tertutup. Contoh: ドアを閉める = menutup pintu, 窓を閉める = menutup jendela. Lawan katanya: '開ける (akeru)' = membuka. '消す (kesu)' = memadamkan (untuk lampu/TV), 'つける' = menyalakan — pasangan antonim yang berbeda.",
+    "hint": "Lawan dari '開ける (あける)' = membuka. Aksi yang dilakukan pada pintu atau jendela agar tidak terbuka",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_5_019",
+    "question": "「食堂」の読み方は？",
+    "furigana": "「食堂」の読み方は？",
+    "romaji": "'Shokudou' no yomikata wa?",
+    "level": "N5",
+    "category": "KANJI",
+    "options": [
+      "しょくどう",
+      "しょくとう",
+      "たべどう",
+      "しょくどの"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Bagaimana cara membaca '食堂'?",
+    "answerExplanation": "'食堂' dibaca 'しょくどう (shokudou)' dan artinya kantin atau ruang makan. '食' = しょく (makan, on-yomi), '堂' = どう (ruangan/aula). Kedua kanji menggunakan on-yomi. 'しょくとう' salah karena 堂 = どう bukan とう, 'たべどう' mencampur kun-yomi (食べる) + on-yomi yang salah, 'しょくどの' menambahkan akhiran の yang tidak ada.",
+    "hint": "Tempat makan di sekolah atau kantor — kedua kanji dibaca on-yomi: 食 = しょく, 堂 = どう",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_5_020",
+    "question": "映画館___　映画を　見ました。",
+    "furigana": "映画館[えいがかん]___　映画[えいが]を　見[み]ました。",
+    "romaji": "Eigakan ___ eiga o mimashita.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "に",
+      "へ",
+      "を",
+      "で"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "Saya menonton film di bioskop.",
+    "answerExplanation": "Partikel 'で' menunjukkan tempat di mana suatu aktivitas dilakukan. Menonton film adalah aktivitas → 映画館で見ました = menonton DI bioskop. 'に' = tempat keberadaan statis (あります/います) atau tujuan, 'へ' = arah tujuan pergerakan saja, 'を' = sudah dipakai untuk objek 映画を. Ingat perbedaan: に = tempat ADA, で = tempat MELAKUKAN.",
+    "hint": "Menonton film = AKTIVITAS → partikel untuk tempat melakukan aktivitas",
+    "difficultyScore": 1
+  }
+]

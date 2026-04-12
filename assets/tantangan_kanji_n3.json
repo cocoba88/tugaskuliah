@@ -1,0 +1,607 @@
+{
+  "id": "kanji_n3_challenge",
+  "title": "Tantangan Kanji N3",
+  "timer": 15,
+  "description": "Susun bacaan Onyomi atau Kunyomi dari kanji yang ditampilkan!",
+  "totalQuestions": 30,
+  "questions": [
+    {
+      "id": 1,
+      "hiragana": "政",
+      "meaning": "Politik",
+      "readingType": "onyomi",
+      "answerParts": [
+        "sei"
+      ],
+      "distractors": [
+        "ka",
+        "mi",
+        "su",
+        "no",
+        "te",
+        "ra",
+        "ko",
+        "ma"
+      ]
+    },
+    {
+      "id": 2,
+      "hiragana": "経",
+      "meaning": "Melewati / Pengalaman",
+      "readingType": "onyomi",
+      "answerParts": [
+        "kei"
+      ],
+      "distractors": [
+        "sa",
+        "mi",
+        "to",
+        "no",
+        "ra",
+        "yu",
+        "fu",
+        "ba"
+      ]
+    },
+    {
+      "id": 3,
+      "hiragana": "済",
+      "meaning": "Selesai / Menyelesaikan",
+      "readingType": "onyomi",
+      "answerParts": [
+        "sai"
+      ],
+      "distractors": [
+        "ka",
+        "mo",
+        "to",
+        "nu",
+        "re",
+        "hi",
+        "do",
+        "bu"
+      ]
+    },
+    {
+      "id": 4,
+      "hiragana": "届",
+      "meaning": "Menyampaikan / Tiba",
+      "readingType": "kunyomi",
+      "answerParts": [
+        "to",
+        "do",
+        "ke"
+      ],
+      "distractors": [
+        "sa",
+        "mi",
+        "na",
+        "ra",
+        "yu",
+        "fu",
+        "ba",
+        "shi"
+      ]
+    },
+    {
+      "id": 5,
+      "hiragana": "相",
+      "meaning": "Saling / Penampilan",
+      "readingType": "kunyomi",
+      "answerParts": [
+        "a",
+        "i"
+      ],
+      "distractors": [
+        "sa",
+        "mi",
+        "to",
+        "nu",
+        "re",
+        "hi",
+        "do",
+        "bu"
+      ]
+    },
+    {
+      "id": 6,
+      "hiragana": "際",
+      "meaning": "Saat / Perbatasan",
+      "readingType": "onyomi",
+      "answerParts": [
+        "sai"
+      ],
+      "distractors": [
+        "ka",
+        "mo",
+        "to",
+        "nu",
+        "re",
+        "hi",
+        "do",
+        "bu"
+      ]
+    },
+    {
+      "id": 7,
+      "hiragana": "値",
+      "meaning": "Nilai / Harga",
+      "readingType": "kunyomi",
+      "answerParts": [
+        "a",
+        "ta",
+        "i"
+      ],
+      "distractors": [
+        "sa",
+        "mi",
+        "no",
+        "re",
+        "yu",
+        "fu",
+        "ba",
+        "shi"
+      ]
+    },
+    {
+      "id": 8,
+      "hiragana": "観",
+      "meaning": "Pandangan / Mengamati",
+      "readingType": "onyomi",
+      "answerParts": [
+        "kan"
+      ],
+      "distractors": [
+        "sa",
+        "mi",
+        "to",
+        "nu",
+        "re",
+        "hi",
+        "do",
+        "bu"
+      ]
+    },
+    {
+      "id": 9,
+      "hiragana": "術",
+      "meaning": "Seni / Teknik",
+      "readingType": "onyomi",
+      "answerParts": [
+        "ju",
+        "tsu"
+      ],
+      "distractors": [
+        "sa",
+        "mi",
+        "to",
+        "ka",
+        "re",
+        "hi",
+        "do",
+        "bu"
+      ]
+    },
+    {
+      "id": 10,
+      "hiragana": "準",
+      "meaning": "Standar / Persiapan",
+      "readingType": "onyomi",
+      "answerParts": [
+        "jun"
+      ],
+      "distractors": [
+        "sa",
+        "mi",
+        "to",
+        "nu",
+        "re",
+        "hi",
+        "do",
+        "bu"
+      ]
+    },
+    {
+      "id": 11,
+      "hiragana": "責",
+      "meaning": "Tanggung Jawab",
+      "readingType": "onyomi",
+      "answerParts": [
+        "se",
+        "ki"
+      ],
+      "distractors": [
+        "sa",
+        "mi",
+        "to",
+        "nu",
+        "ra",
+        "hi",
+        "do",
+        "bu"
+      ]
+    },
+    {
+      "id": 12,
+      "hiragana": "識",
+      "meaning": "Pengetahuan / Kesadaran",
+      "readingType": "onyomi",
+      "answerParts": [
+        "shi",
+        "ki"
+      ],
+      "distractors": [
+        "sa",
+        "mi",
+        "to",
+        "nu",
+        "re",
+        "ka",
+        "do",
+        "bu"
+      ]
+    },
+    {
+      "id": 13,
+      "hiragana": "質",
+      "meaning": "Kualitas / Sifat",
+      "readingType": "onyomi",
+      "answerParts": [
+        "shi",
+        "tsu"
+      ],
+      "distractors": [
+        "sa",
+        "mi",
+        "to",
+        "nu",
+        "re",
+        "hi",
+        "do",
+        "bu"
+      ]
+    },
+    {
+      "id": 14,
+      "hiragana": "量",
+      "meaning": "Jumlah / Ukuran",
+      "readingType": "onyomi",
+      "answerParts": [
+        "ryou"
+      ],
+      "distractors": [
+        "sa",
+        "mi",
+        "to",
+        "nu",
+        "re",
+        "hi",
+        "do",
+        "bu"
+      ]
+    },
+    {
+      "id": 15,
+      "hiragana": "原",
+      "meaning": "Padang / Asal",
+      "readingType": "kunyomi",
+      "answerParts": [
+        "ha",
+        "ra"
+      ],
+      "distractors": [
+        "sa",
+        "mi",
+        "to",
+        "nu",
+        "re",
+        "ki",
+        "do",
+        "bu"
+      ]
+    },
+    {
+      "id": 16,
+      "hiragana": "因",
+      "meaning": "Sebab / Penyebab",
+      "readingType": "onyomi",
+      "answerParts": [
+        "in"
+      ],
+      "distractors": [
+        "sa",
+        "mi",
+        "to",
+        "nu",
+        "re",
+        "hi",
+        "do",
+        "bu"
+      ]
+    },
+    {
+      "id": 17,
+      "hiragana": "態",
+      "meaning": "Kondisi / Sikap",
+      "readingType": "onyomi",
+      "answerParts": [
+        "tai"
+      ],
+      "distractors": [
+        "sa",
+        "mi",
+        "to",
+        "nu",
+        "re",
+        "hi",
+        "do",
+        "bu"
+      ]
+    },
+    {
+      "id": 18,
+      "hiragana": "性",
+      "meaning": "Sifat / Jenis Kelamin",
+      "readingType": "onyomi",
+      "answerParts": [
+        "sei"
+      ],
+      "distractors": [
+        "ka",
+        "mi",
+        "ta",
+        "no",
+        "te",
+        "ra",
+        "ko",
+        "ma"
+      ]
+    },
+    {
+      "id": 19,
+      "hiragana": "能",
+      "meaning": "Kemampuan / Bakat",
+      "readingType": "onyomi",
+      "answerParts": [
+        "nou"
+      ],
+      "distractors": [
+        "sa",
+        "mi",
+        "to",
+        "nu",
+        "re",
+        "hi",
+        "do",
+        "bu"
+      ]
+    },
+    {
+      "id": 20,
+      "hiragana": "現",
+      "meaning": "Muncul / Saat ini",
+      "readingType": "kunyomi",
+      "answerParts": [
+        "a",
+        "ra",
+        "wa"
+      ],
+      "distractors": [
+        "sa",
+        "mi",
+        "to",
+        "nu",
+        "re",
+        "ki",
+        "do",
+        "bu"
+      ]
+    },
+    {
+      "id": 21,
+      "hiragana": "表",
+      "meaning": "Permukaan / Menyatakan",
+      "readingType": "kunyomi",
+      "answerParts": [
+        "o",
+        "mo",
+        "te"
+      ],
+      "distractors": [
+        "sa",
+        "mi",
+        "na",
+        "nu",
+        "re",
+        "ki",
+        "do",
+        "bu"
+      ]
+    },
+    {
+      "id": 22,
+      "hiragana": "対",
+      "meaning": "Melawan / Sepasang",
+      "readingType": "onyomi",
+      "answerParts": [
+        "tai"
+      ],
+      "distractors": [
+        "sa",
+        "mi",
+        "to",
+        "nu",
+        "re",
+        "hi",
+        "do",
+        "bu"
+      ]
+    },
+    {
+      "id": 23,
+      "hiragana": "限",
+      "meaning": "Batas / Membatasi",
+      "readingType": "kunyomi",
+      "answerParts": [
+        "ka",
+        "gi"
+      ],
+      "distractors": [
+        "sa",
+        "mi",
+        "to",
+        "nu",
+        "re",
+        "hi",
+        "do",
+        "bu"
+      ]
+    },
+    {
+      "id": 24,
+      "hiragana": "設",
+      "meaning": "Mendirikan / Membangun",
+      "readingType": "onyomi",
+      "answerParts": [
+        "se",
+        "tsu"
+      ],
+      "distractors": [
+        "sa",
+        "mi",
+        "to",
+        "nu",
+        "ra",
+        "hi",
+        "do",
+        "bu"
+      ]
+    },
+    {
+      "id": 25,
+      "hiragana": "退",
+      "meaning": "Mundur / Mengundurkan diri",
+      "readingType": "kunyomi",
+      "answerParts": [
+        "shi",
+        "ri",
+        "zo",
+        "ku"
+      ],
+      "distractors": [
+        "sa",
+        "mi",
+        "to",
+        "nu",
+        "re",
+        "ka",
+        "ba",
+        "bu"
+      ]
+    },
+    {
+      "id": 26,
+      "hiragana": "判",
+      "meaning": "Memutuskan / Penilaian",
+      "readingType": "onyomi",
+      "answerParts": [
+        "han"
+      ],
+      "distractors": [
+        "sa",
+        "mi",
+        "to",
+        "nu",
+        "re",
+        "hi",
+        "do",
+        "bu"
+      ]
+    },
+    {
+      "id": 27,
+      "hiragana": "選",
+      "meaning": "Memilih / Menyeleksi",
+      "readingType": "kunyomi",
+      "answerParts": [
+        "e",
+        "ra",
+        "bu"
+      ],
+      "distractors": [
+        "sa",
+        "mi",
+        "to",
+        "nu",
+        "re",
+        "ki",
+        "do",
+        "ba"
+      ]
+    },
+    {
+      "id": 28,
+      "hiragana": "防",
+      "meaning": "Mencegah / Pertahanan",
+      "readingType": "kunyomi",
+      "answerParts": [
+        "fu",
+        "se",
+        "gu"
+      ],
+      "distractors": [
+        "sa",
+        "mi",
+        "to",
+        "nu",
+        "ra",
+        "hi",
+        "do",
+        "bu"
+      ]
+    },
+    {
+      "id": 29,
+      "hiragana": "認",
+      "meaning": "Mengakui / Mengenali",
+      "readingType": "kunyomi",
+      "answerParts": [
+        "mi",
+        "to",
+        "me",
+        "ru"
+      ],
+      "distractors": [
+        "sa",
+        "ka",
+        "na",
+        "nu",
+        "re",
+        "hi",
+        "do",
+        "bu"
+      ]
+    },
+    {
+      "id": 30,
+      "hiragana": "増",
+      "meaning": "Bertambah / Meningkat",
+      "readingType": "kunyomi",
+      "answerParts": [
+        "fu",
+        "e",
+        "ru"
+      ],
+      "distractors": [
+        "sa",
+        "mi",
+        "to",
+        "nu",
+        "ra",
+        "ki",
+        "do",
+        "ba"
+      ]
+    }
+  ]
+}

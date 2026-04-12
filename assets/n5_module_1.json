@@ -1,0 +1,382 @@
+[
+  {
+    "id": "question_n5_1_001",
+    "question": "あした　デパート___　行きます。",
+    "furigana": "明日[あした]　デパート___　行[い]きます。",
+    "romaji": "Ashita depaato ___ ikimasu.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "が",
+      "へ",
+      "を",
+      "で"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Besok saya akan pergi ke toserba.",
+    "answerExplanation": "Partikel 'へ (e)' menunjukkan arah tujuan pergerakan — ke mana seseorang pergi. 'で' menunjukkan tempat aktivitas berlangsung (bukan tujuan perjalanan), 'が' adalah penanda subjek, 'を' adalah penanda objek langsung. Hanya 'へ' yang cocok setelah nama tempat tujuan + kata kerja 行く.",
+    "hint": "Pilih partikel yang menunjukkan ARAH atau TUJUAN perjalanan",
+    "difficultyScore": 1
+  },
+  {
+    "id": "question_n5_1_002",
+    "question": "毎日　コーヒーを　___　飲みます。",
+    "furigana": "毎日[まいにち]　コーヒーを　___　飲[の]みます。",
+    "romaji": "Mainichi koohii o ___ nomimasu.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "二本",
+      "二枚",
+      "二杯",
+      "二冊"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Setiap hari saya minum dua cangkir kopi.",
+    "answerExplanation": "'杯 (hai/bai)' adalah satuan hitung khusus untuk minuman dalam gelas, cangkir, atau mangkuk. '本 (hon)' untuk benda panjang/silindris seperti botol atau pensil, '枚 (mai)' untuk benda tipis dan datar seperti kertas atau piring, '冊 (satsu)' untuk buku yang dijilid. Kopi diminum dari cangkir, jadi satuan yang tepat adalah 杯.",
+    "hint": "Satuan hitung yang digunakan untuk minuman yang dituangkan ke gelas atau cangkir",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_1_003",
+    "question": "きのう、図書館で　本を　___。",
+    "furigana": "昨日[きのう]、図書館[としょかん]で　本[ほん]を　___。",
+    "romaji": "Kinou, toshokan de hon o ___.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "読みます",
+      "読みたいです",
+      "読んでいます",
+      "読みました"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "Kemarin saya membaca buku di perpustakaan.",
+    "answerExplanation": "Kata 'きのう (kemarin)' menyatakan waktu lampau, sehingga harus menggunakan bentuk sopan lampau ～ました. '読みます' = kebiasaan atau rencana masa depan, '読みたいです' = ingin membaca (keinginan, belum dilakukan), '読んでいます' = sedang membaca saat ini. Hanya '読みました' yang menunjukkan aksi sudah selesai di masa lalu.",
+    "hint": "Perhatikan kata 'きのう' di awal kalimat — itu penanda waktu lampau, jadi kata kerja harus dalam bentuk masa lalu",
+    "difficultyScore": 1
+  },
+  {
+    "id": "question_n5_1_004",
+    "question": "「花」の　読み方は　何ですか。",
+    "furigana": "「花」の　読[よ]み方[かた]は　何[なん]ですか。",
+    "romaji": "'Hana' no yomikata wa nan desu ka.",
+    "level": "N5",
+    "category": "KANJI",
+    "options": [
+      "はな",
+      "はし",
+      "かさ",
+      "くさ"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Bagaimana cara membaca kanji '花'?",
+    "answerExplanation": "Kanji '花' dibaca 'はな (hana)' dan berarti bunga. Kanji ini memiliki radikal 艹 (rumput) di atas dan 化 di bawah. Pilihan lain: 'はし (hashi)' = 橋 jembatan / 箸 sumpit, 'かさ (kasa)' = 傘 payung, 'くさ (kusa)' = 草 rumput.",
+    "hint": "Kanji ini memiliki radikal tanaman (艹) di atas — pikirkan sesuatu yang indah dari tumbuhan",
+    "difficultyScore": 1
+  },
+  {
+    "id": "question_n5_1_005",
+    "question": "田中さんは　毎朝　公園___　走ります。",
+    "furigana": "田中[たなか]さんは　毎朝[まいあさ]　公園[こうえん]___　走[はし]ります。",
+    "romaji": "Tanaka-san wa maiasa kouen ___ hashirimasu.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "に",
+      "へ",
+      "を",
+      "で"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "Tanaka-san berlari di taman setiap pagi.",
+    "answerExplanation": "Partikel 'で' menunjukkan tempat di mana suatu aktivitas dilakukan. Tanaka berlari DI taman, bukan ke taman. 'に' menunjukkan titik keberadaan (ada di) atau tujuan, 'へ' menunjukkan arah tujuan pergerakan, 'を' menunjukkan objek langsung atau rute yang dilalui. Untuk menyatakan lokasi aktivitas berlari, yang tepat adalah 'で'.",
+    "hint": "Pikirkan partikel yang menunjukkan TEMPAT di mana suatu kegiatan dilakukan",
+    "difficultyScore": 1
+  },
+  {
+    "id": "question_n5_1_006",
+    "question": "ご飯を　___　前に、手を洗います。",
+    "furigana": "ご飯[はん]を　___　前[まえ]に、手[て]を洗[あら]います。",
+    "romaji": "Gohan o ___ mae ni, te o araimasu.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "食べた",
+      "食べる",
+      "食べて",
+      "食べない"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Sebelum makan, saya mencuci tangan.",
+    "answerExplanation": "Pola 'sebelum melakukan X' dalam bahasa Jepang: Kata Kerja Bentuk Kamus (じしょけい) + 前に. '食べる' adalah bentuk kamus dari 食べます. '食べた' = bentuk lampau (dipakai untuk ～後で bukan ～前に), '食べて' = te-form (untuk menghubungkan kalimat), '食べない' = bentuk negatif. Hanya bentuk kamus yang digunakan sebelum 前に.",
+    "hint": "Sebelum 前に selalu gunakan bentuk kata kerja yang paling dasar — bentuk yang diakhiri ~る atau ~う",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_1_007",
+    "question": "「財布」の意味は？",
+    "furigana": "「財布[さいふ]」の意味[いみ]は？",
+    "romaji": "'Saifu' no imi wa?",
+    "level": "N5",
+    "category": "VOCABULARY",
+    "options": [
+      "Amplop",
+      "Dompet",
+      "Tas selempang",
+      "Kotak pensil"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Apa arti '財布 (さいふ)'?",
+    "answerExplanation": "'財布 (saifu)' artinya dompet — benda kecil untuk menyimpan uang, kartu, dan struk. Kanji '財' bermakna harta/kekayaan, dan '布' bermakna kain, secara harfiah menggambarkan 'kain harta' atau kantong kecil untuk harta. Kata-kata lain: 'ふうとう (fuutou)' = amplop, 'ショルダーバッグ' = tas selempang, 'ふでばこ (fudebako)' = kotak pensil.",
+    "hint": "Benda kecil yang biasa Anda buka ketika ingin membayar di kasir — tempat menyimpan uang dan kartu",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_1_008",
+    "question": "この　りんごは　あの　りんご___　大きいです。",
+    "furigana": "この　りんごは　あの　りんご___　大[おお]きいです。",
+    "romaji": "Kono ringo wa ano ringo ___ ookii desu.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "から",
+      "まで",
+      "より",
+      "ほど"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Apel ini lebih besar daripada apel itu.",
+    "answerExplanation": "Partikel 'より' digunakan untuk membandingkan dua hal (perbandingan/komparatif). Pola: A は B より ～ (A lebih ～ daripada B). 'から' = dari (titik awal waktu/tempat), 'まで' = sampai (titik akhir), 'ほど' = sejauh/sebanyak (dipakai dalam kalimat negatif: ～ほど～ない). Yang tepat untuk perbandingan langsung adalah 'より'.",
+    "hint": "Partikel ini digunakan untuk menyatakan perbandingan — 'lebih ... daripada'",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_1_009",
+    "question": "「曇り」の意味は？",
+    "furigana": "「曇[くも]り」の意味[いみ]は？",
+    "romaji": "'Kumori' no imi wa?",
+    "level": "N5",
+    "category": "VOCABULARY",
+    "options": [
+      "Berawan",
+      "Hujan deras",
+      "Berangin",
+      "Cerah"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Apa arti '曇り (くもり)'?",
+    "answerExplanation": "'曇り (kumori)' berarti berawan atau mendung — kondisi langit tertutup awan sehingga matahari tidak terlihat jelas. Kata ini berasal dari '雲 (くも/kumo)' yang berarti awan, ditambah akhiran ～り untuk menjadikannya kata sifat/kondisi cuaca. Kata cuaca lainnya: '大雨 (ooame)' = hujan deras, '晴れ (hare)' = cerah, '風 (kaze)' = angin.",
+    "hint": "Perhatikan bagian awal kata ini: 'くも' dalam bahasa Jepang berarti awan — pikirkan kondisi cuaca terkait awan",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_1_010",
+    "question": "私は　友達に　プレゼントを　___。",
+    "furigana": "私[わたし]は　友達[ともだち]に　プレゼントを　___。",
+    "romaji": "Watashi wa tomodachi ni purezento o ___.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "もらいました",
+      "くれました",
+      "あげました",
+      "かいました"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Saya memberikan hadiah kepada teman.",
+    "answerExplanation": "Kunci: identifikasi SIAPA pemberi dan SIAPA penerima. Subjek '私は (saya)' = pemberi, '友達に (kepada teman)' = penerima → saya memberi ke teman = あげました. 'もらいました' = saya menerima dari orang lain (arah terbalik). 'くれました' = orang lain memberi ke saya (arah terbalik). 'かいました' = membeli (bukan memberi). Hanya 'あげました' yang menunjukkan pemberian dari saya kepada orang lain.",
+    "hint": "Perhatikan arah pemberian: 私は = pemberi, 友達に = penerima. Pilih kata kerja yang berarti 'memberi dari saya ke orang lain'",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_1_011",
+    "question": "学校___　バスで　行きます。",
+    "furigana": "学校[がっこう]___　バスで　行[い]きます。",
+    "romaji": "Gakkou ___ basu de ikimasu.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "を",
+      "で",
+      "まで",
+      "から"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Saya pergi sampai sekolah naik bus.",
+    "answerExplanation": "Partikel 'まで' menunjukkan titik akhir atau batas tujuan (sampai ke ~). 'を' adalah penanda objek langsung, 'で' menunjukkan alat/sarana atau tempat aktivitas — di kalimat ini 'バスで' sudah menggunakan 'で' untuk sarana, 'から' menunjukkan titik awal (dari ~). Yang tepat untuk menandai tujuan akhir perjalanan adalah 'まで'.",
+    "hint": "Partikel ini menunjukkan titik akhir atau batas — 'sampai ke mana'",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_1_012",
+    "question": "「難しい」の　反対は　何ですか。",
+    "furigana": "「難[むずか]しい」の　反対[はんたい]は　何[なん]ですか。",
+    "romaji": "'Muzukashii' no hantai wa nan desu ka.",
+    "level": "N5",
+    "category": "VOCABULARY",
+    "options": [
+      "おもしろい",
+      "やさしい",
+      "たのしい",
+      "かわいい"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Apa lawan kata dari '難しい (sulit/susah)'?",
+    "answerExplanation": "'難しい (muzukashii)' berarti sulit/susah. Lawan katanya adalah 'やさしい (yasashii)' yang dalam konteks ini berarti mudah (易しい). 'おもしろい' = menarik/lucu, 'たのしい' = menyenangkan, 'かわいい' = imut/lucu. Hanya 'やさしい' yang merupakan antonim dari 'sulit'.",
+    "hint": "Pikirkan lawan dari 'sulit' dalam konteks ujian atau pelajaran — kata ini juga bisa berarti 'baik hati' dalam konteks lain",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_1_013",
+    "question": "ここに　名前を　___　ください。",
+    "furigana": "ここに　名前[なまえ]を　___　ください。",
+    "romaji": "Koko ni namae o ___ kudasai.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "書く",
+      "書き",
+      "書いた",
+      "書いて"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "Tolong tulis nama Anda di sini.",
+    "answerExplanation": "Pola permintaan sopan dalam bahasa Jepang: Kata Kerja Bentuk Te (て-form) + ください. 書く (kaku) → te-form = 書いて (kaite) + ください = tolong tulis. '書く' = bentuk kamus (tanpa ください tidak menjadi permintaan sopan), '書き' = masu-stem saja, '書いた' = bentuk lampau biasa. Hanya て-form yang dipakai sebelum ください.",
+    "hint": "Sebelum ください selalu gunakan bentuk て (te-form) dari kata kerja",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_1_014",
+    "question": "私は　音楽が　___　です。",
+    "furigana": "私[わたし]は　音楽[おんがく]が　___　です。",
+    "romaji": "Watashi wa ongaku ga ___ desu.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "好き",
+      "上手",
+      "欲しい",
+      "ほしい"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Saya suka musik.",
+    "answerExplanation": "Pola ～は ～が 好きです digunakan untuk menyatakan kesukaan. '好き (suki)' = suka, cocok dengan pola ini. '上手 (jouzu)' = pandai/mahir (menggambarkan kemampuan, bukan perasaan), '欲しい (hoshii)' = menginginkan benda fisik (bukan untuk hobi/kesukaan). Perhatikan: '欲しい' dan 'ほしい' adalah kata yang sama — keduanya salah di sini karena musik bukan benda yang 'diinginkan' dalam konteks ini.",
+    "hint": "Kalimat ini menyatakan PERASAAN suka terhadap musik — bukan kemampuan atau keinginan memiliki",
+    "difficultyScore": 1
+  },
+  {
+    "id": "question_n5_1_015",
+    "question": "この　スープは　___そうです。",
+    "furigana": "この　スープは　___そうです。",
+    "romaji": "Kono suupu wa ___ sou desu.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "おいしい",
+      "おいしく",
+      "おいし",
+      "おいしくて"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Sup ini kelihatannya enak.",
+    "answerExplanation": "Pola 'kelihatan/sepertinya ~' dengan kata sifat-i: buang akhiran 'い' lalu tambahkan そうです. おいしい → おいし + そうです = おいしそうです. 'おいしい' = bentuk utuh (tidak bisa langsung + そう), 'おいしく' = bentuk adverbia, 'おいしくて' = te-form kata sifat-i. Hanya stem tanpa い yang dipakai sebelum そうです.",
+    "hint": "Untuk pola ～そうです dengan kata sifat-i, WAJIB buang akhiran い terlebih dahulu: おいしい → おいし → おいしそうです",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_1_016",
+    "question": "先生は　今　教室に　___。",
+    "furigana": "先生[せんせい]は　今[いま]　教室[きょうしつ]に　___。",
+    "romaji": "Sensei wa ima kyoushitsu ni ___.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "あります",
+      "います",
+      "です",
+      "します"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Guru sekarang ada di ruang kelas.",
+    "answerExplanation": "Untuk menyatakan keberadaan makhluk hidup (orang, hewan), gunakan 'います (imasu)'. 'あります (arimasu)' digunakan untuk benda mati. '先生 (sensei)' adalah orang → harus pakai います. 'です' = adalah (bukan menyatakan keberadaan di tempat), 'します' = melakukan (kata kerja aksi).",
+    "hint": "先生 adalah manusia — pilih kata kerja keberadaan yang khusus untuk makhluk hidup",
+    "difficultyScore": 1
+  },
+  {
+    "id": "question_n5_1_017",
+    "question": "「飲み物」の　意味は　何ですか。",
+    "furigana": "「飲[の]み物[もの]」の　意味[いみ]は　何[なん]ですか。",
+    "romaji": "'Nomimono' no imi wa nan desu ka.",
+    "level": "N5",
+    "category": "VOCABULARY",
+    "options": [
+      "Makanan",
+      "Cemilan",
+      "Bumbu",
+      "Minuman"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "Apa arti '飲み物 (のみもの)'?",
+    "answerExplanation": "'飲み物 (nomimono)' berasal dari '飲む (nomu = minum)' + '物 (mono = benda/sesuatu)'. Jadi artinya 'sesuatu yang diminum' = Minuman. Bandingkan dengan pola yang sama: '食べ物 (tabemono)' = makanan (sesuatu yang dimakan), '買い物 (kaimono)' = belanjaan (sesuatu yang dibeli).",
+    "hint": "Pecah kata ini: 飲み = dari kata kerja 'minum', 物 = benda. Gabungkan artinya.",
+    "difficultyScore": 1
+  },
+  {
+    "id": "question_n5_1_018",
+    "question": "雨が　降りますから、傘を　___。",
+    "furigana": "雨[あめ]が　降[ふ]りますから、傘[かさ]を　___。",
+    "romaji": "Ame ga furimasu kara, kasa o ___.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "持ちましょう",
+      "持ちたいです",
+      "持ちません",
+      "持ちます"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Karena hujan turun, ayo bawa payung.",
+    "answerExplanation": "Konteks kalimat ini adalah ajakan: karena hujan → ayo bawa payung. '持ちましょう (mochimashō)' = ayo bawa (ajakan/let's ~), cocok sebagai respons logis terhadap alasan 'hujan turun'. '持ちたいです' = ingin membawa (menyatakan keinginan pribadi, bukan ajakan), '持ちません' = tidak membawa (bertentangan dengan logika kalimat — hujan harusnya bawa payung), '持ちます' = membawa (pernyataan netral, kurang tepat karena kalimat ini bernada ajakan).",
+    "hint": "Karena hujan, pembicara MENGAJAK lawan bicara — gunakan bentuk ajakan ～ましょう",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_1_019",
+    "question": "「重い」の意味は？",
+    "furigana": "「重[おも]い」の意味[いみ]は？",
+    "romaji": "'Omoi' no imi wa?",
+    "level": "N5",
+    "category": "VOCABULARY",
+    "options": [
+      "Ringan",
+      "Tipis",
+      "Berat",
+      "Tebal"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Apa arti '重い (おもい)'?",
+    "answerExplanation": "'重い (omoi)' berarti berat — mendeskripsikan sesuatu yang massanya besar atau sulit diangkat. Lawan katanya adalah '軽い (karui)' = ringan. Kata sifat lain: '薄い (usui)' = tipis, '厚い (atsui)' = tebal. Jangan tertukar dengan '思い (omoi)' yang berarti pikiran/perasaan — penulisan kanjinya berbeda.",
+    "hint": "Bayangkan mengangkat sesuatu yang sangat sulit diangkat — apa kata sifat yang menggambarkannya?",
+    "difficultyScore": 1
+  },
+  {
+    "id": "question_n5_1_020",
+    "question": "部屋が　きれい___、広いです。",
+    "furigana": "部屋[へや]が　きれい___、広[ひろ]いです。",
+    "romaji": "Heya ga kirei ___, hiroi desu.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "くて",
+      "で",
+      "な",
+      "に"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Kamarnya bersih dan luas.",
+    "answerExplanation": "'きれい' terlihat seperti kata sifat-i karena berakhiran い, tetapi sebenarnya adalah kata sifat-na. Untuk menghubungkan kata sifat-na dengan keterangan lain (te-form), gunakan 'で': きれいで + 広いです = bersih DAN luas. 'くて' = te-form untuk kata sifat-i saja (contoh: 大きくて), 'な' = digunakan sebelum kata benda (きれいな部屋), 'に' = menjadi keterangan cara (きれいに掃除する).",
+    "hint": "きれい adalah kata sifat-NA meskipun berakhiran い. Te-form kata sifat-na = tambahkan 'で'",
+    "difficultyScore": 2
+  }
+]

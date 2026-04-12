@@ -1,0 +1,572 @@
+[
+  {
+    "id": "question_n2_1_001",
+    "question": "「貢献」の意味として最も適切なものはどれですか。",
+    "furigana": "「貢献[こうけん]」の意味[いみ]として最[もっと]も適切[てきせつ]なものはどれですか。",
+    "romaji": "'Kouken' no imi toshite mottomo tekisetsu na mono wa dore desu ka.",
+    "level": "N2",
+    "category": "VOCABULARY",
+    "options": [
+      "社会や人のために力を尽くすこと",
+      "他人を批判すること",
+      "約束を守らないこと",
+      "競争に負けること"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Nghĩa chính xác nhất của '貢献' là gì?",
+    "answerExplanation": "'貢献' (kouken) co nghia la dong gop, tuc la cong hien nang luong/cong suc hoac no luc vi loi ich xa hoi hoac nguoi khac. Vi du: 「彼は地域社会に大きく貢献した」(Anh ay/Co ay dong gop lon cho xa hoi dia phuong). Cac dap an khac sai vi: 批判する = chi trich, 約束を守らない = khong giu loi hua, 競争に負ける = thua trong canh tranh.",
+    "hint": "Tu nay lien quan den viec dong gop co ich cho nguoi khac hoac xa hoi.",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_1_002",
+    "question": "彼は金銭を要求し、相手を___した。",
+    "furigana": "彼[かれ]は金銭[きんせん]を要求[ようきゅう]し、相手[あいて]を___した。",
+    "romaji": "Kare wa kinsen wo youkyuu shi, aite wo ___ shita.",
+    "level": "N2",
+    "category": "VOCABULARY",
+    "options": [
+      "奉仕",
+      "脅迫",
+      "賛成",
+      "妥協"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Anh ấy/Cô ấy doi hoi uang và ___ lawan bicaranya.",
+    "answerExplanation": "'脅迫' (kyouhaku) có nghĩa là de doa hoac ham doa ai do. Trong ngu canh cau nay, ai do doi hoi tien bang cach de doa phia doi phuong. Cac lua chon khac khong phu hop: 奉仕 = phung su/cong hien, 賛成 = tan thanh, 妥協 = thoa hiep.",
+    "hint": "Tu nay co nghia la ep buoc ai do bang cach doa nat.",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_1_003",
+    "question": "事故で記憶を___してしまった。",
+    "furigana": "事故[じこ]で記憶[きおく]を___してしまった。",
+    "romaji": "Jiko de kioku wo ___ shite shimatta.",
+    "level": "N2",
+    "category": "VOCABULARY",
+    "options": [
+      "獲得",
+      "喪失",
+      "発揮",
+      "維持"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "vi tai nan, anh ay/co ay ___ tri nho.",
+    "answerExplanation": "'喪失' (soushitsu) có nghĩa là mat di dieu gi do quan trong hoac quy gia. Trong cau nay, ai do mat tri nho do tai nan. Cac dap an khac: 獲得 = dat duoc, 発揮 = the hien (kha nang), 維持 = duy tri. Tat ca deu nguoc nghia voi ngu canh cau.",
+    "hint": "Tu nay cho thay su mat di dieu gi do rat quy gia mot cach khong mong muon.",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_1_004",
+    "question": "双方が___して、やっと契約がまとまった。",
+    "furigana": "双方[そうほう]が___して、やっと契約[けいやく]がまとまった。",
+    "romaji": "Souhou ga ___ shite, yatto keiyaku ga matomatta.",
+    "level": "N2",
+    "category": "VOCABULARY",
+    "options": [
+      "対立",
+      "拒否",
+      "妥協",
+      "独占"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Hai ben ___, va cuoi cung hop dong duoc ky ket thanh cong.",
+    "answerExplanation": "'妥協' (dakyou) co nghia la thoa hiep hoac nhuong bo lan nhau de dat duoc thoa thuan. Ngu canh cau nay cho thay rang hai ben phai nhuong bo lan nhau de hop dong co the duoc ky ket. Cac dap an khac: 対立 = doi dau, 拒否 = tu choi, 独占 = doc quyen — tat ca thuc ra se can tro viec dat duoc thoa thuan.",
+    "hint": "Tu nay co nghia la nhuong bo lan nhau de dat duoc diem giua.",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_1_005",
+    "question": "彼女は研究に___して、食事も忘れてしまった。",
+    "furigana": "彼女[かのじょ]は研究[けんきゅう]に___して、食事[しょくじ]も忘[わす]れてしまった。",
+    "romaji": "Kanojo wa kenkyuu ni ___ shite, shokuji mo wasurete shimatta.",
+    "level": "N2",
+    "category": "VOCABULARY",
+    "options": [
+      "反発",
+      "没頭",
+      "放棄",
+      "依存"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Anh ay/Co ay ___ trong nghien cuu den muc quen an.",
+    "answerExplanation": "'没頭' (bottou) có nghĩa là rat tap trung hoac dam chim trong mot hoat dong den muc quen nhung thu khac. Cau nay mo ta ai do ma qua me man nghien cuu den noi quen an. Cac dap an khac: 反発 = phan khang, 放棄 = tu bo/dau hang, 依存 = phu thuoc.",
+    "hint": "Tu nay mo ta tinh huong rat me man den muc quen het moi thu.",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_1_006",
+    "question": "「孤立」の読み方はどれですか。",
+    "furigana": "「孤立[こりつ]」の読[よ]み方[かた]はどれですか。",
+    "romaji": "'Koritsu' no yomikata wa dore desu ka.",
+    "level": "N2",
+    "category": "KANJI",
+    "options": [
+      "こりつ",
+      "こだち",
+      "こりゅう",
+      "ころつ"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Cách đọc '孤立' là gì?",
+    "answerExplanation": "'孤立' được đọc là 'こりつ' (koritsu) ma có nghĩa là co lap hoac bi tach biet. Kanji '孤' (ko) co nghia la co don/mo coi, va '立' (ritsu) co nghia la dung. Vay theo nghia den co nghia la 'dung mot minh'. Cac lua chon khac khong phai cach doc dung: こだち khong phai tu thong dung, こりゅう = 交流 (giao luu), ころつ khong phai cach doc hop le.",
+    "hint": "Kanji dau tien được đọc là 'ko' và kanji thu hai được đọc là 'ritsu'.",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_1_007",
+    "question": "「合併」の読み方はどれですか。",
+    "furigana": "「合併[がっぺい]」の読[よ]み方[かた]はどれですか。",
+    "romaji": "'Gappei' no yomikata wa dore desu ka.",
+    "level": "N2",
+    "category": "KANJI",
+    "options": [
+      "ごうへい",
+      "がっぺい",
+      "かっぺい",
+      "がっべい"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Cách đọc '合併' là gì?",
+    "answerExplanation": "'合併' được đọc là 'がっぺい' (gappei) ma có nghĩa là sap nhap hoac hop nhat. Kanji '合' co the duoc doc la 'gou/gatsu/ga' va '併' duoc doc la 'hei/pei'. Vi co sokuon (っ), '合' tro thanh 'ga' + っ, va '併' tro thanh 'pei' (voi su thay doi am h→p). Luu y rang lua chon がっべい sai vi phu am 'b' dung ra phai la 'p'.",
+    "hint": "Lưu ý sokuon (っ) và sự thay đổi bunyi 'h' trở thành 'p'.",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_1_008",
+    "question": "「繁栄」の読み方はどれですか。",
+    "furigana": "「繁栄[はんえい]」の読[よ]み方[かた]はどれですか。",
+    "romaji": "'Han'ei' no yomikata wa dore desu ka.",
+    "level": "N2",
+    "category": "KANJI",
+    "options": [
+      "はんよう",
+      "ばんえい",
+      "はんえい",
+      "はんかく"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Cách đọc '繁栄' là gì?",
+    "answerExplanation": "'繁栄' được đọc là 'はんえい' (han'ei) ma có nghĩa là thinh vuong hoac hung thinh. Kanji '繁' (han) co nghia la dong duc/nhieu, va '栄' (ei) co nghia la thinh vuong/hung thinh. Lua chon はんよう sai vi よう khong phai cach doc cua 栄, ばんえい sai vi 繁 duoc doc la はん khong phai ばん trong tu nay, はんかく khong lien quan.",
+    "hint": "Kanji dau tien được đọc là 'han' và kanji thu hai được đọc là 'ei'.",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_1_009",
+    "question": "「挫折」の読み方はどれですか。",
+    "furigana": "「挫折[ざせつ]」の読[よ]み方[かた]はどれですか。",
+    "romaji": "'Zasetsu' no yomikata wa dore desu ka.",
+    "level": "N2",
+    "category": "KANJI",
+    "options": [
+      "させつ",
+      "ざぜつ",
+      "ざせつ",
+      "さぜつ"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Cách đọc '挫折' là gì?",
+    "answerExplanation": "'挫折' duoc doc la 'ざせつ' (zasetsu) co nghia la that bai, nan chi, hoac bo cuoc giua chung. Kanji '挫' duoc doc la 'za' va '折' duoc doc la 'setsu'. Luu y rang '挫' dung dakuten (ざ khong phai さ), con '折' van la 'setsu' khong co dakuten. Lua chon ざぜつ sai vi 折 khong duoc doc la 'zetsu'.",
+    "hint": "Kanji dau tien co dakuten (za), con kanji thu hai thi khong (setsu).",
+    "difficultyScore": 6
+  },
+  {
+    "id": "question_n2_1_010",
+    "question": "「手配」の読み方はどれですか。",
+    "furigana": "「手配[てはい]」の読[よ]み方[かた]はどれですか。",
+    "romaji": "'Tehai' no yomikata wa dore desu ka.",
+    "level": "N2",
+    "category": "KANJI",
+    "options": [
+      "しゅはい",
+      "てぱい",
+      "てはい",
+      "てばい"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Cách đọc '手配' là gì?",
+    "answerExplanation": "'手配' được đọc là 'てはい' (tehai) ma có nghĩa là sap xep hoac chuan bi (nhu chuan bi ve, khach san, v.v.). Kanji '手' o day duoc doc la 'te' (kun'yomi), khong phai 'shu' (on'yomi). '配' duoc doc la 'hai'. Lua chon しゅはい sai vi dung on'yomi cho 手, てぱい va てばい sai vi 配 duoc doc la 'hai' khong phai 'pai' hoac 'bai'.",
+    "hint": "Kanji dau tien su dung cach doc kun'yomi ma rất umum.",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_1_011",
+    "question": "荷物が届き___、すぐにご連絡いたします。",
+    "furigana": "荷物[にもつ]が届[とど]き___、すぐにご連絡[れんらく]いたします。",
+    "romaji": "Nimotsu ga todoki ___, sugu ni go-renraku itashimasu.",
+    "level": "N2",
+    "category": "GRAMMAR",
+    "options": [
+      "次第",
+      "たとたん",
+      "がてら",
+      "ながら"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Ngay sau khi hàng hóa đến, tôi se trực tiếp liên lạc bạn.",
+    "answerExplanation": "'〜次第' (shidai) duoc noi voi the masu-stem dong tu co nghia la 'ngay khi'. Mau cau nay thuong duoc su dung trong ngon ngu trang trong/cong viec de dien ta rang hanh dong se duoc thuc hien ngay khi mot dieu kien duoc dap ung. Vi du: 届き次第 = ngay khi den. Lua chon たとたん khong the ket hop truc tiep voi masu-stem, がてら co nghia la 'nhan tien', ながら co nghia la 'trong khi/mac du'.",
+    "hint": "Mau ngu phap nay duoc dung trong ngu canh trang trong de dien ta 'ngay khi dieu gi do xay ra'.",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_1_012",
+    "question": "最近、日本語を忘れる___なので、毎日復習している。",
+    "furigana": "最近[さいきん]、日本語[にほんご]を忘[わす]れる___なので、毎日[まいにち]復習[ふくしゅう]している。",
+    "romaji": "Saikin, nihongo wo wasureru ___ na node, mainichi fukushuu shite iru.",
+    "level": "N2",
+    "category": "GRAMMAR",
+    "options": [
+      "ばかりだ",
+      "一方だ",
+      "ほどだ",
+      "くらいだ"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Gan day toi lien tuc quen tieng Nhat, nen toi on lai moi ngay.",
+    "answerExplanation": "'〜一方だ' (ippou da) duoc dung de dien ta su thay doi ma tiep tuc theo mot huong, thuong la huong tieu cuc. Mau: dong tu the kamus + 一方だ. Trong cau nay, kha nang tieng Nhat tiep tuc giam (lien tuc quen). Lua chon ばかりだ cung co the dien ta xu huong tieu cuc nhung thuong khong noi voi 'な node', ほどだ va くらいだ dien ta muc do.",
+    "hint": "Mau cau nay mo ta tinh huong ma tiep tuc thay doi theo mot huong khong dung lai.",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_1_013",
+    "question": "環境問題に対する意識は少しずつ高まり___。",
+    "furigana": "環境問題[かんきょうもんだい]に対[たい]する意識[いしき]は少[すこ]しずつ高[たか]まり___。",
+    "romaji": "Kankyou mondai ni taisuru ishiki wa sukoshi zutsu takamari ___.",
+    "level": "N2",
+    "category": "GRAMMAR",
+    "options": [
+      "かけている",
+      "つつある",
+      "っぱなしだ",
+      "きっている"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Nhan thuc doi voi van de moi truong dang trong qua trinh tang dan.",
+    "answerExplanation": "'〜つつある' (tsutsu aru) duoc dung de dien ta rang mot su thay doi dang dien ra dan dan. Mau: masu-stem + つつある. Cau nay mo ta nhan thuc moi truong dang trong qua trinh tang. Lua chon かけている co nghia la 'gan/nua chung', っぱなしだ co nghia la 'de mac', きっている co nghia la 'hoan toan/da hoan tat'.",
+    "hint": "Mau cau nay dien ta qua trinh thay doi dang dien ra dan dan.",
+    "difficultyScore": 6
+  },
+  {
+    "id": "question_n2_1_014",
+    "question": "卒業___、お世話になった先生方に感謝の言葉を述べたいと思います。",
+    "furigana": "卒業[そつぎょう]___、お世話[せわ]になった先生方[せんせいがた]に感謝[かんしゃ]の言葉[ことば]を述[の]べたいと思[おも]います。",
+    "romaji": "Sotsugyou ___, osewa ni natta sensei-gata ni kansha no kotoba wo nobetai to omoimasu.",
+    "level": "N2",
+    "category": "GRAMMAR",
+    "options": [
+      "に関して",
+      "に対して",
+      "に際して",
+      "について"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Vao dip tot nghiep nay, toi muon gui loi cam on den cac thay co da huong dan toi.",
+    "answerExplanation": "'〜に際して' (ni saishite) có nghĩa là 'vao dip' hoac 'vao luc' mot su kien quan trong xay ra. Mau cau nay duoc dung trong ngu canh trang trong. Lua chon に関して co nghia la 've/lien quan den', に対して co nghia la 'doi voi', について co nghia la 've'. Chi に際して moi phu hop de dien ta 'vao dip/vao luc tot nghiep'.",
+    "hint": "Mau cau nay duoc dung cho thoi diem hoac su kien quan trong trong ngu canh trang trong.",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_1_015",
+    "question": "証拠がこれだけある以上、事実を認め___。",
+    "furigana": "証拠[しょうこ]がこれだけある以上[いじょう]、事実[じじつ]を認[みと]め___。",
+    "romaji": "Shouko ga kore dake aru ijou, jijitsu wo mitome ___.",
+    "level": "N2",
+    "category": "GRAMMAR",
+    "options": [
+      "てはいけない",
+      "なくてもいい",
+      "ざるを得ない",
+      "ないでほしい"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Voi nhieu bang chung nhu vay, bat buoc phai thua nhan su that.",
+    "answerExplanation": "'〜ざるを得ない' (zaru wo enai) co nghia la 'bat buoc phai' hoac 'khong the khong lam'. Mau: ない-stem (bo ない) + ざるを得ない. Dong tu する tro thanh せざるを得ない. Trong cau nay, vi bang chung da du nhieu, khong co lua chon nao khac ngoai viec thua nhan su that. Lua chon てはいけない = khong duoc phep, なくてもいい = khong can, ないでほしい = xin dung.",
+    "hint": "Mau cau nay dien ta su bat buoc — khong co lua chon nao khac ngoai viec lam dieu do.",
+    "difficultyScore": 7
+  },
+  {
+    "id": "question_n2_1_016",
+    "question": "何度も話し合いを重ねた___、ようやく全員が納得する結論に達した。",
+    "furigana": "何度[なんど]も話[はな]し合[あ]いを重[かさ]ねた___、ようやく全員[ぜんいん]が納得[なっとく]する結論[けつろん]に達[たっ]した。",
+    "romaji": "Nando mo hanashiai wo kasaneta ___, youyaku zen'in ga nattoku suru ketsuron ni tasshita.",
+    "level": "N2",
+    "category": "GRAMMAR",
+    "options": [
+      "ところで",
+      "ついでに",
+      "末に",
+      "最中に"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Sau khi trai qua nhieu cuoc thao luan, cuoi cung dat duoc ket luan lam hai long tat ca moi nguoi.",
+    "answerExplanation": "'〜末に' (sue ni) co nghia la 'cuoi cung sau khi trai qua qua trinh dai'. Mau: dong tu the た/名詞の + 末に. Sac thai mau nay nhan manh rang qua trinh truoc do dai va day no luc. Lua chon ところで = nhan tien, ついでに = tien the, 最中に = dang giua luc (dang dien ra).",
+    "hint": "Mau cau nay nhan manh ket qua cuoi cung sau khi trai qua qua trinh dai va met moi.",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_1_017",
+    "question": "台風___、本日の午後のフライトはすべて欠航となりました。",
+    "furigana": "台風[たいふう]___、本日[ほんじつ]の午後[ごご]のフライトはすべて欠航[けっこう]となりました。",
+    "romaji": "Taifuu ___, honjitsu no gogo no furaito wa subete kekkou to narimashita.",
+    "level": "N2",
+    "category": "GRAMMAR",
+    "options": [
+      "のおかげで",
+      "のせいで",
+      "の影響で",
+      "のもとで"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Do anh huong cua bao, tat ca cac chuyen bay chieu nay bi huy.",
+    "answerExplanation": "'〜の影響で' (no eikyou de) co nghia la 'do anh huong/tac dong tu'. Mau cau nay duoc su dung mot cach trung lap de dien ta nhan qua, dac biet trong tin tuc hoac thong bao chinh thuc. Lua chon のおかげで duoc dung cho tac dong tich cuc (nho co), のせいで duoc dung de do loi (tai vi) — ca hai chu quan hon. のもとで co nghia la 'duoi su (huong dan/lanh dao)'. の影響で trung lap hon va phu hop cho ngu canh thong bao chinh thuc.",
+    "hint": "Cach dien dat trung lap thuong duoc su dung trong tin tuc de dien ta tac dong cua su kien.",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_1_018",
+    "question": "（読解）次の文章を読んで、質問に答えてください。\n\n近年、日本では少子化が急速に進んでおり、社会全体に深刻な影響を与えている。出生率の低下により、将来の労働力が不足することが懸念されている。政府は子育て支援策を強化し、育児休暇の拡充や保育施設の増設を進めているが、効果はまだ限定的である。経済学者の中には、少子化の最大の問題は年金制度の維持が困難になることだと指摘する声もある。若い世代の負担が増加し、社会保障制度全体の見直しが求められている。\n\n質問：この文章で少子化の最大の懸念として挙げられているのは何か。",
+    "furigana": "（読解[どっかい]）次[つぎ]の文章[ぶんしょう]を読[よ]んで、質問[しつもん]に答[こた]えてください。\n\n近年[きんねん]、日本[にほん]では少子化[しょうしか]が急速[きゅうそく]に進[すす]んでおり、社会全体[しゃかいぜんたい]に深刻[しんこく]な影響[えいきょう]を与[あた]えている。出生率[しゅっしょうりつ]の低下[ていか]により、将来[しょうらい]の労働力[ろうどうりょく]が不足[ふそく]することが懸念[けねん]されている。政府[せいふ]は子育[こそだ]て支援策[しえんさく]を強化[きょうか]し、育児休暇[いくじきゅうか]の拡充[かくじゅう]や保育施設[ほいくしせつ]の増設[ぞうせつ]を進[すす]めているが、効果[こうか]はまだ限定的[げんていてき]である。経済学者[けいざいがくしゃ]の中[なか]には、少子化[しょうしか]の最大[さいだい]の問題[もんだい]は年金制度[ねんきんせいど]の維持[いじ]が困難[こんなん]になることだと指摘[してき]する声[こえ]もある。若[わか]い世代[せだい]の負担[ふたん]が増加[ぞうか]し、社会保障制度[しゃかいほしょうせいど]全体[ぜんたい]の見直[みなお]しが求[もと]められている。\n\n質問[しつもん]：この文章[ぶんしょう]で少子化[しょうしか]の最大[さいだい]の懸念[けねん]として挙[あ]げられているのは何[なに]か。",
+    "romaji": "(Dokkai) Tsugi no bunshou wo yonde, shitsumon ni kotaete kudasai.\n\nKinnen, Nihon dewa shoushika ga kyuusoku ni susunde ori, shakai zentai ni shinkoku na eikyou wo ataete iru. Shusshouritsu no teika ni yori, shourai no roudouryoku ga fusoku suru koto ga kenen sarete iru. Seifu wa kosodate shien-saku wo kyouka shi, ikuji kyuuka no kakujuu ya hoiku shisetsu no zousetsu wo susumete iru ga, kouka wa mada genteiteki de aru. Keizai gakusha no naka ni wa, shoushika no saidai no mondai wa nenkin seido no iji ga konnan ni naru koto da to shiteki suru koe mo aru. Wakai sedai no futan ga zouka shi, shakai hoshou seido zentai no minaoshi ga motomerarete iru.\n\nShitsumon: Kono bunshou de shoushika no saidai no kenen toshite agerarete iru no wa nani ka.",
+    "level": "N2",
+    "category": "READING",
+    "options": [
+      "保育施設が足りないこと",
+      "若者が結婚しなくなったこと",
+      "年金制度の維持が困難になること",
+      "外国人労働者が増えていること"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "(Doc hieu) Doc van ban sau day va tra loi cau hoi.\n\nGan day, ty le sinh giam (shoushika) o Nhat Ban phat trien nhanh chong va gay ra tac dong nghiem trong cho toan xa hoi. Ty le sinh giam gay ra lo ngai ve thieu hut luc luong lao dong trong tuong lai. Chinh phu tang cuong chinh sach ho tro nuoi day con, mo rong nghi thai san, va tang co so giu tre, nhung hieu qua van con han che. Co mot so nha kinh te cho thay van de lon nhat tu shoushika la kho khan trong viec duy tri he thong luong huu. Ganh nang the he tre tang, va viec xem xet lai toan bo he thong bao hiem xa hoi duoc yeu cau.\n\nCau hoi: Lo ngai lon nhat lien quan den shoushika duoc de cap trong van ban nay la gi?",
+    "answerExplanation": "Van ban de cap rang nha kinh te cho thay van de lon nhat (最大の問題) tu shoushika la kho khan trong viec duy tri he thong luong huu (年金制度の維持が困難になること). Lua chon 保育施設が足りない duoc de cap nhu la mot trong nhung no luc cua chinh phu, khong phai la lo ngai lon nhat. Lua chon ve ket hon va lao dong nuoc ngoai khong duoc de cap trong van ban.",
+    "hint": "Tim cum tu '最大の問題は' trong van ban de tim cau tra loi.",
+    "difficultyScore": 6
+  },
+  {
+    "id": "question_n2_1_019",
+    "question": "（読解）次のメールを読んで、質問に答えてください。\n\n社員各位\n\n人事部よりお知らせいたします。来月より、当社の福利厚生制度が一部変更されます。これまで年間5日間だった有給のボランティア休暇が、10日間に拡充されます。また、新たにリモートワーク手当として月額5,000円が支給されることになりました。なお、従来の通勤手当については、リモートワークを主とする社員は実費精算に変更となります。詳細は社内ポータルをご確認ください。\n\n人事部　山田\n\n質問：このメールによると、新しく導入される制度は何か。",
+    "furigana": "（読解[どっかい]）次[つぎ]のメールを読[よ]んで、質問[しつもん]に答[こた]えてください。\n\n社員各位[しゃいんかくい]\n\n人事部[じんじぶ]よりお知[し]らせいたします。来月[らいげつ]より、当社[とうしゃ]の福利厚生制度[ふくりこうせいせいど]が一部変更[いちぶへんこう]されます。これまで年間[ねんかん]5日間[いつかかん]だった有給[ゆうきゅう]のボランティア休暇[きゅうか]が、10日間[とおかかん]に拡充[かくじゅう]されます。また、新[あら]たにリモートワーク手当[てあて]として月額[げつがく]5,000円[えん]が支給[しきゅう]されることになりました。なお、従来[じゅうらい]の通勤手当[つうきんてあて]については、リモートワークを主[しゅ]とする社員[しゃいん]は実費精算[じっぴせいさん]に変更[へんこう]となります。詳細[しょうさい]は社内[しゃない]ポータルをご確認[かくにん]ください。\n\n人事部[じんじぶ]　山田[やまだ]\n\n質問[しつもん]：このメールによると、新[あたら]しく導入[どうにゅう]される制度[せいど]は何[なに]か。",
+    "romaji": "(Dokkai) Tsugi no meeru wo yonde, shitsumon ni kotaete kudasai.\n\nShain kakui\n\nJinjibu yori oshirase itashimasu. Raigetsu yori, tousha no fukuri kousei seido ga ichibu henkou saremasu. Kore made nenkan itsuka-kan datta yuukyuu no borantia kyuuka ga, tooka-kan ni kakujuu saremasu. Mata, arata ni rimooto waaku teate toshite getsugaku go-sen en ga shikyuu sareru koto ni narimashita. Nao, juurai no tsuukin teate ni tsuite wa, rimooto waaku wo shu to suru shain wa jippi seisan ni henkou to narimasu. Shousai wa shanai pootaru wo go-kakunin kudasai.\n\nJinjibu Yamada\n\nShitsumon: Kono meeru ni yoru to, atarashiku dounyuu sareru seido wa nani ka.",
+    "level": "N2",
+    "category": "READING",
+    "options": [
+      "通勤手当の廃止",
+      "ボランティア休暇の廃止",
+      "リモートワーク手当の支給",
+      "有給休暇の削減"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "(Doc hieu) Doc email sau day va tra loi cau hoi.\n\nGui toan the nhan vien,\n\nPhong nhan su thong bao rang tu thang toi, mot phan he thong phuc loi cong ty se duoc thay doi. Nghi phep tinh nguyen co luong truoc day la 5 ngay moi nam se duoc mo rong thanh 10 ngay. Ngoai ra, phu cap lam viec tu xa (remote work) 5.000 yen moi thang se bat dau duoc cap. Ve phu cap di lai da co, doi voi nhan vien chu yeu lam viec tu xa, se duoc thay doi thanh thanh toan theo chi phi thuc te. Vui long kiem tra cong thong tin noi bo de biet chi tiet.\n\nPhong nhan su, Yamada\n\nCau hoi: Theo email nay, he thong nao moi duoc gioi thieu?",
+    "answerExplanation": "Email de cap '新たにリモートワーク手当として月額5,000円が支給されることになりました' co nghia la phu cap lam viec tu xa 5.000 yen moi thang la dieu MOI duoc gioi thieu. Nghi phep tinh nguyen duoc mo rong (khong phai bi huy bo), phu cap di lai duoc thay doi (khong phai bi huy bo), va khong co viec giam nghi phep co luong. Tu khoa '新たに' (arata ni = moi) cho thay la chinh sach moi.",
+    "hint": "Luu y tu '新たに' (moi) trong email de tim chinh sach thuc su moi.",
+    "difficultyScore": 6
+  },
+  {
+    "id": "question_n2_1_020",
+    "question": "（読解）次の文章を読んで、質問に答えてください。\n\n現代社会において、ボランティア活動の重要性がますます高まっている。ボランティアは単に困っている人を助けるだけでなく、参加者自身にも大きな成長をもたらすものである。異なる背景を持つ人々と協力することで、視野が広がり、コミュニケーション能力も向上する。しかし、日本では欧米に比べてボランティア参加率がまだ低いのが現状だ。筆者は、ボランティア活動の本当の価値は、社会を変える力ではなく、自分自身の価値観を見つめ直す機会にあると考えている。他者のために行動することで、自分が本当に大切にしたいものが見えてくるのである。\n\n質問：筆者が考えるボランティア活動の本当の価値は何か。",
+    "furigana": "（読解[どっかい]）次[つぎ]の文章[ぶんしょう]を読[よ]んで、質問[しつもん]に答[こた]えてください。\n\n現代社会[げんだいしゃかい]において、ボランティア活動[かつどう]の重要性[じゅうようせい]がますます高[たか]まっている。ボランティアは単[たん]に困[こま]っている人[ひと]を助[たす]けるだけでなく、参加者自身[さんかしゃじしん]にも大[おお]きな成長[せいちょう]をもたらすものである。異[こと]なる背景[はいけい]を持[も]つ人々[ひとびと]と協力[きょうりょく]することで、視野[しや]が広[ひろ]がり、コミュニケーション能力[のうりょく]も向上[こうじょう]する。しかし、日本[にほん]では欧米[おうべい]に比[くら]べてボランティア参加率[さんかりつ]がまだ低[ひく]いのが現状[げんじょう]だ。筆者[ひっしゃ]は、ボランティア活動[かつどう]の本当[ほんとう]の価値[かち]は、社会[しゃかい]を変[か]える力[ちから]ではなく、自分自身[じぶんじしん]の価値観[かちかん]を見[み]つめ直[なお]す機会[きかい]にあると考[かんが]えている。他者[たしゃ]のために行動[こうどう]することで、自分[じぶん]が本当[ほんとう]に大切[たいせつ]にしたいものが見[み]えてくるのである。\n\n質問[しつもん]：筆者[ひっしゃ]が考[かんが]えるボランティア活動[かつどう]の本当[ほんとう]の価値[かち]は何[なに]か。",
+    "romaji": "(Dokkai) Tsugi no bunshou wo yonde, shitsumon ni kotaete kudasai.\n\nGendai shakai ni oite, borantia katsudou no juuyousei ga masumasu takamatte iru. Borantia wa tan ni komatte iru hito wo tasukeru dake de naku, sankasha jishin ni mo ookina seichou wo motarasu mono de aru. Kotonaru haikei wo motsu hitobito to kyouryoku suru koto de, shiya ga hirogari, komyunikeeshon nouryoku mo koujou suru. Shikashi, Nihon dewa oubei ni kurabete borantia sanka-ritsu ga mada hikui no ga genjou da. Hissha wa, borantia katsudou no hontou no kachi wa, shakai wo kaeru chikara de wa naku, jibun jishin no kachikan wo mitsumeNaosu kikai ni aru to kangaete iru. Tasha no tame ni koudou suru koto de, jibun ga hontou ni taisetsu ni shitai mono ga miete kuru no de aru.\n\nShitsumon: Hissha ga kangaeru borantia katsudou no hontou no kachi wa nani ka.",
+    "level": "N2",
+    "category": "READING",
+    "options": [
+      "困っている人を直接助けること",
+      "コミュニケーション能力が向上すること",
+      "自分自身の価値観を見つめ直す機会になること",
+      "社会全体を大きく変える力があること"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "(Doc hieu) Doc van ban sau day va tra loi cau hoi.\n\nTrong xa hoi hien dai, tam quan trong cua hoat dong tinh nguyen ngay cang tang. Hoat dong tinh nguyen khong chi don thuan giup do nguoi gap kho khan, ma con mang lai su truong thanh lon cho chinh nguoi tham gia. Bang cach hop tac voi nhung nguoi tu nhieu nen tang khac nhau, tam nhin duoc mo rong va kha nang giao tiep cung tang. Tuy nhien, o Nhat Ban, ty le tham gia tinh nguyen van thap so voi cac nuoc phuong Tay. Tac gia cho rang gia tri that su cua hoat dong tinh nguyen khong phai la suc manh de thay doi xa hoi, ma la co hoi de nhin lai gia tri ban than minh. Bang cach hanh dong vi nguoi khac, chung ta co the nhin thay dieu ma minh that su muon tran trong.\n\nCau hoi: Theo tac gia, gia tri that su cua hoat dong tinh nguyen la gi?",
+    "answerExplanation": "Tac gia dien ta ro rang rang gia tri that su cua hoat dong tinh nguyen la '自分自身の価値観を見つめ直す機会' (co hoi de nhin lai gia tri ban than minh). Tac gia tham chi khang dinh rang gia tri do KHONG PHAI la suc manh thay doi xa hoi ('社会を変える力ではなく'). Lua chon ve giup do nguoi khac va tang kha nang giao tiep duoc de cap trong van ban, nhung khong phai la 'gia tri that su' theo tac gia.",
+    "hint": "Tim cau bat dau bang '筆者は' de tim y kien tac gia ve gia tri that su.",
+    "difficultyScore": 7
+  },
+  {
+    "id": "question_n2_1_021",
+    "question": "この問題___、専門家の意見を聞く必要がある。",
+    "furigana": "この問題[もんだい]___、専門家[せんもんか]の意見[いけん]を聞[き]く必要[ひつよう]がある。",
+    "romaji": "Kono mondai ___, senmonka no iken wo kiku hitsuyou ga aru.",
+    "level": "N2",
+    "category": "GRAMMAR",
+    "options": [
+      "に関して",
+      "にとって",
+      "について",
+      "に応じて"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Liên quan đến vấn đề này, cần phải lắng nghe ý kiến của các chuyên gia.",
+    "answerExplanation": "'～に関して' (ni kanshite) có nghĩa là 'liên quan đến' hoặc 'về', được sử dụng trong ngữ cảnh trang trọng để chỉ chủ đề đang được thảo luận. Khác với 'について' mang tính chung hơn, 'に関して' trang trọng hơn và thường dùng trong văn bản chính thức. 'にとって' có nghĩa là 'đối với', 'に応じて' có nghĩa là 'tùy theo'.",
+    "hint": "Liên từ trang trọng có nghĩa là 'liên quan đến' hoặc 'về' một chủ đề.",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_1_022",
+    "question": "努力した___、結果は思わしくなかった。",
+    "furigana": "努力[どりょく]した___、結果[けっか]は思[おも]わしくなかった。",
+    "romaji": "Doryoku shita ___, kekka wa omowashiku nakatta.",
+    "level": "N2",
+    "category": "GRAMMAR",
+    "options": [
+      "にもかかわらず",
+      "に関して",
+      "において",
+      "にしたがって"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Mặc dù đã nỗ lực, kết quả vẫn không như mong đợi.",
+    "answerExplanation": "'～にもかかわらず' (nimo kakawarazu) có nghĩa là 'mặc dù' hoặc 'bất chấp', chỉ ra rằng kết quả khác với những gì được mong đợi dựa trên điều kiện trước đó. Mẫu câu này trang trọng hơn 'のに'. 'に関して' nghĩa là 'về', 'において' nghĩa là 'tại/trong', 'にしたがって' nghĩa là 'theo'.",
+    "hint": "Mẫu ngữ pháp trang trọng thể hiện sự tương phản giữa nỗ lực và kết quả không như mong đợi.",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_1_023",
+    "question": "地球温暖化の影響で、氷河は縮小し___。",
+    "furigana": "地球[ちきゅう]温暖化[おんだんか]の影響[えいきょう]で、氷河[ひょうが]は縮小[しゅくしょう]し___。",
+    "romaji": "Chikyuu ondanka no eikyou de, hyouga wa shukushou shi ___.",
+    "level": "N2",
+    "category": "GRAMMAR",
+    "options": [
+      "がちだ",
+      "つつある",
+      "っぽい",
+      "かねない"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Do hiệu ứng nóng lên toàn cầu, các sông băng đang dần thu hẹp lại.",
+    "answerExplanation": "'～つつある' (tsutsu aru) có nghĩa là 'đang trong quá trình' hoặc 'dần dần', chỉ sự thay đổi đang diễn ra từ từ. Thích hợp để mô tả các hiện tượng tự nhiên đang thay đổi dần. 'がちだ' nghĩa là 'hay có xu hướng', 'っぽい' nghĩa là 'có vẻ như', 'かねない' nghĩa là 'có thể xảy ra (tiêu cực)'.",
+    "hint": "Mẫu câu mô tả sự thay đổi dần dần đang diễn ra.",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_1_024",
+    "question": "この研究は社会の___に大きく貢献するものと期待されている。",
+    "furigana": "この研究[けんきゅう]は社会[しゃかい]の___に大[おお]きく貢献[こうけん]するものと期待[きたい]されている。",
+    "romaji": "Kono kenkyuu wa shakai no ___ ni ookiku kouken suru mono to kitai sarete iru.",
+    "level": "N2",
+    "category": "VOCABULARY",
+    "options": [
+      "発展",
+      "反省",
+      "撤退",
+      "崩壊"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Nghiên cứu này được kỳ vọng sẽ đóng góp lớn cho ___ xã hội.",
+    "answerExplanation": "'発展' (hatten) có nghĩa là phát triển hoặc tiến bộ. Trong ngữ cảnh này, nghiên cứu được kỳ vọng sẽ đóng góp cho sự phát triển của xã hội. '反省' có nghĩa là tự kiểm điểm, '撤退' có nghĩa là rút lui, '崩壊' có nghĩa là sụp đổ — tất cả đều không phù hợp với ngữ cảnh tích cực của câu.",
+    "hint": "Từ có nghĩa là tiến bộ hoặc phát triển theo hướng tích cực.",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_1_025",
+    "question": "会議で様々な案を___した結果、最善の方法が見つかった。",
+    "furigana": "会議[かいぎ]で様々[さまざま]な案[あん]を___した結果[けっか]、最善[さいぜん]の方法[ほうほう]が見[み]つかった。",
+    "romaji": "Kaigi de samazama na an wo ___ shita kekka, saizen no houhou ga mitsukatta.",
+    "level": "N2",
+    "category": "VOCABULARY",
+    "options": [
+      "検討",
+      "中断",
+      "放棄",
+      "延期"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Sau khi ___ các phương án khác nhau trong cuộc họp, phương pháp tốt nhất đã được tìm ra.",
+    "answerExplanation": "'検討' (kentou) có nghĩa là xem xét hoặc cân nhắc kỹ lưỡng. Trong bối cảnh cuộc họp, các phương án khác nhau đã được xem xét cẩn thận, từ đó tìm ra phương pháp tốt nhất. '中断' có nghĩa là gián đoạn, '放棄' có nghĩa là từ bỏ, '延期' có nghĩa là hoãn lại.",
+    "hint": "Từ có nghĩa là xem xét hoặc cân nhắc điều gì đó một cách kỹ lưỡng.",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_1_026",
+    "question": "両国間の関係___のために、首脳会談が行われた。",
+    "furigana": "両国間[りょうこくかん]の関係[かんけい]___のために、首脳[しゅのう]会談[かいだん]が行[おこな]われた。",
+    "romaji": "Ryoukokukan no kankei ___ no tame ni, shunou kaidan ga okonawareta.",
+    "level": "N2",
+    "category": "VOCABULARY",
+    "options": [
+      "悪化",
+      "改善",
+      "破綻",
+      "停止"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Hội nghị thượng đỉnh đã được tổ chức để ___ quan hệ giữa hai nước.",
+    "answerExplanation": "'改善' (kaizen) có nghĩa là cải thiện hoặc nâng cao chất lượng. Hội nghị thượng đỉnh được tổ chức để cải thiện quan hệ giữa hai nước. '悪化' có nghĩa là xấu đi, '破綻' có nghĩa là sụp đổ, '停止' có nghĩa là dừng lại — tất cả đều tiêu cực và không phù hợp với mục đích tổ chức hội nghị.",
+    "hint": "Từ có nghĩa là làm cho điều gì đó tốt hơn so với tình trạng trước đó.",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_1_027",
+    "question": "「環境保護」の正しい読み方はどれですか。",
+    "furigana": "「環境保護[かんきょうほご]」の正[ただ]しい読[よ]み方[かた]はどれですか。",
+    "romaji": "'Kankyou hogo' no tadashii yomikata wa dore desu ka.",
+    "level": "N2",
+    "category": "KANJI",
+    "options": [
+      "かんきょうほご",
+      "かんけいほご",
+      "かんきょうほしゅ",
+      "げんきょうほご"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Cách đọc đúng của '環境保護' là gì?",
+    "answerExplanation": "'環境保護' được đọc là 'かんきょうほご' (kankyou hogo), có nghĩa là bảo vệ môi trường. '環境' (kankyou) = môi trường, '保護' (hogo) = bảo vệ. Các lựa chọn khác sai: 'かんけい' là cách đọc của 関係 (quan hệ), 'ほしゅ' là cách đọc của 保守 (bảo thủ), 'げんきょう' là cách đọc của 現況 (tình hình hiện tại).",
+    "hint": "Sự kết hợp của hai từ kanji: môi trường + bảo vệ.",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_1_028",
+    "question": "「経済発展」の正しい読み方はどれですか。",
+    "furigana": "「経済発展[けいざいはってん]」の正[ただ]しい読[よ]み方[かた]はどれですか。",
+    "romaji": "'Keizai hatten' no tadashii yomikata wa dore desu ka.",
+    "level": "N2",
+    "category": "KANJI",
+    "options": [
+      "けいざいはつてん",
+      "けいざいはってん",
+      "けいさいはってん",
+      "きざいはってん"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Cách đọc đúng của '経済発展' là gì?",
+    "answerExplanation": "'経済発展' được đọc là 'けいざいはってん' (keizai hatten), có nghĩa là phát triển kinh tế. Lưu ý rằng '発展' được đọc là 'はってん' với phụ âm đôi (促音), không phải 'はつてん'. '経済' được đọc là 'けいざい', không phải 'けいさい' (cách đọc của 掲載 = đăng tải) hay 'きざい' (không phổ biến).",
+    "hint": "Chú ý phụ âm đôi (促音) trong từ thứ hai.",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_1_029",
+    "question": "（読解）次の文章を読んで、質問に答えてください。\n\n近年、企業における働き方改革が急速に進んでいる。特に注目されているのは、フレックスタイム制度の導入である。この制度に関して、ある調査によると、導入企業の約70％が「従業員の満足度が向上した」と回答している。にもかかわらず、導入に慎重な企業も少なくない。その理由として、チーム間のコミュニケーション不足や、勤務時間の管理が難しくなることが挙げられている。専門家は、制度の成功には、明確なルール設定と定期的な見直しが不可欠だと指摘している。\n\n質問：フレックスタイム制度の導入に慎重な企業が懸念していることは何か。",
+    "furigana": "（読解[どっかい]）次[つぎ]の文章[ぶんしょう]を読[よ]んで、質問[しつもん]に答[こた]えてください。\n\n近年[きんねん]、企業[きぎょう]における働[はたら]き方[かた]改革[かいかく]が急速[きゅうそく]に進[すす]んでいる。特[とく]に注目[ちゅうもく]されているのは、フレックスタイム制度[せいど]の導入[どうにゅう]である。この制度[せいど]に関[かん]して、ある調査[ちょうさ]によると、導入[どうにゅう]企業[きぎょう]の約[やく]70％が「従業員[じゅうぎょういん]の満足度[まんぞくど]が向上[こうじょう]した」と回答[かいとう]している。にもかかわらず、導入[どうにゅう]に慎重[しんちょう]な企業[きぎょう]も少[すく]なくない。その理由[りゆう]として、チーム間[かん]のコミュニケーション不足[ぶそく]や、勤務[きんむ]時間[じかん]の管理[かんり]が難[むずか]しくなることが挙[あ]げられている。専門家[せんもんか]は、制度[せいど]の成功[せいこう]には、明確[めいかく]なルール設定[せってい]と定期的[ていきてき]な見直[みなお]しが不可欠[ふかけつ]だと指摘[してき]している。\n\n質問[しつもん]：フレックスタイム制度[せいど]の導入[どうにゅう]に慎重[しんちょう]な企業[きぎょう]が懸念[けねん]していることは何[なに]か。",
+    "romaji": "(Dokkai) Tsugi no bunshou wo yonde, shitsumon ni kotaete kudasai.\n\nKinnen, kigyou ni okeru hatarakikata kaikaku ga kyuusoku ni susunde iru. Toku ni chuumoku sarete iru no wa, furekkusu taimu seido no dounyuu de aru. Kono seido ni kanshite, aru chousa ni yoru to, dounyuu kigyou no yaku 70% ga 'juugyouin no manzokudo ga koujou shita' to kaitou shite iru. Nimo kakawarazu, dounyuu ni shinchou na kigyou mo sukunaku nai. Sono riyuu to shite, chiimu kan no komyunikeeshon busoku ya, kinmu jikan no kanri ga muzukashiku naru koto ga agerarete iru. Senmonka wa, seido no seikou ni wa, meikaku na ruuru settei to teikiteki na minaoshi ga fukaketsu da to shiteki shite iru.\n\nShitsumon: Furekkusu taimu seido no dounyuu ni shinchou na kigyou ga kenen shite iru koto wa nani ka.",
+    "level": "N2",
+    "category": "READING",
+    "options": [
+      "従業員の満足度が低下すること",
+      "コミュニケーション不足と勤務時間管理の困難さ",
+      "導入コストが高すぎること",
+      "従業員の離職率が上がること"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "(Đọc hiểu) Hãy đọc đoạn văn sau và trả lời câu hỏi.\n\nTrong những năm gần đây, cải cách phong cách làm việc trong các doanh nghiệp đang tiến triển nhanh chóng. Đáng chú ý nhất là việc áp dụng chế độ giờ làm việc linh hoạt. Về chế độ này, theo một khảo sát, khoảng 70% doanh nghiệp đã áp dụng trả lời rằng 'mức độ hài lòng của nhân viên đã tăng lên'. Mặc dù vậy, không ít doanh nghiệp vẫn thận trọng trong việc áp dụng. Lý do được nêu ra bao gồm thiếu giao tiếp giữa các nhóm và khó quản lý giờ làm việc. Các chuyên gia chỉ ra rằng việc thiết lập quy tắc rõ ràng và đánh giá định kỳ là không thể thiếu cho sự thành công của chế độ này.\n\nCâu hỏi: Các doanh nghiệp thận trọng về việc áp dụng chế độ giờ làm linh hoạt lo ngại điều gì?",
+    "answerExplanation": "Văn bản đề cập đến hai lý do doanh nghiệp thận trọng: 'thiếu giao tiếp giữa các nhóm' và 'khó quản lý giờ làm việc'. Lựa chọn về giảm mức hài lòng của nhân viên mâu thuẫn với dữ liệu khảo sát 70%. Chi phí áp dụng và tỷ lệ nghỉ việc không được đề cập trong văn bản.",
+    "hint": "Tìm câu sau 'その理由として' để tìm những lo ngại được đề cập.",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_1_030",
+    "question": "（読解）次のお知らせを読んで、質問に答えてください。\n\n市民の皆様へ\n\n来月より、市立図書館の利用規則が一部変更されます。これまで貸出期間は2週間でしたが、新制度では3週間に延長されます。ただし、新刊書籍に関しては、多くの方にご利用いただくため、従来通り2週間とします。また、予約制度に関して、これまで一度に5冊まで予約可能でしたが、3冊に変更されます。にもかかわらず、貸出冊数の上限は10冊のまま変更ありません。なお、延滞料金については、1日あたり10円から20円に引き上げられますのでご注意ください。\n\n質問：新しい規則で変更されないものはどれですか。",
+    "furigana": "（読解[どっかい]）次[つぎ]のお知[し]らせを読[よ]んで、質問[しつもん]に答[こた]えてください。\n\n市民[しみん]の皆様[みなさま]へ\n\n来月[らいげつ]より、市立[しりつ]図書館[としょかん]の利用[りよう]規則[きそく]が一部[いちぶ]変更[へんこう]されます。これまで貸出[かしだし]期間[きかん]は2週間[しゅうかん]でしたが、新[しん]制度[せいど]では3週間[しゅうかん]に延長[えんちょう]されます。ただし、新刊[しんかん]書籍[しょせき]に関[かん]しては、多[おお]くの方[かた]にご利用[りよう]いただくため、従来[じゅうらい]通[どお]り2週間[しゅうかん]とします。また、予約[よやく]制度[せいど]に関[かん]して、これまで一度[いちど]に5冊[さつ]まで予約[よやく]可能[かのう]でしたが、3冊[さつ]に変更[へんこう]されます。にもかかわらず、貸出[かしだし]冊数[さっすう]の上限[じょうげん]は10冊[さつ]のまま変更[へんこう]ありません。なお、延滞[えんたい]料金[りょうきん]については、1日[にち]あたり10円[えん]から20円[えん]に引[ひ]き上[あ]げられますのでご注意[ちゅうい]ください。\n\n質問[しつもん]：新[あたら]しい規則[きそく]で変更[へんこう]されないものはどれですか。",
+    "romaji": "(Dokkai) Tsugi no oshirase wo yonde, shitsumon ni kotaete kudasai.\n\nShimin no minasama e\n\nRaigetsu yori, shiritsu toshokan no riyou kisoku ga ichibu henkou saremasu. Kore made kashidashi kikan wa 2 shuukan deshita ga, shin seido dewa 3 shuukan ni enchou saremasu. Tadashi, shinkan shoseki ni kanshite wa, ooku no kata ni goriyou itadaku tame, juurai doori 2 shuukan to shimasu. Mata, yoyaku seido ni kanshite, kore made ichido ni 5 satsu made yoyaku kanou deshita ga, 3 satsu ni henkou saremasu. Nimo kakawarazu, kashidashi sassuu no jougen wa 10 satsu no mama henkou arimasen. Nao, entai ryoukin ni tsuite wa, 1 nichi atari 10 en kara 20 en ni hikiageraremasu node gochuui kudasai.\n\nShitsumon: Atarashii kisoku de henkou sarenai mono wa dore desu ka.",
+    "level": "N2",
+    "category": "READING",
+    "options": [
+      "一般書籍の貸出期間",
+      "予約可能冊数",
+      "貸出冊数の上限",
+      "延滞料金"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "(Đọc hiểu) Hãy đọc thông báo sau và trả lời câu hỏi.\n\nGửi tới toàn thể cư dân thành phố,\n\nBắt đầu từ tháng sau, một số quy tắc sử dụng thư viện thành phố sẽ được thay đổi. Thời hạn mượn sách trước đây là 2 tuần sẽ được kéo dài thành 3 tuần. Tuy nhiên, đối với sách mới xuất bản, để nhiều người có thể sử dụng, vẫn giữ nguyên 2 tuần như trước. Ngoài ra, về hệ thống đặt trước, trước đây có thể đặt tối đa 5 cuốn một lần, sẽ thay đổi thành 3 cuốn. Mặc dù vậy, giới hạn tối đa số sách mượn vẫn không thay đổi ở mức 10 cuốn. Xin lưu ý rằng phí trễ hạn sẽ được tăng từ 10 yên lên 20 yên mỗi ngày.\n\nCâu hỏi: Điều gì KHÔNG thay đổi theo quy tắc mới?",
+    "answerExplanation": "Văn bản nêu rõ 'giới hạn tối đa số sách mượn vẫn không thay đổi ở mức 10 cuốn'. Thời hạn mượn chung thay đổi từ 2 lên 3 tuần, giới hạn đặt trước thay đổi từ 5 xuống 3 cuốn, và phí trễ hạn tăng từ 10 lên 20 yên.",
+    "hint": "Tìm câu chứa '変更ありません' (không thay đổi).",
+    "difficultyScore": 4
+  }
+]

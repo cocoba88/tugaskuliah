@@ -1,0 +1,382 @@
+[
+  {
+    "id": "question_n1_2_001",
+    "question": "両チームの実力は___しており、最後まで勝敗が分からなかった。",
+    "furigana": "両[りょう]チームの実力[じつりょく]は___しており、最後[さいご]まで勝敗[しょうはい]が分[わ]からなかった。",
+    "romaji": "Ryou chiimu no jitsuryoku wa ___ shite ori, saigo made shouhai ga wakaranakatta.",
+    "level": "N1",
+    "category": "VOCABULARY",
+    "options": [
+      "拮抗",
+      "均衡",
+      "対峙",
+      "葛藤"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "The strength of both teams was ___, so the outcome of the match was unknown until the end.",
+    "answerExplanation": "'拮抗' (きっこう) means balanced and fierce competition, where both sides have nearly equal strength. '均衡' means balance in general, '対峙' means to confront, and '葛藤' means inner conflict. In the context of a match where two teams compete closely, '拮抗' is the most appropriate choice.",
+    "hint": "This word describes two forces competing in a balanced and intense manner.",
+    "difficultyScore": 7
+  },
+  {
+    "id": "question_n1_2_002",
+    "question": "彼女の目に涙が浮かんだのは、___の出来事であった。",
+    "furigana": "彼女[かのじょ]の目[め]に涙[なみだ]が浮[う]かんだのは、___の出来事[できごと]であった。",
+    "romaji": "Kanojo no me ni namida ga ukanda no wa, ___ no dekigoto de atta.",
+    "level": "N1",
+    "category": "VOCABULARY",
+    "options": [
+      "瞬間",
+      "刹那",
+      "一刻",
+      "束の間"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "The tears welling up in her eyes were a momentary (___) event.",
+    "answerExplanation": "'刹那' (せつな) originates from Buddhist philosophy and means an extremely brief moment, the blink of an eye. The pattern '刹那の出来事' is a common literary collocation, while '瞬間の出来事' is rarely used because '瞬間' usually functions as a time modifier (瞬間に) rather than a noun modifier. '一刻' means a short while, and '束の間' means a brief period.",
+    "hint": "A literary word from Buddhist terminology used as a noun modifier to indicate an extremely brief moment.",
+    "difficultyScore": 7
+  },
+  {
+    "id": "question_n1_2_003",
+    "question": "彼の___により、プロジェクトの隠れた問題点がすべて明るみに出た。",
+    "furigana": "彼[かれ]の___により、プロジェクトの隠[かく]れた問題点[もんだいてん]がすべて明[あか]るみに出[で]た。",
+    "romaji": "Kare no ___ ni yori, purojekuto no kakureta mondaiten ga subete akarumi ni deta.",
+    "level": "N1",
+    "category": "VOCABULARY",
+    "options": [
+      "洞察",
+      "慧眼",
+      "観察",
+      "直感"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Thanks to his ___, all the hidden problems in the project came to light.",
+    "answerExplanation": "'慧眼' (けいがん) means keen eye or the ability to see the essence of things, an extraordinary insight. It is more formal and profound than '洞察' (insight) and '観察' (observation). '直感' means intuition. '慧眼' describes an extremely sharp ability to judge and penetrate the true nature of problems.",
+    "hint": "This word contains the kanji 慧 (wisdom) and 眼 (eye), indicating the ability to see beyond the surface.",
+    "difficultyScore": 8
+  },
+  {
+    "id": "question_n1_2_004",
+    "question": "重要な決断を前にして、彼は何日も___を重ねていた。",
+    "furigana": "重要[じゅうよう]な決断[けつだん]を前[まえ]にして、彼[かれ]は何日[なんにち]も___を重[かさ]ねていた。",
+    "romaji": "Juuyou na ketsudan wo mae ni shite, kare wa nannichi mo ___ wo kasanete ita.",
+    "level": "N1",
+    "category": "VOCABULARY",
+    "options": [
+      "躊躇",
+      "逡巡",
+      "動揺",
+      "困惑"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Facing an important decision, he repeatedly ___ for days on end.",
+    "answerExplanation": "'逡巡を重ねる' (shunjun wo kasaneru) is a fixed collocation meaning to repeatedly hesitate or go back and forth on a decision. The pattern '~を重ねる' is very common with '逡巡' but not with '躊躇' (which usually uses the pattern 躊躇する). '動揺' means emotional wavering, '困惑' means bewilderment.",
+    "hint": "This literary word has a fixed collocation with '重ねる' meaning to continuously hesitate in making a decision.",
+    "difficultyScore": 8
+  },
+  {
+    "id": "question_n1_2_005",
+    "question": "どんな困難に直面しても、彼女は___を失わなかった。",
+    "furigana": "どんな困難[こんなん]に直面[ちょくめん]しても、彼女[かのじょ]は___を失[うしな]わなかった。",
+    "romaji": "Donna konnan ni chokumen shitemo, kanojo wa ___ wo ushinawanakatta.",
+    "level": "N1",
+    "category": "VOCABULARY",
+    "options": [
+      "自尊心",
+      "矜持",
+      "体面",
+      "威厳"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "No matter what difficulties she faced, she never lost her ___.",
+    "answerExplanation": "'矜持' (きょうじ) means dignity or self-respect that is consciously maintained. It is a formal word describing honorable pride in oneself. '自尊心' (self-esteem) is more general, '体面' means saving face, and '威厳' means authority/dignity. '矜持' emphasizes self-respect that is consciously and honorably maintained.",
+    "hint": "This formal word describes self-respect that is consciously and honorably maintained, not mere vanity.",
+    "difficultyScore": 8
+  },
+  {
+    "id": "question_n1_2_006",
+    "question": "「邂逅」の読み方として正しいものはどれか。",
+    "furigana": "「邂逅[かいこう]」の読[よ]み方[かた]として正[ただ]しいものはどれか。",
+    "romaji": "'Kaikou' no yomikata toshite tadashii mono wa dore ka.",
+    "level": "N1",
+    "category": "KANJI",
+    "options": [
+      "かいこう",
+      "がいごう",
+      "かいごう",
+      "がいこう"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Which is the correct reading of '邂逅'?",
+    "answerExplanation": "'邂逅' is read 'かいこう' and means an unexpected encounter or unplanned meeting. It is a literary word often used in novels and poetry to describe a fateful encounter. The kanji 邂 and 逅 are both rarely used individually.",
+    "hint": "Both kanji are read with on'yomi readings. The first kanji is read 'kai'.",
+    "difficultyScore": 7
+  },
+  {
+    "id": "question_n1_2_007",
+    "question": "「諦観」の読み方として正しいものはどれか。",
+    "furigana": "「諦観[たいかん]」の読[よ]み方[かた]として正[ただ]しいものはどれか。",
+    "romaji": "'Teikan' no yomikata toshite tadashii mono wa dore ka.",
+    "level": "N1",
+    "category": "KANJI",
+    "options": [
+      "ていかん",
+      "たいかん",
+      "ちょうかん",
+      "じょうかん"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Which is the correct reading of '諦観'?",
+    "answerExplanation": "'諦観' is read 'たいかん' and means an attitude of resignation and acceptance of reality, or a perspective that has let go of expectations. The kanji '諦' has the reading 'たい' in this context (not 'てい'), which derives from the meaning of 'truth' in Buddhist philosophy. '観' is read 'かん' meaning perspective or view.",
+    "hint": "The first kanji has a special reading different from the word '諦める' (あきらめる). Think of the older on'yomi reading.",
+    "difficultyScore": 8
+  },
+  {
+    "id": "question_n1_2_008",
+    "question": "「蟠り」の読み方として正しいものはどれか。",
+    "furigana": "「蟠[わだかま]り」の読[よ]み方[かた]として正[ただ]しいものはどれか。",
+    "romaji": "'Wadakamari' no yomikata toshite tadashii mono wa dore ka.",
+    "level": "N1",
+    "category": "KANJI",
+    "options": [
+      "もつれり",
+      "こだわり",
+      "わだかまり",
+      "つかえり"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Which is the correct reading of '蟠り'?",
+    "answerExplanation": "'蟠り' is read 'わだかまり' and means a lingering feeling, hidden grudge, or something that still weighs on one's heart. The kanji '蟠' depicts something coiled and unresolved, like a coiled snake. The verb form is '蟠る' (わだかまる).",
+    "hint": "This word describes a feeling stored in the heart that cannot go away, like something coiled and entangled.",
+    "difficultyScore": 9
+  },
+  {
+    "id": "question_n1_2_009",
+    "question": "「凌駕」の読み方として正しいものはどれか。",
+    "furigana": "「凌駕[りょうが]」の読[よ]み方[かた]として正[ただ]しいものはどれか。",
+    "romaji": "'Ryouga' no yomikata toshite tadashii mono wa dore ka.",
+    "level": "N1",
+    "category": "KANJI",
+    "options": [
+      "りょうが",
+      "りんが",
+      "りょうか",
+      "れいが"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Which is the correct reading of '凌駕'?",
+    "answerExplanation": "'凌駕' is read 'りょうが' and means to surpass, outdo, or significantly exceed something. The kanji '凌' (りょう) means to overcome or surpass, while '駕' (が) means to ride or mount. Together they form the meaning 'to surpass far above'.",
+    "hint": "The first kanji is read with the on'yomi 'ryou', and the second kanji is related to riding/mounting.",
+    "difficultyScore": 7
+  },
+  {
+    "id": "question_n1_2_010",
+    "question": "「招聘」の読み方として正しいものはどれか。",
+    "furigana": "「招聘[しょうへい]」の読[よ]み方[かた]として正[ただ]しいものはどれか。",
+    "romaji": "'Shouhei' no yomikata toshite tadashii mono wa dore ka.",
+    "level": "N1",
+    "category": "KANJI",
+    "options": [
+      "しょうへい",
+      "しょうひん",
+      "しょうぺい",
+      "しゅうへい"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Which is the correct reading of '招聘'?",
+    "answerExplanation": "'招聘' is read 'しょうへい' and means to formally invite, especially in the context of recruiting experts or professors from outside. The kanji '招' (しょう) means to invite, and '聘' (へい) means to summon formally. This word is often used in academic and business contexts.",
+    "hint": "The first kanji is the same as in '招待' (shoutai/invitation). The second kanji is read 'hei'.",
+    "difficultyScore": 7
+  },
+  {
+    "id": "question_n1_2_011",
+    "question": "子供たちは泣か___ばかりの表情で、壊れたおもちゃを見つめていた。",
+    "furigana": "子供[こども]たちは泣[な]か___ばかりの表情[ひょうじょう]で、壊[こわ]れたおもちゃを見[み]つめていた。",
+    "romaji": "Kodomotachi wa naka___ bakari no hyoujou de, kowareta omocha wo mitsumete ita.",
+    "level": "N1",
+    "category": "GRAMMAR",
+    "options": [
+      "んばかり",
+      "さんばかり",
+      "んばかりに",
+      "んばかりの"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "The children stared at the broken toy with an expression as if they were about to cry.",
+    "answerExplanation": "The pattern '~んばかりの' is used to describe a state of 'as if about to do something'. The form is: verb nai-form (without ない) + んばかりの + noun. Since it modifies '表情' (expression) here, we need the の form. '泣かんばかりの表情' means 'an expression as if about to cry'. Note that 泣く -> 泣か (nai-form without ない) + んばかりの.",
+    "hint": "This pattern requires a particle that connects it to the following noun (表情).",
+    "difficultyScore": 7
+  },
+  {
+    "id": "question_n1_2_012",
+    "question": "この難題を解決できるのは、田中教授___いない。",
+    "furigana": "この難題[なんだい]を解決[かいけつ]できるのは、田中[たなか]教授[きょうじゅ]___いない。",
+    "romaji": "Kono nandai wo kaiketsu dekiru no wa, Tanaka kyouju ___ inai.",
+    "level": "N1",
+    "category": "GRAMMAR",
+    "options": [
+      "をもって",
+      "をおいて",
+      "にかけて",
+      "にあって"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "There is no one other than Professor Tanaka who can solve this difficult problem.",
+    "answerExplanation": "The pattern '~をおいて...ない' means 'there is no one/nothing other than~' or 'only~ can'. This pattern is used to express that someone or something is the only option. '田中教授をおいていない' means 'there is no one other than Professor Tanaka'. This pattern is always used in negative form.",
+    "hint": "This pattern expresses that only one person/thing meets the criteria, and is always followed by a negative form.",
+    "difficultyScore": 7
+  },
+  {
+    "id": "question_n1_2_013",
+    "question": "この繊細な味わいは、長年修業を積んだ職人___の技だ。",
+    "furigana": "この繊細[せんさい]な味[あじ]わいは、長年[ながねん]修業[しゅぎょう]を積[つ]んだ職人[しょくにん]___の技[わざ]だ。",
+    "romaji": "Kono sensai na ajiwai wa, naganen shugyou wo tsunda shokunin ___ no waza da.",
+    "level": "N1",
+    "category": "GRAMMAR",
+    "options": [
+      "ならでは",
+      "ともなると",
+      "あっての",
+      "にひきかえ"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "This delicate flavor is a skill that can only be achieved by a craftsman who has trained for many years.",
+    "answerExplanation": "The pattern '~ならではの' means 'only possible by~' or 'unique to~'. It is used to praise something that is unique and exclusive. '職人ならではの技' means 'a skill unique to (experienced) craftsmen'. This pattern always has a positive nuance.",
+    "hint": "This pattern is used to praise something that is unique and cannot be replicated by others.",
+    "difficultyScore": 6
+  },
+  {
+    "id": "question_n1_2_014",
+    "question": "今さら後悔した___、失われた時間は戻ってこない。",
+    "furigana": "今[いま]さら後悔[こうかい]した___、失[うしな]われた時間[じかん]は戻[もど]ってこない。",
+    "romaji": "Imasara koukai shita ___, ushinawareta jikan wa modotte konai.",
+    "level": "N1",
+    "category": "GRAMMAR",
+    "options": [
+      "ところで",
+      "ものなら",
+      "ばかりに",
+      "からには"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Even if one regrets it now, the lost time will not come back.",
+    "answerExplanation": "The pattern '~たところで' means 'even if one does~, (the result will not change)'. It is used to express that an action will not change the situation. '後悔したところで' means 'even if one regrets it (it is useless)'. This pattern is always followed by a negative or unchanged outcome.",
+    "hint": "This pattern expresses that an action is futile because the outcome remains the same. It takes the form verb た + ...",
+    "difficultyScore": 7
+  },
+  {
+    "id": "question_n1_2_015",
+    "question": "公の場での暴言は、政治家にある___行為だ。",
+    "furigana": "公[おおやけ]の場[ば]での暴言[ぼうげん]は、政治家[せいじか]にある___行為[こうい]だ。",
+    "romaji": "Ooyake no ba de no bougen wa, seijika ni aru ___ koui da.",
+    "level": "N1",
+    "category": "GRAMMAR",
+    "options": [
+      "まじき",
+      "べからざる",
+      "ものの",
+      "かぎりの"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Verbal abuse in public is behavior unbecoming of a politician.",
+    "answerExplanation": "The pattern '~にあるまじき' means 'unbecoming of~' or 'unworthy of~'. This is an archaic expression (古語) still used in formal modern Japanese. '政治家にあるまじき行為' means 'behavior unbecoming of a politician'. 'まじき' is the attributive form (連体形) of 'まじ' which means 'should not'.",
+    "hint": "This classical expression conveys that something 'should not' be done by someone in a certain position.",
+    "difficultyScore": 8
+  },
+  {
+    "id": "question_n1_2_016",
+    "question": "あのセール会場に足を踏み入れた___、両手いっぱいの買い物袋を抱えることになる。",
+    "furigana": "あのセール会場[かいじょう]に足[あし]を踏[ふ]み入[い]れた___、両手[りょうて]いっぱいの買[か]い物[もの]袋[ぶくろ]を抱[かか]えることになる。",
+    "romaji": "Ano seeru kaijou ni ashi wo fumireta ___, ryoute ippai no kaimono bukuro wo kakaeru koto ni naru.",
+    "level": "N1",
+    "category": "GRAMMAR",
+    "options": [
+      "が最後",
+      "ものなら",
+      "とたんに",
+      "なり"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Once you set foot in that sale venue, you will inevitably end up carrying shopping bags full in both hands.",
+    "answerExplanation": "The pattern '~たが最後' means 'once one does~, then (a negative/unavoidable consequence) will certainly follow'. It states that after a certain action is taken, the outcome cannot be avoided. '足を踏み入れたが最後' means 'once you enter, it is all over'. This pattern is often used with humorous or cautionary nuance.",
+    "hint": "This pattern expresses that once a certain action is taken, there is no turning back. It is related to the word '最後' (last).",
+    "difficultyScore": 7
+  },
+  {
+    "id": "question_n1_2_017",
+    "question": "豊かな自然と温暖な気候___、この地域は移住先として注目されている。",
+    "furigana": "豊[ゆた]かな自然[しぜん]と温暖[おんだん]な気候[きこう]___、この地域[ちいき]は移住先[いじゅうさき]として注目[ちゅうもく]されている。",
+    "romaji": "Yutaka na shizen to ondan na kikou ___, kono chiiki wa ijuusaki toshite chuumoku sarete iru.",
+    "level": "N1",
+    "category": "GRAMMAR",
+    "options": [
+      "とあいまって",
+      "もさることながら",
+      "をものともせず",
+      "ともなると"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Combined with the rich nature and warm climate, this area is attracting attention as a migration destination.",
+    "answerExplanation": "The pattern '~と相まって' (とあいまって) means 'combined with~' or 'together with~, producing a greater effect'. Two or more factors combine to produce a certain result. '自然と気候と相まって' means nature and climate complement each other to create an attraction. This pattern emphasizes a synergistic effect.",
+    "hint": "This pattern expresses that two or more things combine and reinforce each other to produce an effect.",
+    "difficultyScore": 7
+  },
+  {
+    "id": "question_n1_2_018",
+    "question": "次の文章を読んで、問いに答えなさい。\n\nデジタル技術の急速な発展により、我々はかつてないほど膨大な情報にアクセスできるようになった。インターネット上には学術論文から個人の日記に至るまで、あらゆる知識が蓄積されている。しかしながら、この情報の氾濫こそが、真の理解を妨げる最大の障壁となっているのではないだろうか。情報を大量に消費する一方で、それを深く咀嚼し、自らの思考に統合する時間は確実に失われている。我々は以前よりも多くのことを「知っている」が、以前よりも少ないことしか「理解していない」という逆説的な状況に置かれているのである。検索エンジンが即座に答えを提示してくれる便利さは、自ら思考する能力を退化させる危険性を孕んでいる。知ることと理解することの乖離は、現代社会における最も深刻な知的課題の一つと言えよう。\n\nこの文章の中心的な逆説とは何か。",
+    "furigana": "次[つぎ]の文章[ぶんしょう]を読[よ]んで、問[と]いに答[こた]えなさい。\n\nデジタル技術[ぎじゅつ]の急速[きゅうそく]な発展[はってん]により、我々[われわれ]はかつてないほど膨大[ぼうだい]な情報[じょうほう]にアクセスできるようになった。インターネット上[じょう]には学術[がくじゅつ]論文[ろんぶん]から個人[こじん]の日記[にっき]に至[いた]るまで、あらゆる知識[ちしき]が蓄積[ちくせき]されている。しかしながら、この情報[じょうほう]の氾濫[はんらん]こそが、真[しん]の理解[りかい]を妨[さまた]げる最大[さいだい]の障壁[しょうへき]となっているのではないだろうか。情報[じょうほう]を大量[たいりょう]に消費[しょうひ]する一方[いっぽう]で、それを深[ふか]く咀嚼[そしゃく]し、自[みずか]らの思考[しこう]に統合[とうごう]する時間[じかん]は確実[かくじつ]に失[うしな]われている。我々[われわれ]は以前[いぜん]よりも多[おお]くのことを「知[し]っている」が、以前[いぜん]よりも少[すく]ないことしか「理解[りかい]していない」という逆説的[ぎゃくせつてき]な状況[じょうきょう]に置[お]かれているのである。検索[けんさく]エンジンが即座[そくざ]に答[こた]えを提示[ていじ]してくれる便利[べんり]さは、自[みずか]ら思考[しこう]する能力[のうりょく]を退化[たいか]させる危険性[きけんせい]を孕[はら]んでいる。知[し]ることと理解[りかい]することの乖離[かいり]は、現代[げんだい]社会[しゃかい]における最[もっと]も深刻[しんこく]な知的[ちてき]課題[かだい]の一[ひと]つと言[い]えよう。",
+    "romaji": "Tsugi no bunshou wo yonde, toi ni kotaenasai. Dejitaru gijutsu no kyuusoku na hatten ni yori, wareware wa katsute nai hodo boudai na jouhou ni akusesu dekiru you ni natta...",
+    "level": "N1",
+    "category": "READING",
+    "options": [
+      "デジタル技術の発展が学術研究を衰退させていること",
+      "情報へのアクセスが増えたにもかかわらず、深い理解はむしろ減少していること",
+      "インターネットの普及により個人の日記が公開されるようになったこと",
+      "検索エンジンの精度が年々低下していること"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "What is the central paradox in this passage?",
+    "answerExplanation": "The central paradox in this passage is that despite access to information increasing dramatically thanks to digital technology, deep understanding has actually decreased. The text states that we 'know' more but 'understand' less. This is a paradox because more information should produce better understanding, but the reality is the opposite.",
+    "hint": "Note the sentence that uses quotation marks to distinguish between two contrasting concepts.",
+    "difficultyScore": 8
+  },
+  {
+    "id": "question_n1_2_019",
+    "question": "次の文章を読んで、問いに答えなさい。\n\n歌舞伎は単なる演劇形式にとどまらず、江戸時代の社会構造と価値観を映し出す鏡としての役割を果たしてきた。武士階級の忠義や名誉を描いた時代物においては、封建的秩序における個人の葛藤が巧みに表現されている。一方、世話物と呼ばれる町人社会を題材とした作品群では、義理と人情の板挟みに苦しむ庶民の姿が生々しく描かれた。注目すべきは、これらの作品が当時の支配体制を表面上は肯定しながらも、その矛盾や歪みを観客に暗示的に提示していた点である。歌舞伎の様式美は、直接的な批判が許されない時代において、社会への問いかけを芸術的に昇華させる装置として機能していたと解釈できる。現代の我々が歌舞伎を鑑賞する際、この二重構造を読み解くことが、作品の真の価値を理解する鍵となるのである。\n\n筆者の解釈として最も適切なものはどれか。",
+    "furigana": "次[つぎ]の文章[ぶんしょう]を読[よ]んで、問[と]いに答[こた]えなさい。\n\n歌舞伎[かぶき]は単[たん]なる演劇[えんげき]形式[けいしき]にとどまらず、江戸[えど]時代[じだい]の社会[しゃかい]構造[こうぞう]と価値観[かちかん]を映[うつ]し出[だ]す鏡[かがみ]としての役割[やくわり]を果[は]たしてきた。武士[ぶし]階級[かいきゅう]の忠義[ちゅうぎ]や名誉[めいよ]を描[えが]いた時代物[じだいもの]においては、封建的[ほうけんてき]秩序[ちつじょ]における個人[こじん]の葛藤[かっとう]が巧[たく]みに表現[ひょうげん]されている。一方[いっぽう]、世話物[せわもの]と呼[よ]ばれる町人[ちょうにん]社会[しゃかい]を題材[だいざい]とした作品群[さくひんぐん]では、義理[ぎり]と人情[にんじょう]の板挟[いたばさ]みに苦[くる]しむ庶民[しょみん]の姿[すがた]が生々[なまなま]しく描[えが]かれた。注目[ちゅうもく]すべきは、これらの作品[さくひん]が当時[とうじ]の支配[しはい]体制[たいせい]を表面上[ひょうめんじょう]は肯定[こうてい]しながらも、その矛盾[むじゅん]や歪[ひず]みを観客[かんきゃく]に暗示的[あんじてき]に提示[ていじ]していた点[てん]である。歌舞伎[かぶき]の様式美[ようしきび]は、直接的[ちょくせつてき]な批判[ひはん]が許[ゆる]されない時代[じだい]において、社会[しゃかい]への問[と]いかけを芸術的[げいじゅつてき]に昇華[しょうか]させる装置[そうち]として機能[きのう]していたと解釈[かいしゃく]できる。",
+    "romaji": "Tsugi no bunshou wo yonde, toi ni kotaenasai. Kabuki wa tan naru engeki keishiki ni todomarazu, Edo jidai no shakai kouzou to kachikan wo utsushidasu kagami toshite no yakuwari wo hatashite kita...",
+    "level": "N1",
+    "category": "READING",
+    "options": [
+      "歌舞伎は江戸時代の支配体制を全面的に支持する芸術であった",
+      "歌舞伎の様式美は体制への批判を芸術的に表現する手段として機能していた",
+      "世話物は時代物よりも芸術的価値が高い作品群である",
+      "現代人には歌舞伎の二重構造を理解することは不可能である"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Which is the most appropriate interpretation by the author?",
+    "answerExplanation": "The author believes that the aesthetic beauty of kabuki functioned as a 'device' for sublimating social criticism into art in an era when direct criticism was not permitted. The text states that kabuki works on the surface affirmed the ruling system, but implicitly showed its contradictions and distortions to the audience. This is the dual structure (二重構造) that is the key to understanding.",
+    "hint": "Note the sentence that explains the relationship between kabuki's 'aesthetic beauty' and its function in the context of restricted freedom of expression.",
+    "difficultyScore": 9
+  },
+  {
+    "id": "question_n1_2_020",
+    "question": "次の文章を読んで、問いに答えなさい。\n\n侘び寂びという美意識は、不完全さや儚さの中にこそ美を見出すという、西洋の古典的美学とは根本的に異なる価値体系に基づいている。茶道において意図的に用いられる不揃いな茶碗や、時の経過によって苔むした庭石に見出される美は、完璧さを追求する美学への静かな反論とも言える。興味深いことに、この数百年前の美意識が現代のデザイン思想に新たな息吹を吹き込んでいる。大量生産された均一な製品に対する疲弊感が広がる中、素材の質感を活かし、経年変化を肯定的に捉えるデザインが世界的に注目を集めている。しかしながら、侘び寂びを単に「不完全の美学」として表層的に理解することは、その本質を見誤る危険性がある。侘び寂びの根底には、万物の無常を深く受容し、その中で静かな充足を見出すという、存在論的な覚悟が横たわっているのである。商業的な文脈で「侘び寂び風」のデザインが消費されるとき、この精神的深層は往々にして捨象されてしまう。\n\nこの文章の論旨に基づいて、筆者が最も警戒していることは何か。",
+    "furigana": "次[つぎ]の文章[ぶんしょう]を読[よ]んで、問[と]いに答[こた]えなさい。\n\n侘[わ]び寂[さ]びという美意識[びいしき]は、不完全[ふかんぜん]さや儚[はかな]さの中[なか]にこそ美[び]を見出[みいだ]すという、西洋[せいよう]の古典的[こてんてき]美学[びがく]とは根本的[こんぽんてき]に異[こと]なる価値[かち]体系[たいけい]に基[もと]づいている。茶道[さどう]において意図的[いとてき]に用[もち]いられる不揃[ふぞろ]いな茶碗[ちゃわん]や、時[とき]の経過[けいか]によって苔[こけ]むした庭石[にわいし]に見出[みいだ]される美[び]は、完璧[かんぺき]さを追求[ついきゅう]する美学[びがく]への静[しず]かな反論[はんろん]とも言[い]える。",
+    "romaji": "Tsugi no bunshou wo yonde, toi ni kotaenasai. Wabi-sabi toiu biishiki wa, fukanzen-sa ya hakanasa no naka ni koso bi wo miidasu toiu, seiyou no kotenteki bigaku to wa konponteki ni kotonaru kachi taikei ni motozuite iru...",
+    "level": "N1",
+    "category": "READING",
+    "options": [
+      "西洋の美学が日本の伝統的美意識を駆逐すること",
+      "大量生産された製品が市場を支配し続けること",
+      "侘び寂びの精神的深層が商業化によって表層的に消費されること",
+      "現代のデザイナーが茶道の技術を十分に学んでいないこと"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Based on the argument of this passage, what is the author most concerned about?",
+    "answerExplanation": "The author is most concerned that the spiritual depth of wabi-sabi is being superficially consumed in a commercial context. The text states that understanding wabi-sabi merely as 'aesthetics of imperfection' on a surface level risks misunderstanding its essence. At the foundation of wabi-sabi lies an existential resolve to accept the impermanence of all things. However, when 'wabi-sabi style' designs are consumed commercially, this spiritual depth is often discarded.",
+    "hint": "Note the final part of the text that discusses what happens when this concept enters the commercial realm.",
+    "difficultyScore": 9
+  }
+]

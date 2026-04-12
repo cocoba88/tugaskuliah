@@ -1,0 +1,382 @@
+[
+  {
+    "id": "question_n4_4_001",
+    "question": "「壊れる」はどういう意味ですか？",
+    "furigana": "「壊[こわ]れる」はどういう意味[いみ]ですか？",
+    "romaji": "'Kowareru' wa dou iu imi desu ka?",
+    "level": "N4",
+    "category": "VOCABULARY",
+    "options": [
+      "Broken / shattered (by itself)",
+      "To repair / to restore",
+      "To assemble / to put back together",
+      "Worn out / faded gradually"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "What is the meaning of '壊れる'?",
+    "answerExplanation": "'壊れる' (kowareru) is an intransitive verb meaning 'to break' or 'to be broken' — the object itself becomes broken without mentioning who did it. Example: 'パソコンが壊れた' (The computer broke). Option B 'to repair' is wrong (that's '直す'). Option C 'to assemble' is wrong (that's '組み立てる'). Option D 'to wear out/fade' is wrong (that's '擦り減る/薄れる'). All options relate to the condition of objects, but their meanings differ.",
+    "hint": "This word is intransitive (自動詞) — the object itself undergoes the change. Think about what happens to a phone when it falls on the floor.",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_4_002",
+    "question": "「教室」の各漢字の読み方として正しい組み合わせはどれですか？",
+    "furigana": "「教室[きょうしつ]」の各[かく]漢字[かんじ]の読[よ]み方[かた]として正[ただ]しい組[く]み合[あ]わせはどれですか？",
+    "romaji": "'Kyoushitsu' no kaku kanji no yomikata to shite tadashii kumiwase wa dore desu ka?",
+    "level": "N4",
+    "category": "KANJI",
+    "options": [
+      "「教」→ おし、「室」→ しつ",
+      "「教」→ きょう、「室」→ むろ",
+      "「教」→ きょう、「室」→ しつ",
+      "「教」→ きょ、「室」→ しつ"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Which is the correct combination of readings for each kanji in '教室'?",
+    "answerExplanation": "'教室' is read 'きょうしつ' (kyoushitsu). Kanji '教' on-yomi = 'きょう' (教室, 教育), kun-yomi = 'おし(える)'. Kanji '室' on-yomi = 'しつ' (教室, 会議室), kun-yomi = 'むろ'. In '教室' both use on-yomi: きょう + しつ. Note: 'きょ' without the long う is wrong — it must be 'きょう'.",
+    "hint": "教室 uses on-yomi for both kanji. 'きょう' must have the long う (きょ alone is wrong). Kanji 室 in the context of rooms is always 'しつ', not 'むろ'.",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_4_003",
+    "question": "雨が降っ___、サッカーの試合は中止になりました。",
+    "furigana": "雨[あめ]が降[ふ]っ___、サッカーの試合[しあい]は中止[ちゅうし]になりました。",
+    "romaji": "Ame ga futt___, sakkaa no shiai wa chuushi ni narimashita.",
+    "level": "N4",
+    "category": "GRAMMAR",
+    "options": [
+      "てから",
+      "たり",
+      "たので",
+      "ても"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Because it rained, the soccer match was cancelled.",
+    "answerExplanation": "'~たので' expresses an objective REASON/CAUSE. '雨が降ったので、試合は中止になりました' = Because it rained, the match was cancelled. Other options: '~ても' = even though (contrastive, not cause); '~てから' = after (time sequence, not cause-effect); '~たり' = listing actions (not cause).",
+    "hint": "The match was cancelled BECAUSE of rain — a cause-and-effect relationship. 'ても' = despite (opposite context). Choose the one that expresses a direct cause.",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n4_4_004",
+    "question": "田中さんは去年、初めて海外旅行をしました。フランスへ行きました。フランス語は全然わかりませんでしたが、英語で何とかなりました。また行きたいと思っています。\n\n質問：田中さんについて正しいのはどれですか。",
+    "furigana": "田中[たなか]さんは去年[きょねん]、初[はじ]めて海外旅行[かいがいりょこう]をしました。フランスへ行[い]きました。フランス語[ご]は全然[ぜんぜん]わかりませんでしたが、英語[えいご]で何[なん]とかなりました。また行[い]きたいと思[おも]っています。\n\n質問[しつもん]：田中[たなか]さんについて正[ただ]しいのはどれですか。",
+    "romaji": "Tanaka-san wa kyonen, hajimete kaigai ryokou wo shimashita. Furansu e ikimashita. Furansugo wa zenzen wakarimasen deshita ga, eigo de nantoka narimashita. Mata ikitai to omotteimasu.\n\nShitsumon: Tanaka-san ni tsuite tadashii no wa dore desu ka.",
+    "level": "N4",
+    "category": "READING",
+    "options": [
+      "田中さんはフランス語が上手です",
+      "田中さんは英語が全然わかりませんでした",
+      "田中さんは忙しいので、もうフランスへ行けません",
+      "田中さんは去年初めて海外旅行をしました"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "Tanaka went abroad for the first time last year. He went to France. He didn't understand French at all, but managed with English. He wants to go again.\n\nQuestion: Which is correct about Tanaka-san?",
+    "answerExplanation": "(D) is correct: '去年、初めて海外旅行をしました' is explicitly written. (A) is wrong — the text says フランス語は全然わかりませんでした; (B) is wrong — actually 英語で何とかなった (managed with English); (C) is wrong — the text says また行きたい, not that he can't go.",
+    "hint": "Match each option directly with sentences in the text. Three options directly contradict the written facts.",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_4_005",
+    "question": "「決まる」はどういう意味ですか？",
+    "furigana": "「決[き]まる」はどういう意味[いみ]ですか？",
+    "romaji": "'Kimaru' wa dou iu imi desu ka?",
+    "level": "N4",
+    "category": "VOCABULARY",
+    "options": [
+      "To change / to switch",
+      "Decided / determined",
+      "Canceled / stopped",
+      "Postponed / delayed"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "What is the meaning of '決まる'?",
+    "answerExplanation": "'決まる' (kimaru) is an intransitive verb meaning 'to be decided' or 'to be determined' — something has been settled. Example: '会議の日が決まった' (The meeting date has been decided). Option A 'to change' is wrong (that's '変わる'). Option C 'to be cancelled' is wrong (that's '中止になる'). Option D 'to be postponed' is wrong (that's '延期される'). All options describe the status of a decision/plan, but their meanings differ.",
+    "hint": "This word is intransitive (自動詞), its transitive pair is '決める' (to decide). Think: when a meeting schedule is final and certain, its status is...?",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_4_006",
+    "question": "忙しくても、毎日日本語を___。",
+    "furigana": "忙[いそが]しくても、毎日[まいにち]日本語[にほんご]を___。",
+    "romaji": "Isogashikutemo, mainichi nihongo o ___.",
+    "level": "N4",
+    "category": "GRAMMAR",
+    "options": [
+      "勉強しません",
+      "勉強しよう",
+      "勉強します",
+      "勉強したい"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Even though I'm busy, I study Japanese every day.",
+    "answerExplanation": "The pattern '~ても' = 'even though' — condition A does not prevent result B. '忙しくても、毎日勉強します' = Even though busy, still study every day. Other options: '勉強しません' (don't study) is contradictory; '勉強しよう' (let's study) = invitation, not a habit; '勉強したい' (want to study) = desire, not a routine fact.",
+    "hint": "Pattern ても: 'even though X, Y still happens'. Y must state a real routine habit — not a wish or invitation.",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n4_4_007",
+    "question": "「宿題」の読み方として正しいのはどれですか？",
+    "furigana": "「宿題[しゅくだい]」の読[よ]み方[かた]として正[ただ]しいのはどれですか？",
+    "romaji": "'Shukudai' no yomikata to shite tadashii no wa dore desu ka?",
+    "level": "N4",
+    "category": "KANJI",
+    "options": [
+      "すくだい",
+      "しゅくだい",
+      "しゅくたい",
+      "しゅうだい"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Which is the correct reading for '宿題'?",
+    "answerExplanation": "'宿題' is read as 'しゅくだい' (shukudai) = homework. '宿' (shuku) = しゅく, not しゅう or すく. '題' (dai) = だい, same as in 問題 (もんだい). Wrong options: 'すくだい' — 宿 is not 'su'; 'しゅくたい' — 題 is not 'tai'; 'しゅうだい' — 宿 must be 'しゅく' with く, not 'しゅう'.",
+    "hint": "Kanji '宿' ends with a consonant: し・ゅ・く (don't skip the 'く'). Kanji '題' is the same as in 問題 (もんだい) → 'だい'.",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_4_008",
+    "question": "「集める」はどういう意味ですか？",
+    "furigana": "「集[あつ]める」はどういう意味[いみ]ですか？",
+    "romaji": "'Atsumeru' wa dou iu imi desu ka?",
+    "level": "N4",
+    "category": "VOCABULARY",
+    "options": [
+      "To distribute / to spread",
+      "To sort / to classify",
+      "To collect / to gather",
+      "To store / to save"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "What is the meaning of '集める'?",
+    "answerExplanation": "'集める' (atsumeru) is a transitive verb meaning 'to collect' or 'to gather'. Example: '切手を集める' (to collect stamps), 'データを集める' (to gather data). Option A 'to spread' is wrong (that's '配る'). Option B 'to sort' is wrong (that's '分類する'). Option D 'to save/store' is wrong (that's '貯める'). All options relate to managing objects/information, but the action is different.",
+    "hint": "This word is transitive (他動詞), its intransitive pair is '集まる' (to gather/assemble). Think of the action done to separate items to bring them to one place.",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_4_009",
+    "question": "日本に___ことがありますか。",
+    "furigana": "日本[にほん]に___ことがありますか。",
+    "romaji": "Nihon ni ___ koto ga arimasu ka.",
+    "level": "N4",
+    "category": "GRAMMAR",
+    "options": [
+      "行って",
+      "行く",
+      "行き",
+      "行った"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "Have you ever been to Japan?",
+    "answerExplanation": "The pattern '~たことがある' = to have done something (experience). 行く → ta-form: 行った. '行ったことがありますか' = Have you ever gone? Other options: '行って' = te-form (not the experience pattern); '行く' = dictionary form; '行き' = masu-stem — none match the ~たことがある pattern.",
+    "hint": "Experience pattern: [ta-form] + ことがある. Ta-form is REQUIRED because experience = has already happened. 行く → ta-form = ?",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_4_010",
+    "question": "「届く」の読み方として正しいのはどれですか？",
+    "furigana": "「届[とど]く」の読[よ]み方[かた]として正[ただ]しいのはどれですか？",
+    "romaji": "'Todoku' no yomikata to shite tadashii no wa dore desu ka?",
+    "level": "N4",
+    "category": "KANJI",
+    "options": [
+      "つづく",
+      "とどく",
+      "つくる",
+      "とおく"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Which is the correct reading for '届く'?",
+    "answerExplanation": "'届く' is read as 'とどく' (todoku) = to arrive/reach (mail or items). Example: '荷物が届いた' (The package arrived). Other options: 'つづく' = 続く (to continue, different kanji), 'つくる' = 作る (to make, different kanji), 'とおく' = 遠く (far, different kanji). Although they sound similar, the kanji and meanings are different.",
+    "hint": "Kanji '届' has the kun'yomi reading 'とど(く/ける)'. Don't confuse with '続く' (つづく) which has a different kanji despite looking similar visually.",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_4_011",
+    "question": "このリンゴは___ので、子どもに人気です。",
+    "furigana": "このリンゴは___ので、子[こ]どもに人気[にんき]です。",
+    "romaji": "Kono ringo wa ___ node, kodomo ni ninki desu.",
+    "level": "N4",
+    "category": "GRAMMAR",
+    "options": [
+      "あまいの",
+      "あまくて",
+      "あまい",
+      "あまく"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "This apple is sweet, so it's popular with children.",
+    "answerExplanation": "'ので' requires PLAIN FORM before it. For i-adjectives, plain form = the form ending in 'い': あまい + ので. Other options: 'あまいの' = nominalization, doesn't fit before ので; 'あまくて' = te-form for combining attributes; 'あまく' = adverbial form (before verbs).",
+    "hint": "Before 'ので', use plain form. For i-adjectives like あまい, the plain form is the basic form ending in 'い' — directly connected to ので.",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n4_4_012",
+    "question": "「倒れる」はどういう意味ですか？",
+    "furigana": "「倒[たお]れる」はどういう意味[いみ]ですか？",
+    "romaji": "'Taoreru' wa dou iu imi desu ka?",
+    "level": "N4",
+    "category": "VOCABULARY",
+    "options": [
+      "To stand up / to rise",
+      "To fall down / to collapse",
+      "To crouch / to squat",
+      "To lean / to rest against"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "What is the meaning of '倒れる'?",
+    "answerExplanation": "'倒れる' (taoreru) is an intransitive verb meaning 'to fall down', 'to collapse', or 'to faint'. Example: '木が倒れた' (A tree fell down), '疲れて倒れた' (Fainted from exhaustion). Option A 'to stand upright' is wrong (that's '立つ'). Option C 'to squat' is wrong (that's 'しゃがむ'). Option D 'to lean against' is wrong (that's '寄りかかる'). All options describe body positions, but meanings differ.",
+    "hint": "This word is intransitive (自動詞) and describes a change of position from upright to not upright. Think about what happens to a tree when there's strong wind.",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_4_013",
+    "question": "「食べ物」の読み方として正しいのはどれですか？",
+    "furigana": "「食べ物[たべもの]」の読[よ]み方[かた]として正[ただ]しいのはどれですか？",
+    "romaji": "'Tabemono' no yomikata to shite tadashii no wa dore desu ka?",
+    "level": "N4",
+    "category": "KANJI",
+    "options": [
+      "たべもの",
+      "たべぶつ",
+      "しょくもの",
+      "たべもつ"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Which is the correct reading for '食べ物'?",
+    "answerExplanation": "'食べ物' is read as 'たべもの' (tabemono) = food. '食' kun-yomi = 'たべ(る)', on-yomi = 'しょく'. '物' kun-yomi = 'もの', on-yomi = 'ぶつ/もつ'. In '食べ物' both use kun-yomi: たべ + もの. Wrong options: 'たべぶつ' mixes kun+on; 'しょくもの' mixes on+kun; 'たべもつ' wrong reading for 物.",
+    "hint": "食べ物 uses kun-yomi for BOTH kanji. '食べ' = 'たべ' (from 食べる). '物' kun-yomi = 'もの'.",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n4_4_014",
+    "question": "電車で３時間___かかりました。",
+    "furigana": "電車[でんしゃ]で３時間[じかん]___かかりました。",
+    "romaji": "Densha de san-jikan ___ kakarimashita.",
+    "level": "N4",
+    "category": "GRAMMAR",
+    "options": [
+      "を",
+      "で",
+      "に",
+      "も"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "The train journey took as long as 3 hours (more than expected).",
+    "answerExplanation": "The particle 'も' in the context of quantities expresses quantity exceeding expectations: '3時間もかかりました' = it took AS LONG AS 3 hours (more than expected). Without 'も': '3時間かかりました' = neutral. Other options: 'を' for objects of actions; 'で' for place/tool; 'に' for specific time.",
+    "hint": "There's a nuance of 'wow, as much as 3 hours!' — which particle emphasizes quantity exceeding expectations?",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n4_4_015",
+    "question": "山田さんは医者で、毎日病院で働いています。最近、忙しくて休みが取れないと言っていました。趣味のテニスも、もう3ヶ月していないそうです。\n\n質問：山田さんについて正しいのはどれですか。",
+    "furigana": "山田[やまだ]さんは医者[いしゃ]で、毎日[まいにち]病院[びょういん]で働[はたら]いています。最近[さいきん]、忙[いそが]しくて休[やす]みが取[と]れないと言[い]っていました。趣味[しゅみ]のテニスも、もう3ヶ月[かげつ]していないそうです。\n\n質問[しつもん]：山田[やまだ]さんについて正[ただ]しいのはどれですか。",
+    "romaji": "Yamada-san wa isha de, mainichi byouin de hataraite imasu. Saikin, isogashikute yasumi ga torenai to itte imashita. Shumi no tenisu mo, mou sankagetsu shite inai sou desu.\n\nShitsumon: Yamada-san ni tsuite tadashii no wa dore desu ka.",
+    "level": "N4",
+    "category": "READING",
+    "options": [
+      "山田さんは最近テニスを毎日しています",
+      "山田さんは土曜日と日曜日は必ず休みです",
+      "山田さんは忙しいので、病院を辞めました",
+      "山田さんは病院で働いていますが、最近休みが取れません"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "Yamada-san is a doctor who works at a hospital every day. Recently, he said he's been so busy he can't take time off. He apparently hasn't played tennis, his hobby, for 3 months now.\n\nQuestion: Which is correct about Yamada-san?",
+    "answerExplanation": "(D) is correct: combines two facts from the text — works at the hospital and can't take time off. (A) is wrong — hasn't played tennis for 3 months; (B) is wrong — specifically can't take time off; (C) is wrong — no information about quitting.",
+    "hint": "The answer must be fully supported by the text. Eliminate those that contradict and those not mentioned.",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_4_016",
+    "question": "「会議室」の読み方として正しいのはどれですか？",
+    "furigana": "「会議室[かいぎしつ]」の読[よ]み方[かた]として正[ただ]しいのはどれですか？",
+    "romaji": "'Kaigishitsu' no yomikata to shite tadashii no wa dore desu ka?",
+    "level": "N4",
+    "category": "KANJI",
+    "options": [
+      "かいぎむろ",
+      "あいぎしつ",
+      "かいぎしつ",
+      "かいぎへや"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Which is the correct reading for '会議室'?",
+    "answerExplanation": "'会議室' is read as 'かいぎしつ' (kaigishitsu) = meeting room. All three kanji use on-yomi: '会' (kai) = meet, '議' (gi) = discuss, '室' (shitsu) = room. Other options: 'かいぎむろ' — 室 kun-yomi 'むろ' not correct here; 'あいぎしつ' — 会 is not 'あい' but 'かい'; 'かいぎへや' — 部屋 (heya) is not 室 (shitsu).",
+    "hint": "This three-kanji compound word uses on-yomi for all. '会' = かい, '議' = ぎ, '室' = しつ (not kun-yomi 'むろ' or 'へや').",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_4_017",
+    "question": "「受付」の読み方として正しいのはどれですか？",
+    "furigana": "「受付[うけつけ]」の読[よ]み方[かた]として正[ただ]しいのはどれですか？",
+    "romaji": "'Uketsuke' no yomikata to shite tadashii no wa dore desu ka?",
+    "level": "N4",
+    "category": "KANJI",
+    "options": [
+      "じゅふ",
+      "うけつき",
+      "じゅつけ",
+      "うけつけ"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "Which is the correct reading for '受付'?",
+    "answerExplanation": "'受付' is read as 'うけつけ' (uketsuke) = reception/reception desk. Both kanji use kun-yomi: '受' = うけ (from 受ける = to receive), '付' = つけ (from 付ける = to attach). Other options: 'じゅふ' — wrong on-yomi for both; 'うけつき' — wrong ending, must be 'つけ' not 'つき'; 'じゅつけ' — incorrect mix of on+kun.",
+    "hint": "受付 is a compound word using kun-yomi for both kanji. '受' kun-yomi = うけ, '付' kun-yomi = つけ. Note: 'つき' and 'つけ' look similar but are different.",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n4_4_018",
+    "question": "きのうは天気___よかったので、公園へ行きました。",
+    "furigana": "きのうは天気[てんき]___よかったので、公園[こうえん]へ行[い]きました。",
+    "romaji": "Kinou wa tenki ___ yokatta node, kouen e ikimashita.",
+    "level": "N4",
+    "category": "GRAMMAR",
+    "options": [
+      "が",
+      "で",
+      "を",
+      "は"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Yesterday the weather was good, so I went to the park.",
+    "answerExplanation": "The particle 'が' marks the SUBJECT of a descriptive predicate. '天気がよかった' = the weather was good. 'きのうは' is already the time topic, so 天気 needs 'が' as the subject of the explanatory clause. 'は' could also work but carries a contrastive nuance. 'で' and 'を' are not grammatically correct.",
+    "hint": "There's already a topic 'きのうは'. Inside the explanatory clause, 天気 = SUBJECT of よかった. The subject particle in subordinate clauses is usually...?",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n4_4_019",
+    "question": "私はコーヒーが好きです。毎朝飲みます。それがないと、一日が始まりません。\n\n質問：「それ」が指す内容として最も適切なのはどれですか。",
+    "furigana": "私[わたし]はコーヒーが好[す]きです。毎朝[まいあさ]飲[の]みます。それがないと、一日[いちにち]が始[はじ]まりません。\n\n質問[しつもん]：「それ」が指[さ]す内容[ないよう]として最[もっと]も適切[てきせつ]なのはどれですか。",
+    "romaji": "Watashi wa koohii ga suki desu. Maiasa nomimasu. Sore ga nai to, ichinichi ga hajimarimasen.\n\nShitsumon: 'Sore' ga sasu naiyou to shite mottomo tekisetsu na no wa dore desu ka.",
+    "level": "N4",
+    "category": "READING",
+    "options": [
+      "毎朝の習慣全体",
+      "コーヒー",
+      "コーヒーを飲む時間帯",
+      "一日の始まり"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "I like coffee. I drink it every morning. Without it, my day can't begin.\n\nQuestion: What does 'それ' refer to most appropriately?",
+    "answerExplanation": "'それ' refers to the nearest specific noun before it = コーヒー. Sequence: (1) コーヒーが好き → (2) 毎朝飲む → (3) それがないと... 'それがない' = there's no coffee (a concrete thing). Other options are too broad or not what's being referred to.",
+    "hint": "'それ' (that) most naturally refers to the nearest CONCRETE noun. The preceding sentence talks about what thing is drunk every morning?",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n4_4_020",
+    "question": "この料理は辛い___、体にもいいそうです。",
+    "furigana": "この料理[りょうり]は辛[から]い___、体[からだ]にもいいそうです。",
+    "romaji": "Kono ryouri wa karai ___, karada ni mo ii sou desu.",
+    "level": "N4",
+    "category": "GRAMMAR",
+    "options": [
+      "し",
+      "のに",
+      "から",
+      "ので"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "This dish is spicy, and also apparently good for the body.",
+    "answerExplanation": "'~し' lists MULTIPLE ATTRIBUTES/REASONS together: 'spicy, AND ALSO good for the body'. The word 'も' in '体にも' strengthens the additive nuance. Other options: 'から/ので' = because (causality, not addition); 'のに' = despite (contrast, different nuance).",
+    "hint": "This is not 'because spicy therefore healthy' (causality) and not 'despite being spicy' (contrast). What pattern lists multiple attributes TOGETHER?",
+    "difficultyScore": 3
+  }
+]

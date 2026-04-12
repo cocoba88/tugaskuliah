@@ -1,0 +1,572 @@
+[
+  {
+    "id": "question_n3_3_001",
+    "question": "「余裕」の意味は？",
+    "furigana": "「余裕[よゆう]」の意味[いみ]は？",
+    "romaji": "'Yoyuu' no imi wa?",
+    "level": "N3",
+    "category": "VOCABULARY",
+    "options": [
+      "Leisure time or peace of mind",
+      "Unintentional mistake",
+      "Sudden decision",
+      "Excessive worry"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "What is the meaning of '余裕'?",
+    "answerExplanation": "'余裕' (yoyuu) means leeway, extra time, or mental composure when facing something. Example: '時間に余裕がある' = have free time. '心に余裕がある' = have peace of mind. This word describes a condition where someone does not feel pressured or in a hurry.",
+    "hint": "Not in a hurry and still have space or time to think calmly",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_3_002",
+    "question": "「妥協」の意味は？",
+    "furigana": "「妥協[だきょう]」の意味[いみ]は？",
+    "romaji": "'Dakyou' no imi wa?",
+    "level": "N3",
+    "category": "VOCABULARY",
+    "options": [
+      "To reject all others' opinions",
+      "To give up completely without conditions",
+      "To compromise to reach an agreement",
+      "To force one's own opinion on others"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "What is the meaning of '妥協'?",
+    "answerExplanation": "'妥協' (dakyou) means compromise, namely the attitude of making concessions to reach a mutual agreement. Example: '妥協点を見つける' = find a point of compromise. Different from 'giving up' (諦める), because compromise involves both sides making small concessions.",
+    "hint": "Both parties make small concessions to reach an agreement",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n3_3_003",
+    "question": "「到着」の意味は？",
+    "furigana": "「到着[とうちゃく]」の意味[いみ]は？",
+    "romaji": "'Touchaku' no imi wa?",
+    "level": "N3",
+    "category": "VOCABULARY",
+    "options": [
+      "To depart from a place",
+      "To get lost on the way",
+      "To arrive at a place",
+      "To delay departure to a destination"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "What is the meaning of '到着'?",
+    "answerExplanation": "'到着' (touchaku) means to arrive at a destination. Example: '飛行機が空港に到着した' = the airplane arrived at the airport. The opposite is '出発' (shuppatsu = to depart). This word is often used for transportation such as trains, airplanes, and buses.",
+    "hint": "The opposite of departing (出発). Used when reaching a destination.",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_3_004",
+    "question": "「迷惑」の意味は？",
+    "furigana": "「迷惑[めいわく]」の意味[いみ]は？",
+    "romaji": "'Meiwaku' no imi wa?",
+    "level": "N3",
+    "category": "VOCABULARY",
+    "options": [
+      "Very meaningful help",
+      "Disturbance or inconvenience to others",
+      "Unexpected gift",
+      "Sudden good luck"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "What is the meaning of '迷惑'?",
+    "answerExplanation": "'迷惑' (meiwaku) means disturbance, inconvenience, or troubling others. Example: '迷惑をかける' = to cause trouble for others. '迷惑メール' = spam email. In Japanese culture, avoiding causing 迷惑 to others is very important and is part of proper etiquette.",
+    "hint": "Something that makes others feel uncomfortable or disturbed",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_3_005",
+    "question": "「基準」の意味は？",
+    "furigana": "「基準[きじゅん]」の意味[いみ]は？",
+    "romaji": "'Kijun' no imi wa?",
+    "level": "N3",
+    "category": "VOCABULARY",
+    "options": [
+      "Standard or criterion used for evaluation",
+      "Unexpected change",
+      "Result exceeding the target",
+      "Decision made suddenly"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "What is the meaning of '基準'?",
+    "answerExplanation": "'基準' (kijun) means standard, benchmark, or criteria used to evaluate or measure something. Example: '合格の基準' = passing standard. '基準を満たす' = to meet the standard. Different from '規則' (kisoku = rule) which is more about regulations that must be followed.",
+    "hint": "A benchmark for judging whether something is acceptable or not",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n3_3_006",
+    "question": "「納得」の読み方は？",
+    "furigana": "「納得[なっとく]」の読[よ]み方[かた]は？",
+    "romaji": "'Nattoku' no yomikata wa?",
+    "level": "N3",
+    "category": "KANJI",
+    "options": [
+      "のうとく",
+      "なっとく",
+      "なとく",
+      "のうとっく"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "How do you read '納得'?",
+    "answerExplanation": "'納得' is read 'なっとく' (nattoku), meaning to accept, understand, or agree after receiving an explanation. Note the sokuon (っ) in the middle of the word. Kanji 納 is usually read 'nou' (納税 = nouzei), but in 納得 it is read 'na' with the addition of っ. Example: '説明を聞いて納得した' = understood after hearing the explanation.",
+    "hint": "There is a sokuon (っ) in the middle. Nat-toku.",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n3_3_007",
+    "question": "「謙虚」の読み方は？",
+    "furigana": "「謙虚[けんきょ]」の読[よ]み方[かた]は？",
+    "romaji": "'Kenkyo' no yomikata wa?",
+    "level": "N3",
+    "category": "KANJI",
+    "options": [
+      "けんこ",
+      "けんきょう",
+      "かんきょ",
+      "けんきょ"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "How do you read '謙虚'?",
+    "answerExplanation": "'謙虚' is read 'けんきょ' (kenkyo), meaning humble or a modest attitude. 謙 is read 'ken' and 虚 is read 'kyo' (not 'kyou', no long vowel). Don't confuse with 謙遜 (けんそん/kenson) which has a similar meaning. Example: '謙虚な態度' = a humble attitude.",
+    "hint": "Ken + kyo (without a long vowel). A humble attitude.",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_3_008",
+    "question": "「産業」の読み方は？",
+    "furigana": "「産業[さんぎょう]」の読[よ]み方[かた]は？",
+    "romaji": "'Sangyou' no yomikata wa?",
+    "level": "N3",
+    "category": "KANJI",
+    "options": [
+      "さんぎょう",
+      "さんごう",
+      "さんきょう",
+      "さんぎょ"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "How do you read '産業'?",
+    "answerExplanation": "'産業' is read 'さんぎょう' (sangyou), meaning industry or business sector. 産 is read 'san' and 業 is read 'gyou' (with rendaku changing 'kyou' to 'gyou'). Example: '産業革命' (sangyou kakumei) = industrial revolution. '農業' (nougyou) and '工業' (kougyou) also use the kanji 業.",
+    "hint": "San + gyou (with a long vowel). Related to industry.",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_3_009",
+    "question": "「政治」の読み方は？",
+    "furigana": "「政治[せいじ]」の読[よ]み方[かた]は？",
+    "romaji": "'Seiji' no yomikata wa?",
+    "level": "N3",
+    "category": "KANJI",
+    "options": [
+      "しょうち",
+      "せいち",
+      "せいじ",
+      "しょうじ"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "How do you read '政治'?",
+    "answerExplanation": "'政治' is read 'せいじ' (seiji), meaning politics or government. 政 is read 'sei' and 治 is read 'ji'. Example: '政治家' (seijika) = politician. '政治的な問題' = a political problem. Kanji 治 is also used in '治る' (naoru = to heal) and '治療' (chiryou = medical treatment).",
+    "hint": "Sei + ji. Related to state affairs and government.",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_3_010",
+    "question": "「技術」の読み方は？",
+    "furigana": "「技術[ぎじゅつ]」の読[よ]み方[かた]は？",
+    "romaji": "'Gijutsu' no yomikata wa?",
+    "level": "N3",
+    "category": "KANJI",
+    "options": [
+      "ぎじゅつ",
+      "きじゅつ",
+      "ぎしゅつ",
+      "きしゅつ"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "How do you read '技術'?",
+    "answerExplanation": "'技術' is read 'ぎじゅつ' (gijutsu), meaning technology or technical skill. 技 is read 'ぎ' (skill) and 術 is read 'じゅつ' (technique/method). Example: '技術者' (gijutsusha) = technician, '技術を磨く' (gijutsu wo migaku) = to hone one's skills. This word is often used in the context of work and technology.",
+    "hint": "Gi + jutsu. Related to skill or technology.",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_3_011",
+    "question": "忙しくて、旅行に行く___ではない。",
+    "furigana": "忙[いそが]しくて、旅行[りょこう]に行[い]く___ではない。",
+    "romaji": "Isogashikute, ryokou ni iku ___ dewa nai.",
+    "level": "N3",
+    "category": "GRAMMAR",
+    "options": [
+      "ところ",
+      "どころ",
+      "はず",
+      "べき"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "So busy that there's no time to even go on a trip.",
+    "answerExplanation": "'〜どころではない' means 'not even having time to...' or 'this is not the time to...'. This pattern is used when circumstances make it completely impossible to do something. 'ところではない' (with 'to') is not the correct pattern. 'はず' = should be (based on expectation). 'べき' = should (based on obligation). Pattern: V-dictionary form + どころではない.",
+    "hint": "A pattern that expresses 'there is no time at all to even...'",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n3_3_012",
+    "question": "説明書をよく読んだ___、組み立ててください。",
+    "furigana": "説明書[せつめいしょ]をよく読[よ]んだ___、組[く]み立[た]ててください。",
+    "romaji": "Setsumeisho wo yoku yonda ___, kumitatete kudasai.",
+    "level": "N3",
+    "category": "GRAMMAR",
+    "options": [
+      "あとに",
+      "うえで",
+      "まえに",
+      "ついでに"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Please assemble after reading the instructions carefully.",
+    "answerExplanation": "'〜うえで' means 'after doing...' or 'based on...' and emphasizes that the first action is an important prerequisite before performing the next action. Pattern: V-ta form + うえで. Different from 'あとに' which also means 'after' but without the nuance of an important prerequisite. 'まえに' = before. 'ついでに' = while at it/taking the opportunity. Another example: 相談したうえで決める (decide after consulting).",
+    "hint": "After (doing something as an important prerequisite), then...",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n3_3_013",
+    "question": "この問題は簡単___、実は難しい。",
+    "furigana": "この問題[もんだい]は簡単[かんたん]___、実[じつ]は難[むずか]しい。",
+    "romaji": "Kono mondai wa kantan ___, jitsu wa muzukashii.",
+    "level": "N3",
+    "category": "GRAMMAR",
+    "options": [
+      "に見えて",
+      "に見ると",
+      "で見えて",
+      "を見えて"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "This problem looks easy, but it's actually difficult.",
+    "answerExplanation": "'〜に見えて' means 'looks like... but actually...'. It expresses contrast between outward appearance and actual reality. Pattern: Na-adj + に見えて / i-adj stem + そうに見えて / N + に見えて. The correct particle is 'に' (not 'で' or 'を'). '見ると' means 'when you look at' and does not fit in this context.",
+    "hint": "Looks like... but the reality is different from what is visible",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n3_3_014",
+    "question": "びっくりする___大きな音がした。",
+    "furigana": "びっくりする___大[おお]きな音[おと]がした。",
+    "romaji": "Bikkuri suru ___ ookina oto ga shita.",
+    "level": "N3",
+    "category": "GRAMMAR",
+    "options": [
+      "ながら",
+      "ほど",
+      "ように",
+      "まで"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "There was such a loud sound that I was startled.",
+    "answerExplanation": "'〜ほど' means 'to such an extent that...' or 'to the degree of...'. Used to express the level or degree of something. Pattern: V-dictionary + ほど + adjective/noun. 'ながら' = while (two simultaneous activities). 'ように' = like/so that. 'まで' = until (limit of time/place). Another example: 涙が出るほど嬉しかった (so happy that tears came out).",
+    "hint": "Expresses the degree: 'to such an extent that...'",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n3_3_015",
+    "question": "ニュース___、明日は雪が降るそうだ。",
+    "furigana": "ニュース___、明日[あした]は雪[ゆき]が降[ふ]るそうだ。",
+    "romaji": "Nyuusu ___, ashita wa yuki ga furu sou da.",
+    "level": "N3",
+    "category": "GRAMMAR",
+    "options": [
+      "について",
+      "にとって",
+      "にたいして",
+      "によると"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "According to the news, it will snow tomorrow.",
+    "answerExplanation": "'〜によると' means 'according to...' and is used to express the source of information. Often combined with '〜そうだ' (it is said/reportedly) at the end of the sentence. 'について' = about/regarding. 'にとって' = for (from someone's perspective). 'にたいして' = toward. Pattern: Information source + によると + sentence + そうだ.",
+    "hint": "Indicates the source of information. 'According to...' + information received",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_3_016",
+    "question": "私___、家族が一番大切だ。",
+    "furigana": "私[わたし]___、家族[かぞく]が一番[いちばん]大切[たいせつ]だ。",
+    "romaji": "Watashi ___, kazoku ga ichiban taisetsu da.",
+    "level": "N3",
+    "category": "GRAMMAR",
+    "options": [
+      "によると",
+      "について",
+      "にとって",
+      "として"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "For me, family is the most important.",
+    "answerExplanation": "'〜にとって' means 'for...' or 'from the perspective of...'. Used to express someone's perspective or evaluation toward something. Pattern: Person/group + にとって + evaluation. 'によると' = according to (information source). 'について' = about/regarding. 'として' = as (capacity/role). Another example: '学生にとって、試験は大変だ' = for students, exams are tough.",
+    "hint": "'For...' or 'from someone's perspective...'",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_3_017",
+    "question": "彼は医者___働いている。",
+    "furigana": "彼[かれ]は医者[いしゃ]___働[はたら]いている。",
+    "romaji": "Kare wa isha ___ hataraite iru.",
+    "level": "N3",
+    "category": "GRAMMAR",
+    "options": [
+      "にとって",
+      "について",
+      "として",
+      "に関して"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "He works as a doctor.",
+    "answerExplanation": "'〜として' means 'as...' and is used to express the capacity, role, or status of someone or something. Pattern: N + として + V. 'にとって' = for (perspective). 'について' = about/regarding. 'に関して' = related to. Another example: '留学生として日本に来た' = came to Japan as an international student.",
+    "hint": "'As...' expresses someone's role or capacity",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_3_018",
+    "question": "（Reading）\n先月、私たちの町に新しいコミュニティガーデンができました。このガーデンは、住民が自由に野菜や花を育てることができる場所です。市役所の山田さんによると、このプロジェクトの目的は、住民同士の交流を深めることと、子どもたちに農業の大切さを教えることだそうです。毎週土曜日にはボランティアが集まって、一緒に作業をしています。参加費は無料で、誰でも参加できます。\n\n質問：コミュニティガーデンのプロジェクトの目的は何ですか。",
+    "furigana": "（Reading）\n先月[せんげつ]、私[わたし]たちの町[まち]に新[あたら]しいコミュニティガーデンができました。このガーデンは、住民[じゅうみん]が自由[じゆう]に野菜[やさい]や花[はな]を育[そだ]てることができる場所[ばしょ]です。市役所[しやくしょ]の山田[やまだ]さんによると、このプロジェクトの目的[もくてき]は、住民同士[じゅうみんどうし]の交流[こうりゅう]を深[ふか]めることと、子[こ]どもたちに農業[のうぎょう]の大切[たいせつ]さを教[おし]えることだそうです。毎週[まいしゅう]土曜日[どようび]にはボランティアが集[あつ]まって、一緒[いっしょ]に作業[さぎょう]をしています。参加費[さんかひ]は無料[むりょう]で、誰[だれ]でも参加[さんか]できます。\n\n質問[しつもん]：コミュニティガーデンのプロジェクトの目的[もくてき]は何[なん]ですか。",
+    "romaji": "(Reading)\nSengetsu, watashitachi no machi ni atarashii komyuniti gaaden ga dekimashita. Kono gaaden wa, juumin ga jiyuu ni yasai ya hana wo sodateru koto ga dekiru basho desu. Shiyakusho no Yamada-san ni yoru to, kono purojekuto no mokuteki wa, juumin doushi no kouryuu wo fukameru koto to, kodomotachi ni nougyou no taisetsu-sa wo oshieru koto da sou desu. Maishuu doyoubi ni wa borantia ga atsumatte, issho ni sagyou wo shite imasu. Sankahi wa muryou de, dare demo sanka dekimasu.\n\nShitsumon: Komyuniti gaaden no purojekuto no mokuteki wa nan desu ka.",
+    "level": "N3",
+    "category": "READING",
+    "options": [
+      "住民に安い野菜を売ること",
+      "住民同士の交流を深めることと、子どもたちに農業の大切さを教えること",
+      "町を有名にして観光客を呼ぶこと",
+      "ボランティアにお金を払うこと"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "(Reading)\nLast month, a new community garden was created in our town. This garden is a place where residents can freely grow vegetables and flowers. According to Yamada-san from the city office, the goal of this project is to deepen interaction among residents and to teach children the importance of agriculture. Every Saturday, volunteers gather and work together. Participation is free and anyone can join.\n\nQuestion: What is the goal of the community garden project?",
+    "answerExplanation": "The text clearly mentions that the project's goal is '住民同士の交流を深めること' (to deepen interaction among residents) and '子どもたちに農業の大切さを教えること' (to teach children the importance of agriculture). The other options such as selling cheap vegetables, attracting tourists, or paying volunteers are not mentioned in the text.",
+    "hint": "Look for the sentence starting with 'このプロジェクトの目的は' (the goal of this project is)",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n3_3_019",
+    "question": "（Reading）\n先週、駅前にある二つのラーメン屋に行ってきました。一つ目の「麺太郎」は、スープがとても濃くて、チャーシューが厚くておいしかったです。でも、店が狭くて30分も並びました。二つ目の「風味亭」は、あっさりしたスープで、麺がもちもちしていました。店も広くて、すぐに座れました。私は濃い味が好きなので、並んでも「麺太郎」にまた行きたいと思いました。\n\n質問：筆者はどちらのラーメン屋が好きですか。その理由は何ですか。",
+    "furigana": "（Reading）\n先週[せんしゅう]、駅前[えきまえ]にある二[ふた]つのラーメン屋[や]に行[い]ってきました。一[ひと]つ目[め]の「麺太郎[めんたろう]」は、スープがとても濃[こ]くて、チャーシューが厚[あつ]くておいしかったです。でも、店[みせ]が狭[せま]くて30分[ぷん]も並[なら]びました。二[ふた]つ目[め]の「風味亭[ふうみてい]」は、あっさりしたスープで、麺[めん]がもちもちしていました。店[みせ]も広[ひろ]くて、すぐに座[すわ]れました。私[わたし]は濃[こ]い味[あじ]が好[す]きなので、並[なら]んでも「麺太郎[めんたろう]」にまた行[い]きたいと思[おも]いました。\n\n質問[しつもん]：筆者[ひっしゃ]はどちらのラーメン屋[や]が好[す]きですか。その理由[りゆう]は何[なん]ですか。",
+    "romaji": "(Reading)\nSenshuu, ekimae ni aru futatsu no raamen-ya ni itte kimashita. Hitotsu-me no 'Mentarou' wa, suupu ga totemo kokute, chaashuu ga atsukute oishikatta desu. Demo, mise ga semakute 30-pun mo narabimashita. Futatsu-me no 'Fuumitei' wa, assari shita suupu de, men ga mochimochi shite imashita. Mise mo hirokute, sugu ni suwaremashita. Watashi wa koi aji ga suki na node, narande mo 'Mentarou' ni mata ikitai to omoimashita.\n\nShitsumon: Hissha wa dochira no raamen-ya ga suki desu ka. Sono riyuu wa nan desu ka.",
+    "level": "N3",
+    "category": "READING",
+    "options": [
+      "風味亭。スープがあっさりしていて店が広いから。",
+      "麺太郎。並ばなくてもいいし、店が広いから。",
+      "麺太郎。濃い味が好きだから。",
+      "風味亭。チャーシューが厚くておいしいから。"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "(Reading)\nLast week, I went to two ramen shops in front of the station. The first one, 'Mentarou', had very rich broth and thick, delicious chashu. But the shop was narrow and I had to wait in line for 30 minutes. The second one, 'Fuumitei', had light broth and chewy noodles. The shop was also spacious and I could sit down right away. Because I like rich flavors, I thought that even if I have to wait in line, I want to go to 'Mentarou' again.\n\nQuestion: Which ramen shop does the author prefer? What is the reason?",
+    "answerExplanation": "The text mentions '私は濃い味が好きなので、並んでも「麺太郎」にまた行きたいと思いました' (because I like rich flavors, even if I have to wait in line, I want to go to Mentarou again). So the author prefers Mentarou because they like rich flavors. Option B is wrong because Mentarou actually requires waiting in line and the shop is narrow. Option D is wrong because thick chashu is at Mentarou, not Fuumitei.",
+    "hint": "Note the last sentence that mentions the author's reason for their choice",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n3_3_020",
+    "question": "（Reading）\n図書館の自動貸出機の使い方をご案内します。まず、画面の「貸出」ボタンを押してください。次に、図書カードを機械の右側にあるカードリーダーにかざしてください。カードが認識されたら、借りたい本のバーコードをスキャナーに読み取らせてください。画面に本のタイトルが表示されたら、「確認」ボタンを押して完了です。一度に5冊まで借りることができます。\n\n質問：自動貸出機を使うとき、最初に何をしますか。",
+    "furigana": "（Reading）\n図書館[としょかん]の自動貸出機[じどうかしだしき]の使[つか]い方[かた]をご案内[あんない]します。まず、画面[がめん]の「貸出[かしだし]」ボタンを押[お]してください。次[つぎ]に、図書[としょ]カードを機械[きかい]の右側[みぎがわ]にあるカードリーダーにかざしてください。カードが認識[にんしき]されたら、借[か]りたい本[ほん]のバーコードをスキャナーに読[よ]み取[と]らせてください。画面[がめん]に本[ほん]のタイトルが表示[ひょうじ]されたら、「確認[かくにん]」ボタンを押[お]して完了[かんりょう]です。一度[いちど]に5冊[さつ]まで借[か]りることができます。\n\n質問[しつもん]：自動貸出機[じどうかしだしき]を使[つか]うとき、最初[さいしょ]に何[なに]をしますか。",
+    "romaji": "(Reading)\nToshokan no jidou kashidashiki no tsukaikata wo go-annai shimasu. Mazu, gamen no 'kashidashi' botan wo oshite kudasai. Tsugi ni, tosho kaado wo kikai no migigawa ni aru kaado riidaa ni kazashite kudasai. Kaado ga ninshiki saretara, karitai hon no baakoodo wo sukyanaa ni yomitorasete kudasai. Gamen ni hon no taitoru ga hyouji saretara, 'kakunin' botan wo oshite kanryou desu. Ichido ni 5-satsu made kariru koto ga dekimasu.\n\nShitsumon: Jidou kashidashiki wo tsukau toki, saisho ni nani wo shimasu ka.",
+    "level": "N3",
+    "category": "READING",
+    "options": [
+      "図書カードをカードリーダーにかざす",
+      "画面の「貸出」ボタンを押す",
+      "本のバーコードをスキャナーに読み取らせる",
+      "画面の「確認」ボタンを押す"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "(Reading)\nWe will explain how to use the library's automatic lending machine. First, press the 'Lending' button on the screen. Next, hold your library card up to the card reader on the right side of the machine. After the card is recognized, scan the barcode of the book you want to borrow using the scanner. After the book title is displayed on the screen, press the 'Confirm' button and you are done. You can borrow up to 5 books at once.\n\nQuestion: When using the automatic lending machine, what do you do first?",
+    "answerExplanation": "The text mentions 'まず、画面の「貸出」ボタンを押してください' (first, press the 'Lending' button on the screen). The word 'まず' (first) shows that this is the first step. Holding up the card is the second step ('次に' = next). Scanning the barcode and pressing the confirm button are subsequent steps.",
+    "hint": "Look for the word 'まず' (first) that indicates the first step",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_3_021",
+    "question": "母は弟に野菜を食べ___。",
+    "furigana": "母[はは]は弟[おとうと]に野菜[やさい]を食[た]べ___。",
+    "romaji": "Haha wa otouto ni yasai wo tabe ___.",
+    "level": "N3",
+    "category": "GRAMMAR",
+    "options": [
+      "させた",
+      "された",
+      "れた",
+      "られた"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "My mother made my younger brother eat vegetables.",
+    "answerExplanation": "The causative pattern '～させる' is used to express making/letting someone do something. '食べる' (eat) is a Group II verb, causative form: 食べる → 食べさせる → 食べさせた (past). The mother (subject) made the brother (object) eat vegetables. 'された' and 'られた' are passive forms.",
+    "hint": "The mother (subject) makes the brother do something - this is causative form",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_3_022",
+    "question": "窓が開けて___から、部屋が涼しい。",
+    "furigana": "窓[まど]が開[あ]けて___から、部屋[へや]が涼[すず]しい。",
+    "romaji": "Mado ga akete ___ kara, heya ga suzushii.",
+    "level": "N3",
+    "category": "GRAMMAR",
+    "options": [
+      "いる",
+      "ある",
+      "おく",
+      "みる"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Because the window has been opened (by someone), the room is cool.",
+    "answerExplanation": "The pattern '～てある' is used to express that something is in a certain state as a result of someone's intentional action. '窓が開けてある' means 'the window is in an open state (because someone intentionally opened it)'. Different from '～ている' which just describes the current state. '～ておく' means to prepare in advance.",
+    "hint": "The window's open state is the result of someone's intentional action",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_3_023",
+    "question": "彼が遅刻するのは珍しくない。彼はいつも遅刻する___だ。",
+    "furigana": "彼[かれ]が遅刻[ちこく]するのは珍[めずら]しくない。彼[かれ]はいつも遅刻[ちこく]する___だ。",
+    "romaji": "Kare ga chikoku suru no wa mezurashiku nai. Kare wa itsumo chikoku suru ___ da.",
+    "level": "N3",
+    "category": "GRAMMAR",
+    "options": [
+      "はず",
+      "わけ",
+      "もの",
+      "こと"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "It's not unusual for him to be late. It makes sense that he's always late.",
+    "answerExplanation": "The pattern '～わけだ' is used to express a logical conclusion or reasonable explanation based on previous facts. Here, since he's always late, it makes sense that his being late is not unusual. 'はずだ' = should be (expectation), 'ものだ' = that's how it is (general truth), 'ことだ' = should (advice).",
+    "hint": "This pattern expresses a logical conclusion: 'no wonder' or 'it makes sense'",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_3_024",
+    "question": "毎日たくさん歩いているので、___がついてきた。",
+    "furigana": "毎日[まいにち]たくさん歩[ある]いているので、___がついてきた。",
+    "romaji": "Mainichi takusan aruite iru node, ___ ga tsuite kita.",
+    "level": "N3",
+    "category": "VOCABULARY",
+    "options": [
+      "体力",
+      "体重",
+      "視力",
+      "能力"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Because I walk a lot every day, I've been building up physical strength.",
+    "answerExplanation": "'体力' (tairyoku) means physical strength or stamina. '体力がつく' is a common collocation meaning 'to build up physical strength'. It fits the context of walking every day. '体重' (taijuu) = body weight, '視力' (shiryoku) = eyesight, '能力' (nouryoku) = ability (more general/abstract).",
+    "hint": "Something that increases with regular exercise - related to physical body",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_3_025",
+    "question": "友達と___があったので、話し合って解決した。",
+    "furigana": "友達[ともだち]と___があったので、話[はな]し合[あ]って解決[かいけつ]した。",
+    "romaji": "Tomodachi to ___ ga atta node, hanashiatte kaiketsu shita.",
+    "level": "N3",
+    "category": "VOCABULARY",
+    "options": [
+      "関係",
+      "誤解",
+      "経験",
+      "影響"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Because there was a misunderstanding with my friend, we talked it through and resolved it.",
+    "answerExplanation": "'誤解' (gokai) means misunderstanding. The context shows a problem with a friend that was resolved through discussion, which fits 'misunderstanding'. '関係' (kankei) = relationship, '経験' (keiken) = experience, '影響' (eikyou) = influence. Common collocation: '誤解を解く' (clear up a misunderstanding).",
+    "hint": "A problem between friends that can be resolved by talking - due to wrong understanding",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_3_026",
+    "question": "この店は___がいいので、いつもお客さんが多い。",
+    "furigana": "この店[みせ]は___がいいので、いつもお客[きゃく]さんが多[おお]い。",
+    "romaji": "Kono mise wa ___ ga ii node, itsumo okyaku-san ga ooi.",
+    "level": "N3",
+    "category": "VOCABULARY",
+    "options": [
+      "評判",
+      "予定",
+      "習慣",
+      "割合"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "This shop has a good reputation, so it always has many customers.",
+    "answerExplanation": "'評判' (hyouban) means reputation or fame. '評判がいい' means 'has a good reputation'. It fits the context of a shop that is always crowded. '予定' (yotei) = schedule/plan, '習慣' (shuukan) = habit, '割合' (wariai) = proportion/ratio. Another example: '評判のレストラン' (well-reputed restaurant).",
+    "hint": "Something that makes people come to the shop - related to good name",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_3_027",
+    "question": "「経験」の読み方は？",
+    "furigana": "「経験[けいけん]」の読[よ]み方[かた]は？",
+    "romaji": "'Keiken' no yomikata wa?",
+    "level": "N3",
+    "category": "KANJI",
+    "options": [
+      "けいけん",
+      "けいげん",
+      "きょうけん",
+      "けいこん"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "How do you read '経験'?",
+    "answerExplanation": "'経験' is read as 'けいけん' (keiken) meaning experience. Kanji 経 is read けい (kei = pass through) and 験 is read けん (ken = test/experience). Examples: '経験がある' (have experience), '経験を積む' (accumulate experience). Do not confuse with '実験' (じっけん/jikken = experiment).",
+    "hint": "Kei + ken. Something gained from experiencing things firsthand",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_3_028",
+    "question": "「影響」の読み方は？",
+    "furigana": "「影響[えいきょう]」の読[よ]み方[かた]は？",
+    "romaji": "'Eikyou' no yomikata wa?",
+    "level": "N3",
+    "category": "KANJI",
+    "options": [
+      "えいひびき",
+      "えいきょう",
+      "いんきょう",
+      "えいきょ"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "How do you read '影響'?",
+    "answerExplanation": "'影響' is read as 'えいきょう' (eikyou) meaning influence or impact. Kanji 影 is read えい (ei = shadow/influence) and 響 is read きょう (kyou = resonate/echo). Examples: '影響を与える' (give influence), '影響を受ける' (receive influence). Note the long vowel in 'kyou'.",
+    "hint": "Ei + kyou (long vowel). Impact or effect on something",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_3_029",
+    "question": "次の文章を読んで、質問に答えてください。\n\n私は去年の夏、初めて一人で海外旅行をしました。行き先はタイのバンコクです。出発前はとても不安でしたが、現地の人はとても親切で、道に迷ったときも助けてくれました。一番印象に残っているのは、市場で食べたパッタイです。安くておいしくて、毎日食べていました。この旅行で、言葉が通じなくても、笑顔とジェスチャーでコミュニケーションができることを学びました。\n\n質問：筆者がこの旅行で学んだことは何ですか？",
+    "furigana": "次[つぎ]の文章[ぶんしょう]を読[よ]んで、質問[しつもん]に答[こた]えてください。\n\n私[わたし]は去年[きょねん]の夏[なつ]、初[はじ]めて一人[ひとり]で海外旅行[かいがいりょこう]をしました。行[い]き先[さき]はタイのバンコクです。出発前[しゅっぱつまえ]はとても不安[ふあん]でしたが、現地[げんち]の人[ひと]はとても親切[しんせつ]で、道[みち]に迷[まよ]ったときも助[たす]けてくれました。一番[いちばん]印象[いんしょう]に残[のこ]っているのは、市場[いちば]で食[た]べたパッタイです。安[やす]くておいしくて、毎日[まいにち]食[た]べていました。この旅行[りょこう]で、言葉[ことば]が通[つう]じなくても、笑顔[えがお]とジェスチャーでコミュニケーションができることを学[まな]びました。\n\n質問[しつもん]：筆者[ひっしゃ]がこの旅行[りょこう]で学[まな]んだことは何[なん]ですか？",
+    "romaji": "Tsugi no bunshou wo yonde, shitsumon ni kotaete kudasai. (Passage about solo travel) Shitsumon: Hissha ga kono ryokou de mananda koto wa nan desu ka?",
+    "level": "N3",
+    "category": "READING",
+    "options": [
+      "タイ語を勉強することが大切だということ",
+      "言葉が通じなくても笑顔とジェスチャーでコミュニケーションできること",
+      "一人旅行は不安なのでやめたほうがいいということ",
+      "市場の食べ物は安くておいしいということ"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Read the following passage and answer the question.\n\nLast summer, I traveled abroad alone for the first time. The destination was Bangkok, Thailand. I was very anxious before departure, but the locals were very kind and helped me when I got lost. The most memorable thing was the pad thai I ate at the market. It was cheap and delicious, and I ate it every day. From this trip, I learned that even if language doesn't work, you can communicate with smiles and gestures.\n\nQuestion: What did the author learn from this trip?",
+    "answerExplanation": "The last sentence clearly states: 'I learned that even without language, communication is possible with smiles and gestures'. Option A is not mentioned. Option C contradicts the author's positive experience. Option D is an impression, not the main lesson learned.",
+    "hint": "Look for the last sentence containing '学びました' (I learned)",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_3_030",
+    "question": "次の文章を読んで、質問に答えてください。\n\nスーパーのお知らせ：\n来週月曜日から金曜日まで、店内改装工事のため休業いたします。土曜日は午前10時から通常営業を再開いたします。なお、改装後は新しく惣菜コーナーを設け、できたてのお弁当やおかずを販売いたします。ポイントカードをお持ちのお客様には、再開日に限り全品10%割引のサービスを実施いたします。ご迷惑をおかけしますが、よろしくお願いいたします。\n\n質問：ポイントカードを持っている人は、いつ割引が受けられますか？",
+    "furigana": "次[つぎ]の文章[ぶんしょう]を読[よ]んで、質問[しつもん]に答[こた]えてください。\n\nスーパーのお知[し]らせ：\n来週[らいしゅう]月曜日[げつようび]から金曜日[きんようび]まで、店内[てんない]改装[かいそう]工事[こうじ]のため休業[きゅうぎょう]いたします。土曜日[どようび]は午前[ごぜん]10時[じゅうじ]から通常[つうじょう]営業[えいぎょう]を再開[さいかい]いたします。なお、改装後[かいそうご]は新[あたら]しく惣菜[そうざい]コーナーを設[もう]け、できたてのお弁当[べんとう]やおかずを販売[はんばい]いたします。ポイントカードをお持[も]ちのお客様[きゃくさま]には、再開日[さいかいび]に限[かぎ]り全品[ぜんぴん]10%割引[わりびき]のサービスを実施[じっし]いたします。ご迷惑[めいわく]をおかけしますが、よろしくお願[ねが]いいたします。\n\n質問[しつもん]：ポイントカードを持[も]っている人[ひと]は、いつ割引[わりびき]が受[う]けられますか？",
+    "romaji": "Tsugi no bunshou wo yonde, shitsumon ni kotaete kudasai. (Supermarket announcement) Shitsumon: Pointo kaado wo motte iru hito wa, itsu waribiki ga ukeraremasu ka?",
+    "level": "N3",
+    "category": "READING",
+    "options": [
+      "来週の月曜日から金曜日まで",
+      "改装工事中の毎日",
+      "土曜日の再開日のみ",
+      "改装後の毎日"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Read the following passage and answer the question.\n\nSupermarket announcement: We will be closed from Monday to Friday next week for renovation. We will reopen on Saturday from 10 AM. After renovation, we will open a new deli corner. Point card holders will receive a 10% discount on all items, limited to the reopening day only.\n\nQuestion: When can point card holders get the discount?",
+    "answerExplanation": "The text states '再開日に限り全品10%割引' (limited to the reopening day, 10% discount on all items). '再開日に限り' means 'limited to the reopening day only', which is Saturday. Options A and B are wrong because the store is closed those days. Option D is wrong because the discount only applies on the reopening day.",
+    "hint": "Look for '～に限り' which means 'limited to～ only'",
+    "difficultyScore": 3
+  }
+]

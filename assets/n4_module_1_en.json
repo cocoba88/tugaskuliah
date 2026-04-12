@@ -1,0 +1,382 @@
+[
+  {
+    "id": "question_n4_1_001",
+    "question": "明日、雨が___たら、行きません。",
+    "furigana": "明日[あした]、雨[あめ]が___たら、行[い]きません。",
+    "romaji": "Ashita, ame ga ___ tara, ikimasen.",
+    "level": "N4",
+    "category": "GRAMMAR",
+    "options": [
+      "ふる",
+      "ふり",
+      "ふれ",
+      "ふっ"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "Tomorrow, if it rains, I will not go.",
+    "answerExplanation": "The pattern ~たら (tara) is formed from the ta-form of a verb. '降る' (furu) is a u-verb ending in '-る' (after a consonant). Conjugation rule: う/つ/る → った. So 降る → 降った → the part before 'たら' is 'ふっ'. Other options: 'ふる' = dictionary form, 'ふり' = masu-stem, 'ふれ' = imperative/conditional え-form.",
+    "hint": "The ~たら pattern requires the ta-form. For u-verbs ending in う/つ/る, the rule is: → った. So 降る → 降っ + たら.",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_1_002",
+    "question": "「見つかる」はどういう意味ですか？",
+    "furigana": "「見[み]つかる」はどういう意味[いみ]ですか？",
+    "romaji": "'Mitsukaru' wa dou iu imi desu ka?",
+    "level": "N4",
+    "category": "VOCABULARY",
+    "options": [
+      "To observe carefully",
+      "Found / discovered",
+      "Visible / appears",
+      "To search / to look up"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "What is the meaning of '見つかる'?",
+    "answerExplanation": "'見つかる' (mitsukaru) is an intransitive verb meaning 'to be found / to turn up' — something that was lost or being searched for is finally there. Example: '鍵が見つかった' (The key was found). Option A 'to observe carefully' is wrong (that's closer to '見つめる'). Option C 'to be visible/appear' is wrong (that's '見える'). Option D 'to search/look for' is wrong (that's '探す'). All options relate to sight/vision activities, but their meanings differ.",
+    "hint": "This word is an intransitive verb (自動詞) — the subject is not the person doing the action, but the thing that 'appears' or 'is there'. Think of a situation when a lost item is suddenly found.",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_1_003",
+    "question": "日曜日に友だちと映画を___つもりです。",
+    "furigana": "日曜日[にちようび]に友[とも]だちと映画[えいが]を___つもりです。",
+    "romaji": "Nichiyoubi ni tomodachi to eiga o ___ tsumori desu.",
+    "level": "N4",
+    "category": "GRAMMAR",
+    "options": [
+      "見た",
+      "見て",
+      "見る",
+      "見よう"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "I plan to watch a movie with my friend on Sunday.",
+    "answerExplanation": "The pattern '~つもりです' (tsumori desu) expresses a plan/intention and requires the dictionary form before it. '見る' (miru) is already in dictionary form, so it becomes '見るつもりです'. Other options: '見た' = past tense, '見て' = te-form, '見よう' = volitional form — none of these are used before 'つもり'.",
+    "hint": "The pattern ~つもりです (planning to ~) requires the dictionary form of the verb before つもり.",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_1_004",
+    "question": "「暖かい」の正しい読み方は？",
+    "furigana": "「暖[あたた]かい」の正[ただ]しい読[よ]み方[かた]は？",
+    "romaji": "'Atatakai' no tadashii yomikata wa?",
+    "level": "N4",
+    "category": "KANJI",
+    "options": [
+      "あつかい",
+      "あたたかい",
+      "あたらかい",
+      "あったかい"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Which is the correct reading for '暖かい'?",
+    "answerExplanation": "'暖かい' is read as 'あたたかい' (atatakai) meaning 'warm' (for weather/air temperature). Don't confuse with: 'あつかい' which is not a standard word, 'あたらかい' which doesn't exist in Japanese, and 'あったかい' which is an informal spoken form of あたたかい but not the standard kanji reading.",
+    "hint": "The kanji 暖 relates to warmth. Its reading consists of the repeated syllable 'た'.",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_1_005",
+    "question": "父は大学で___います。",
+    "furigana": "父[ちち]は大学[だいがく]で___います。",
+    "romaji": "Chichi wa daigaku de ___ imasu.",
+    "level": "N4",
+    "category": "GRAMMAR",
+    "options": [
+      "はたらく",
+      "はたらき",
+      "はたらいて",
+      "はたらか"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "My father works at a university.",
+    "answerExplanation": "The pattern '~ています' (te imasu) requires the te-form of the verb. '働く' (hataraku) is a u-verb ending in 'く', so the te-form is: く → いて → '働いて' (hataraite). Then connected with 'います'. Other options: 'はたらく' = dictionary form, 'はたらき' = masu-stem, 'はたらか' = nai-form stem.",
+    "hint": "The ~ている pattern requires te-form. For u-verbs ending in く, the rule is: く → いて. So 働く → 働いて + います.",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_1_006",
+    "question": "映画が終わった___、家へ帰りました。",
+    "furigana": "映画[えいが]が終[お]わった___、家[いえ]へ帰[かえ]りました。",
+    "romaji": "Eiga ga owatta ___, ie e kaerimashita.",
+    "level": "N4",
+    "category": "GRAMMAR",
+    "options": [
+      "まえに",
+      "あとで",
+      "あいだに",
+      "ながら"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "After the movie ended, I went home.",
+    "answerExplanation": "'~たあとで' means 'after doing ~'. This pattern is used after ta-form to express sequence of events. 'まえに' (before) is used with dictionary form, not ta-form. 'あいだに' (during) expresses something happening in the middle of another activity. 'ながら' (while) expresses two simultaneous actions. Since 'owatta' is already ta-form, only 'あとで' fits.",
+    "hint": "The verb is already in past tense (ta-form). Which connecting word means 'after that' and fits after ta-form?",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_1_007",
+    "question": "「つもり」の意味は？",
+    "furigana": "「つもり」の意味[いみ]は？",
+    "romaji": "'Tsumori' no imi wa?",
+    "level": "N4",
+    "category": "VOCABULARY",
+    "options": [
+      "Plan / intend to",
+      "Habit / routine",
+      "Experience / have done",
+      "Obligation / must"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "What is the meaning of 'つもり'?",
+    "answerExplanation": "'つもり' (tsumori) means 'to intend' or 'to plan'. This pattern is used after the dictionary form of a verb to express intention/plan. Example: 来年、日本に行くつもりです (Next year, I plan to go to Japan). Other options — habit, experience, obligation — refer to other grammar patterns such as ことがある, なければならない, etc.",
+    "hint": "'つもり' is an auxiliary word that frequently appears at N4 level, used after the dictionary form of a verb to express someone's intention or plan.",
+    "difficultyScore": 1
+  },
+  {
+    "id": "question_n4_1_008",
+    "question": "私は日本語が少し___話せません。",
+    "furigana": "私[わたし]は日本語[にほんご]が少[すこ]し___話[はな]せません。",
+    "romaji": "Watashi wa nihongo ga sukoshi ___ hanasemasen.",
+    "level": "N4",
+    "category": "GRAMMAR",
+    "options": [
+      "だけ",
+      "しか",
+      "ほど",
+      "でも"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "I can only speak Japanese a little.",
+    "answerExplanation": "'しか~ない' is a pattern meaning 'only ~ (and nothing more)'. Key feature: しか MUST be followed by a negative form. This sentence ends with '話せません' (negative), so しか fits. Compare 'だけ' which also means 'only' but is followed by a positive form: '少しだけ話せます'. 'ほど' = to the extent of/about, 'でも' = even/also — both don't fit grammatically here.",
+    "hint": "The predicate of this sentence is NEGATIVE (話せません). Only one particle from the options MUST be paired with a negative form.",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n4_1_009",
+    "question": "日本に___ことがあります。",
+    "furigana": "日本[にほん]に___ことがあります。",
+    "romaji": "Nihon ni ___ koto ga arimasu.",
+    "level": "N4",
+    "category": "GRAMMAR",
+    "options": [
+      "行く",
+      "行った",
+      "行って",
+      "行き"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "I have been to Japan.",
+    "answerExplanation": "The pattern ~たことがある (ta koto ga aru) is used to express experience — 'to have done ~'. The verb before ことがある must be in ta-form (past). '行く' (iku) → ta-form: '行った' (itta). Other options: '行く' = dictionary form, '行って' = te-form, '行き' = masu-stem.",
+    "hint": "The pattern ~たことがある expresses experience. The verb before ことがある must be in past tense (ta-form).",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_1_010",
+    "question": "この漢字「届」の読み方は？「届ける」",
+    "furigana": "この漢字[かんじ]「届」の読[よ]み方[かた]は？「届[とど]ける」",
+    "romaji": "Kono kanji 'todoku' no yomikata wa? 'Todokeru'",
+    "level": "N4",
+    "category": "KANJI",
+    "options": [
+      "とど",
+      "おく",
+      "つた",
+      "わた"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "What is the reading of kanji '届' in the word '届ける'?",
+    "answerExplanation": "'届ける' (todokeru) means 'to deliver / to convey'. The kanji '届' is read as 'とど' (todo) in kun'yomi. Its intransitive form: '届く' (todoku) = to arrive/reach. Example: 荷物が届いた (The package arrived). Other options — おく, つた, わた — are readings of different kanji.",
+    "hint": "The kanji '届' is often used in the context of delivering goods. Think of the word 'todokeru' (to deliver) — what comes before 'ける'?",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_1_011",
+    "question": "このりんごは___おいしいです。",
+    "furigana": "このりんごは___おいしいです。",
+    "romaji": "Kono ringo wa ___ oishii desu.",
+    "level": "N4",
+    "category": "GRAMMAR",
+    "options": [
+      "とても",
+      "あまり",
+      "まだ",
+      "ぜんぜん"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "This apple is very delicious.",
+    "answerExplanation": "'とても' (totemo) = very, used to intensify adjectives in positive sentences. Other options don't fit: 'あまり' (amari) = not very, MUST be followed by negative form (e.g., あまりおいしくない); 'まだ' (mada) = still/not yet, not relevant for describing taste; 'ぜんぜん' (zenzen) = not at all, also MUST be followed by negative form.",
+    "hint": "This sentence is POSITIVE (おいしいです). Two of the options can only be used with negative sentences. Choose the word that strengthens the positive meaning.",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_1_012",
+    "question": "「〜なければなりません」はどんな意味ですか？",
+    "furigana": "「〜なければなりません」はどんな意味[いみ]ですか？",
+    "romaji": "'~nakereba narimasen' wa donna imi desu ka?",
+    "level": "N4",
+    "category": "GRAMMAR",
+    "options": [
+      "Don't need to do ~",
+      "May not do ~",
+      "Must do ~",
+      "Should do ~"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "What is the meaning of the pattern '~なければなりません'?",
+    "answerExplanation": "'~なければなりません' (nakereba narimasen) means 'must ~' — expressing obligation or necessity. Literally: 'if one doesn't do X, it won't work/be okay'. Example: '薬を飲まなければなりません' = Must take medicine. Related patterns: '~なくてもいいです' = don't need to ~ (option A), '~てもいいです' = may ~ (option B), '~ほうがいいです' = should ~ (option D).",
+    "hint": "Look at the structure: negative form (-ない → -なければ) + 'なりません' (cannot become). If not done, 'cannot become' → meaning it MUST be done.",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_1_013",
+    "question": "山田さんは英語___上手です。",
+    "furigana": "山田[やまだ]さんは英語[えいご]___上手[じょうず]です。",
+    "romaji": "Yamada-san wa eigo ___ jouzu desu.",
+    "level": "N4",
+    "category": "GRAMMAR",
+    "options": [
+      "を",
+      "が",
+      "で",
+      "に"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Yamada is good at English.",
+    "answerExplanation": "Na-adjectives like '上手' (jouzu = skilled), '下手' (heta = unskilled), '好き' (suki = like), and '嫌い' (kirai = dislike) use the particle 'が' to mark the field/thing one is good at or likes. This differs from transitive verbs that use 'を'. So: 英語が上手 (good at English). Other options: 'を' for objects of action verbs, 'で' for place/tool, 'に' for direction/purpose.",
+    "hint": "Adjectives like 上手・好き・得意 require a special particle that is DIFFERENT from the regular object particle (を). This particle is also used with わかる.",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n4_1_014",
+    "question": "「届ける」の意味は？",
+    "furigana": "「届[とど]ける」の意味[いみ]は？",
+    "romaji": "'Todokeru' no imi wa?",
+    "level": "N4",
+    "category": "VOCABULARY",
+    "options": [
+      "To receive / to get",
+      "To return / to send back",
+      "To deliver / to convey",
+      "To collect / to gather"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "What is the meaning of '届ける'?",
+    "answerExplanation": "'届ける' (todokeru) means 'to deliver' or 'to convey' — to bring something to someone or some place. It is a transitive verb (requires an object). Example: 荷物を届ける = to deliver a package. Don't confuse with '届く' (todoku) which is intransitive, meaning 'to arrive/reach' (the subject arrives by itself). Other options: 'to receive' = 受け取る (uketoru), 'to return' = 返す (kaesu), 'to collect' = 集める (atsumeru).",
+    "hint": "The kanji '届' relates to something 'reaching' a destination. The transitive version (-ける) means the actor MAKES something reach the destination.",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_1_015",
+    "question": "「建物」の意味は？",
+    "furigana": "「建物[たてもの]」の意味[いみ]は？",
+    "romaji": "'Tatemono' no imi wa?",
+    "level": "N4",
+    "category": "VOCABULARY",
+    "options": [
+      "Building / structure",
+      "Scenery / panorama",
+      "Equipment / supplies",
+      "Work / construction"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "What is the meaning of '建物'?",
+    "answerExplanation": "'建物' (たてもの, tatemono) means building or structure — a physical structure that has been built such as a house, office, or school. The kanji '建' (tate) comes from '建てる' (tateru = to build/construct), and '物' (mono) means thing/object. So literally: 'a thing that is built'. Other options: '景色' (keshiki = scenery), '道具' (dougu = tools), '工事' (kouji = construction work) — all related to the context of buildings but with different meanings.",
+    "hint": "The kanji '建' comes from '建てる' (to construct). The kanji '物' means 'thing'. Combine them: a thing that is constructed/built = ?",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_1_016",
+    "question": "友達が来る___に、部屋をそうじしました。",
+    "furigana": "友達[ともだち]が来[く]る___に、部屋[へや]をそうじしました。",
+    "romaji": "Tomodachi ga kuru ___ ni, heya o souji shimashita.",
+    "level": "N4",
+    "category": "GRAMMAR",
+    "options": [
+      "あと",
+      "あいだ",
+      "まえ",
+      "うち"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Before my friend came, I cleaned the room.",
+    "answerExplanation": "The pattern '(dictionary form) + まえに' means 'before ~'. '来るまえに' = before coming. This pattern uses the dictionary form before 'まえ'. Other options: 'あと' (after) is used after ta-form (来たあとに), not dictionary form; 'あいだ' (during) expresses duration; 'うち' (while) also expresses limited duration. Logically, cleaning the room is done BEFORE the guest arrives.",
+    "hint": "The verb is in dictionary form (来る) + ___ + に. Logically: cleaning the room is done first, then the friend comes. What word means 'before'?",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_1_017",
+    "question": "「季節」の読み方は？",
+    "furigana": "「季節」の読[よ]み方[かた]は？",
+    "romaji": "'Kisetsu' no yomikata wa?",
+    "level": "N4",
+    "category": "KANJI",
+    "options": [
+      "きせつ",
+      "きぶん",
+      "きかい",
+      "きおん"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "How do you read '季節'?",
+    "answerExplanation": "'季節' is read as 'きせつ' (kisetsu) meaning 'season'. Japan has four seasons: 春 (haru = spring), 夏 (natsu = summer), 秋 (aki = autumn), 冬 (fuyu = winter). Other options are words that also start with 'き': 'きぶん' (気分 = mood/feeling), 'きかい' (機会 = opportunity), 'きおん' (気温 = air temperature) — all have different kanji and meanings.",
+    "hint": "The kanji '季' relates to time/period, and '節' means section/segment. This combination refers to the division of time in a year. All options start with 'き'.",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_1_018",
+    "question": "（Reading） メアリーさんは、月曜日から金曜日まで会社で働いています。土曜日と日曜日は休みです。昨日は日曜日でしたから、メアリーさんは働きませんでした。友達と公園へ行きました。\n\n質問：メアリーさんはいつ公園へ行きましたか。",
+    "furigana": "メアリーさんは、月曜日[げつようび]から金曜日[きんようび]まで会社[かいしゃ]で働[はたら]いています。土曜日[どようび]と日曜日[にちようび]は休[やす]みです。昨日[きのう]は日曜日[にちようび]でしたから、メアリーさんは働[はたら]きませんでした。友達[ともだち]と公園[こうえん]へ行[い]きました。\n\n質問[しつもん]：メアリーさんはいつ公園[こうえん]へ行[い]きましたか。",
+    "romaji": "Mearii-san wa, getsuyoubi kara kinyoubi made kaisha de hataraite imasu. Doyoubi to nichiyoubi wa yasumi desu. Kinou wa nichiyoubi deshita kara, Mearii-san wa hatarakimasen deshita. Tomodachi to kouen e ikimashita.\n\nShitsumon: Mearii-san wa itsu kouen e ikimashita ka.",
+    "level": "N4",
+    "category": "READING",
+    "options": [
+      "金曜日 (きんようび)",
+      "月曜日 (げつようび)",
+      "土曜日 (どようび)",
+      "日曜日 (にちようび)"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "Mary works at a company from Monday to Friday. Saturday and Sunday are her days off. Yesterday was Sunday, so Mary did not work. She went to the park with her friend.\n\nQuestion: When did Mary go to the park?",
+    "answerExplanation": "The text states: '昨日は日曜日でした' (Yesterday was Sunday). Then Mary didn't work and went to the park. So Mary went to the park on Sunday (日曜日). The distractor '土曜日' is also Mary's day off, but the text explicitly mentions 'yesterday = Sunday' as the day in question.",
+    "hint": "Find the keyword '昨日' (yesterday) and identify what day 'yesterday' was according to the text. Don't be confused by the other day off (土曜日).",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_1_019",
+    "question": "部屋に誰___いませんでした。",
+    "furigana": "部屋[へや]に誰[だれ]___いませんでした。",
+    "romaji": "Heya ni dare ___ imasen deshita.",
+    "level": "N4",
+    "category": "GRAMMAR",
+    "options": [
+      "と",
+      "は",
+      "が",
+      "も"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "There was nobody in the room.",
+    "answerExplanation": "The pattern 'interrogative + も + negative form' means 'not a single one'. '誰もいない' = there is no one, '何もない' = there is nothing, 'どこにもない' = it's nowhere. The particle 'も' here functions as an emphasizer of totality in a negative context, NOT meaning 'also'. Other options: 'と' = and/with, 'は' = topic, 'が' = specific subject — none form the 'not a single one' pattern.",
+    "hint": "Pattern: question word (誰/何/どこ) + ___ + negative form = not a single one. Which particle completes this pattern?",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n4_1_020",
+    "question": "先生に___、よくわかりました。",
+    "furigana": "先生[せんせい]に___、よくわかりました。",
+    "romaji": "Sensei ni ___, yoku wakarimashita.",
+    "level": "N4",
+    "category": "GRAMMAR",
+    "options": [
+      "説明して",
+      "説明してもらって",
+      "説明させて",
+      "説明した"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "After the teacher explained (for me), I understood it well.",
+    "answerExplanation": "The pattern '~に~てもらう' means 'to receive an action from someone' — someone does something for the speaker's benefit. '先生に説明してもらって' = received an explanation from the teacher (then I understood). Other options: '説明して' = plain te-form, doesn't contain the nuance of 'receiving benefit from someone'; '説明させて' = causative 'let (me) explain', doesn't fit because the teacher is the one explaining; '説明した' = plain past tense, doesn't fit after 'に'.",
+    "hint": "Subject of the sentence = I (who understood). Teacher = the person who explained for me. Which pattern expresses 'receiving a kind action from someone'? Format: (person)に~て___.",
+    "difficultyScore": 3
+  }
+]

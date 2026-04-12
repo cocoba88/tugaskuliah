@@ -1,0 +1,581 @@
+{
+  "id": "hiragana_kotoba_challenge",
+  "title": "Hiragana Challenge",
+  "timer": 10,
+  "description": "Arrange the romaji reading of the displayed hiragana word! Tap the correct syllable tiles to form the reading.",
+  "totalQuestions": 30,
+  "questions": [
+    {
+      "id": 1,
+      "hiragana": "さくら",
+      "meaning": "Cherry Blossom",
+      "answerParts": [
+        "sa",
+        "ku",
+        "ra"
+      ],
+      "distractors": [
+        "ka",
+        "mi",
+        "te",
+        "no",
+        "so",
+        "ri",
+        "ma"
+      ]
+    },
+    {
+      "id": 2,
+      "hiragana": "やま",
+      "meaning": "Mountain",
+      "answerParts": [
+        "ya",
+        "ma"
+      ],
+      "distractors": [
+        "ka",
+        "ki",
+        "na",
+        "mi",
+        "su",
+        "so",
+        "ri",
+        "ha"
+      ]
+    },
+    {
+      "id": 3,
+      "hiragana": "うみ",
+      "meaning": "Sea",
+      "answerParts": [
+        "u",
+        "mi"
+      ],
+      "distractors": [
+        "ka",
+        "na",
+        "su",
+        "so",
+        "ri",
+        "ma",
+        "ha",
+        "ya"
+      ]
+    },
+    {
+      "id": 4,
+      "hiragana": "はな",
+      "meaning": "Flower",
+      "answerParts": [
+        "ha",
+        "na"
+      ],
+      "distractors": [
+        "ka",
+        "ki",
+        "mi",
+        "su",
+        "so",
+        "ri",
+        "ma",
+        "ya"
+      ]
+    },
+    {
+      "id": 5,
+      "hiragana": "そら",
+      "meaning": "Sky",
+      "answerParts": [
+        "so",
+        "ra"
+      ],
+      "distractors": [
+        "ka",
+        "ki",
+        "na",
+        "mi",
+        "su",
+        "ri",
+        "ma",
+        "ya"
+      ]
+    },
+    {
+      "id": 6,
+      "hiragana": "つき",
+      "meaning": "Moon",
+      "answerParts": [
+        "tsu",
+        "ki"
+      ],
+      "distractors": [
+        "ka",
+        "na",
+        "mi",
+        "su",
+        "so",
+        "ri",
+        "ma",
+        "ha"
+      ]
+    },
+    {
+      "id": 7,
+      "hiragana": "ほし",
+      "meaning": "Star",
+      "answerParts": [
+        "ho",
+        "shi"
+      ],
+      "distractors": [
+        "ka",
+        "na",
+        "mi",
+        "su",
+        "so",
+        "ri",
+        "ma",
+        "ya"
+      ]
+    },
+    {
+      "id": 8,
+      "hiragana": "ゆき",
+      "meaning": "Snow",
+      "answerParts": [
+        "yu",
+        "ki"
+      ],
+      "distractors": [
+        "ka",
+        "na",
+        "mi",
+        "su",
+        "so",
+        "ri",
+        "ma",
+        "ha"
+      ]
+    },
+    {
+      "id": 9,
+      "hiragana": "もり",
+      "meaning": "Forest",
+      "answerParts": [
+        "mo",
+        "ri"
+      ],
+      "distractors": [
+        "ka",
+        "ki",
+        "na",
+        "mi",
+        "su",
+        "so",
+        "ma",
+        "ha"
+      ]
+    },
+    {
+      "id": 10,
+      "hiragana": "あめ",
+      "meaning": "Rain",
+      "answerParts": [
+        "a",
+        "me"
+      ],
+      "distractors": [
+        "ka",
+        "ki",
+        "na",
+        "mi",
+        "su",
+        "so",
+        "ri",
+        "ya"
+      ]
+    },
+    {
+      "id": 11,
+      "hiragana": "みず",
+      "meaning": "Water",
+      "answerParts": [
+        "mi",
+        "zu"
+      ],
+      "distractors": [
+        "ka",
+        "ki",
+        "na",
+        "su",
+        "so",
+        "ri",
+        "ma",
+        "ha"
+      ]
+    },
+    {
+      "id": 12,
+      "hiragana": "まち",
+      "meaning": "City",
+      "answerParts": [
+        "ma",
+        "chi"
+      ],
+      "distractors": [
+        "ka",
+        "ki",
+        "na",
+        "mi",
+        "su",
+        "so",
+        "ri",
+        "ha"
+      ]
+    },
+    {
+      "id": 13,
+      "hiragana": "ねこ",
+      "meaning": "Cat",
+      "answerParts": [
+        "ne",
+        "ko"
+      ],
+      "distractors": [
+        "ka",
+        "ki",
+        "na",
+        "mi",
+        "su",
+        "so",
+        "ri",
+        "ma"
+      ]
+    },
+    {
+      "id": 14,
+      "hiragana": "てら",
+      "meaning": "Temple",
+      "answerParts": [
+        "te",
+        "ra"
+      ],
+      "distractors": [
+        "ka",
+        "ki",
+        "na",
+        "mi",
+        "su",
+        "so",
+        "ri",
+        "ma"
+      ]
+    },
+    {
+      "id": 15,
+      "hiragana": "しろ",
+      "meaning": "Castle",
+      "answerParts": [
+        "shi",
+        "ro"
+      ],
+      "distractors": [
+        "ka",
+        "ki",
+        "na",
+        "mi",
+        "su",
+        "so",
+        "ri",
+        "ma"
+      ]
+    },
+    {
+      "id": 16,
+      "hiragana": "ひかり",
+      "meaning": "Light",
+      "answerParts": [
+        "hi",
+        "ka",
+        "ri"
+      ],
+      "distractors": [
+        "na",
+        "mi",
+        "su",
+        "so",
+        "ma",
+        "ha",
+        "ya"
+      ]
+    },
+    {
+      "id": 17,
+      "hiragana": "こころ",
+      "meaning": "Heart / Feeling",
+      "answerParts": [
+        "ko",
+        "ko",
+        "ro"
+      ],
+      "distractors": [
+        "ka",
+        "ki",
+        "na",
+        "mi",
+        "su",
+        "so",
+        "ma"
+      ]
+    },
+    {
+      "id": 18,
+      "hiragana": "たいよう",
+      "meaning": "Sun",
+      "answerParts": [
+        "ta",
+        "i",
+        "yo",
+        "u"
+      ],
+      "distractors": [
+        "ka",
+        "ki",
+        "na",
+        "mi",
+        "su",
+        "so"
+      ]
+    },
+    {
+      "id": 19,
+      "hiragana": "にわとり",
+      "meaning": "Chicken",
+      "answerParts": [
+        "ni",
+        "wa",
+        "to",
+        "ri"
+      ],
+      "distractors": [
+        "ka",
+        "ki",
+        "na",
+        "mi",
+        "su",
+        "so"
+      ]
+    },
+    {
+      "id": 20,
+      "hiragana": "はなび",
+      "meaning": "Fireworks",
+      "answerParts": [
+        "ha",
+        "na",
+        "bi"
+      ],
+      "distractors": [
+        "ka",
+        "ki",
+        "mi",
+        "su",
+        "so",
+        "ri",
+        "ma"
+      ]
+    },
+    {
+      "id": 21,
+      "hiragana": "ともだち",
+      "meaning": "Friend",
+      "answerParts": [
+        "to",
+        "mo",
+        "da",
+        "chi"
+      ],
+      "distractors": [
+        "ka",
+        "ni",
+        "su",
+        "ha",
+        "re",
+        "yo"
+      ]
+    },
+    {
+      "id": 22,
+      "hiragana": "せんせい",
+      "meaning": "Teacher",
+      "answerParts": [
+        "se",
+        "n",
+        "se",
+        "i"
+      ],
+      "distractors": [
+        "ka",
+        "to",
+        "mi",
+        "ra",
+        "yu",
+        "ko"
+      ]
+    },
+    {
+      "id": 23,
+      "hiragana": "がっこう",
+      "meaning": "School",
+      "answerParts": [
+        "ga",
+        "kko",
+        "u"
+      ],
+      "distractors": [
+        "ki",
+        "na",
+        "shi",
+        "to",
+        "me",
+        "ra",
+        "ho"
+      ]
+    },
+    {
+      "id": 24,
+      "hiragana": "おはよう",
+      "meaning": "Good Morning",
+      "answerParts": [
+        "o",
+        "ha",
+        "yo",
+        "u"
+      ],
+      "distractors": [
+        "ka",
+        "mi",
+        "ne",
+        "ta",
+        "shi",
+        "ru"
+      ]
+    },
+    {
+      "id": 25,
+      "hiragana": "ありがとう",
+      "meaning": "Thank You",
+      "answerParts": [
+        "a",
+        "ri",
+        "ga",
+        "to",
+        "u"
+      ],
+      "distractors": [
+        "ka",
+        "mi",
+        "ne",
+        "shi",
+        "yu",
+        "ko"
+      ]
+    },
+    {
+      "id": 26,
+      "hiragana": "すみません",
+      "meaning": "Excuse Me / Sorry",
+      "answerParts": [
+        "su",
+        "mi",
+        "ma",
+        "se",
+        "n"
+      ],
+      "distractors": [
+        "ka",
+        "to",
+        "ri",
+        "ha",
+        "yo",
+        "ki"
+      ]
+    },
+    {
+      "id": 27,
+      "hiragana": "たべもの",
+      "meaning": "Food",
+      "answerParts": [
+        "ta",
+        "be",
+        "mo",
+        "no"
+      ],
+      "distractors": [
+        "ka",
+        "ri",
+        "su",
+        "ha",
+        "shi",
+        "yu"
+      ]
+    },
+    {
+      "id": 28,
+      "hiragana": "のみもの",
+      "meaning": "Beverage",
+      "answerParts": [
+        "no",
+        "mi",
+        "mo",
+        "no"
+      ],
+      "distractors": [
+        "ka",
+        "te",
+        "su",
+        "ra",
+        "ki",
+        "ha"
+      ]
+    },
+    {
+      "id": 29,
+      "hiragana": "でんしゃ",
+      "meaning": "Train",
+      "answerParts": [
+        "de",
+        "n",
+        "sha"
+      ],
+      "distractors": [
+        "ka",
+        "mi",
+        "to",
+        "ra",
+        "ki",
+        "su",
+        "ho"
+      ]
+    },
+    {
+      "id": 30,
+      "hiragana": "くるま",
+      "meaning": "Car",
+      "answerParts": [
+        "ku",
+        "ru",
+        "ma"
+      ],
+      "distractors": [
+        "ka",
+        "ni",
+        "to",
+        "shi",
+        "ha",
+        "so",
+        "yo"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,382 @@
+[
+  {
+    "id": "question_n1_2_001",
+    "question": "両チームの実力は___しており、最後まで勝敗が分からなかった。",
+    "furigana": "両[りょう]チームの実力[じつりょく]は___しており、最後[さいご]まで勝敗[しょうはい]が分[わ]からなかった。",
+    "romaji": "Ryou chiimu no jitsuryoku wa ___ shite ori, saigo made shouhai ga wakaranakatta.",
+    "level": "N1",
+    "category": "VOCABULARY",
+    "options": [
+      "拮抗",
+      "均衡",
+      "対峙",
+      "葛藤"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Kekuatan kedua tim ___ sehingga hasil pertandingan tidak diketahui sampai akhir.",
+    "answerExplanation": "「拮抗」(きっこう) berarti persaingan yang seimbang atau sengit, di mana kedua pihak memiliki kekuatan yang hampir sama. 「均衡」berarti keseimbangan secara umum, 「対峙」berarti berhadapan, dan 「葛藤」berarti konflik batin. Dalam konteks pertandingan di mana kedua tim saling bersaing ketat, 「拮抗」adalah pilihan paling tepat.",
+    "hint": "Kata ini menggambarkan dua kekuatan yang saling bersaing secara seimbang dan sengit.",
+    "difficultyScore": 7
+  },
+  {
+    "id": "question_n1_2_002",
+    "question": "彼女の目に涙が浮かんだのは、___の出来事であった。",
+    "furigana": "彼女[かのじょ]の目[め]に涙[なみだ]が浮[う]かんだのは、___の出来事[できごと]であった。",
+    "romaji": "Kanojo no me ni namida ga ukanda no wa, ___ no dekigoto de atta.",
+    "level": "N1",
+    "category": "VOCABULARY",
+    "options": [
+      "瞬間",
+      "刹那",
+      "一刻",
+      "束の間"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Air mata muncul di matanya adalah kejadian sesaat (___).",
+    "answerExplanation": "「刹那」(せつな) berasal dari istilah filsafat Buddha yang berarti waktu yang sangat singkat, sekejap mata. Pola '刹那の出来事' adalah kolokasi sastrawi yang lazim, sedangkan '瞬間の出来事' jarang digunakan karena 「瞬間」biasanya berfungsi sebagai keterangan waktu (瞬間に) bukan sebagai pewatas kata benda. 「一刻」berarti sebentar, dan 「束の間」berarti sementara waktu.",
+    "hint": "Kata sastrawi dari terminologi Buddha yang digunakan sebagai pewatas kata benda untuk menunjukkan kejadian yang sangat singkat.",
+    "difficultyScore": 7
+  },
+  {
+    "id": "question_n1_2_003",
+    "question": "彼の___により、プロジェクトの隠れた問題点がすべて明るみに出た。",
+    "furigana": "彼[かれ]の___により、プロジェクトの隠[かく]れた問題点[もんだいてん]がすべて明[あか]るみに出[で]た。",
+    "romaji": "Kare no ___ ni yori, purojekuto no kakureta mondaiten ga subete akarumi ni deta.",
+    "level": "N1",
+    "category": "VOCABULARY",
+    "options": [
+      "洞察",
+      "慧眼",
+      "観察",
+      "直感"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Berkat ___ miliknya, semua masalah tersembunyi dalam proyek tersebut terungkap.",
+    "answerExplanation": "「慧眼」(けいがん) berarti mata yang tajam atau kemampuan melihat esensi suatu hal, wawasan yang luar biasa. Lebih formal dan mendalam dari 「洞察」(insight) dan 「観察」(observasi). 「直感」berarti intuisi. 「慧眼」menggambarkan kemampuan menilai yang sangat tajam dan menembus hakikat masalah.",
+    "hint": "Kata ini mengandung kanji 慧 (kebijaksanaan) dan 眼 (mata), menunjukkan kemampuan melihat yang melampaui permukaan.",
+    "difficultyScore": 8
+  },
+  {
+    "id": "question_n1_2_004",
+    "question": "重要な決断を前にして、彼は何日も___を重ねていた。",
+    "furigana": "重要[じゅうよう]な決断[けつだん]を前[まえ]にして、彼[かれ]は何日[なんにち]も___を重[かさ]ねていた。",
+    "romaji": "Juuyou na ketsudan wo mae ni shite, kare wa nannichi mo ___ wo kasanete ita.",
+    "level": "N1",
+    "category": "VOCABULARY",
+    "options": [
+      "躊躇",
+      "逡巡",
+      "動揺",
+      "困惑"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Menghadapi keputusan penting, dia terus berulang kali ___ selama berhari-hari.",
+    "answerExplanation": "「逡巡を重ねる」(shunjun wo kasaneru) adalah kolokasi tetap yang berarti berulang kali ragu-ragu atau mondar-mandir dalam keputusan. Pola '～を重ねる' sangat lazim dengan 「逡巡」tetapi tidak dengan 「躊躇」(yang biasanya menggunakan pola 躊躇する). 「動揺」berarti goyah secara emosional, 「困惑」berarti kebingungan.",
+    "hint": "Kata sastrawi ini memiliki kolokasi tetap dengan 「重ねる」yang berarti terus-menerus ragu dalam mengambil keputusan.",
+    "difficultyScore": 8
+  },
+  {
+    "id": "question_n1_2_005",
+    "question": "どんな困難に直面しても、彼女は___を失わなかった。",
+    "furigana": "どんな困難[こんなん]に直面[ちょくめん]しても、彼女[かのじょ]は___を失[うしな]わなかった。",
+    "romaji": "Donna konnan ni chokumen shitemo, kanojo wa ___ wo ushinawanakatta.",
+    "level": "N1",
+    "category": "VOCABULARY",
+    "options": [
+      "自尊心",
+      "矜持",
+      "体面",
+      "威厳"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Meskipun menghadapi kesulitan apapun, dia tidak kehilangan ___.",
+    "answerExplanation": "「矜持」(きょうじ) berarti harga diri atau martabat yang dijaga dengan penuh kesadaran. Ini adalah kata formal yang menggambarkan kebanggaan terhadap diri sendiri secara terhormat. 「自尊心」(self-esteem) lebih umum, 「体面」berarti menjaga muka, dan 「威厳」berarti kewibawaan. 「矜持」menekankan harga diri yang dijaga secara sadar dan bermartabat.",
+    "hint": "Kata formal ini menggambarkan harga diri yang dijaga dengan penuh kesadaran dan kehormatan, bukan sekadar gengsi.",
+    "difficultyScore": 8
+  },
+  {
+    "id": "question_n1_2_006",
+    "question": "「邂逅」の読み方として正しいものはどれか。",
+    "furigana": "「邂逅[かいこう]」の読[よ]み方[かた]として正[ただ]しいものはどれか。",
+    "romaji": "'Kaikou' no yomikata toshite tadashii mono wa dore ka.",
+    "level": "N1",
+    "category": "KANJI",
+    "options": [
+      "かいこう",
+      "がいごう",
+      "かいごう",
+      "がいこう"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Manakah cara baca yang benar untuk '邂逅'?",
+    "answerExplanation": "「邂逅」dibaca 「かいこう」dan berarti pertemuan yang tidak terduga atau perjumpaan yang tidak direncanakan. Ini adalah kata sastrawi yang sering digunakan dalam novel dan puisi untuk menggambarkan pertemuan yang penuh takdir. Kanji 邂 dan 逅 keduanya jarang digunakan sendiri-sendiri.",
+    "hint": "Kedua kanji ini dibaca dengan bacaan on'yomi. Kanji pertama dibaca 'kai'.",
+    "difficultyScore": 7
+  },
+  {
+    "id": "question_n1_2_007",
+    "question": "「諦観」の読み方として正しいものはどれか。",
+    "furigana": "「諦観[たいかん]」の読[よ]み方[かた]として正[ただ]しいものはどれか。",
+    "romaji": "'Teikan' no yomikata toshite tadashii mono wa dore ka.",
+    "level": "N1",
+    "category": "KANJI",
+    "options": [
+      "ていかん",
+      "たいかん",
+      "ちょうかん",
+      "じょうかん"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Manakah cara baca yang benar untuk '諦観'?",
+    "answerExplanation": "「諦観」dibaca 「たいかん」dan berarti sikap menerima kenyataan dengan pasrah, atau pandangan yang telah melepaskan harapan. Kanji 「諦」memiliki bacaan 「たい」dalam konteks ini (bukan 「てい」), yang berasal dari makna 'kebenaran' dalam filsafat Buddha. 「観」dibaca 「かん」yang berarti pandangan.",
+    "hint": "Kanji pertama memiliki bacaan khusus yang berbeda dari kata 「諦める」(あきらめる). Pikirkan bacaan on'yomi yang lebih tua.",
+    "difficultyScore": 8
+  },
+  {
+    "id": "question_n1_2_008",
+    "question": "「蟠り」の読み方として正しいものはどれか。",
+    "furigana": "「蟠[わだかま]り」の読[よ]み方[かた]として正[ただ]しいものはどれか。",
+    "romaji": "'Wadakamari' no yomikata toshite tadashii mono wa dore ka.",
+    "level": "N1",
+    "category": "KANJI",
+    "options": [
+      "もつれり",
+      "こだわり",
+      "わだかまり",
+      "つかえり"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Manakah cara baca yang benar untuk '蟠り'?",
+    "answerExplanation": "「蟠り」dibaca 「わだかまり」dan berarti perasaan mengganjal, dendam tersembunyi, atau sesuatu yang masih mengganggu hati. Kanji 「蟠」menggambarkan sesuatu yang melingkar dan tidak terurai, seperti ular yang melingkar. Bentuk verbanya adalah 「蟠る」(わだかまる).",
+    "hint": "Kata ini menggambarkan perasaan yang tersimpan dalam hati dan tidak bisa hilang, seperti sesuatu yang melingkar dan membelit.",
+    "difficultyScore": 9
+  },
+  {
+    "id": "question_n1_2_009",
+    "question": "「凌駕」の読み方として正しいものはどれか。",
+    "furigana": "「凌駕[りょうが]」の読[よ]み方[かた]として正[ただ]しいものはどれか。",
+    "romaji": "'Ryouga' no yomikata toshite tadashii mono wa dore ka.",
+    "level": "N1",
+    "category": "KANJI",
+    "options": [
+      "りょうが",
+      "りんが",
+      "りょうか",
+      "れいが"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Manakah cara baca yang benar untuk '凌駕'?",
+    "answerExplanation": "「凌駕」dibaca 「りょうが」dan berarti melampaui, mengungguli, atau melebihi sesuatu secara signifikan. Kanji 「凌」(りょう) berarti mengatasi atau melampaui, sementara 「駕」(が) berarti menunggangi atau menaiki. Kombinasi keduanya membentuk makna 'melampaui jauh di atas'.",
+    "hint": "Kanji pertama dibaca dengan bacaan on'yomi 'ryou', dan kanji kedua berhubungan dengan kendaraan/menunggangi.",
+    "difficultyScore": 7
+  },
+  {
+    "id": "question_n1_2_010",
+    "question": "「招聘」の読み方として正しいものはどれか。",
+    "furigana": "「招聘[しょうへい]」の読[よ]み方[かた]として正[ただ]しいものはどれか。",
+    "romaji": "'Shouhei' no yomikata toshite tadashii mono wa dore ka.",
+    "level": "N1",
+    "category": "KANJI",
+    "options": [
+      "しょうへい",
+      "しょうひん",
+      "しょうぺい",
+      "しゅうへい"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Manakah cara baca yang benar untuk '招聘'?",
+    "answerExplanation": "「招聘」dibaca 「しょうへい」dan berarti mengundang secara resmi, terutama dalam konteks merekrut tenaga ahli atau profesor dari luar. Kanji 「招」(しょう) berarti mengundang, dan 「聘」(へい) berarti memanggil secara formal. Kata ini sering digunakan dalam dunia akademik dan bisnis.",
+    "hint": "Kanji pertama sama dengan dalam 「招待」(shoutai/undangan). Kanji kedua dibaca 'hei'.",
+    "difficultyScore": 7
+  },
+  {
+    "id": "question_n1_2_011",
+    "question": "子供たちは泣か___ばかりの表情で、壊れたおもちゃを見つめていた。",
+    "furigana": "子供[こども]たちは泣[な]か___ばかりの表情[ひょうじょう]で、壊[こわ]れたおもちゃを見[み]つめていた。",
+    "romaji": "Kodomotachi wa naka___ bakari no hyoujou de, kowareta omocha wo mitsumete ita.",
+    "level": "N1",
+    "category": "GRAMMAR",
+    "options": [
+      "んばかり",
+      "さんばかり",
+      "んばかりに",
+      "んばかりの"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "Anak-anak menatap mainan yang rusak dengan ekspresi seolah-olah akan menangis.",
+    "answerExplanation": "Pola 「～んばかりの」digunakan untuk menggambarkan keadaan 'seolah-olah akan melakukan sesuatu'. Bentuknya: kata kerja bentuk nai (tanpa ない) + んばかりの + kata benda. Karena di sini memodifikasi 「表情」(ekspresi), kita membutuhkan bentuk の. 「泣かんばかりの表情」berarti 'ekspresi seolah-olah akan menangis'. Perhatikan bahwa 泣く → 泣か (bentuk nai tanpa ない) + んばかりの.",
+    "hint": "Pola ini membutuhkan partikel yang menghubungkannya dengan kata benda yang mengikutinya (表情).",
+    "difficultyScore": 7
+  },
+  {
+    "id": "question_n1_2_012",
+    "question": "この難題を解決できるのは、田中教授___いない。",
+    "furigana": "この難題[なんだい]を解決[かいけつ]できるのは、田中[たなか]教授[きょうじゅ]___いない。",
+    "romaji": "Kono nandai wo kaiketsu dekiru no wa, Tanaka kyouju ___ inai.",
+    "level": "N1",
+    "category": "GRAMMAR",
+    "options": [
+      "をもって",
+      "をおいて",
+      "にかけて",
+      "にあって"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Tidak ada orang lain selain Profesor Tanaka yang bisa menyelesaikan masalah sulit ini.",
+    "answerExplanation": "Pola 「～をおいて…ない」berarti 'tidak ada selain~' atau 'hanya~lah yang bisa'. Pola ini digunakan untuk menyatakan bahwa seseorang atau sesuatu adalah satu-satunya pilihan. 「田中教授をおいていない」berarti 'tidak ada selain Profesor Tanaka'. Pola ini selalu digunakan dalam bentuk negatif.",
+    "hint": "Pola ini menyatakan bahwa hanya satu orang/hal yang memenuhi syarat, dan selalu diikuti bentuk negatif.",
+    "difficultyScore": 7
+  },
+  {
+    "id": "question_n1_2_013",
+    "question": "この繊細な味わいは、長年修業を積んだ職人___の技だ。",
+    "furigana": "この繊細[せんさい]な味[あじ]わいは、長年[ながねん]修業[しゅぎょう]を積[つ]んだ職人[しょくにん]___の技[わざ]だ。",
+    "romaji": "Kono sensai na ajiwai wa, naganen shugyou wo tsunda shokunin ___ no waza da.",
+    "level": "N1",
+    "category": "GRAMMAR",
+    "options": [
+      "ならでは",
+      "ともなると",
+      "あっての",
+      "にひきかえ"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Cita rasa yang halus ini adalah keahlian yang hanya bisa dicapai oleh pengrajin yang telah berlatih bertahun-tahun.",
+    "answerExplanation": "Pola 「～ならではの」berarti 'yang hanya bisa dilakukan oleh~' atau 'khas dari~'. Digunakan untuk memuji sesuatu yang unik dan eksklusif. 「職人ならではの技」berarti 'keahlian yang hanya dimiliki oleh pengrajin (berpengalaman)'. Pola ini selalu bernuansa positif.",
+    "hint": "Pola ini digunakan untuk memuji sesuatu yang unik dan tidak bisa ditiru oleh orang/hal lain.",
+    "difficultyScore": 6
+  },
+  {
+    "id": "question_n1_2_014",
+    "question": "今さら後悔した___、失われた時間は戻ってこない。",
+    "furigana": "今[いま]さら後悔[こうかい]した___、失[うしな]われた時間[じかん]は戻[もど]ってこない。",
+    "romaji": "Imasara koukai shita ___, ushinawareta jikan wa modotte konai.",
+    "level": "N1",
+    "category": "GRAMMAR",
+    "options": [
+      "ところで",
+      "ものなら",
+      "ばかりに",
+      "からには"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Meskipun sekarang menyesal, waktu yang telah hilang tidak akan kembali.",
+    "answerExplanation": "Pola 「～たところで」berarti 'bahkan jika melakukan~, (hasilnya tetap tidak berubah)'. Digunakan untuk menyatakan bahwa suatu tindakan tidak akan mengubah situasi. 「後悔したところで」berarti 'bahkan kalau menyesal pun (tidak ada gunanya)'. Pola ini selalu diikuti hasil yang negatif atau tidak berubah.",
+    "hint": "Pola ini menyatakan bahwa sebuah tindakan sia-sia karena hasilnya tetap sama. Berbentuk kata kerja た + ...",
+    "difficultyScore": 7
+  },
+  {
+    "id": "question_n1_2_015",
+    "question": "公の場での暴言は、政治家にある___行為だ。",
+    "furigana": "公[おおやけ]の場[ば]での暴言[ぼうげん]は、政治家[せいじか]にある___行為[こうい]だ。",
+    "romaji": "Ooyake no ba de no bougen wa, seijika ni aru ___ koui da.",
+    "level": "N1",
+    "category": "GRAMMAR",
+    "options": [
+      "まじき",
+      "べからざる",
+      "ものの",
+      "かぎりの"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Kata-kata kasar di tempat umum adalah perilaku yang tidak pantas bagi seorang politisi.",
+    "answerExplanation": "Pola 「～にあるまじき」berarti 'tidak pantas untuk~' atau 'tidak layak bagi~'. Ini adalah ekspresi kuno (古語) yang masih digunakan dalam bahasa formal modern. 「政治家にあるまじき行為」berarti 'perilaku yang tidak pantas bagi seorang politisi'. 「まじき」adalah bentuk rentaikei (連体形) dari 「まじ」yang berarti 'seharusnya tidak'.",
+    "hint": "Ekspresi klasik ini menyatakan bahwa sesuatu 'seharusnya tidak' dilakukan oleh seseorang dalam posisi tertentu.",
+    "difficultyScore": 8
+  },
+  {
+    "id": "question_n1_2_016",
+    "question": "あのセール会場に足を踏み入れた___、両手いっぱいの買い物袋を抱えることになる。",
+    "furigana": "あのセール会場[かいじょう]に足[あし]を踏[ふ]み入[い]れた___、両手[りょうて]いっぱいの買[か]い物[もの]袋[ぶくろ]を抱[かか]えることになる。",
+    "romaji": "Ano seeru kaijou ni ashi wo fumireta ___, ryoute ippai no kaimono bukuro wo kakaeru koto ni naru.",
+    "level": "N1",
+    "category": "GRAMMAR",
+    "options": [
+      "が最後",
+      "ものなら",
+      "とたんに",
+      "なり"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Begitu melangkahkan kaki ke tempat sale itu, pasti akan berakhir dengan memeluk tas belanja penuh di kedua tangan.",
+    "answerExplanation": "Pola 「～たが最後」berarti 'begitu melakukan~, maka (konsekuensi negatif/tidak terhindarkan) pasti terjadi'. Menyatakan bahwa setelah satu tindakan dilakukan, hasilnya tidak bisa dihindari. 「足を踏み入れたが最後」berarti 'begitu masuk, selesailah sudah'. Pola ini sering digunakan dengan nuansa humor atau peringatan.",
+    "hint": "Pola ini menyatakan bahwa setelah suatu tindakan dilakukan, tidak ada jalan kembali. Berkaitan dengan kata '最後' (terakhir).",
+    "difficultyScore": 7
+  },
+  {
+    "id": "question_n1_2_017",
+    "question": "豊かな自然と温暖な気候___、この地域は移住先として注目されている。",
+    "furigana": "豊[ゆた]かな自然[しぜん]と温暖[おんだん]な気候[きこう]___、この地域[ちいき]は移住先[いじゅうさき]として注目[ちゅうもく]されている。",
+    "romaji": "Yutaka na shizen to ondan na kikou ___, kono chiiki wa ijuusaki toshite chuumoku sarete iru.",
+    "level": "N1",
+    "category": "GRAMMAR",
+    "options": [
+      "とあいまって",
+      "もさることながら",
+      "をものともせず",
+      "ともなると"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Dikombinasikan dengan alam yang kaya dan iklim yang hangat, daerah ini mendapat perhatian sebagai tujuan migrasi.",
+    "answerExplanation": "Pola 「～と相まって」(とあいまって) berarti 'dikombinasikan dengan~' atau 'bersama dengan~, menghasilkan efek yang lebih besar'. Dua faktor atau lebih bergabung untuk menghasilkan suatu hasil. 「自然と気候と相まって」berarti alam dan iklim saling melengkapi untuk menciptakan daya tarik. Pola ini menekankan efek sinergis.",
+    "hint": "Pola ini menyatakan bahwa dua hal atau lebih bergabung dan saling memperkuat untuk menghasilkan suatu efek.",
+    "difficultyScore": 7
+  },
+  {
+    "id": "question_n1_2_018",
+    "question": "次の文章を読んで、問いに答えなさい。\n\nデジタル技術の急速な発展により、我々はかつてないほど膨大な情報にアクセスできるようになった。インターネット上には学術論文から個人の日記に至るまで、あらゆる知識が蓄積されている。しかしながら、この情報の氾濫こそが、真の理解を妨げる最大の障壁となっているのではないだろうか。情報を大量に消費する一方で、それを深く咀嚼し、自らの思考に統合する時間は確実に失われている。我々は以前よりも多くのことを「知っている」が、以前よりも少ないことしか「理解していない」という逆説的な状況に置かれているのである。検索エンジンが即座に答えを提示してくれる便利さは、自ら思考する能力を退化させる危険性を孕んでいる。知ることと理解することの乖離は、現代社会における最も深刻な知的課題の一つと言えよう。\n\nこの文章の中心的な逆説とは何か。",
+    "furigana": "次[つぎ]の文章[ぶんしょう]を読[よ]んで、問[と]いに答[こた]えなさい。\n\nデジタル技術[ぎじゅつ]の急速[きゅうそく]な発展[はってん]により、我々[われわれ]はかつてないほど膨大[ぼうだい]な情報[じょうほう]にアクセスできるようになった。インターネット上[じょう]には学術[がくじゅつ]論文[ろんぶん]から個人[こじん]の日記[にっき]に至[いた]るまで、あらゆる知識[ちしき]が蓄積[ちくせき]されている。しかしながら、この情報[じょうほう]の氾濫[はんらん]こそが、真[しん]の理解[りかい]を妨[さまた]げる最大[さいだい]の障壁[しょうへき]となっているのではないだろうか。情報[じょうほう]を大量[たいりょう]に消費[しょうひ]する一方[いっぽう]で、それを深[ふか]く咀嚼[そしゃく]し、自[みずか]らの思考[しこう]に統合[とうごう]する時間[じかん]は確実[かくじつ]に失[うしな]われている。我々[われわれ]は以前[いぜん]よりも多[おお]くのことを「知[し]っている」が、以前[いぜん]よりも少[すく]ないことしか「理解[りかい]していない」という逆説的[ぎゃくせつてき]な状況[じょうきょう]に置[お]かれているのである。検索[けんさく]エンジンが即座[そくざ]に答[こた]えを提示[ていじ]してくれる便利[べんり]さは、自[みずか]ら思考[しこう]する能力[のうりょく]を退化[たいか]させる危険性[きけんせい]を孕[はら]んでいる。知[し]ることと理解[りかい]することの乖離[かいり]は、現代[げんだい]社会[しゃかい]における最[もっと]も深刻[しんこく]な知的[ちてき]課題[かだい]の一[ひと]つと言[い]えよう。",
+    "romaji": "Tsugi no bunshou wo yonde, toi ni kotaenasai. Dejitaru gijutsu no kyuusoku na hatten ni yori, wareware wa katsute nai hodo boudai na jouhou ni akusesu dekiru you ni natta...",
+    "level": "N1",
+    "category": "READING",
+    "options": [
+      "デジタル技術の発展が学術研究を衰退させていること",
+      "情報へのアクセスが増えたにもかかわらず、深い理解はむしろ減少していること",
+      "インターネットの普及により個人の日記が公開されるようになったこと",
+      "検索エンジンの精度が年々低下していること"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Apa paradoks sentral dalam teks ini?",
+    "answerExplanation": "Paradoks sentral dalam teks ini adalah bahwa meskipun akses terhadap informasi meningkat secara drastis berkat teknologi digital, pemahaman yang mendalam justru semakin berkurang. Teks menyatakan 「以前よりも多くのことを『知っている』が、以前よりも少ないことしか『理解していない』」— kita 'mengetahui' lebih banyak tetapi 'memahami' lebih sedikit. Ini adalah paradoks karena seharusnya lebih banyak informasi menghasilkan pemahaman yang lebih baik, tetapi kenyataannya justru sebaliknya.",
+    "hint": "Perhatikan kalimat yang menggunakan tanda kutip untuk membedakan antara dua konsep yang berlawanan.",
+    "difficultyScore": 8
+  },
+  {
+    "id": "question_n1_2_019",
+    "question": "次の文章を読んで、問いに答えなさい。\n\n歌舞伎は単なる演劇形式にとどまらず、江戸時代の社会構造と価値観を映し出す鏡としての役割を果たしてきた。武士階級の忠義や名誉を描いた時代物においては、封建的秩序における個人の葛藤が巧みに表現されている。一方、世話物と呼ばれる町人社会を題材とした作品群では、義理と人情の板挟みに苦しむ庶民の姿が生々しく描かれた。注目すべきは、これらの作品が当時の支配体制を表面上は肯定しながらも、その矛盾や歪みを観客に暗示的に提示していた点である。歌舞伎の様式美は、直接的な批判が許されない時代において、社会への問いかけを芸術的に昇華させる装置として機能していたと解釈できる。現代の我々が歌舞伎を鑑賞する際、この二重構造を読み解くことが、作品の真の価値を理解する鍵となるのである。\n\n筆者の解釈として最も適切なものはどれか。",
+    "furigana": "次[つぎ]の文章[ぶんしょう]を読[よ]んで、問[と]いに答[こた]えなさい。\n\n歌舞伎[かぶき]は単[たん]なる演劇[えんげき]形式[けいしき]にとどまらず、江戸[えど]時代[じだい]の社会[しゃかい]構造[こうぞう]と価値観[かちかん]を映[うつ]し出[だ]す鏡[かがみ]としての役割[やくわり]を果[は]たしてきた。武士[ぶし]階級[かいきゅう]の忠義[ちゅうぎ]や名誉[めいよ]を描[えが]いた時代物[じだいもの]においては、封建的[ほうけんてき]秩序[ちつじょ]における個人[こじん]の葛藤[かっとう]が巧[たく]みに表現[ひょうげん]されている。一方[いっぽう]、世話物[せわもの]と呼[よ]ばれる町人[ちょうにん]社会[しゃかい]を題材[だいざい]とした作品群[さくひんぐん]では、義理[ぎり]と人情[にんじょう]の板挟[いたばさ]みに苦[くる]しむ庶民[しょみん]の姿[すがた]が生々[なまなま]しく描[えが]かれた。注目[ちゅうもく]すべきは、これらの作品[さくひん]が当時[とうじ]の支配[しはい]体制[たいせい]を表面上[ひょうめんじょう]は肯定[こうてい]しながらも、その矛盾[むじゅん]や歪[ひず]みを観客[かんきゃく]に暗示的[あんじてき]に提示[ていじ]していた点[てん]である。歌舞伎[かぶき]の様式美[ようしきび]は、直接的[ちょくせつてき]な批判[ひはん]が許[ゆる]されない時代[じだい]において、社会[しゃかい]への問[と]いかけを芸術的[げいじゅつてき]に昇華[しょうか]させる装置[そうち]として機能[きのう]していたと解釈[かいしゃく]できる。",
+    "romaji": "Tsugi no bunshou wo yonde, toi ni kotaenasai. Kabuki wa tan naru engeki keishiki ni todomarazu, Edo jidai no shakai kouzou to kachikan wo utsushidasu kagami toshite no yakuwari wo hatashite kita...",
+    "level": "N1",
+    "category": "READING",
+    "options": [
+      "歌舞伎は江戸時代の支配体制を全面的に支持する芸術であった",
+      "歌舞伎の様式美は体制への批判を芸術的に表現する手段として機能していた",
+      "世話物は時代物よりも芸術的価値が高い作品群である",
+      "現代人には歌舞伎の二重構造を理解することは不可能である"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Manakah interpretasi penulis yang paling tepat?",
+    "answerExplanation": "Penulis berpendapat bahwa keindahan gaya (様式美) kabuki berfungsi sebagai 'perangkat' (装置) untuk menyublimasi kritik sosial menjadi seni pada era di mana kritik langsung tidak diperbolehkan. Teks menyatakan bahwa karya-karya kabuki 「表面上は肯定しながらも、その矛盾や歪みを観客に暗示的に提示していた」— di permukaan mendukung sistem yang berkuasa, namun secara tersirat menunjukkan kontradiksi dan distorsinya kepada penonton. Ini adalah struktur ganda (二重構造) yang menjadi kunci pemahaman.",
+    "hint": "Perhatikan kalimat yang menjelaskan hubungan antara 'keindahan gaya' kabuki dan fungsinya dalam konteks pembatasan kebebasan berekspresi.",
+    "difficultyScore": 9
+  },
+  {
+    "id": "question_n1_2_020",
+    "question": "次の文章を読んで、問いに答えなさい。\n\n侘び寂びという美意識は、不完全さや儚さの中にこそ美を見出すという、西洋の古典的美学とは根本的に異なる価値体系に基づいている。茶道において意図的に用いられる不揃いな茶碗や、時の経過によって苔むした庭石に見出される美は、完璧さを追求する美学への静かな反論とも言える。興味深いことに、この数百年前の美意識が現代のデザイン思想に新たな息吹を吹き込んでいる。大量生産された均一な製品に対する疲弊感が広がる中、素材の質感を活かし、経年変化を肯定的に捉えるデザインが世界的に注目を集めている。しかしながら、侘び寂びを単に「不完全の美学」として表層的に理解することは、その本質を見誤る危険性がある。侘び寂びの根底には、万物の無常を深く受容し、その中で静かな充足を見出すという、存在論的な覚悟が横たわっているのである。商業的な文脈で「侘び寂び風」のデザインが消費されるとき、この精神的深層は往々にして捨象されてしまう。\n\nこの文章の論旨に基づいて、筆者が最も警戒していることは何か。",
+    "furigana": "次[つぎ]の文章[ぶんしょう]を読[よ]んで、問[と]いに答[こた]えなさい。\n\n侘[わ]び寂[さ]びという美意識[びいしき]は、不完全[ふかんぜん]さや儚[はかな]さの中[なか]にこそ美[び]を見出[みいだ]すという、西洋[せいよう]の古典的[こてんてき]美学[びがく]とは根本的[こんぽんてき]に異[こと]なる価値[かち]体系[たいけい]に基[もと]づいている。茶道[さどう]において意図的[いとてき]に用[もち]いられる不揃[ふぞろ]いな茶碗[ちゃわん]や、時[とき]の経過[けいか]によって苔[こけ]むした庭石[にわいし]に見出[みいだ]される美[び]は、完璧[かんぺき]さを追求[ついきゅう]する美学[びがく]への静[しず]かな反論[はんろん]とも言[い]える。",
+    "romaji": "Tsugi no bunshou wo yonde, toi ni kotaenasai. Wabi-sabi toiu biishiki wa, fukanzen-sa ya hakanasa no naka ni koso bi wo miidasu toiu, seiyou no kotenteki bigaku to wa konponteki ni kotonaru kachi taikei ni motozuite iru...",
+    "level": "N1",
+    "category": "READING",
+    "options": [
+      "西洋の美学が日本の伝統的美意識を駆逐すること",
+      "大量生産された製品が市場を支配し続けること",
+      "侘び寂びの精神的深層が商業化によって表層的に消費されること",
+      "現代のデザイナーが茶道の技術を十分に学んでいないこと"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Berdasarkan argumen teks ini, apa yang paling dikhawatirkan oleh penulis?",
+    "answerExplanation": "Penulis paling mengkhawatirkan bahwa kedalaman spiritual wabi-sabi dikonsumsi secara dangkal dalam konteks komersial. Teks menyatakan bahwa memahami wabi-sabi hanya sebagai 'estetika ketidaksempurnaan' secara dangkal berisiko salah memahami esensinya. Di dasar wabi-sabi terdapat 「存在論的な覚悟」(kesiapan eksistensial) untuk menerima ketidakkekalan segala sesuatu. Namun ketika desain 'bergaya wabi-sabi' dikonsumsi secara komersial, 「この精神的深層は往々にして捨象されてしまう」— kedalaman spiritual ini sering kali dibuang.",
+    "hint": "Perhatikan bagian akhir teks yang membahas apa yang terjadi ketika konsep ini masuk ke ranah komersial.",
+    "difficultyScore": 9
+  }
+]

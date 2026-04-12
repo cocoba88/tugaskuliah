@@ -1,0 +1,572 @@
+[
+  {
+    "id": "question_n3_1_001",
+    "question": "「確実」の意味は？",
+    "furigana": "「確実[かくじつ]」の意味[いみ]は？",
+    "romaji": "'Kakujitsu' no imi wa?",
+    "level": "N3",
+    "category": "VOCABULARY",
+    "options": [
+      "不安定で予測できない",
+      "確かで間違いがない",
+      "急いで行動すること",
+      "曖昧で分かりにくい"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "What is the meaning of '確実'?",
+    "answerExplanation": "'確実' (kakujitsu) means certain, sure, or reliable. It consists of kanji 確 (certain/sure) and 実 (reality/fruit). Usage examples: '確実な情報' (reliable information), '確実に届ける' (deliver with certainty). Other options are wrong: '不安定' means unstable, '急いで行動' means acting in a hurry, and '曖昧' means ambiguous.",
+    "hint": "Consists of kanji 確 (certain) and 実 (reality)",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_1_002",
+    "question": "テレビの暴力シーンは子供に長期的に悪い___を与える。",
+    "furigana": "テレビの暴力[ぼうりょく]シーンは子供[こども]に長期的[ちょうきてき]に悪[わる]い___を与[あた]える。",
+    "romaji": "Terebi no bouryoku shiin wa kodomo ni choukiteki ni warui ___ wo ataeru.",
+    "level": "N3",
+    "category": "VOCABULARY",
+    "options": [
+      "印象",
+      "影響",
+      "感想",
+      "経験"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Violent scenes on TV give a bad ___ to children in the long term.",
+    "answerExplanation": "'影響' (eikyou) means influence/effect. '悪い影響を与える' is a common collocation meaning 'to give a bad influence'. Other options: '印象' (inshou) = impression, '感想' (kansou) = thoughts/opinion, '経験' (keiken) = experience. Although '印象' (impression) is similar, the context discusses long-term impact/influence, not just a momentary impression.",
+    "hint": "This word means impact or effect caused on something",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_1_003",
+    "question": "歯が痛いが、歯医者が怖いので痛みを___している。",
+    "furigana": "歯[は]が痛[いた]いが、歯医者[はいしゃ]が怖[こわ]いので痛[いた]みを___している。",
+    "romaji": "Ha ga itai ga, haisha ga kowai node itami wo ___ shite iru.",
+    "level": "N3",
+    "category": "VOCABULARY",
+    "options": [
+      "努力",
+      "遠慮",
+      "我慢",
+      "無視"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "My tooth hurts, but I'm afraid of the dentist, so I'm ___ the pain.",
+    "answerExplanation": "'我慢' (gaman) means to endure, be patient, or bear something unpleasant. '我慢する' is often used when someone endures pain or discomfort. Other options: '努力' (doryoku) = effort/trying hard, '遠慮' (enryo) = restraint out of politeness, '無視' (mushi) = ignoring. The context of enduring pain fits best with '我慢'.",
+    "hint": "This word means to endure something unpleasant",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_1_004",
+    "question": "先生は学生のレポートを___した。",
+    "furigana": "先生[せんせい]は学生[がくせい]のレポートを___した。",
+    "romaji": "Sensei wa gakusei no repooto wo ___ shita.",
+    "level": "N3",
+    "category": "VOCABULARY",
+    "options": [
+      "評価",
+      "予約",
+      "翻訳",
+      "紹介"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "The teacher ___ the student's report.",
+    "answerExplanation": "'評価' (hyouka) means evaluation or assessment. '評価する' means to evaluate or assess. In an academic context, a teacher evaluating a student's report is natural. Other options: '予約' (yoyaku) = reservation, '翻訳' (honyaku) = translation, '紹介' (shoukai) = introduction. None of these fit the context of a teacher and a report.",
+    "hint": "What does a teacher do with students' assignments?",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_1_005",
+    "question": "この問題は条件が多くてとても___で、簡単には解けない。",
+    "furigana": "この問題[もんだい]は条件[じょうけん]が多[おお]くてとても___で、簡単[かんたん]には解[と]けない。",
+    "romaji": "Kono mondai wa jouken ga ookute totemo ___ de, kantan ni wa tokenai.",
+    "level": "N3",
+    "category": "VOCABULARY",
+    "options": [
+      "正確",
+      "複雑",
+      "丁寧",
+      "重要"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "This problem is very ___ and cannot be solved easily.",
+    "answerExplanation": "'複雑' (fukuzatsu) means complicated or complex. The sentence context explains that the problem cannot be solved easily, so 'complicated' fits best. Other options: '正確' (seikaku) = accurate, '丁寧' (teinei) = polite/careful, '重要' (juuyou) = important. Although '重要' (important) could partially fit, the phrase 'cannot be solved easily' refers more to the level of complexity.",
+    "hint": "The opposite of 'simple'",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_1_006",
+    "question": "「相談」の読み方は？",
+    "furigana": "「相談[そうだん]」の読[よ]み方[かた]は？",
+    "romaji": "'Soudan' no yomikata wa?",
+    "level": "N3",
+    "category": "KANJI",
+    "options": [
+      "しょうだん",
+      "そうだん",
+      "そうたん",
+      "しょうたん"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "How do you read '相談'?",
+    "answerExplanation": "'相談' is read 'そうだん' (soudan), meaning consultation or discussion. Kanji 相 (sou) means mutual/together and 談 (dan) means talk/conversation. Usage examples: '友達に相談する' (consult with a friend), '相談窓口' (consultation counter). Note that 相 is read 'そう' not 'しょう', and 談 is read 'だん' not 'たん'.",
+    "hint": "Sou + dan (talking together to ask for advice)",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_1_007",
+    "question": "「深刻」の読み方は？",
+    "furigana": "「深刻[しんこく]」の読[よ]み方[かた]は？",
+    "romaji": "'Shinkoku' no yomikata wa?",
+    "level": "N3",
+    "category": "KANJI",
+    "options": [
+      "しんごく",
+      "じんこく",
+      "しんこく",
+      "しんかく"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "How do you read '深刻'?",
+    "answerExplanation": "'深刻' is read 'しんこく' (shinkoku), meaning serious or grave. Kanji 深 (shin) means deep/profound and 刻 (koku) means engrave/time. Example: '深刻な問題' (a serious problem). Note that 深 is read 'しん' not 'じん', and 刻 is read 'こく' not 'ごく' or 'かく'.",
+    "hint": "Shin + koku (something serious and profound)",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_1_008",
+    "question": "「比較」の読み方は？",
+    "furigana": "「比較[ひかく]」の読[よ]み方[かた]は？",
+    "romaji": "'Hikaku' no yomikata wa?",
+    "level": "N3",
+    "category": "KANJI",
+    "options": [
+      "ひがく",
+      "ひかく",
+      "ひきゃく",
+      "ひこう"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "How do you read '比較'?",
+    "answerExplanation": "'比較' is read 'ひかく' (hikaku), meaning comparison. Kanji 比 (hi) means to compare and 較 (kaku) means to compare/match. Example: '二つの商品を比較する' (compare two products). Note that 較 is read 'kaku' not 'gaku', 'kyaku', or 'kou'.",
+    "hint": "Hi + kaku (comparing two or more things)",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n3_1_009",
+    "question": "「届ける」の読み方は？",
+    "furigana": "「届[とど]ける」の読[よ]み方[かた]は？",
+    "romaji": "'Todokeru' no yomikata wa?",
+    "level": "N3",
+    "category": "KANJI",
+    "options": [
+      "ととける",
+      "とどける",
+      "とおける",
+      "とどげる"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "How do you read '届ける'?",
+    "answerExplanation": "'届ける' is read 'とどける' (todokeru), meaning to deliver, send, or bring something. Kanji 届 has kun'yomi 'とど(ける)' and 'とど(く)'. Examples: '荷物を届ける' (deliver a package), '届け出' (notification/report). The intransitive form is '届く' (todoku) = to arrive/reach.",
+    "hint": "Todo + keru (delivering something to a destination)",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_1_010",
+    "question": "「経験」の読み方は？",
+    "furigana": "「経験[けいけん]」の読[よ]み方[かた]は？",
+    "romaji": "'Keiken' no yomikata wa?",
+    "level": "N3",
+    "category": "KANJI",
+    "options": [
+      "きょうけん",
+      "けいげん",
+      "けいけん",
+      "きけん"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "How do you read '経験'?",
+    "answerExplanation": "'経験' is read 'けいけん' (keiken), meaning experience. Kanji 経 (kei) means to pass through and 験 (ken) means to test/prove. Example: '海外での経験' (overseas experience). Don't confuse with '危険' (きけん/kiken) meaning danger, or misread as 'けいげん' since 験 is read 'ken' not 'gen'.",
+    "hint": "Kei + ken (something experienced and learned)",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_1_011",
+    "question": "新しいゲームが欲しく___たまらない。",
+    "furigana": "新[あたら]しいゲームが欲[ほ]しく___たまらない。",
+    "romaji": "Atarashii geemu ga hoshiku ___ tamaranai.",
+    "level": "N3",
+    "category": "GRAMMAR",
+    "options": [
+      "て",
+      "ても",
+      "ので",
+      "ば"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "I want a new game so badly I can't stand it.",
+    "answerExplanation": "The pattern '～てたまらない' is used to express an overwhelming feeling or desire. The form is: i-adjective → ~くて + たまらない, na-adjective → ~で + たまらない, V-て form + たまらない. '欲しい' is an i-adjective, so it becomes '欲しくて + たまらない'. '～ても' means 'even if', '～ので' means 'because', and '～ば' means 'if' - none fit this pattern.",
+    "hint": "The pattern ～てたまらない requires the て-form (te-form) before たまらない",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n3_1_012",
+    "question": "最近、彼はよく風邪をひき___だ。",
+    "furigana": "最近[さいきん]、彼[かれ]はよく風邪[かぜ]をひき___だ。",
+    "romaji": "Saikin, kare wa yoku kaze wo hiki ___ da.",
+    "level": "N3",
+    "category": "GRAMMAR",
+    "options": [
+      "っぽい",
+      "やすい",
+      "がち",
+      "気味"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Lately, he tends to catch colds often.",
+    "answerExplanation": "The pattern '～がち' (gachi) is used to express a negative tendency that occurs frequently. It attaches to the masu-stem. 'ひく' → masu-stem = 'ひき' → 'ひきがち'. Other options: '～っぽい' = seems like (more informal), '～やすい' = easy to (attaches to masu-stem but means 'easily happens'), '～気味' (gimi) = slightly/somewhat (similar but milder). '～がち' emphasizes a recurring negative tendency.",
+    "hint": "This pattern attaches to the masu-stem and indicates a negative tendency",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n3_1_013",
+    "question": "毎日練習しているから、上手になった___だ。どうりで。",
+    "furigana": "毎日[まいにち]練習[れんしゅう]しているから、上手[じょうず]になった___だ。どうりで。",
+    "romaji": "Mainichi renshuu shite iru kara, jouzu ni natta ___ da. Douri de.",
+    "level": "N3",
+    "category": "GRAMMAR",
+    "options": [
+      "はず",
+      "わけ",
+      "もの",
+      "こと"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Because he practices every day, it's only natural he got good.",
+    "answerExplanation": "The pattern '～わけだ' is used to express a logical conclusion based on known facts. It means 'no wonder' or 'it's natural that'. Here, 'practicing every day' is the logical reason for 'getting good'. Other options: '～はずだ' = should be (expectation), '～ものだ' = that's how it is (general truth/nostalgia), '～ことだ' = should (advice). Drawing a logical conclusion fits best with 'わけだ'.",
+    "hint": "Expresses a logical conclusion: 'no wonder' or 'it's natural that'",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n3_1_014",
+    "question": "この曲を聞く___、学生時代を思い出す。",
+    "furigana": "この曲[きょく]を聞[き]く___、学生時代[がくせいじだい]を思[おも]い出[だ]す。",
+    "romaji": "Kono kyoku wo kiku ___, gakusei jidai wo omoidasu.",
+    "level": "N3",
+    "category": "GRAMMAR",
+    "options": [
+      "ついでに",
+      "うちに",
+      "最中に",
+      "たびに"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "Every time I hear this song, I remember my student days.",
+    "answerExplanation": "The pattern '～たびに' (tabi ni) means 'every time'. It connects with dictionary form of verbs or noun + の. '聞くたびに' = every time I hear. Other options: '～ついでに' = while at it (doing two things together), '～うちに' = while/before (before conditions change), '～最中に' (saichuu ni) = in the middle of. Only 'たびに' shows consistent repetition.",
+    "hint": "A pattern meaning 'every time something happens, something else always follows'",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n3_1_015",
+    "question": "高い商品が___いいとは限らない。",
+    "furigana": "高[たか]い商品[しょうひん]が___いいとは限[かぎ]らない。",
+    "romaji": "Takai shouhin ga ___ ii to wa kagiranai.",
+    "level": "N3",
+    "category": "GRAMMAR",
+    "options": [
+      "ぜんぜん",
+      "たいてい",
+      "必ずしも",
+      "めったに"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Expensive products are ___ necessarily good.",
+    "answerExplanation": "The pattern '必ずしも～とは限らない' (kanarazushimo ~ to wa kagiranai) means 'not necessarily' or 'not always'. This is a fixed pattern where '必ずしも' always pairs with '～とは限らない'. Other options: 'ぜんぜん' = not at all (used with negative but not this pattern), 'たいてい' = usually, 'めったに' = rarely (used with negative). Only '必ずしも' forms a fixed pattern with 'とは限らない'.",
+    "hint": "Fixed pattern: ___ + ～とは限らない = not necessarily/not always",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_1_016",
+    "question": "日本語は勉強すれ___するほど面白くなる。",
+    "furigana": "日本語[にほんご]は勉強[べんきょう]すれ___するほど面白[おもしろ]くなる。",
+    "romaji": "Nihongo wa benkyou sure ___ suru hodo omoshiroku naru.",
+    "level": "N3",
+    "category": "GRAMMAR",
+    "options": [
+      "ても",
+      "たら",
+      "ば",
+      "なら"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "The more you study Japanese, the more interesting it becomes.",
+    "answerExplanation": "The pattern '～ば～ほど' (ba ~ hodo) means 'the more... the more...'. The same verb is repeated: ば-conditional form + dictionary form + ほど. 'する' → 'すれば' + 'するほど'. Since 'すれ' is already in the question, we need to add 'ば'. Other options: '～ても' = even if, '～たら' = if/when, '～なら' = if. Only 'ば' forms the progressive 'the more...the more...' pattern with ほど.",
+    "hint": "Pattern ～ば～ほど: the more... the more...",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n3_1_017",
+    "question": "事故の___、また電車が遅れた。",
+    "furigana": "事故[じこ]の___、また電車[でんしゃ]が遅[おく]れた。",
+    "romaji": "Jiko no ___、mata densha ga okureta.",
+    "level": "N3",
+    "category": "GRAMMAR",
+    "options": [
+      "おかげで",
+      "せいで",
+      "ために",
+      "くせに"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Because of the accident, the train was delayed again.",
+    "answerExplanation": "The pattern '～せいで' is used to express a cause that leads to a negative result. '事故のせいで' = because of the accident (blame). Other options: '～おかげで' = thanks to (positive result), '～ために' = because/for (neutral, more formal), '～くせに' = despite (contradiction/complaint). Train delay is negative, so 'せいで' is most appropriate.",
+    "hint": "This pattern is used specifically for causes that lead to negative results (blaming)",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n3_1_018",
+    "question": "（Reading）\n\n私は去年、日本に留学しました。日本に来る前は、日本人はみんな静かで真面目だと思っていました。しかし、実際に日本で生活してみると、とても明るくて面白い人がたくさんいることに気がつきました。特に驚いたのは、日本人が電車の中ではとても静かなのに、居酒屋ではとても賑やかだったことです。場面によって態度が変わるのが興味深いと思いました。\n\n質問：この留学生が日本で一番驚いたことは何ですか。",
+    "furigana": "私[わたし]は去年[きょねん]、日本[にほん]に留学[りゅうがく]しました。日本[にほん]に来[く]る前[まえ]は、日本人[にほんじん]はみんな静[しず]かで真面目[まじめ]だと思[おも]っていました。しかし、実際[じっさい]に日本[にほん]で生活[せいかつ]してみると、とても明[あか]るくて面白[おもしろ]い人[ひと]がたくさんいることに気[き]がつきました。特[とく]に驚[おどろ]いたのは、日本人[にほんじん]が電車[でんしゃ]の中[なか]ではとても静[しず]かなのに、居酒屋[いざかや]ではとても賑[にぎ]やかだったことです。場面[ばめん]によって態度[たいど]が変[か]わるのが興味深[きょうみぶか]いと思[おも]いました。\n\n質問[しつもん]：この留学生[りゅうがくせい]が日本[にほん]で一番[いちばん]驚[おどろ]いたことは何[なん]ですか。",
+    "romaji": "Watashi wa kyonen, Nihon ni ryuugaku shimashita. Nihon ni kuru mae wa, Nihonjin wa minna shizuka de majime da to omotte imashita. Shikashi, jissai ni Nihon de seikatsu shite miru to, totemo akarukute omoshiroi hito ga takusan iru koto ni ki ga tsukimashita. Toku ni odoroita no wa, Nihonjin ga densha no naka de wa totemo shizuka na noni, izakaya de wa totemo nigiyaka datta koto desu. Bamen ni yotte taido ga kawaru no ga kyoumibukai to omoimashita.\n\nShitsumon: Kono ryuugakusei ga Nihon de ichiban odoroita koto wa nan desu ka.",
+    "level": "N3",
+    "category": "READING",
+    "options": [
+      "日本人がみんな真面目だったこと",
+      "日本の電車がとても静かだったこと",
+      "場面によって日本人の態度が変わること",
+      "居酒屋の食べ物がおいしかったこと"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "I went to study abroad in Japan last year. Before coming to Japan, I thought all Japanese people were quiet and serious. However, after actually living in Japan, I noticed there are many cheerful and interesting people. What surprised me most was that Japanese people are very quiet on trains but very lively at izakayas. I found it interesting that their behavior changes depending on the situation.\n\nQuestion: What surprised this exchange student most in Japan?",
+    "answerExplanation": "The key sentence is '特に驚いたのは...場面によって態度が変わる' (what surprised me most was that behavior changes depending on the situation). The text explains the contrast between being quiet on trains vs. lively at izakayas as an example. Option A is wrong because the text says not all Japanese people are serious. Option B only mentions part of the fact. Option D is not mentioned in the text.",
+    "hint": "Look for the sentence starting with '特に驚いたのは' (what surprised me most was...)",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n3_1_019",
+    "question": "（Reading）\n\n日本では「旬の食べ物」という考え方があります。旬とは、その食べ物が一番おいしくて、栄養も豊富な時期のことです。例えば、秋にはさんまやきのこが旬を迎えます。最近はハウス栽培や冷凍技術の発達により、一年中いろいろな食べ物が手に入りますが、旬の食べ物は味も値段も一番いいと言われています。季節を感じながら食事を楽しむのは、日本の食文化の大切な一部です。\n\n質問：この文章が一番言いたいことは何ですか。",
+    "furigana": "日本[にほん]では「旬[しゅん]の食[た]べ物[もの]」という考[かんが]え方[かた]があります。旬[しゅん]とは、その食[た]べ物[もの]が一番[いちばん]おいしくて、栄養[えいよう]も豊富[ほうふ]な時期[じき]のことです。例[たと]えば、秋[あき]にはさんまやきのこが旬[しゅん]を迎[むか]えます。最近[さいきん]はハウス栽培[さいばい]や冷凍技術[れいとうぎじゅつ]の発達[はったつ]により、一年中[いちねんじゅう]いろいろな食[た]べ物[もの]が手[て]に入[はい]りますが、旬[しゅん]の食[た]べ物[もの]は味[あじ]も値段[ねだん]も一番[いちばん]いいと言[い]われています。季節[きせつ]を感[かん]じながら食事[しょくじ]を楽[たの]しむのは、日本[にほん]の食文化[しょくぶんか]の大切[たいせつ]な一部[いちぶ]です。\n\n質問[しつもん]：この文章[ぶんしょう]が一番[いちばん]言[い]いたいことは何[なん]ですか。",
+    "romaji": "Nihon de wa 'shun no tabemono' to iu kangaekata ga arimasu. Shun to wa, sono tabemono ga ichiban oishikute, eiyou mo houfu na jiki no koto desu. Tatoeba, aki ni wa sanma ya kinoko ga shun wo mukaemasu. Saikin wa hausu saibai ya reitou gijutsu no hattatsu ni yori, ichinenjuu iroirona tabemono ga te ni hairimasu ga, shun no tabemono wa aji mo nedan mo ichiban ii to iwarete imasu. Kisetsu wo kanji nagara shokuji wo tanoshimu no wa, Nihon no shoku bunka no taisetsu na ichibu desu.\n\nShitsumon: Kono bunshou ga ichiban iitai koto wa nan desu ka.",
+    "level": "N3",
+    "category": "READING",
+    "options": [
+      "ハウス栽培のおかげで一年中食べ物が手に入る",
+      "さんまときのこは秋に食べるべきだ",
+      "旬の食べ物を楽しむことは日本の食文化の大切な部分だ",
+      "冷凍技術の発達が日本の食文化を変えた"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "In Japan, there is a concept called 'seasonal food' (shun no tabemono). Shun refers to the period when food is most delicious and nutritious. For example, in autumn, Pacific saury and mushrooms reach their peak season. Recently, thanks to greenhouse cultivation and freezing technology, various foods are available year-round, but seasonal foods are said to be the best in both taste and price. Enjoying meals while feeling the seasons is an important part of Japanese food culture.\n\nQuestion: What is the main message of this passage?",
+    "answerExplanation": "The final sentence summarizes the main message: '季節を感じながら食事を楽しむのは、日本の食文化の大切な一部です' (enjoying meals while feeling the seasons is an important part of Japanese food culture). Options A and D only mention supporting details. Option B is too specific and not the main message.",
+    "hint": "The main message is usually found in the last or concluding sentence",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n3_1_020",
+    "question": "（Reading）\n\n私の住んでいる町では、毎年夏に盆踊り大会が開かれます。昔はたくさんの人が参加していましたが、最近は若い人の参加が減ってきました。しかし、去年から実行委員会がSNSで情報を発信したり、屋台の種類を増やしたりしたところ、若者の参加者が増えました。私は、伝統的な祭りも時代に合わせて工夫すれば、もっと多くの人に楽しんでもらえると思います。\n\n質問：筆者はどう思っていますか。",
+    "furigana": "私[わたし]の住[す]んでいる町[まち]では、毎年[まいとし]夏[なつ]に盆踊[ぼんおど]り大会[たいかい]が開[ひら]かれます。昔[むかし]はたくさんの人[ひと]が参加[さんか]していましたが、最近[さいきん]は若[わか]い人[ひと]の参加[さんか]が減[へ]ってきました。しかし、去年[きょねん]から実行委員会[じっこういいんかい]がSNSで情報[じょうほう]を発信[はっしん]したり、屋台[やたい]の種類[しゅるい]を増[ふ]やしたりしたところ、若者[わかもの]の参加者[さんかしゃ]が増[ふ]えました。私[わたし]は、伝統的[でんとうてき]な祭[まつ]りも時代[じだい]に合[あ]わせて工夫[くふう]すれば、もっと多[おお]くの人[ひと]に楽[たの]しんでもらえると思[おも]います。\n\n質問[しつもん]：筆者[ひっしゃ]はどう思[おも]っていますか。",
+    "romaji": "Watashi no sunde iru machi de wa, maitoshi natsu ni bon odori taikai ga hirakaremasu. Mukashi wa takusan no hito ga sanka shite imashita ga, saikin wa wakai hito no sanka ga hette kimashita. Shikashi, kyonen kara jikkou iinkai ga SNS de jouhou wo hasshin shitari, yatai no shurui wo fuyashitari shita tokoro, wakamono no sankasha ga fuemashita. Watashi wa, dentouteki na matsuri mo jidai ni awasete kufuu sureba, motto ooku no hito ni tanoshinde moraeru to omoimasu.\n\nShitsumon: Hissha wa dou omotte imasu ka.",
+    "level": "N3",
+    "category": "READING",
+    "options": [
+      "伝統的な祭りはそのまま残すべきだ",
+      "若い人は祭りに興味がない",
+      "祭りを時代に合わせて工夫すればもっと楽しめる",
+      "SNSを使うと祭りの伝統が壊れる"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "In the town where I live, a Bon Odori festival is held every summer. Many people used to participate, but recently young people's participation has decreased. However, since last year the organizing committee started sharing information via SNS and increased the variety of food stalls, and young participants increased. I believe that if traditional festivals are adapted to modern times, more people can enjoy them.\n\nQuestion: What is the author's opinion?",
+    "answerExplanation": "The last sentence explicitly states the author's opinion: '伝統的な祭りも時代に合わせて工夫すれば、もっと多くの人に楽しんでもらえると思います' (if traditional festivals are adapted to modern times, more people can enjoy them). Option A is wrong because the author supports change. Option B is wrong because after innovation, young people came. Option D is wrong because the author views SNS use positively.",
+    "hint": "The author's opinion is usually marked with '～と思います' (I think that...)",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n3_1_021",
+    "question": "日本語が上手になる___、毎日練習しています。",
+    "furigana": "日本語[にほんご]が上手[じょうず]になる___、毎日[まいにち]練習[れんしゅう]しています。",
+    "romaji": "Nihongo ga jouzu ni naru ___, mainichi renshuu shite imasu.",
+    "level": "N3",
+    "category": "GRAMMAR",
+    "options": [
+      "ために",
+      "ように",
+      "ことに",
+      "ものに"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "In order to become good at Japanese, I practice every day.",
+    "answerExplanation": "The pattern '～ように' is used to express purpose with verbs that do not indicate direct will (intransitive/potential). '上手になる' is an intransitive verb, so 'ように' is used. If the verb were transitive/volitional like '勉強する', then 'ために' would be used. Another example: '聞こえるように大きい声で話す' (speak loudly so it can be heard).",
+    "hint": "The verb before the blank is intransitive (non-volitional)",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_1_022",
+    "question": "財布を電車に忘れて___。",
+    "furigana": "財布[さいふ]を電車[でんしゃ]に忘[わす]れて___。",
+    "romaji": "Saifu wo densha ni wasurete ___.",
+    "level": "N3",
+    "category": "GRAMMAR",
+    "options": [
+      "しまった",
+      "おいた",
+      "みた",
+      "あった"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "I (unfortunately) left my wallet on the train.",
+    "answerExplanation": "The pattern '～てしまう' (past: ～てしまった) is used to express regret over something that happened unintentionally. Here, forgetting the wallet on the train is unintentional and regrettable. 'ておいた' indicates preparation, 'てみた' indicates trying, and 'てあった' indicates a state resulting from someone else's action.",
+    "hint": "An expression showing regret or unintentionality",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_1_023",
+    "question": "来月から毎朝ジョギングする___にした。",
+    "furigana": "来月[らいげつ]から毎朝[まいあさ]ジョギングする___にした。",
+    "romaji": "Raigetsu kara maiasa jogingu suru ___ ni shita.",
+    "level": "N3",
+    "category": "GRAMMAR",
+    "options": [
+      "もの",
+      "わけ",
+      "こと",
+      "ところ"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "I decided to jog every morning starting next month.",
+    "answerExplanation": "The pattern '～ことにする' means 'to decide to～'. It is used when someone consciously makes their own decision. This differs from '～ことになる' which means a decision was made by others or circumstances. 'もの' and 'わけ' are not used in this pattern. 'ところ' is used in different patterns like '～ところだ'.",
+    "hint": "This pattern expresses a personal decision made consciously",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_1_024",
+    "question": "「状況」の意味は？",
+    "furigana": "「状況[じょうきょう]」の意味[いみ]は？",
+    "romaji": "'Joukyou' no imi wa?",
+    "level": "N3",
+    "category": "VOCABULARY",
+    "options": [
+      "物事の結果や終わり",
+      "ある時点での物事のありさま",
+      "将来の計画や予定",
+      "過去の思い出や記憶"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "What is the meaning of '状況'?",
+    "answerExplanation": "'状況' (joukyou) means situation or condition at a certain point. It consists of kanji 状 (state/form) and 況 (situation). Examples: '経済状況' (economic situation), '状況を説明する' (explain the situation). Other options are wrong: 'result' = 結果, 'plan' = 計画, 'memory' = 思い出.",
+    "hint": "This word describes the current state or condition",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_1_025",
+    "question": "会議で自分の意見を___のは大切なことだ。",
+    "furigana": "会議[かいぎ]で自分[じぶん]の意見[いけん]を___のは大切[たいせつ]なことだ。",
+    "romaji": "Kaigi de jibun no iken wo ___ no wa taisetsu na koto da.",
+    "level": "N3",
+    "category": "VOCABULARY",
+    "options": [
+      "届ける",
+      "届く",
+      "述べる",
+      "浮かべる"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Expressing your own opinion in a meeting is important.",
+    "answerExplanation": "'述べる' (noberu) means to state, express, or present (opinions/thoughts). Common collocation: '意見を述べる' (state an opinion). '届ける' means to deliver (goods), '届く' means to arrive/reach, '浮かべる' means to float or show (facial expression, etc.).",
+    "hint": "This verb means 'to state' or 'to present' formally",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_1_026",
+    "question": "彼女は___が豊かで、いつも面白い話を考える。",
+    "furigana": "彼女[かのじょ]は___が豊[ゆた]かで、いつも面白[おもしろ]い話[はなし]を考[かんが]える。",
+    "romaji": "Kanojo wa ___ ga yutaka de, itsumo omoshiroi hanashi wo kangaeru.",
+    "level": "N3",
+    "category": "VOCABULARY",
+    "options": [
+      "経験",
+      "想像力",
+      "記憶力",
+      "体力"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "She has a rich ___, and always thinks up interesting stories.",
+    "answerExplanation": "'想像力' (souzouryoku) means imagination. '想像力が豊か' is a common collocation meaning 'rich in imagination'. It fits the context of 'thinking up interesting stories'. '経験' (keiken) = experience, '記憶力' (kiokuryoku) = memory, '体力' (tairyoku) = physical strength.",
+    "hint": "The ability to imagine things that do not yet exist",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_1_027",
+    "question": "「準備」の読み方は？",
+    "furigana": "「準備[じゅんび]」の読[よ]み方[かた]は？",
+    "romaji": "'Junbi' no yomikata wa?",
+    "level": "N3",
+    "category": "KANJI",
+    "options": [
+      "じゅんび",
+      "じゅんぴ",
+      "しゅんび",
+      "じゅんみ"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "How do you read '準備'?",
+    "answerExplanation": "'準備' is read as 'じゅんび' (junbi) meaning preparation. Kanji 準 is read じゅん (jun = standard/follow) and 備 is read び (bi = prepare). Examples: '試験の準備をする' (prepare for an exam), '準備ができた' (preparation is done). Note that 備 is read 'bi' not 'pi'.",
+    "hint": "Jun + bi. A very common word meaning preparation",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_1_028",
+    "question": "「環境」の読み方は？",
+    "furigana": "「環境[かんきょう]」の読[よ]み方[かた]は？",
+    "romaji": "'Kankyou' no yomikata wa?",
+    "level": "N3",
+    "category": "KANJI",
+    "options": [
+      "かんけい",
+      "かんきょう",
+      "かんきょ",
+      "がんきょう"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "How do you read '環境'?",
+    "answerExplanation": "'環境' is read as 'かんきょう' (kankyou) meaning environment. Kanji 環 is read かん (kan = circle/surround) and 境 is read きょう (kyou = boundary/border). Examples: '環境問題' (environmental problem), '環境を守る' (protect the environment). Do not confuse with '関係' (かんけい/kankei = relationship).",
+    "hint": "Kan + kyou (long vowel). Related to nature and our surroundings",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_1_029",
+    "question": "次の文章を読んで、質問に答えてください。\n\n最近、リモートワークをする人が増えています。リモートワークには、通勤時間がなくなるという大きなメリットがあります。しかし、家で仕事をすると、仕事とプライベートの区別がつきにくくなるという問題もあります。ある調査によると、リモートワークをしている人の半数以上が、仕事の時間が長くなったと感じているそうです。\n\n質問：リモートワークの問題点は何ですか？",
+    "furigana": "次[つぎ]の文章[ぶんしょう]を読[よ]んで、質問[しつもん]に答[こた]えてください。\n\n最近[さいきん]、リモートワークをする人[ひと]が増[ふ]えています。リモートワークには、通勤[つうきん]時間[じかん]がなくなるという大[おお]きなメリットがあります。しかし、家[いえ]で仕事[しごと]をすると、仕事[しごと]とプライベートの区別[くべつ]がつきにくくなるという問題[もんだい]もあります。ある調査[ちょうさ]によると、リモートワークをしている人[ひと]の半数[はんすう]以上[いじょう]が、仕事[しごと]の時間[じかん]が長[なが]くなったと感[かん]じているそうです。\n\n質問[しつもん]：リモートワークの問題点[もんだいてん]は何[なん]ですか？",
+    "romaji": "Tsugi no bunshou wo yonde, shitsumon ni kotaete kudasai. (Passage about remote work) Shitsumon: Rimooto waaku no mondaiten wa nan desu ka?",
+    "level": "N3",
+    "category": "READING",
+    "options": [
+      "通勤時間が長くなること",
+      "仕事とプライベートの区別がつきにくくなること",
+      "会社に行かなくてもいいこと",
+      "リモートワークをする人が少ないこと"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Read the following passage and answer the question.\n\nRecently, more people are working remotely. Remote work has the big advantage of eliminating commute time. However, when working from home, there is also the problem that it becomes difficult to distinguish between work and private life. According to a survey, more than half of people working remotely feel that their working hours have become longer.\n\nQuestion: What is the problem with remote work?",
+    "answerExplanation": "The text mentions the problem of remote work after 'しかし' (however): '仕事とプライベートの区別がつきにくくなる' (it becomes difficult to distinguish between work and private life). Option A is wrong because commute time is eliminated (that's an advantage). Option C is an advantage not a problem. Option D contradicts the text which states remote workers are increasing.",
+    "hint": "Look for 'しかし' (however) which marks the transition to the problem",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_1_030",
+    "question": "次の文章を読んで、質問に答えてください。\n\n私の友人は料理が得意で、よく手作りのお菓子をくれます。先週もらったクッキーはとてもおいしかったので、作り方を教えてほしいと頼みました。すると、友人は「レシピを送るけど、材料を正確に量ることが一番大切だよ」と言いました。私は今まで目分量で作っていたので、それがうまくいかない原因だったのかもしれません。\n\n質問：友人が一番大切だと言ったことは何ですか？",
+    "furigana": "次[つぎ]の文章[ぶんしょう]を読[よ]んで、質問[しつもん]に答[こた]えてください。\n\n私[わたし]の友人[ゆうじん]は料理[りょうり]が得意[とくい]で、よく手作[てづく]りのお菓子[かし]をくれます。先週[せんしゅう]もらったクッキーはとてもおいしかったので、作[つく]り方[かた]を教[おし]えてほしいと頼[たの]みました。すると、友人[ゆうじん]は「レシピを送[おく]るけど、材料[ざいりょう]を正確[せいかく]に量[はか]ることが一番[いちばん]大切[たいせつ]だよ」と言[い]いました。私[わたし]は今[いま]まで目分量[めぶんりょう]で作[つく]っていたので、それがうまくいかない原因[げんいん]だったのかもしれません。\n\n質問[しつもん]：友人[ゆうじん]が一番[いちばん]大切[たいせつ]だと言[い]ったことは何[なん]ですか？",
+    "romaji": "Tsugi no bunshou wo yonde, shitsumon ni kotaete kudasai. (Passage about cooking) Shitsumon: Yuujin ga ichiban taisetsu da to itta koto wa nan desu ka?",
+    "level": "N3",
+    "category": "READING",
+    "options": [
+      "レシピどおりに作ること",
+      "材料を正確に量ること",
+      "手作りのお菓子を友達にあげること",
+      "目分量で気楽に作ること"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Read the following passage and answer the question.\n\nMy friend is good at cooking and often gives me handmade sweets. The cookies I received last week were very delicious, so I asked to be taught how to make them. Then my friend said, 'I'll send you the recipe, but the most important thing is to measure the ingredients accurately.' I had been making things by estimation until now, so that might have been the reason it didn't go well.\n\nQuestion: What did the friend say was most important?",
+    "answerExplanation": "The friend said '材料を正確に量ることが一番大切だよ' (the most important thing is to measure the ingredients accurately). This directly answers the question. Option A is not precise because the friend emphasized measuring ingredients, not just following the recipe. Option C is irrelevant. Option D is the opposite of what the friend advised.",
+    "hint": "Look for the friend's direct quote containing '一番大切' (most important)",
+    "difficultyScore": 3
+  }
+]

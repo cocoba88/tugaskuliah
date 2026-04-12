@@ -1,0 +1,589 @@
+{
+  "id": "kanji_n1_challenge",
+  "title": "Thử thách Kanji N1",
+  "timer": 15,
+  "description": "Sắp xếp cách đọc Onyomi hoặc Kunyomi của kanji được hiển thị!",
+  "totalQuestions": 30,
+  "questions": [
+    {
+      "id": 1,
+      "hiragana": "丁",
+      "meaning": "Khu phố / Trang",
+      "readingType": "onyomi",
+      "answerParts": [
+        "chou"
+      ],
+      "distractors": [
+        "tan",
+        "ji",
+        "ken",
+        "sou",
+        "rin",
+        "bou",
+        "tei"
+      ]
+    },
+    {
+      "id": 2,
+      "hiragana": "乏",
+      "meaning": "Nghèo / Thiếu thốn",
+      "readingType": "kunyomi",
+      "answerParts": [
+        "to",
+        "bo",
+        "shi",
+        "i"
+      ],
+      "distractors": [
+        "ka",
+        "mi",
+        "su",
+        "ra",
+        "na",
+        "ku",
+        "te"
+      ]
+    },
+    {
+      "id": 3,
+      "hiragana": "乙",
+      "meaning": "Thứ hai / Độc đáo",
+      "readingType": "onyomi",
+      "answerParts": [
+        "o",
+        "tsu"
+      ],
+      "distractors": [
+        "ka",
+        "mi",
+        "ri",
+        "na",
+        "mo",
+        "te",
+        "shi"
+      ]
+    },
+    {
+      "id": 4,
+      "hiragana": "伺",
+      "meaning": "Hỏi / Thăm (lịch sự)",
+      "readingType": "kunyomi",
+      "answerParts": [
+        "u",
+        "ka",
+        "ga",
+        "u"
+      ],
+      "distractors": [
+        "ji",
+        "shi",
+        "ro",
+        "be",
+        "to",
+        "mi",
+        "no"
+      ]
+    },
+    {
+      "id": 5,
+      "hiragana": "侍",
+      "meaning": "Samurai / Người hầu",
+      "readingType": "kunyomi",
+      "answerParts": [
+        "sa",
+        "mu",
+        "ra",
+        "i"
+      ],
+      "distractors": [
+        "ji",
+        "ko",
+        "te",
+        "no",
+        "bu",
+        "ri",
+        "yo"
+      ]
+    },
+    {
+      "id": 6,
+      "hiragana": "倫",
+      "meaning": "Đạo đức",
+      "readingType": "onyomi",
+      "answerParts": [
+        "rin"
+      ],
+      "distractors": [
+        "tan",
+        "sou",
+        "ken",
+        "bou",
+        "ji",
+        "chou",
+        "kan"
+      ]
+    },
+    {
+      "id": 7,
+      "hiragana": "偉",
+      "meaning": "Giả / Bắt chước",
+      "readingType": "kunyomi",
+      "answerParts": [
+        "ni",
+        "se"
+      ],
+      "distractors": [
+        "ka",
+        "gi",
+        "su",
+        "mo",
+        "te",
+        "ra",
+        "ko"
+      ]
+    },
+    {
+      "id": 8,
+      "hiragana": "傑",
+      "meaning": "Xuất sắc / Phi thường",
+      "readingType": "onyomi",
+      "answerParts": [
+        "ke",
+        "tsu"
+      ],
+      "distractors": [
+        "sou",
+        "rin",
+        "ji",
+        "bou",
+        "tan",
+        "kan",
+        "sho"
+      ]
+    },
+    {
+      "id": 9,
+      "hiragana": "兼",
+      "meaning": "Kiêm nhiệm / Đồng thời",
+      "readingType": "onyomi",
+      "answerParts": [
+        "ke",
+        "n"
+      ],
+      "distractors": [
+        "tan",
+        "sou",
+        "ji",
+        "bou",
+        "rin",
+        "chou",
+        "shi"
+      ]
+    },
+    {
+      "id": 10,
+      "hiragana": "冠",
+      "meaning": "Vương miện",
+      "readingType": "kunyomi",
+      "answerParts": [
+        "kan",
+        "mu",
+        "ri"
+      ],
+      "distractors": [
+        "sa",
+        "ko",
+        "te",
+        "no",
+        "bu",
+        "ji",
+        "yo"
+      ]
+    },
+    {
+      "id": 11,
+      "hiragana": "凝",
+      "meaning": "Đông đặc / Tập trung",
+      "readingType": "onyomi",
+      "answerParts": [
+        "gyou"
+      ],
+      "distractors": [
+        "tan",
+        "sou",
+        "ken",
+        "bou",
+        "rin",
+        "chou",
+        "shi"
+      ]
+    },
+    {
+      "id": 12,
+      "hiragana": "剣",
+      "meaning": "Kiếm",
+      "readingType": "kunyomi",
+      "answerParts": [
+        "tsu",
+        "ru",
+        "gi"
+      ],
+      "distractors": [
+        "ka",
+        "mi",
+        "no",
+        "sa",
+        "be",
+        "ko",
+        "ra"
+      ]
+    },
+    {
+      "id": 13,
+      "hiragana": "匠",
+      "meaning": "Thợ thủ công / Chuyên gia",
+      "readingType": "kunyomi",
+      "answerParts": [
+        "ta",
+        "ku",
+        "mi"
+      ],
+      "distractors": [
+        "ji",
+        "sa",
+        "ko",
+        "no",
+        "be",
+        "ri",
+        "yo"
+      ]
+    },
+    {
+      "id": 14,
+      "hiragana": "叫",
+      "meaning": "Hét / Thét",
+      "readingType": "kunyomi",
+      "answerParts": [
+        "sa",
+        "ke",
+        "bu"
+      ],
+      "distractors": [
+        "mi",
+        "no",
+        "te",
+        "ji",
+        "ka",
+        "ro",
+        "yo"
+      ]
+    },
+    {
+      "id": 15,
+      "hiragana": "嘆",
+      "meaning": "Than thở / Phàn nàn",
+      "readingType": "onyomi",
+      "answerParts": [
+        "ta",
+        "n"
+      ],
+      "distractors": [
+        "sou",
+        "rin",
+        "ji",
+        "bou",
+        "ken",
+        "chou",
+        "shi"
+      ]
+    },
+    {
+      "id": 16,
+      "hiragana": "墅",
+      "meaning": "Mực / Bồ hóng",
+      "readingType": "kunyomi",
+      "answerParts": [
+        "su",
+        "mi"
+      ],
+      "distractors": [
+        "ka",
+        "ji",
+        "no",
+        "te",
+        "be",
+        "ko",
+        "ra"
+      ]
+    },
+    {
+      "id": 17,
+      "hiragana": "奉",
+      "meaning": "Phụng sự / Dâng hiến",
+      "readingType": "onyomi",
+      "answerParts": [
+        "ho",
+        "u"
+      ],
+      "distractors": [
+        "tan",
+        "sou",
+        "ken",
+        "bou",
+        "rin",
+        "ji",
+        "shi"
+      ]
+    },
+    {
+      "id": 18,
+      "hiragana": "妍",
+      "meaning": "Hoàng hậu / Công chúa",
+      "readingType": "onyomi",
+      "answerParts": [
+        "hi"
+      ],
+      "distractors": [
+        "tan",
+        "sou",
+        "ken",
+        "bou",
+        "rin",
+        "chou",
+        "shi"
+      ]
+    },
+    {
+      "id": 19,
+      "hiragana": "寂",
+      "meaning": "Vắng vẻ / Yên tĩnh",
+      "readingType": "kunyomi",
+      "answerParts": [
+        "sa",
+        "bi"
+      ],
+      "distractors": [
+        "ka",
+        "mi",
+        "no",
+        "te",
+        "ji",
+        "ko",
+        "ra"
+      ]
+    },
+    {
+      "id": 20,
+      "hiragana": "尼",
+      "meaning": "Ni cô",
+      "readingType": "kunyomi",
+      "answerParts": [
+        "a",
+        "ma"
+      ],
+      "distractors": [
+        "ka",
+        "mi",
+        "su",
+        "no",
+        "te",
+        "ji",
+        "ro"
+      ]
+    },
+    {
+      "id": 21,
+      "hiragana": "崇",
+      "meaning": "Tôn thờ / Kính trọng",
+      "readingType": "onyomi",
+      "answerParts": [
+        "su",
+        "u"
+      ],
+      "distractors": [
+        "tan",
+        "rin",
+        "ji",
+        "bou",
+        "ken",
+        "chou",
+        "shi"
+      ]
+    },
+    {
+      "id": 22,
+      "hiragana": "帝",
+      "meaning": "Hoàng đế / Vua",
+      "readingType": "onyomi",
+      "answerParts": [
+        "te",
+        "i"
+      ],
+      "distractors": [
+        "tan",
+        "sou",
+        "ken",
+        "bou",
+        "rin",
+        "chou",
+        "shi"
+      ]
+    },
+    {
+      "id": 23,
+      "hiragana": "弔",
+      "meaning": "Để tang / Phúng viếng",
+      "readingType": "kunyomi",
+      "answerParts": [
+        "to",
+        "mu",
+        "ra",
+        "u"
+      ],
+      "distractors": [
+        "ka",
+        "mi",
+        "su",
+        "ji",
+        "be",
+        "ko",
+        "na"
+      ]
+    },
+    {
+      "id": 24,
+      "hiragana": "弦",
+      "meaning": "Dây / Dây đàn",
+      "readingType": "kunyomi",
+      "answerParts": [
+        "tsu",
+        "ru"
+      ],
+      "distractors": [
+        "ka",
+        "mi",
+        "su",
+        "no",
+        "te",
+        "ji",
+        "ko"
+      ]
+    },
+    {
+      "id": 25,
+      "hiragana": "悔",
+      "meaning": "Hối hận / Thất vọng",
+      "readingType": "kunyomi",
+      "answerParts": [
+        "ku",
+        "ya",
+        "mu"
+      ],
+      "distractors": [
+        "sa",
+        "ji",
+        "no",
+        "te",
+        "be",
+        "ko",
+        "ra"
+      ]
+    },
+    {
+      "id": 26,
+      "hiragana": "慈",
+      "meaning": "Từ bi / Lòng thương",
+      "readingType": "onyomi",
+      "answerParts": [
+        "ji"
+      ],
+      "distractors": [
+        "tan",
+        "sou",
+        "ken",
+        "bou",
+        "rin",
+        "chou",
+        "shi"
+      ]
+    },
+    {
+      "id": 27,
+      "hiragana": "憎",
+      "meaning": "Ghét / Căm thù",
+      "readingType": "kunyomi",
+      "answerParts": [
+        "ni",
+        "ku",
+        "mu"
+      ],
+      "distractors": [
+        "sa",
+        "ji",
+        "te",
+        "be",
+        "ko",
+        "ra",
+        "yo"
+      ]
+    },
+    {
+      "id": 28,
+      "hiragana": "戒",
+      "meaning": "Cảnh báo / Kỷ luật",
+      "readingType": "onyomi",
+      "answerParts": [
+        "ka",
+        "i"
+      ],
+      "distractors": [
+        "tan",
+        "sou",
+        "ken",
+        "bou",
+        "rin",
+        "chou",
+        "shi"
+      ]
+    },
+    {
+      "id": 29,
+      "hiragana": "抑",
+      "meaning": "Kiềm chế / Đè nén",
+      "readingType": "onyomi",
+      "answerParts": [
+        "yo",
+        "ku"
+      ],
+      "distractors": [
+        "tan",
+        "sou",
+        "ken",
+        "bou",
+        "rin",
+        "chou",
+        "ji"
+      ]
+    },
+    {
+      "id": 30,
+      "hiragana": "挑",
+      "meaning": "Thách thức / Dám",
+      "readingType": "kunyomi",
+      "answerParts": [
+        "i",
+        "do",
+        "mu"
+      ],
+      "distractors": [
+        "ka",
+        "sa",
+        "te",
+        "ji",
+        "no",
+        "ra",
+        "be"
+      ]
+    }
+  ]
+}

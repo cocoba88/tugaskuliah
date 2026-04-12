@@ -1,0 +1,572 @@
+[
+  {
+    "id": "question_n3_2_001",
+    "question": "「拡大」の意味は？",
+    "furigana": "「拡大[かくだい]」の意味[いみ]は？",
+    "romaji": "'Kakudai' no imi wa?",
+    "level": "N3",
+    "category": "VOCABULARY",
+    "options": [
+      "Pengurangan",
+      "Perluasan",
+      "Perpindahan",
+      "Penghapusan"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Apa arti '拡大'?",
+    "answerExplanation": "「拡大」(kakudai) berarti perluasan, pembesaran, atau ekspansi. Kanji 拡 berarti 'memperluas' dan 大 berarti 'besar'. Lawan katanya adalah 縮小 (shukushou/pengecilan). Contoh penggunaan: 事業を拡大する (memperluas bisnis), 写真を拡大する (memperbesar foto).",
+    "hint": "Pikirkan sesuatu yang menjadi lebih besar atau lebih luas",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_2_002",
+    "question": "「保存」の意味は？",
+    "furigana": "「保存[ほぞん]」の意味[いみ]は？",
+    "romaji": "'Hozon' no imi wa?",
+    "level": "N3",
+    "category": "VOCABULARY",
+    "options": [
+      "Penghancuran",
+      "Pengiriman",
+      "Pelestarian",
+      "Pembuangan"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Apa arti '保存'?",
+    "answerExplanation": "「保存」(hozon) berarti penyimpanan atau pelestarian. Kanji 保 berarti 'menjaga' dan 存 berarti 'ada/keberadaan'. Kata ini digunakan untuk menyimpan file di komputer (ファイルを保存する) maupun melestarikan sesuatu (文化を保存する = melestarikan budaya).",
+    "hint": "Menjaga sesuatu agar tetap ada dan tidak hilang",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_2_003",
+    "question": "「尊重」の意味は？",
+    "furigana": "「尊重[そんちょう]」の意味[いみ]は？",
+    "romaji": "'Sonchou' no imi wa?",
+    "level": "N3",
+    "category": "VOCABULARY",
+    "options": [
+      "Mengabaikan",
+      "Menghormati",
+      "Membenci",
+      "Meremehkan"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Apa arti '尊重'?",
+    "answerExplanation": "「尊重」(sonchou) berarti menghormati atau menghargai. Kanji 尊 berarti 'mulia/terhormat' dan 重 berarti 'berat/penting'. Contoh: 相手の意見を尊重する (menghormati pendapat orang lain), 人権を尊重する (menghargai hak asasi manusia).",
+    "hint": "Sikap positif terhadap orang lain atau pendapatnya",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_2_004",
+    "question": "「判断」の意味は？",
+    "furigana": "「判断[はんだん]」の意味[いみ]は？",
+    "romaji": "'Handan' no imi wa?",
+    "level": "N3",
+    "category": "VOCABULARY",
+    "options": [
+      "Penilaian",
+      "Pertanyaan",
+      "Penjelasan",
+      "Pengumuman"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Apa arti '判断'?",
+    "answerExplanation": "「判断」(handan) berarti keputusan, penilaian, atau pertimbangan. Kanji 判 berarti 'menilai/memutuskan' dan 断 berarti 'memotong/memutuskan'. Contoh: 正しい判断をする (membuat keputusan yang benar), 状況を判断する (menilai situasi).",
+    "hint": "Proses berpikir untuk memutuskan sesuatu",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_2_005",
+    "question": "「報告」の意味は？",
+    "furigana": "「報告[ほうこく]」の意味[いみ]は？",
+    "romaji": "'Houkoku' no imi wa?",
+    "level": "N3",
+    "category": "VOCABULARY",
+    "options": [
+      "Permintaan maaf",
+      "Undangan",
+      "Permohonan",
+      "Laporan"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "Apa arti '報告'?",
+    "answerExplanation": "「報告」(houkoku) berarti laporan atau melaporkan. Kanji 報 berarti 'memberitahu/informasi' dan 告 berarti 'memberitahu/mengumumkan'. Contoh: 上司に報告する (melaporkan kepada atasan), 報告書を書く (menulis laporan tertulis).",
+    "hint": "Menyampaikan informasi tentang suatu hal kepada orang lain",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_2_006",
+    "question": "「縮小」の読み方は？",
+    "furigana": "「縮小[しゅくしょう]」の読[よ]み方[かた]は？",
+    "romaji": "'Shukushou' no yomikata wa?",
+    "level": "N3",
+    "category": "KANJI",
+    "options": [
+      "しゅくしょう",
+      "しゅうしょう",
+      "そくしょう",
+      "しゅくしょ"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Bagaimana cara membaca '縮小'?",
+    "answerExplanation": "「縮小」dibaca 'しゅくしょう' (shukushou) yang berarti pengecilan atau pengurangan skala. Kanji 縮 dibaca しゅく (shuku = menyusut) dan 小 dibaca しょう (shou = kecil). Ini adalah lawan kata dari 拡大 (kakudai = perluasan).",
+    "hint": "Shuku + shou, lawan kata dari 拡大",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_2_007",
+    "question": "「増加」の読み方は？",
+    "furigana": "「増加[ぞうか]」の読[よ]み方[かた]は？",
+    "romaji": "'Zouka' no yomikata wa?",
+    "level": "N3",
+    "category": "KANJI",
+    "options": [
+      "そうか",
+      "ぞうか",
+      "ますか",
+      "ぞっか"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Bagaimana cara membaca '増加'?",
+    "answerExplanation": "「増加」dibaca 'ぞうか' (zouka) yang berarti penambahan atau peningkatan jumlah. Kanji 増 dibaca ぞう (zou = bertambah) dan 加 dibaca か (ka = menambah). Lawan katanya adalah 減少 (genshou = pengurangan). Contoh: 人口が増加する (populasi bertambah).",
+    "hint": "Zou + ka, kebalikan dari pengurangan",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_2_008",
+    "question": "「減少」の読み方は？",
+    "furigana": "「減少[げんしょう]」の読[よ]み方[かた]は？",
+    "romaji": "'Genshou' no yomikata wa?",
+    "level": "N3",
+    "category": "KANJI",
+    "options": [
+      "けんしょう",
+      "げんしょ",
+      "げんしょう",
+      "げんじょう"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Bagaimana cara membaca '減少'?",
+    "answerExplanation": "「減少」dibaca 'げんしょう' (genshou) yang berarti pengurangan atau penurunan jumlah. Kanji 減 dibaca げん (gen = berkurang) dan 少 dibaca しょう (shou = sedikit). Lawan katanya adalah 増加 (zouka = penambahan). Contoh: 出生率が減少している (angka kelahiran menurun).",
+    "hint": "Gen + shou, lawan kata dari 増加",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_2_009",
+    "question": "「承認」の読み方は？",
+    "furigana": "「承認[しょうにん]」の読[よ]み方[かた]は？",
+    "romaji": "'Shounin' no yomikata wa?",
+    "level": "N3",
+    "category": "KANJI",
+    "options": [
+      "じょうにん",
+      "しょうにん",
+      "しょうじん",
+      "せいにん"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Bagaimana cara membaca '承認'?",
+    "answerExplanation": "「承認」dibaca 'しょうにん' (shounin) yang berarti persetujuan atau pengesahan. Kanji 承 dibaca しょう (shou = menerima/menyetujui) dan 認 dibaca にん (nin = mengakui). Contoh: 上司の承認を得る (mendapatkan persetujuan atasan).",
+    "hint": "Shou + nin, berkaitan dengan memberikan persetujuan",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n3_2_010",
+    "question": "「批判」の読み方は？",
+    "furigana": "「批判[ひはん]」の読[よ]み方[かた]は？",
+    "romaji": "'Hihan' no yomikata wa?",
+    "level": "N3",
+    "category": "KANJI",
+    "options": [
+      "ひばん",
+      "びはん",
+      "ひはん",
+      "はっぱん"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Bagaimana cara membaca '批判'?",
+    "answerExplanation": "「批判」dibaca 'ひはん' (hihan) yang berarti kritik atau mengkritik. Kanji 批 dibaca ひ (hi = mengkritik) dan 判 dibaca はん (han = menilai). Contoh: 政府の政策を批判する (mengkritik kebijakan pemerintah). Perhatikan bahwa は tetap dibaca 'ha', bukan 'ba'.",
+    "hint": "Hi + han, berkaitan dengan memberikan kritik",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_2_011",
+    "question": "遅刻しない___、毎朝アラームをかけている。",
+    "furigana": "遅刻[ちこく]しない___、毎朝[まいあさ]アラームをかけている。",
+    "romaji": "Chikoku shinai ___, maiasa araamu wo kakete iru.",
+    "level": "N3",
+    "category": "GRAMMAR",
+    "options": [
+      "ことに",
+      "ように",
+      "ために",
+      "ものに"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Agar tidak terlambat, saya menyetel alarm setiap pagi.",
+    "answerExplanation": "Pola 「〜ようにする」digunakan untuk menyatakan usaha atau kebiasaan yang dilakukan secara sadar supaya sesuatu tercapai. Artinya 'berusaha agar〜'. Di sini, '遅刻しないように' berarti 'agar tidak terlambat'. Berbeda dengan 〜ことにする yang berarti 'memutuskan untuk〜', dan 〜ために yang menyatakan tujuan dengan subjek yang sama. Contoh lain: 風邪をひかないように気をつけている (berhati-hati agar tidak masuk angin).",
+    "hint": "Pola ini menyatakan usaha sadar agar sesuatu terjadi atau tidak terjadi",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_2_012",
+    "question": "日本に来てから、日本語が話せる___なった。",
+    "furigana": "日本[にほん]に来[き]てから、日本語[にほんご]が話[はな]せる___なった。",
+    "romaji": "Nihon ni kite kara, nihongo ga hanaseru ___ natta.",
+    "level": "N3",
+    "category": "GRAMMAR",
+    "options": [
+      "ことに",
+      "ために",
+      "ものに",
+      "ように"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "Sejak datang ke Jepang, saya menjadi bisa berbicara bahasa Jepang.",
+    "answerExplanation": "Pola 「〜ようになる」digunakan untuk menyatakan perubahan keadaan, terutama kemampuan baru yang diperoleh secara bertahap. Artinya 'menjadi bisa〜' atau 'mulai〜'. Berbeda dengan 〜ようにする (berusaha untuk〜), pola ini menunjukkan perubahan alami atau hasil dari proses. Contoh lain: 漢字が読めるようになった (menjadi bisa membaca kanji).",
+    "hint": "Pola ini menyatakan perubahan kemampuan yang terjadi secara bertahap",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_2_013",
+    "question": "辞書を使わ___、作文を書いた。",
+    "furigana": "辞書[じしょ]を使[つか]わ___、作文[さくぶん]を書[か]いた。",
+    "romaji": "Jisho wo tsukawa ___, sakubun wo kaita.",
+    "level": "N3",
+    "category": "GRAMMAR",
+    "options": [
+      "なくて",
+      "ずに",
+      "ないから",
+      "ないと"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Saya menulis karangan tanpa menggunakan kamus.",
+    "answerExplanation": "Pola 「〜ずに」berarti 'tanpa melakukan〜' dan merupakan bentuk formal/tertulis dari 〜ないで. Cara membentuknya: bentuk ない tanpa い, lalu tambah ずに. 使わない → 使わ + ずに = 使わずに. Pengecualian: する → せずに. 'なくて' menyatakan alasan, bukan cara. 'ないから' dan 'ないと' juga menyatakan alasan/kondisi. Contoh lain: 何も言わずに帰った (pulang tanpa berkata apa-apa).",
+    "hint": "Bentuk formal dari 'tanpa melakukan sesuatu', diubah dari bentuk negatif",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n3_2_014",
+    "question": "大丈夫だよ。そんなに心配する___。",
+    "furigana": "大丈夫[だいじょうぶ]だよ。そんなに心配[しんぱい]する___。",
+    "romaji": "Daijoubu da yo. Sonna ni shinpai suru ___.",
+    "level": "N3",
+    "category": "GRAMMAR",
+    "options": [
+      "ことはない",
+      "わけがない",
+      "はずがない",
+      "ものではない"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Tidak apa-apa kok. Tidak perlu khawatir seperti itu.",
+    "answerExplanation": "Pola 「〜ことはない」berarti 'tidak perlu〜' atau 'tidak ada keharusan untuk〜'. Digunakan untuk menenangkan atau memberi tahu seseorang bahwa sesuatu tidak diperlukan. Berbeda dengan 〜わけがない (tidak mungkin〜) dan 〜はずがない (seharusnya tidak〜). Contoh lain: 泣くことはない (tidak perlu menangis).",
+    "hint": "Pola ini menyatakan bahwa tidak ada kebutuhan atau keharusan untuk melakukan sesuatu",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n3_2_015",
+    "question": "このゲームは初心者___に作られている。",
+    "furigana": "このゲームは初心者[しょしんしゃ]___に作[つく]られている。",
+    "romaji": "Kono geemu wa shoshinsha ___ ni tsukurarete iru.",
+    "level": "N3",
+    "category": "GRAMMAR",
+    "options": [
+      "ため",
+      "向け",
+      "用",
+      "よう"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Game ini dibuat untuk pemula (ditujukan untuk pemula).",
+    "answerExplanation": "Pola 「〜向け」(muke) berarti 'ditujukan untuk〜' atau 'diperuntukkan bagi〜'. Digunakan untuk menunjukkan target atau sasaran dari suatu produk, layanan, atau karya. Contoh lain: 初心者向けの講座 (kursus untuk pemula), 子供向けの番組 (acara untuk anak-anak), 学生向けの教材 (bahan ajar untuk pelajar). Berbeda dengan 〜ため yang lebih umum berarti 'untuk kepentingan〜'.",
+    "hint": "Kata ini menunjukkan target sasaran atau audiens yang dituju",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_2_016",
+    "question": "最近忘れ___なって困っている。",
+    "furigana": "最近[さいきん]忘[わす]れ___なって困[こま]っている。",
+    "romaji": "Saikin wasure ___ natte komatte iru.",
+    "level": "N3",
+    "category": "GRAMMAR",
+    "options": [
+      "みたく",
+      "らしく",
+      "っぽく",
+      "そうに"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Akhir-akhir ini menjadi pelupa dan merasa kesulitan.",
+    "answerExplanation": "Pola 「〜っぽい」berarti 'memiliki kecenderungan〜' atau 'terkesan seperti〜'. Ditempelkan ke kata kerja bentuk masu tanpa masu: 忘れっぽい (pelupa), 怒りっぽい (mudah marah), 飽きっぽい (mudah bosan). Di sini bentuknya 〜っぽく+なる karena menyatakan perubahan menjadi. Berbeda dengan 〜みたい (terlihat seperti) dan 〜らしい (katanya/memang seperti).",
+    "hint": "Akhiran yang menunjukkan kecenderungan atau sifat seseorang, ditempelkan ke kata kerja",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n3_2_017",
+    "question": "今日は電車が止まったので、電車の___バスで会社に行った。",
+    "furigana": "今日[きょう]は電車[でんしゃ]が止[と]まったので、電車[でんしゃ]の___バスで会社[かいしゃ]に行[い]った。",
+    "romaji": "Kyou wa densha ga tomatta node, densha no ___ basu de kaisha ni itta.",
+    "level": "N3",
+    "category": "GRAMMAR",
+    "options": [
+      "ために",
+      "うちに",
+      "かわりに",
+      "ついでに"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Hari ini kereta berhenti, jadi saya pergi ke kantor naik bus sebagai pengganti kereta.",
+    "answerExplanation": "Pola 「〜かわりに」berarti 'sebagai pengganti〜' atau 'sebagai gantinya〜'. Digunakan ketika sesuatu menggantikan hal lain. Contoh lain: 砂糖のかわりにはちみつを使う (menggunakan madu sebagai pengganti gula). Pola ini juga bisa berarti 'sebagai imbalannya': 手伝ってあげるかわりに、昼ご飯をおごって (sebagai imbalan membantu, traktir makan siang ya).",
+    "hint": "Kata ini menyatakan penggantian atau substitusi",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n3_2_018",
+    "question": "次のメールを読んで、質問に答えてください。\n\n田中様\n\nお世話になっております。ABC研修センターの山本です。来月予定しておりましたビジネスセミナーについてご連絡いたします。当初の予定では4月10日（金）に開催する予定でしたが、講師の都合により、4月17日（金）に変更させていただくことになりました。時間は午前10時から午後3時までで変更はございません。会場も同じく、東京駅前のABCビル5階です。ご不便をおかけして申し訳ございませんが、ご理解いただけますようお願いいたします。\n\nセミナーの新しい日程はいつですか？",
+    "furigana": "次[つぎ]のメールを読[よ]んで、質問[しつもん]に答[こた]えてください。\n\n田中[たなか]様[さま]\n\nお世話[せわ]になっております。ABC研修[けんしゅう]センターの山本[やまもと]です。来月[らいげつ]予定[よてい]しておりましたビジネスセミナーについてご連絡[れんらく]いたします。当初[とうしょ]の予定[よてい]では4月[しがつ]10日[とおか]（金[きん]）に開催[かいさい]する予定[よてい]でしたが、講師[こうし]の都合[つごう]により、4月[しがつ]17日[じゅうしちにち]（金[きん]）に変更[へんこう]させていただくことになりました。時間[じかん]は午前[ごぜん]10時[じゅうじ]から午後[ごご]3時[さんじ]までで変更[へんこう]はございません。会場[かいじょう]も同[おな]じく、東京駅前[とうきょうえきまえ]のABCビル5階[ごかい]です。ご不便[ふべん]をおかけして申[もう]し訳[わけ]ございませんが、ご理解[りかい]いただけますようお願[ねが]いいたします。\n\nセミナーの新[あたら]しい日程[にってい]はいつですか？",
+    "romaji": "Tsugi no meeru wo yonde, shitsumon ni kotaete kudasai. (Email content) Seminaa no atarashii nittei wa itsu desu ka?",
+    "level": "N3",
+    "category": "READING",
+    "options": [
+      "4月10日（金）",
+      "4月17日（金）",
+      "4月10日（土）",
+      "4月17日（土）"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Baca email berikut dan jawab pertanyaannya.\n\nKepada Bapak/Ibu Tanaka,\nTerima kasih atas kerjasamanya selama ini. Saya Yamamoto dari ABC Training Center. Saya menghubungi Anda mengenai seminar bisnis yang dijadwalkan bulan depan. Jadwal awalnya adalah tanggal 10 April (Jumat), namun karena kesibukan pembicara, jadwalnya diubah menjadi 17 April (Jumat). Waktu tetap sama dari pukul 10 pagi hingga 3 sore. Tempat juga sama, yaitu lantai 5 Gedung ABC di depan Stasiun Tokyo.\n\nKapan jadwal baru seminar tersebut?",
+    "answerExplanation": "Dalam email tersebut, disebutkan bahwa jadwal seminar diubah dari 4月10日（金）menjadi 4月17日（金）. Kalimat kuncinya adalah '4月17日（金）に変更させていただくことになりました' yang berarti 'telah diputuskan untuk mengubahnya menjadi 17 April (Jumat)'. Waktu dan tempat tidak berubah.",
+    "hint": "Cari kata 変更 (henkou = perubahan) dalam email untuk menemukan tanggal barunya",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_2_019",
+    "question": "次の文章を読んで、質問に答えてください。\n\n最近、映画やドラマを見る人が増えていますが、私は本を読むことをおすすめします。映画は短い時間で楽しめますが、本は自分のペースで読めるという良さがあります。また、本を読むと想像力が豊かになると言われています。映画では映像がすべて見えますが、本では自分の頭の中で場面を想像しなければなりません。さらに、本を読むことで新しい言葉を覚えたり、文章力が上がったりします。もちろん映画にも良い点はありますが、時間があるときはぜひ本を読んでみてください。\n\n筆者が一番すすめていることは何ですか？",
+    "furigana": "次[つぎ]の文章[ぶんしょう]を読[よ]んで、質問[しつもん]に答[こた]えてください。\n\n最近[さいきん]、映画[えいが]やドラマを見[み]る人[ひと]が増[ふ]えていますが、私[わたし]は本[ほん]を読[よ]むことをおすすめします。映画[えいが]は短[みじか]い時間[じかん]で楽[たの]しめますが、本[ほん]は自分[じぶん]のペースで読[よ]めるという良[よ]さがあります。また、本[ほん]を読[よ]むと想像力[そうぞうりょく]が豊[ゆた]かになると言[い]われています。映画[えいが]では映像[えいぞう]がすべて見[み]えますが、本[ほん]では自分[じぶん]の頭[あたま]の中[なか]で場面[ばめん]を想像[そうぞう]しなければなりません。さらに、本[ほん]を読[よ]むことで新[あたら]しい言葉[ことば]を覚[おぼ]えたり、文章力[ぶんしょうりょく]が上[あ]がったりします。もちろん映画[えいが]にも良[よ]い点[てん]はありますが、時間[じかん]があるときはぜひ本[ほん]を読[よ]んでみてください。\n\n筆者[ひっしゃ]が一番[いちばん]すすめていることは何[なん]ですか？",
+    "romaji": "Tsugi no bunshou wo yonde, shitsumon ni kotaete kudasai. (Passage content) Hissha ga ichiban susumete iru koto wa nan desu ka?",
+    "level": "N3",
+    "category": "READING",
+    "options": [
+      "映画やドラマをたくさん見ること",
+      "映画と本を両方楽しむこと",
+      "時間があるときに本を読むこと",
+      "想像力を使って映画を見ること"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Baca tulisan berikut dan jawab pertanyaannya.\n\nAkhir-akhir ini, semakin banyak orang menonton film dan drama, tetapi saya merekomendasikan membaca buku. Film bisa dinikmati dalam waktu singkat, tetapi buku memiliki kelebihan bisa dibaca sesuai ritme sendiri. Selain itu, dikatakan bahwa membaca buku membuat daya imajinasi menjadi kaya. Dalam film, semua gambar terlihat, tetapi dalam buku kita harus membayangkan adegan di dalam kepala sendiri. Lebih lanjut, dengan membaca buku kita bisa menghafal kata-kata baru dan meningkatkan kemampuan menulis. Tentu saja film juga memiliki kelebihan, tetapi jika ada waktu silakan coba membaca buku.\n\nApa yang paling direkomendasikan oleh penulis?",
+    "answerExplanation": "Penulis paling merekomendasikan membaca buku ketika ada waktu. Hal ini terlihat jelas dari kalimat terakhir: '時間があるときはぜひ本を読んでみてください' (jika ada waktu silakan coba membaca buku). Meskipun penulis mengakui kelebihan film, fokus utama artikel ini adalah manfaat membaca buku (meningkatkan imajinasi, menambah kosakata, meningkatkan kemampuan menulis).",
+    "hint": "Perhatikan kalimat terakhir sebagai kesimpulan dan rekomendasi penulis",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n3_2_020",
+    "question": "次のお知らせを読んで、質問に答えてください。\n\nマンション住民の皆様へ\n\n管理組合よりお知らせいたします。来月の5月1日から5月15日まで、マンションの外壁工事を行います。工事は毎日午前9時から午後5時まで行われます。工事中は大きな音が出る場合がありますので、ご了承ください。また、工事期間中はベランダに洗濯物を干さないようにお願いいたします。ほこりや塗料が付く可能性があります。洗濯物は室内に干すか、コインランドリーをご利用ください。ご不便をおかけしますが、ご協力をお願いいたします。\n\n工事期間中、住民は何をしなければなりませんか？",
+    "furigana": "次[つぎ]のお知[し]らせを読[よ]んで、質問[しつもん]に答[こた]えてください。\n\nマンション住民[じゅうみん]の皆様[みなさま]へ\n\n管理組合[かんりくみあい]よりお知[し]らせいたします。来月[らいげつ]の5月[ごがつ]1日[ついたち]から5月[ごがつ]15日[じゅうごにち]まで、マンションの外壁工事[がいへきこうじ]を行[おこな]います。工事[こうじ]は毎日[まいにち]午前[ごぜん]9時[くじ]から午後[ごご]5時[ごじ]まで行[おこな]われます。工事中[こうじちゅう]は大[おお]きな音[おと]が出[で]る場合[ばあい]がありますので、ご了承[りょうしょう]ください。また、工事期間中[こうじきかんちゅう]はベランダに洗濯物[せんたくもの]を干[ほ]さないようにお願[ねが]いいたします。ほこりや塗料[とりょう]が付[つ]く可能性[かのうせい]があります。洗濯物[せんたくもの]は室内[しつない]に干[ほ]すか、コインランドリーをご利用[りよう]ください。ご不便[ふべん]をおかけしますが、ご協力[きょうりょく]をお願[ねが]いいたします。\n\n工事期間中[こうじきかんちゅう]、住民[じゅうみん]は何[なに]をしなければなりませんか？",
+    "romaji": "Tsugi no oshirase wo yonde, shitsumon ni kotaete kudasai. (Notice content) Kouji kikanchuu, juumin wa nani wo shinakereba narimasen ka?",
+    "level": "N3",
+    "category": "READING",
+    "options": [
+      "午前9時から午後5時まで外出すること",
+      "ベランダの洗濯物を室内に干すかコインランドリーを使うこと",
+      "工事の費用を管理組合に払うこと",
+      "大きな音を出さないようにすること"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Baca pengumuman berikut dan jawab pertanyaannya.\n\nKepada seluruh penghuni apartemen,\nPemberitahuan dari pengurus apartemen. Dari tanggal 1 Mei hingga 15 Mei bulan depan, akan dilakukan pekerjaan renovasi dinding luar apartemen. Pekerjaan dilakukan setiap hari dari pukul 9 pagi hingga 5 sore. Selama pekerjaan berlangsung mungkin akan ada suara bising, mohon maklum. Selain itu, selama periode pekerjaan, mohon untuk tidak menjemur cucian di beranda. Ada kemungkinan debu dan cat bisa menempel. Silakan jemur cucian di dalam ruangan atau gunakan laundry koin.\n\nSelama periode pekerjaan, apa yang harus dilakukan penghuni?",
+    "answerExplanation": "Menurut pengumuman, penghuni diminta untuk tidak menjemur cucian di beranda selama periode pekerjaan karena ada kemungkinan debu dan cat menempel. Sebagai gantinya, mereka harus menjemur cucian di dalam ruangan atau menggunakan laundry koin. Kalimat kuncinya: 'ベランダに洗濯物を干さないようにお願いいたします' dan '洗濯物は室内に干すか、コインランドリーをご利用ください'.",
+    "hint": "Cari bagian yang berisi permintaan atau instruksi kepada penghuni (お願いいたします)",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n3_2_021",
+    "question": "雨が降ったら、試合は中止に___。",
+    "furigana": "雨[あめ]が降[ふ]ったら、試合[しあい]は中止[ちゅうし]に___。",
+    "romaji": "Ame ga futtara, shiai wa chuushi ni ___.",
+    "level": "N3",
+    "category": "GRAMMAR",
+    "options": [
+      "なる",
+      "する",
+      "ある",
+      "いる"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Kalau hujan turun, pertandingan akan dibatalkan.",
+    "answerExplanation": "Pola '～ことになる/～になる' digunakan ketika sesuatu diputuskan oleh pihak lain atau oleh keadaan, bukan oleh kemauan sendiri. '中止になる' berarti 'menjadi dibatalkan' (keputusan bukan dari pembicara). Berbeda dengan '中止にする' yang berarti 'memutuskan untuk membatalkan' (keputusan aktif oleh pembicara). Di sini, pembatalan terjadi karena hujan (keadaan).",
+    "hint": "Pembatalan terjadi karena keadaan (hujan), bukan keputusan pribadi",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_2_022",
+    "question": "先生に作文を書き直さ___。",
+    "furigana": "先生[せんせい]に作文[さくぶん]を書[か]き直[なお]さ___。",
+    "romaji": "Sensei ni sakubun wo kakinaosa ___.",
+    "level": "N3",
+    "category": "GRAMMAR",
+    "options": [
+      "せた",
+      "された",
+      "れた",
+      "させた"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Saya disuruh menulis ulang karangan oleh guru.",
+    "answerExplanation": "Pola pasif '～される/～られる' digunakan untuk menyatakan bahwa subjek menerima tindakan dari orang lain. '書き直す' (menulis ulang) adalah kata kerja golongan I, bentuk pasifnya: 書き直す → 書き直される → 書き直された (lampau). Struktur: orang yang melakukan tindakan + に + kata kerja pasif. 'させた' adalah bentuk kausatif aktif, bukan pasif.",
+    "hint": "Subjek (saya) menerima tindakan dari guru - ini adalah bentuk pasif",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_2_023",
+    "question": "天気予報___、明日は台風が来るらしい。",
+    "furigana": "天気予報[てんきよほう]___、明日[あした]は台風[たいふう]が来[く]るらしい。",
+    "romaji": "Tenki yohou ___, ashita wa taifuu ga kuru rashii.",
+    "level": "N3",
+    "category": "GRAMMAR",
+    "options": [
+      "にとって",
+      "について",
+      "によると",
+      "に関して"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Menurut ramalan cuaca, besok sepertinya akan ada topan.",
+    "answerExplanation": "Pola '～によると' berarti 'menurut～' dan digunakan untuk menyatakan sumber informasi. Sering dipadukan dengan '～そうだ' atau '～らしい' di akhir kalimat. 'にとって' = bagi (sudut pandang), 'について' = tentang/mengenai, 'に関して' = berkaitan dengan. Contoh lain: 'ニュースによると、事故があったらしい'.",
+    "hint": "Pola ini menyatakan sumber informasi, sering dipadukan dengan ～らしい/～そうだ",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_2_024",
+    "question": "この薬を飲めば、熱が___はずだ。",
+    "furigana": "この薬[くすり]を飲[の]めば、熱[ねつ]が___はずだ。",
+    "romaji": "Kono kusuri wo nomeba, netsu ga ___ hazu da.",
+    "level": "N3",
+    "category": "VOCABULARY",
+    "options": [
+      "上がる",
+      "下がる",
+      "増える",
+      "続く"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Kalau minum obat ini, demam seharusnya turun.",
+    "answerExplanation": "'下がる' (sagaru) berarti turun. Dalam konteks ini, '熱が下がる' berarti 'demam turun'. Pola '～はずだ' menunjukkan ekspektasi berdasarkan logika. '上がる' = naik (kebalikan), '増える' = bertambah (untuk jumlah), '続く' = berlanjut. Kolokasi umum: 熱が下がる, 値段が下がる, 温度が下がる.",
+    "hint": "Obat diminum untuk membuat demam berkurang, bukan bertambah",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_2_025",
+    "question": "海外旅行の___として、パスポートを更新した。",
+    "furigana": "海外旅行[かいがいりょこう]の___として、パスポートを更新[こうしん]した。",
+    "romaji": "Kaigai ryokou no ___ to shite, pasupooto wo koushin shita.",
+    "level": "N3",
+    "category": "VOCABULARY",
+    "options": [
+      "経験",
+      "準備",
+      "感想",
+      "結果"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Sebagai persiapan perjalanan ke luar negeri, saya memperbarui paspor.",
+    "answerExplanation": "'準備' (junbi) berarti persiapan. '海外旅行の準備として' = 'sebagai persiapan untuk perjalanan ke luar negeri'. Memperbarui paspor adalah tindakan persiapan sebelum bepergian. '経験' (keiken) = pengalaman, '感想' (kansou) = kesan/pendapat, '結果' (kekka) = hasil.",
+    "hint": "Tindakan yang dilakukan sebelum sesuatu untuk memastikan semuanya siap",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_2_026",
+    "question": "この問題は___なので、もう少し時間をください。",
+    "furigana": "この問題[もんだい]は___なので、もう少[すこ]し時間[じかん]をください。",
+    "romaji": "Kono mondai wa ___ na node, mou sukoshi jikan wo kudasai.",
+    "level": "N3",
+    "category": "VOCABULARY",
+    "options": [
+      "簡単",
+      "特別",
+      "複雑",
+      "普通"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Masalah ini rumit, jadi tolong beri waktu sedikit lagi.",
+    "answerExplanation": "'複雑' (fukuzatsu) berarti rumit atau kompleks. Cocok dengan konteks meminta waktu tambahan karena masalah yang sulit. '簡単' (kantan) = mudah (kebalikan), '特別' (tokubetsu) = khusus/istimewa, '普通' (futsuu) = biasa/normal. Contoh lain: '複雑な手続き' (prosedur yang rumit).",
+    "hint": "Kata ini berarti tidak sederhana, memiliki banyak aspek yang saling terkait",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_2_027",
+    "question": "「連絡」の読み方は？",
+    "furigana": "「連絡[れんらく]」の読[よ]み方[かた]は？",
+    "romaji": "'Renraku' no yomikata wa?",
+    "level": "N3",
+    "category": "KANJI",
+    "options": [
+      "れんらく",
+      "れんらつ",
+      "でんらく",
+      "れんかく"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Bagaimana cara membaca '連絡'?",
+    "answerExplanation": "'連絡' dibaca 'れんらく' (renraku) yang berarti menghubungi atau kontak. Kanji 連 dibaca れん (ren = bersambung) dan 絡 dibaca らく (raku = menghubungkan). Contoh: '連絡先' (informasi kontak), '連絡を取る' (menghubungi). Ini adalah kata yang sangat sering digunakan dalam kehidupan sehari-hari dan bisnis.",
+    "hint": "Ren + raku. Kata yang sangat umum digunakan untuk menghubungi seseorang",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_2_028",
+    "question": "「説明」の読み方は？",
+    "furigana": "「説明[せつめい]」の読[よ]み方[かた]は？",
+    "romaji": "'Setsumei' no yomikata wa?",
+    "level": "N3",
+    "category": "KANJI",
+    "options": [
+      "せつめい",
+      "せつみょう",
+      "ぜつめい",
+      "せつめ"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Bagaimana cara membaca '説明'?",
+    "answerExplanation": "'説明' dibaca 'せつめい' (setsumei) yang berarti penjelasan. Kanji 説 dibaca せつ (setsu = menjelaskan) dan 明 dibaca めい (mei = terang/jelas). Contoh: '説明する' (menjelaskan), '説明書' (buku petunjuk). Jangan salah baca 明 sebagai 'myou' (seperti dalam 明日/myounichi). Dalam kata ini dibaca 'mei'.",
+    "hint": "Setsu + mei. Tindakan membuat sesuatu menjadi jelas dan mudah dipahami",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_2_029",
+    "question": "次の文章を読んで、質問に答えてください。\n\n日本では、電車の中で携帯電話で話すことはマナー違反とされています。しかし、メッセージを送ったり、音を消してゲームをしたりすることは問題ありません。また、優先席の近くでは携帯電話の電源を切るように言われていましたが、最近ではマナーモードにすればよいとされています。ただし、病院の中では今でも携帯電話の使用が制限されている場所があります。\n\n質問：日本の電車の中で、してはいけないことは何ですか？",
+    "furigana": "次[つぎ]の文章[ぶんしょう]を読[よ]んで、質問[しつもん]に答[こた]えてください。\n\n日本[にほん]では、電車[でんしゃ]の中[なか]で携帯電話[けいたいでんわ]で話[はな]すことはマナー違反[いはん]とされています。しかし、メッセージを送[おく]ったり、音[おと]を消[け]してゲームをしたりすることは問題[もんだい]ありません。また、優先席[ゆうせんせき]の近[ちか]くでは携帯電話[けいたいでんわ]の電源[でんげん]を切[き]るように言[い]われていましたが、最近[さいきん]ではマナーモードにすればよいとされています。ただし、病院[びょういん]の中[なか]では今[いま]でも携帯電話[けいたいでんわ]の使用[しよう]が制限[せいげん]されている場所[ばしょ]があります。\n\n質問[しつもん]：日本[にほん]の電車[でんしゃ]の中[なか]で、してはいけないことは何[なん]ですか？",
+    "romaji": "Tsugi no bunshou wo yonde, shitsumon ni kotaete kudasai. (Passage about phone manners) Shitsumon: Nihon no densha no naka de, shite wa ikenai koto wa nan desu ka?",
+    "level": "N3",
+    "category": "READING",
+    "options": [
+      "メッセージを送ること",
+      "携帯電話で話すこと",
+      "音を消してゲームをすること",
+      "マナーモードにすること"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Baca tulisan berikut dan jawab pertanyaannya.\n\nDi Jepang, berbicara melalui ponsel di dalam kereta dianggap melanggar etika. Namun, mengirim pesan atau bermain game dengan suara dimatikan tidak menjadi masalah. Selain itu, dulu dianjurkan untuk mematikan ponsel di dekat kursi prioritas, tetapi baru-baru ini cukup dengan mengaktifkan mode manner.\n\nPertanyaan: Apa yang tidak boleh dilakukan di dalam kereta di Jepang?",
+    "answerExplanation": "Kalimat pertama menyatakan bahwa '電車の中で携帯電話で話すこと' (berbicara melalui ponsel di dalam kereta) adalah 'マナー違反' (melanggar etika). Pilihan A dan C secara eksplisit disebut 'tidak menjadi masalah' (問題ありません). Pilihan D adalah hal yang dianjurkan, bukan dilarang.",
+    "hint": "Cari kata 'マナー違反' (pelanggaran etika) untuk menemukan apa yang tidak boleh dilakukan",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_2_030",
+    "question": "次の文章を読んで、質問に答えてください。\n\n山田さんは毎朝6時に起きて、近くの公園でジョギングをしています。雨の日は走れないので、代わりに家でストレッチをします。山田さんがジョギングを始めたのは3年前で、最初は10分しか走れませんでしたが、今では1時間走れるようになりました。山田さんは「健康のためにも、ストレスを減らすためにも、運動はとても大切です」と言っています。\n\n質問：山田さんは雨の日にどうしますか？",
+    "furigana": "次[つぎ]の文章[ぶんしょう]を読[よ]んで、質問[しつもん]に答[こた]えてください。\n\n山田[やまだ]さんは毎朝[まいあさ]6時[ろくじ]に起[お]きて、近[ちか]くの公園[こうえん]でジョギングをしています。雨[あめ]の日[ひ]は走[はし]れないので、代[か]わりに家[いえ]でストレッチをします。山田[やまだ]さんがジョギングを始[はじ]めたのは3年前[さんねんまえ]で、最初[さいしょ]は10分[じゅっぷん]しか走[はし]れませんでしたが、今[いま]では1時間[いちじかん]走[はし]れるようになりました。山田[やまだ]さんは「健康[けんこう]のためにも、ストレスを減[へ]らすためにも、運動[うんどう]はとても大切[たいせつ]です」と言[い]っています。\n\n質問[しつもん]：山田[やまだ]さんは雨[あめ]の日[ひ]にどうしますか？",
+    "romaji": "Tsugi no bunshou wo yonde, shitsumon ni kotaete kudasai. (Passage about exercise) Shitsumon: Yamada-san wa ame no hi ni dou shimasu ka?",
+    "level": "N3",
+    "category": "READING",
+    "options": [
+      "公園でジョギングをする",
+      "何も運動しない",
+      "家でストレッチをする",
+      "1時間走る"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Baca tulisan berikut dan jawab pertanyaannya.\n\nYamada-san bangun setiap pagi pukul 6 dan jogging di taman terdekat. Pada hari hujan tidak bisa berlari, jadi sebagai gantinya melakukan peregangan di rumah. Yamada-san mulai jogging 3 tahun lalu, awalnya hanya bisa berlari 10 menit, tapi sekarang sudah bisa 1 jam.\n\nPertanyaan: Apa yang dilakukan Yamada-san pada hari hujan?",
+    "answerExplanation": "Teks menyatakan '雨の日は走れないので、代わりに家でストレッチをします' (pada hari hujan tidak bisa berlari, jadi sebagai gantinya melakukan peregangan di rumah). Pilihan A salah karena jogging dilakukan di hari biasa. Pilihan B salah karena dia tetap berolahraga (stretching). Pilihan D adalah kemampuannya sekarang, bukan aktivitas hari hujan.",
+    "hint": "Cari kalimat yang dimulai dengan '雨の日は' (pada hari hujan)",
+    "difficultyScore": 3
+  }
+]

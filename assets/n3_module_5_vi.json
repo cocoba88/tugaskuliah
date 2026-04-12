@@ -1,0 +1,572 @@
+[
+  {
+    "id": "question_n3_5_001",
+    "question": "「進歩」の読み方は？",
+    "furigana": "「進歩[しんぽ]」の読[よ]み方[かた]は？",
+    "romaji": "'Shinpo' no yomikata wa?",
+    "level": "N3",
+    "category": "KANJI",
+    "options": [
+      "しんぽ",
+      "しんほ",
+      "すすぼ",
+      "しんぶ"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Cách đọc '進歩' là gì?",
+    "answerExplanation": "「進歩」duoc doc la 'しんぽ' (shinpo) co nghia la tien bo hoac phat trien. 進 duoc doc la 'しん' (tien len) va 歩 duoc doc la 'ぽ' (buoc, voi rendaku tu 'ほ' thanh 'ぽ'). Vi du: '技術が進歩する' = cong nghe phat trien, '進歩的な考え' = tu tuong tien bo. Luu y rang 歩 thay doi tu 'ほ' thanh 'ぽ' do anh huong cua rendaku.",
+    "hint": "Shin + po (luu y rendaku: ほ thanh ぽ). Lien quan den su tien bo.",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n3_5_002",
+    "question": "「条件」の意味は？",
+    "furigana": "「条件[じょうけん]」の意味[いみ]は？",
+    "romaji": "'Jouken' no imi wa?",
+    "level": "N3",
+    "category": "VOCABULARY",
+    "options": [
+      "Thông tin bổ sung không bắt buộc",
+      "Điều kiện hoặc yêu cầu phải đáp ứng",
+      "Sự kiện lịch sử quan trọng",
+      "Ngoại lệ của quy tắc chung"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "'条件' có nghĩa là gì?",
+    "answerExplanation": "「条件」(jouken) co nghia la dieu kien, yeu cau, hoac tieu chi phai dat duoc de dieu gi do co the thuc hien. Vi du su dung: 条件を満たす (dap ung dieu kien), 条件付き (co dieu kien). Tu nay thuong xuat hien trong ngu canh thoa thuan, hop dong, hoac tuyen chon. Khac voi 状況 (joukyou = tinh huong) mo ta tinh huong chung.",
+    "hint": "Nhung dieu phai dat duoc truoc nhu la dieu kien tien quyet",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n3_5_003",
+    "question": "「変化」の意味は？",
+    "furigana": "「変化[へんか]」の意味[いみ]は？",
+    "romaji": "'Henka' no imi wa?",
+    "level": "N3",
+    "category": "VOCABULARY",
+    "options": [
+      "Xóa bỏ vĩnh viễn điều gì đó",
+      "Thay đổi từ trạng thái này sang trạng thái khác",
+      "Lặp lại liên tục không ngừng",
+      "Bổ sung điều gì mới từ bên ngoài"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "'変化' có nghĩa là gì?",
+    "answerExplanation": "「変化」(henka) co nghia la su thay doi tu mot tinh huong sang tinh huong khac. Kanji 変 co nghia la thay doi va 化 co nghia la tro thanh/bien doi. Vi du: '季節の変化' = su thay doi mua, '生活が変化する' = cuoc song thay doi. Tu nay duoc su dung rong rai cho nhieu loai thay doi, ca tich cuc lan tieu cuc.",
+    "hint": "Dieu gi do tro nen khac so voi tinh huong truoc do",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_5_004",
+    "question": "「整備」の意味は？",
+    "furigana": "「整備[せいび]」の意味[いみ]は？",
+    "romaji": "'Seibi' no imi wa?",
+    "level": "N3",
+    "category": "VOCABULARY",
+    "options": [
+      "Hủy bỏ sự kiện lớn",
+      "Tổ chức, bảo dưỡng và duy trì",
+      "Giảm số lượng nhân viên",
+      "Hoãn dự án vô thời hạn"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "'整備' có nghĩa là gì?",
+    "answerExplanation": "「整備」(seibi) co nghia la sap xep, bao duong, hoac duy tri de moi thu hoat dong tot va co trat tu. 整 co nghia la sap xep gon gang va 備 co nghia la chuan bi. Vi du: 道路を整備する (chinh trang duong), 車の整備 (bao duong xe). Khac voi 準備 (junbi = chuan bi) tap trung hon vao viec chuan bi cho hoat dong nhat dinh.",
+    "hint": "Bao duong va sap xep de giu trong tinh trang tot va san sang su dung",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n3_5_005",
+    "question": "「現状」の意味は？",
+    "furigana": "「現状[げんじょう]」の意味[いみ]は？",
+    "romaji": "'Genjou' no imi wa?",
+    "level": "N3",
+    "category": "VOCABULARY",
+    "options": [
+      "Kế hoạch tương lai đã được định",
+      "Tình hình hoặc hoàn cảnh hiện tại",
+      "Vấn đề chưa được giải quyết",
+      "Ghi chép sự kiện trong quá khứ"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "'現状' có nghĩa là gì?",
+    "answerExplanation": "「現状」(genjou) co nghia la tinh hinh hien tai, tinh trang dang dien ra truc tiep, hoac dieu kien hien thoi. 現 co nghia la hien tai va 状 co nghia la tinh hinh/dieu kien. Vi du: 現状を把握する (nam bat tinh hinh hien tai), 現状維持 (duy tri tinh trang hien tai). Khac voi 状況 (joukyou) mang tinh chung hon, 現状 nhan manh vao dieu kien 'hien tai' cu the.",
+    "hint": "Tinh trang hoac dieu kien dang xay ra vao luc nay, khong phai trong qua khu hoac tuong lai",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n3_5_006",
+    "question": "「努力」の読み方は？",
+    "furigana": "「努力[どりょく]」の読[よ]み方[かた]は？",
+    "romaji": "'Doryoku' no yomikata wa?",
+    "level": "N3",
+    "category": "KANJI",
+    "options": [
+      "どりき",
+      "どりょく",
+      "ぬりょく",
+      "どりょうく"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Cách đọc '努力' là gì?",
+    "answerExplanation": "「努力」được đọc là 'どりょく' (doryoku), ma có nghĩa là nỗ lực hoặc upaya keras. 努 được đọc là 'do' và 力 được đọc là 'ryoku'. Ví dụ: 努力する (bernỗ lực keras), 努力家 (nguoi pekerja keras). Lưu ý rằng 努 không phải 'nu' ma la 'do', và 力 được đọc là 'ryoku' không phải 'riki' trong kombinasi ini.",
+    "hint": "Do-ryoku. Lưu ý 努 được đọc là 'do' không phải 'nu'",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_5_007",
+    "question": "「確認」の読み方は？",
+    "furigana": "「確認[かくにん]」の読[よ]み方[かた]は？",
+    "romaji": "'Kakunin' no yomikata wa?",
+    "level": "N3",
+    "category": "KANJI",
+    "options": [
+      "かくにん",
+      "かくじん",
+      "かくめい",
+      "たしにん"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Cách đọc '確認' là gì?",
+    "answerExplanation": "「確認」duoc doc la 'かくにん' (kakunin), co nghia la xac nhan hoac kiem tra de dam bao. 確 duoc doc la 'kaku' (chac chan) va 認 duoc doc la 'nin' (nhan biet/cong nhan). Vi du: 予約を確認する (xac nhan dat cho). Khac voi 確実 (kakujitsu = chac chan) cung su dung kanji 確.",
+    "hint": "Kaku-nin. Ca hai kanji deu duoc doc theo on'yomi (cach doc Han)",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_5_008",
+    "question": "「正確」の読み方は？",
+    "furigana": "「正確[せいかく]」の読[よ]み方[かた]は？",
+    "romaji": "'Seikaku' no yomikata wa?",
+    "level": "N3",
+    "category": "KANJI",
+    "options": [
+      "しょうかく",
+      "せいがく",
+      "せいかく",
+      "しょうがく"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Cách đọc '正確' là gì?",
+    "answerExplanation": "「正確」duoc doc la 'せいかく' (seikaku), co nghia la chinh xac, dung dan, hoac khong sai. 正 duoc doc la 'sei' (dung/chinh) va 確 duoc doc la 'kaku' (chac chan). Vi du: 正確な時間 (thoi gian chinh xac), 正確に答える (tra loi chinh xac). Dung nham voi 性格 (seikaku = tinh cach) phat am giong het nhung kanji khac.",
+    "hint": "Sei-kaku. 正 duoc doc la 'sei' khong phai 'shou' trong to hop nay",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n3_5_009",
+    "question": "「実現」の読み方は？",
+    "furigana": "「実現[じつげん]」の読[よ]み方[かた]は？",
+    "romaji": "'Jitsugen' no yomikata wa?",
+    "level": "N3",
+    "category": "KANJI",
+    "options": [
+      "じつげん",
+      "じっけん",
+      "じつけん",
+      "じつあらわ"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Cách đọc '実現' là gì?",
+    "answerExplanation": "「実現」được đọc là 'じつげん' (jitsugen), ma có nghĩa là mewujudkan hoặc realisasi. 実 được đọc là 'jitsu' (kenyataan) và 現 được đọc là 'gen' (muncul/tampak). Ví dụ: 夢を実現する (mewujudkan impian). Đừng nhầm với 実験 (jikken = eksperimen) ma su dung kanji 実 ma sama nhưng kanji thu hainya khac và được đọc là khac.",
+    "hint": "Jitsu-gen. 現 được đọc là 'gen' không phải 'ken'",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n3_5_010",
+    "question": "「対策」の読み方は？",
+    "furigana": "「対策[たいさく]」の読[よ]み方[かた]は？",
+    "romaji": "'Taisaku' no yomikata wa?",
+    "level": "N3",
+    "category": "KANJI",
+    "options": [
+      "たいさつ",
+      "ついさく",
+      "たいさく",
+      "だいさく"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Cách đọc '対策' là gì?",
+    "answerExplanation": "「対策」duoc doc la 'たいさく' (taisaku), co nghia la bien phap doi pho, cac buoc phong ngua, hoac chien luoc de vuot qua van de. 対 duoc doc la 'tai' (doi mat) va 策 duoc doc la 'saku' (ke hoach/chien luoc). Vi du: 地震対策 (bien phap doi pho dong dat), 対策を立てる (lap chien luoc doi pho).",
+    "hint": "Tai-saku. 対 được đọc là 'tai' không phải 'tsui' hoặc 'dai'",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_5_011",
+    "question": "来月から海外に転勤する___になった。",
+    "furigana": "来月[らいげつ]から海外[かいがい]に転勤[てんきん]する___になった。",
+    "romaji": "Raigetsu kara kaigai ni tenkin suru ___ ni natta.",
+    "level": "N3",
+    "category": "GRAMMAR",
+    "options": [
+      "もの",
+      "はず",
+      "こと",
+      "よう"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Đã được quyết định rằng từ tháng sau tôi sẽ được chuyển công tác ra nước ngoài.",
+    "answerExplanation": "「~ことになる」duoc dung de dien ta rang mot quyet dinh da duoc dua ra, thuong boi ben ngoai nhu cong ty, quy tac, hoac tinh huong (khong phai quyet dinh ca nhan). Khac voi 「~ことにする」la quyet dinh tu minh dua ra mot cach chu dong. O day, viec chuyen cong tac la quyet dinh cua cong ty, nen 'ことになった' la cau tra loi dung.",
+    "hint": "Quyet dinh nay den tu ben ngoai (cong ty), khong phai quyet dinh cua ban than",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n3_5_012",
+    "question": "もう少しで電車に乗り遅れる___だった。",
+    "furigana": "もう少[すこ]しで電車[でんしゃ]に乗[の]り遅[おく]れる___だった。",
+    "romaji": "Mou sukoshi de densha ni noriokureru ___ datta.",
+    "level": "N3",
+    "category": "GRAMMAR",
+    "options": [
+      "こと",
+      "ところ",
+      "もの",
+      "わけ"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Suýt nữa tôi lỡ tàu.",
+    "answerExplanation": "「〜ところだった」duoc dung de dien ta rang dieu gi do xau suyt xay ra nhung cuoi cung khong xay ra. Mau cau nay thuong duoc su dung cung 'もう少しで' (chut nua) hoac 'あぶなく' (suyt/gan). Vi du khac: あぶなく事故に遭うところだった (suyt bi tai nan). Mau cau nay nhan manh cam giac nhe nhom vi dieu xau duoc tranh khoi.",
+    "hint": "Suyt xay ra nhung cuoi cung khong xay ra (khoanh khac nguy hiem duoc tranh khoi)",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n3_5_013",
+    "question": "いくら説明し___、彼は理解しなかった。",
+    "furigana": "いくら説明[せつめい]し___、彼[かれ]は理解[りかい]しなかった。",
+    "romaji": "Ikura setsumei shi ___, kare wa rikai shinakatta.",
+    "level": "N3",
+    "category": "GRAMMAR",
+    "options": [
+      "たら",
+      "ても",
+      "ので",
+      "から"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Dù đã được giải thích nhiều lần, anh ấy vẫn không hiểu.",
+    "answerExplanation": "「〜ても」co nghia la 'mac du/du cho' va duoc dung de dien ta rang ket qua van khong doi bat ke dieu kien truoc do. Mau 「いくら〜ても」dac biet nhan manh rang 'du bao nhieu/du the nao' lam dieu gi do, ket qua van khong thay doi. Khac voi たら (neu), ので/から (vi) cho thay moi quan he nhan qua.",
+    "hint": "'Du bao nhieu' + dieu kien + 'van vay' = dien ta no luc vo ich",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n3_5_014",
+    "question": "彼に会った___、連絡がない。",
+    "furigana": "彼[かれ]に会[あ]った___、連絡[れんらく]がない。",
+    "romaji": "Kare ni atta ___, renraku ga nai.",
+    "level": "N3",
+    "category": "GRAMMAR",
+    "options": [
+      "だけ",
+      "まで",
+      "きり",
+      "ばかり"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Từ khi gặp cô ấy (lần cuối), hoàn toàn không có tin tức.",
+    "answerExplanation": "「〜きり」(hoac っきり) duoc su dung sau the qua khu dong tu (〜た形) de dien ta rang tu su kien do, dieu kien nhat dinh tiep tuc (thuong la dieu gi do khong xay ra). Mau 「〜たきり、〜ない」co nghia la 'tu lan cuoi lam X, khong bao gio Y nua'. Khac voi だけ (chi/thoi) khong co sac thai thoi gian, hoac ばかり (vua moi) cho thay hanh dong vua xay ra.",
+    "hint": "Tu khi do... va sau do khong bao gio nua (sac thai chia tay)",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n3_5_015",
+    "question": "バスがないから、歩いて行く___ない。",
+    "furigana": "バスがないから、歩[ある]いて行[い]く___ない。",
+    "romaji": "Basu ga nai kara, aruite iku ___ nai.",
+    "level": "N3",
+    "category": "GRAMMAR",
+    "options": [
+      "まで",
+      "しか",
+      "だけ",
+      "ばかり"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Vì không có xe buýt nên không còn cách nào khác ngoài đi bộ.",
+    "answerExplanation": "「〜しかない」co nghia la 'khong co lua chon nao khac ngoai...' hoac 'chi co the lam...'. Mau cau nay duoc dung khi ai do cam thay bat buoc vi khong co lua chon thay the nao khac. Dang thuc: dong tu the kamus + しかない. Khac voi まで (den/gioi han), だけ (chi, nhung khong di voi ない trong mau nay), va ばかり (chi/lien tuc). Vi du khac: 自分でやるしかない (khong co lua chon nao ngoai viec tu lam).",
+    "hint": "Khong co cach nao khac, bat buoc lam lua chon duy nhat con lai",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n3_5_016",
+    "question": "明日の試験が心配で___。",
+    "furigana": "明日[あした]の試験[しけん]が心配[しんぱい]で___。",
+    "romaji": "Ashita no shiken ga shinpai de ___.",
+    "level": "N3",
+    "category": "GRAMMAR",
+    "options": [
+      "しょうがない",
+      "ちがいない",
+      "かまわない",
+      "すまない"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Tôi rất lo lắng về kỳ thi ngày mai (không kìm được cảm giác này).",
+    "answerExplanation": "「〜てしょうがない」(hoac 〜てしかたがない) co nghia la 'rat... den muc khong the kim duoc' hoac 'khong the kiem che cam giac...'. Duoc dung de bieu dat cam giac hoac cam nhan rat manh va khong the kiem soat. Vi du khac: 眠くてしょうがない (buon ngu den muc khong chiu noi). ちがいない = chac chan, かまわない = khong sao, すまない = cam thay co loi.",
+    "hint": "Cam giac qua manh den muc khong the kim duoc hoac kiem soat",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n3_5_017",
+    "question": "お金___あれば、世界中を旅行したい。",
+    "furigana": "お金[かね]___あれば、世界中[せかいじゅう]を旅行[りょこう]したい。",
+    "romaji": "Okane ___ areba, sekaijuu o ryokou shitai.",
+    "level": "N3",
+    "category": "GRAMMAR",
+    "options": [
+      "だけ",
+      "でも",
+      "さえ",
+      "しか"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Chi can co tien, toi muon di du lich vong quanh the gioi.",
+    "answerExplanation": "「〜さえ〜ば」co nghia la 'chi can/neu chi co...' va dien ta rang mot dieu kien duy nhat da du de thuc hien dieu gi do. Mau cau nay nhan manh rang dieu kien do la dieu duy nhat can thiet. Dang thuc: danh tu + さえ + 動詞ば形. Khac voi だけ (chi) khong tao mau dieu kien, でも (tham chi) khong dien ta dieu kien toi thieu, va しか (chi... khong) can the phu dinh.",
+    "hint": "Chi can mot dieu kien nay duoc dap ung, moi thu se on",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n3_5_018",
+    "question": "（読解）次の文章を読んで、質問に答えてください。\n\n保護者の皆様へ\n\n来月の15日に、3年生の遠足を実施いたします。行き先は市内の自然公園です。当日は朝8時30分に学校に集合し、バスで移動します。お弁当と水筒を必ず持たせてください。また、歩きやすい靴を履かせてください。雨の場合は翌週の月曜日に延期します。なお、参加費として500円を10日までにお子さんに持たせてください。ご不明な点がございましたら、担任までご連絡ください。\n\n3年1組担任　山田\n\n質問：保護者が準備しなければならないものは何ですか。",
+    "furigana": "（読解[どっかい]）次[つぎ]の文章[ぶんしょう]を読[よ]んで、質問[しつもん]に答[こた]えてください。\n\n保護者[ほごしゃ]の皆様[みなさま]へ\n\n来月[らいげつ]の15日[にち]に、3年生[ねんせい]の遠足[えんそく]を実施[じっし]いたします。行[い]き先[さき]は市内[しない]の自然[しぜん]公園[こうえん]です。当日[とうじつ]は朝[あさ]8時[じ]30分[ぷん]に学校[がっこう]に集合[しゅうごう]し、バスで移動[いどう]します。お弁当[べんとう]と水筒[すいとう]を必[かなら]ず持[も]たせてください。また、歩[ある]きやすい靴[くつ]を履[は]かせてください。雨[あめ]の場合[ばあい]は翌週[よくしゅう]の月曜日[げつようび]に延期[えんき]します。なお、参加費[さんかひ]として500円[えん]を10日[にち]までにお子[こ]さんに持[も]たせてください。ご不明[ふめい]な点[てん]がございましたら、担任[たんにん]までご連絡[れんらく]ください。\n\n3年[ねん]1組[くみ]担任[たんにん]　山田[やまだ]\n\n質問[しつもん]：保護者[ほごしゃ]が準備[じゅんび]しなければならないものは何[なん]ですか。",
+    "romaji": "(Dokkai) Tsugi no bunshou o yonde, shitsumon ni kotaete kudasai.\n\nHogosha no minasama e\n\nRaigetsu no juugo-nichi ni, san-nensei no ensoku o jisshi itashimasu. Ikisaki wa shinai no shizen kouen desu. Toujitsu wa asa hachi-ji sanjuppun ni gakkou ni shuugou shi, basu de idou shimasu. Obentou to suitou o kanarazu motasete kudasai. Mata, arukiyasui kutsu o hakasete kudasai. Ame no baai wa yokushuu no getsuyoubi ni enki shimasu. Nao, sankahi toshite gohyaku-en o tooka made ni okosan ni motasete kudasai. Gofumei na ten ga gozaimashitara, tannin made go-renraku kudasai.\n\nSan-nen ichi-kumi tannin Yamada\n\nShitsumon: Hogosha ga junbi shinakereba naranai mono wa nan desu ka.",
+    "level": "N3",
+    "category": "READING",
+    "options": [
+      "バスの切符と帽子",
+      "お弁当、水筒、歩きやすい靴、参加費500円",
+      "お弁当と傘と参加費1000円",
+      "水筒と体操着と500円"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "(Doc hieu) Doc thu sau day tu giao vien gui cho phu huynh ve buoi da ngoai truong hoc (ensoku).\n\nCau hoi: Phu huynh phai chuan bi nhung gi?",
+    "answerExplanation": "Trong thu do de cap mot so dieu phu huynh phai chuan bi: (1) お弁当と水筒を必ず持たせてください (com hop va binh nuoc bat buoc phai mang), (2) 歩きやすい靴を履かせてください (giay de di bo), va (3) 参加費として500円を持たせてください (phi tham gia 500 yen). Lua chon A sai vi ve xe buyt va mu khong duoc de cap. Lua chon C sai vi o khong duoc yeu cau va phi la 500 yen khong phai 1000 yen. Lua chon D sai vi quan ao the duc khong duoc de cap.",
+    "hint": "Luu y tat ca cau su dung tu '持たせてください' (xin hay cho mang) va '履かせてください' (xin hay cho mang giay)",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n3_5_019",
+    "question": "（読解）次の文章を読んで、質問に答えてください。\n\nSNSは若者にとって便利なコミュニケーションツールである。友達と簡単に連絡が取れるし、世界中の情報をすぐに手に入れることができる。しかし、問題もある。SNSに時間を使いすぎて、勉強や睡眠の時間が減っている若者が増えている。また、ネット上のいじめや、知らない人とのトラブルも報告されている。さらに、SNSで見る他人の生活と自分を比べて、自信をなくす若者もいる。便利な道具だからこそ、使い方をしっかり考える必要があるだろう。\n\n質問：筆者が最も心配していることは何ですか。",
+    "furigana": "（読解[どっかい]）次[つぎ]の文章[ぶんしょう]を読[よ]んで、質問[しつもん]に答[こた]えてください。\n\nSNSは若者[わかもの]にとって便利[べんり]なコミュニケーションツールである。友達[ともだち]と簡単[かんたん]に連絡[れんらく]が取[と]れるし、世界中[せかいじゅう]の情報[じょうほう]をすぐに手[て]に入[い]れることができる。しかし、問題[もんだい]もある。SNSに時間[じかん]を使[つか]いすぎて、勉強[べんきょう]や睡眠[すいみん]の時間[じかん]が減[へ]っている若者[わかもの]が増[ふ]えている。また、ネット上[じょう]のいじめや、知[し]らない人[ひと]とのトラブルも報告[ほうこく]されている。さらに、SNSで見[み]る他人[たにん]の生活[せいかつ]と自分[じぶん]を比[くら]べて、自信[じしん]をなくす若者[わかもの]もいる。便利[べんり]な道具[どうぐ]だからこそ、使[つか]い方[かた]をしっかり考[かんが]える必要[ひつよう]があるだろう。\n\n質問[しつもん]：筆者[ひっしゃ]が最[もっと]も心配[しんぱい]していることは何[なん]ですか。",
+    "romaji": "(Dokkai) Tsugi no bunshou o yonde, shitsumon ni kotaete kudasai.\n\nSNS wa wakamono ni totte benri na komyunikeeshon tsuuru de aru. Tomodachi to kantan ni renraku ga toreru shi, sekaijuu no jouhou o sugu ni te ni ireru koto ga dekiru. Shikashi, mondai mo aru. SNS ni jikan o tsukaisugite, benkyou ya suimin no jikan ga hette iru wakamono ga fuete iru. Mata, netto-jou no ijime ya, shiranai hito to no toraburu mo houkoku sarete iru. Sarani, SNS de miru tanin no seikatsu to jibun o kurabete, jishin o nakusu wakamono mo iru. Benri na dougu da kara koso, tsukaikata o shikkari kangaeru hitsuyou ga aru darou.\n\nShitsumon: Hissha ga mottomo shinpai shite iru koto wa nan desu ka.",
+    "level": "N3",
+    "category": "READING",
+    "options": [
+      "SNSの利用者数が減っていること",
+      "若者がSNSを正しく使えず、様々な悪影響を受けていること",
+      "SNSの技術が進歩しすぎていること",
+      "大人がSNSを使わないこと"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "(Doc hieu) Doc bai bao tap chi sau day ve uu diem va nhuoc diem cua mang xa hoi doi voi gioi tre.\n\nCau hoi: Lo ngai chinh cua tac gia la gi?",
+    "answerExplanation": "Tac gia thua nhan rang SNS thuc su huu ich, nhung phan lon bai bao ban ve tac dong tieu cuc doi voi gioi tre: (1) thoi gian hoc va ngu giam, (2) bat nat truc tuyen va van de voi nguoi la, (3) mat tu tin vi so sanh ban than voi nguoi khac. Cau cuoi cung 'だからこそ、使い方をしっかり考える必要がある' (chinh vi vay, can suy nghi ky ve cach su dung) cho thay lo ngai cua tac gia. Lua chon A, C, va D khong duoc de cap trong van ban.",
+    "hint": "Luu y phan sau 'しかし' (nhung/tuy nhien) cho thay lo ngai cua tac gia",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n3_5_020",
+    "question": "（読解）次の文章を読んで、質問に答えてください。\n\n私は40歳のときにピアノを始めた。子供のころからピアノに憧れていたが、家にお金がなくて習えなかった。大人になって自分で働くようになり、やっと念願のピアノ教室に通い始めた。最初は指が全然動かなくて、簡単な曲でも何週間もかかった。若い生徒たちがすぐに上手になるのを見て、落ち込むこともあった。しかし、先生が「大人は音楽の意味を深く理解できる。それは子供にはない強みです」と言ってくれた。3年経った今、まだ上手とは言えないが、毎日の練習が一番の楽しみになっている。完璧でなくても、好きなことを続けること自体に価値があると気づいた。\n\n質問：筆者がこの経験から学んだことは何ですか。",
+    "furigana": "（読解[どっかい]）次[つぎ]の文章[ぶんしょう]を読[よ]んで、質問[しつもん]に答[こた]えてください。\n\n私[わたし]は40歳[さい]のときにピアノを始[はじ]めた。子供[こども]のころからピアノに憧[あこが]れていたが、家[いえ]にお金[かね]がなくて習[なら]えなかった。大人[おとな]になって自分[じぶん]で働[はたら]くようになり、やっと念願[ねんがん]のピアノ教室[きょうしつ]に通[かよ]い始[はじ]めた。最初[さいしょ]は指[ゆび]が全然[ぜんぜん]動[うご]かなくて、簡単[かんたん]な曲[きょく]でも何[なん]週間[しゅうかん]もかかった。若[わか]い生徒[せいと]たちがすぐに上手[じょうず]になるのを見[み]て、落[お]ち込[こ]むこともあった。しかし、先生[せんせい]が「大人[おとな]は音楽[おんがく]の意味[いみ]を深[ふか]く理解[りかい]できる。それは子供[こども]にはない強[つよ]みです」と言[い]ってくれた。3年[ねん]経[た]った今[いま]、まだ上手[じょうず]とは言[い]えないが、毎日[まいにち]の練習[れんしゅう]が一番[いちばん]の楽[たの]しみになっている。完璧[かんぺき]でなくても、好[す]きなことを続[つづ]けること自体[じたい]に価値[かち]があると気[き]づいた。\n\n質問[しつもん]：筆者[ひっしゃ]がこの経験[けいけん]から学[まな]んだことは何[なん]ですか。",
+    "romaji": "(Dokkai) Tsugi no bunshou o yonde, shitsumon ni kotaete kudasai.\n\nWatashi wa yonjussai no toki ni piano o hajimeta. Kodomo no koro kara piano ni akogarete ita ga, ie ni okane ga nakute naraenakatta. Otona ni natte jibun de hataraku you ni nari, yatto nengan no piano kyoushitsu ni kayoihajimeta. Saisho wa yubi ga zenzen ugokanakute, kantan na kyoku demo nanshuuran mo kakatta. Wakai seito-tachi ga sugu ni jouzu ni naru no o mite, ochikomu koto mo atta. Shikashi, sensei ga 'Otona wa ongaku no imi o fukaku rikai dekiru. Sore wa kodomo ni wa nai tsuyomi desu' to itte kureta. San-nen tatta ima, mada jouzu to wa ienai ga, mainichi no renshuu ga ichiban no tanoshimi ni natte iru. Kanpeki de nakutemo, suki na koto o tsuzukeru koto jitai ni kachi ga aru to kidzuita.\n\nShitsumon: Hissha ga kono keiken kara mananda koto wa nan desu ka.",
+    "level": "N3",
+    "category": "READING",
+    "options": [
+      "大人はピアノを習うべきではないということ",
+      "完璧でなくても、好きなことを続けること自体に価値があるということ",
+      "子供のうちに楽器を始めないと上手にならないということ",
+      "ピアノの先生を見つけることが一番大切だということ"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "(Doc hieu) Doc bai luan ca nhan sau day ve trai nghiem hoc nhac cu khi truong thanh.\n\nCau hoi: Bai hoc ma tac gia rut ra tu trai nghiem nay la gi?",
+    "answerExplanation": "Cau cuoi cung cua bai luan dien ta ro rang bai hoc rut ra: '完璧でなくても、好きなことを続けること自体に価値があると気づいた' (Toi nhan ra rang du khong hoan hao, viec tiep tuc dieu minh thich ban than no co gia tri). Lua chon A trai nguoc voi tinh than tac gia ma thuc ra vui khi hoc piano luc truong thanh. Lua chon C cung trai nguoc vi tac gia van thuong thuc qua trinh du bat dau muon. Lua chon D khong phai la diem chinh cua bai luan.",
+    "hint": "Luu y cau cuoi cung bat dau bang '完璧でなくても' (du khong hoan hao)",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n3_5_021",
+    "question": "練習すれば___ほど上手になる。",
+    "furigana": "練習[れんしゅう]すれば___ほど上手[じょうず]になる。",
+    "romaji": "Renshuu sureba ___ hodo jouzu ni naru.",
+    "level": "N3",
+    "category": "GRAMMAR",
+    "options": [
+      "した",
+      "する",
+      "して",
+      "しよう"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Càng luyện tập nhiều, càng giỏi hơn.",
+    "answerExplanation": "'~ba~hodo' dùng để diễn tả càng làm điều gì đó nhiều, kết quả càng lớn. Mẫu câu này cần thể điều kiện (thể ba) theo sau bởi thể từ điển + hodo. Ví dụ: 'tabereba taberu hodo futoru' = càng ăn nhiều càng béo. Dạng đúng là 'suru' (thể từ điển).",
+    "hint": "Mẫu 'càng...càng...' cần thể từ điển sau ba",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_5_022",
+    "question": "毎日野菜を食べる___している。",
+    "furigana": "毎日[まいにち]野菜[やさい]を食[た]べる___している。",
+    "romaji": "Mainichi yasai wo taberu ___ shite iru.",
+    "level": "N3",
+    "category": "GRAMMAR",
+    "options": [
+      "ことに",
+      "ものに",
+      "ように",
+      "はずに"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Tôi cố gắng ăn rau mỗi ngày.",
+    "answerExplanation": "'~you ni shite iru' có nghĩa là 'cố gắng...' hoặc 'tạo thói quen...'. Mẫu câu này diễn tả nỗ lực có ý thức và liên tục để hình thành thói quen. Khác với '~koto ni shite iru' nhấn mạnh quyết định đã được đưa ra và đang thực hiện. 'mono ni' và 'hazu ni' không phải mẫu ngữ pháp đúng.",
+    "hint": "Nỗ lực có ý thức để hình thành thói quen tốt",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_5_023",
+    "question": "彼が来る___分からない。",
+    "furigana": "彼[かれ]が来[く]る___分[わ]からない。",
+    "romaji": "Kare ga kuru ___ wakaranai.",
+    "level": "N3",
+    "category": "GRAMMAR",
+    "options": [
+      "かどうか",
+      "かないか",
+      "かそうか",
+      "かもうか"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Tôi không biết liệu anh ấy có đến hay không.",
+    "answerExplanation": "'~ka dou ka' dùng để diễn tả sự không chắc chắn về việc điều gì đó có xảy ra hay không. Mẫu câu này có nghĩa là 'liệu...hay không'. Động từ thể thường + ka dou ka. Ví dụ: 'ashita ame ga furu ka dou ka wakaranai' = không biết ngày mai có mưa không. Các lựa chọn khác không phải mẫu ngữ pháp đúng.",
+    "hint": "Diễn tả sự không chắc chắn: có hay không",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_5_024",
+    "question": "「悲しい」の意味は？",
+    "furigana": "「悲[かな]しい」の意味[いみ]は？",
+    "romaji": "'Kanashii' no imi wa?",
+    "level": "N3",
+    "category": "VOCABULARY",
+    "options": [
+      "Vui hoặc hạnh phúc",
+      "Buồn hoặc đau thương",
+      "Tức giận hoặc cáu kỉnh",
+      "Xấu hổ hoặc e thẹn"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Nghĩa của '悲しい' là gì?",
+    "answerExplanation": "'Kanashii' có nghĩa là buồn hoặc đau buồn. Đây là tính từ đuôi -i diễn tả cảm giác buồn bã. Ví dụ: 'tomodachi ga hikkoshite kanashii' = buồn vì bạn chuyển đi. Chữ Hán 悲 chứa bộ 心 (tim), cho thấy từ này liên quan đến cảm xúc. Từ trái nghĩa là 'ureshii' = vui.",
+    "hint": "Cảm giác tiêu cực, trái ngược với vui vẻ",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_5_025",
+    "question": "「予約」の意味は？",
+    "furigana": "「予約[よやく]」の意味[いみ]は？",
+    "romaji": "'Yoyaku' no imi wa?",
+    "level": "N3",
+    "category": "VOCABULARY",
+    "options": [
+      "Đặt chỗ hoặc đặt trước",
+      "Hủy kế hoạch",
+      "Hoãn lịch trình",
+      "Thông báo chính thức"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Nghĩa của '予約' là gì?",
+    "answerExplanation": "'Yoyaku' có nghĩa là đặt chỗ, đặt trước, hoặc hẹn. 予 có nghĩa là trước và 約 có nghĩa là hứa. Ví dụ: 'hoteru wo yoyaku suru' = đặt khách sạn, 'resutoran no yoyaku' = đặt chỗ nhà hàng. Từ này rất phổ biến trong bối cảnh du lịch, ăn uống, và y tế.",
+    "hint": "Đặt trước điều gì đó trước khi sử dụng",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_5_026",
+    "question": "「報告」の意味は？",
+    "furigana": "「報告[ほうこく]」の意味[いみ]は？",
+    "romaji": "'Houkoku' no imi wa?",
+    "level": "N3",
+    "category": "VOCABULARY",
+    "options": [
+      "Báo cáo",
+      "Thông báo tiệc",
+      "Thư mời chính thức",
+      "Xin lỗi"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Nghĩa của '報告' là gì?",
+    "answerExplanation": "'Houkoku' có nghĩa là báo cáo, truyền đạt thông tin hoặc kết quả cho cấp trên hoặc bên liên quan. 報 có nghĩa là thông báo và 告 có nghĩa là nói cho biết. Ví dụ: 'joushi ni houkoku suru' = báo cáo cho cấp trên, 'houkokusho' = báo cáo bằng văn bản. Đây là từ rất quan trọng trong văn hóa làm việc Nhật Bản.",
+    "hint": "Truyền đạt thông tin hoặc kết quả công việc cho cấp trên",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_5_027",
+    "question": "「条件」の読み方は？",
+    "furigana": "「条件[じょうけん]」の読[よ]み方[かた]は？",
+    "romaji": "'Jouken' no yomikata wa?",
+    "level": "N3",
+    "category": "KANJI",
+    "options": [
+      "じょうけん",
+      "じょうかん",
+      "ちょうけん",
+      "じょうげん"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Cách đọc '条件' là gì?",
+    "answerExplanation": "'Jouken' được đọc là 'jouken' có nghĩa là điều kiện hoặc yêu cầu. 条 đọc là 'jou' (điều khoản) và 件 đọc là 'ken' (vụ việc). Ví dụ: 'jouken wo mitasu' = đáp ứng điều kiện, 'jouken tsuki' = có điều kiện. Lưu ý 件 đọc là 'ken' không phải 'kan' hay 'gen'.",
+    "hint": "Jou + ken (những điều phải đáp ứng như yêu cầu)",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_5_028",
+    "question": "「効果」の読み方は？",
+    "furigana": "「効果[こうか]」の読[よ]み方[かた]は？",
+    "romaji": "'Kouka' no yomikata wa?",
+    "level": "N3",
+    "category": "KANJI",
+    "options": [
+      "きょうか",
+      "こうか",
+      "こうけ",
+      "きょうけ"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Cách đọc '効果' là gì?",
+    "answerExplanation": "'Kouka' được đọc là 'kouka' có nghĩa là hiệu quả, kết quả, hoặc tác dụng. 効 đọc là 'kou' (hiệu quả) và 果 đọc là 'ka' (kết quả). Ví dụ: 'kouka ga aru' = có hiệu quả, 'koukateki' = hiệu quả. Từ này thường dùng trong bối cảnh thuốc, phương pháp học tập, hoặc chính sách.",
+    "hint": "Kou + ka (kết quả hoặc tác động của một hành động)",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_5_029",
+    "question": "次の文章を読んで、質問に答えてください。\n\n私は来月から海外出張に行くことにした。行き先はベトナムのホーチミン市だ。まず飛行機のチケットとホテルの予約をしなければならない。空港までは電車で行くつもりだ。ベトナム語は話せないが、英語が通じるかどうか少し心配だ。同僚に聞いたら、「ホーチミンなら英語が通じる場所が多いよ」と教えてくれた。出発前にベトナムの天気や文化について調べようと思う。\n\n質問：筆者が心配していることは何ですか？",
+    "furigana": "次[つぎ]の文章[ぶんしょう]を読[よ]んで、質問[しつもん]に答[こた]えてください。\n\n私[わたし]は来月[らいげつ]から海外[かいがい]出張[しゅっちょう]に行[い]くことにした。行[い]き先[さき]はベトナムのホーチミン市[し]だ。まず飛行機[ひこうき]のチケットとホテルの予約[よやく]をしなければならない。空港[くうこう]までは電車[でんしゃ]で行[い]くつもりだ。ベトナム語[ご]は話[はな]せないが、英語[えいご]が通[つう]じるかどうか少[すこ]し心配[しんぱい]だ。同僚[どうりょう]に聞[き]いたら、「ホーチミンなら英語[えいご]が通[つう]じる場所[ばしょ]が多[おお]いよ」と教[おし]えてくれた。出発[しゅっぱつ]前[まえ]にベトナムの天気[てんき]や文化[ぶんか]について調[しら]べようと思[おも]う。\n\n質問[しつもん]：筆者[ひっしゃ]が心配[しんぱい]していることは何[なん]ですか？",
+    "romaji": "Tsugi no bunshou wo yonde, shitsumon ni kotaete kudasai.\n\nWatashi wa raigetsu kara kaigai shutchou ni iku koto ni shita. Ikisaki wa betonamu no hoochimin-shi da. Mazu hikouki no chiketto to hoteru no yoyaku wo shinakereba naranai. Kuukou made wa densha de iku tsumori da. Betonamu-go wa hanasenai ga, eigo ga tsuujiru ka dou ka sukoshi shinpai da. Douryou ni kiitara, 'Hoochimin nara eigo ga tsuujiru basho ga ooi yo' to oshiete kureta. Shuppatsu mae ni betonamu no tenki ya bunka ni tsuite shirabeyou to omou.\n\nShitsumon: Hissha ga shinpai shite iru koto wa nan desu ka?",
+    "level": "N3",
+    "category": "READING",
+    "options": [
+      "飛行機のチケットが高いこと",
+      "ベトナムで英語が通じるかどうか",
+      "ホテルの予約ができないこと",
+      "ベトナムの天気が悪いこと"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Hãy đọc đoạn văn sau và trả lời câu hỏi.\n\n(Đoạn văn về kế hoạch công tác đến Việt Nam)\n\nCâu hỏi: Tác giả lo lắng về điều gì?",
+    "answerExplanation": "Bài văn nêu rõ 'eigo ga tsuujiru ka dou ka sukoshi shinpai da' có nghĩa là 'hơi lo lắng liệu tiếng Anh có được hiểu không'. Mặc dù tác giả cũng đề cập đến vé máy bay, đặt khách sạn, và thời tiết, nhưng những điều đó không được mô tả là lo lắng. Chỉ vấn đề ngôn ngữ mới được nêu rõ là mối quan tâm.",
+    "hint": "Tìm câu sử dụng từ '心配' (lo lắng)",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_5_030",
+    "question": "次の文章を読んで、質問に答えてください。\n\n図書館からのお知らせ\n\n4月1日から図書館のルールが一部変わります。これまで本の貸し出し期間は2週間でしたが、3週間に延長します。また、一度に借りられる冊数も5冊から8冊に増えます。ただし、新刊コーナーの本は、多くの方に読んでいただくために、貸し出し期間は1週間のままとします。返却が遅れた場合は、遅れた日数分だけ次の貸し出しができなくなりますので、ご注意ください。\n\n質問：新刊コーナーの本について正しいのはどれですか？",
+    "furigana": "次[つぎ]の文章[ぶんしょう]を読[よ]んで、質問[しつもん]に答[こた]えてください。\n\n図書館[としょかん]からのお知[し]らせ\n\n4月[がつ]1日[ついたち]から図書館[としょかん]のルールが一部[いちぶ]変[か]わります。これまで本[ほん]の貸[か]し出[だ]し期間[きかん]は2週間[しゅうかん]でしたが、3週間[しゅうかん]に延長[えんちょう]します。また、一度[いちど]に借[か]りられる冊数[さっすう]も5冊[さつ]から8冊[さつ]に増[ふ]えます。ただし、新刊[しんかん]コーナーの本[ほん]は、多[おお]くの方[かた]に読[よ]んでいただくために、貸[か]し出[だ]し期間[きかん]は1週間[しゅうかん]のままとします。返却[へんきゃく]が遅[おく]れた場合[ばあい]は、遅[おく]れた日数分[にっすうぶん]だけ次[つぎ]の貸[か]し出[だ]しができなくなりますので、ご注意[ちゅうい]ください。\n\n質問[しつもん]：新刊[しんかん]コーナーの本[ほん]について正[ただ]しいのはどれですか？",
+    "romaji": "Tsugi no bunshou wo yonde, shitsumon ni kotaete kudasai.\n\nToshokan kara no oshirase. Shigatsu tsuitachi kara toshokan no ruuru ga ichibu kawarimasu. Koremade hon no kashidashi kikan wa ni-shuukan deshita ga, san-shuukan ni enchou shimasu. Mata, ichido ni karirareru sassuu mo go-satsu kara hachi-satsu ni fuemasu. Tadashi, shinkan koonaa no hon wa, ooku no kata ni yonde itadaku tame ni, kashidashi kikan wa isshuukan no mama to shimasu. Henkyaku ga okureta baai wa, okureta nissuu-bun dake tsugi no kashidashi ga dekinaku narimasu node, gochuui kudasai.\n\nShitsumon: Shinkan koonaa no hon ni tsuite tadashii no wa dore desu ka?",
+    "level": "N3",
+    "category": "READING",
+    "options": [
+      "貸し出し期間が3週間に延長される",
+      "貸し出し期間は1週間のまま変わらない",
+      "新刊コーナーの本は借りられない",
+      "新刊コーナーの本は10冊まで借りられる"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Hãy đọc đoạn văn sau và trả lời câu hỏi.\n\n(Thông báo từ thư viện về thay đổi quy tắc)\n\nCâu hỏi: Điều nào đúng về sách ở khu sách mới?",
+    "answerExplanation": "Thông báo ghi rõ 'sách khu sách mới... thời gian mượn vẫn giữ nguyên 1 tuần'. Việc gia hạn thành 3 tuần chỉ áp dụng cho sách thường, không phải sách mới. Sách mới vẫn có thể mượn (không phải không mượn được), và số 10 quyển không được đề cập.",
+    "hint": "Chú ý từ 'tadashi' chỉ sự ngoại lệ đối với quy tắc chung",
+    "difficultyScore": 3
+  }
+]
