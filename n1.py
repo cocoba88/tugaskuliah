@@ -781,14 +781,19 @@ def decompile_apk(input_file, apktool_cmd):
     run_cmd(apktool_cmd + ["d", "-f", "-o", decompiled_dir, input_file], cwd=SCRIPT_DIR)
     return decompiled_dir
 
-def rebuild_apk(decompiled_dir, apktool_cmd):
-    """Rebuild APK"""
-    output_apk = os.path.join(SCRIPT_DIR, "N1Master_patched.apk")
-    log("Rebuilding APK...")
+def rebuild_apk(decompiled_dir, apktool_cmd, version_name=None):
+    """Rebuild APK with optional version in filename"""
+    if version_name and version_name != "unknown":
+        # Remove any leading 'v' from version_name for consistency
+        clean_version = version_name.lstrip('v')
+        output_apk = os.path.join(SCRIPT_DIR, f"N1Master_patched-v{clean_version}.apk")
+    else:
+        output_apk = os.path.join(SCRIPT_DIR, "N1Master_patched.apk")
+    log(f"Rebuilding APK to: {os.path.basename(output_apk)}...")
     run_cmd(apktool_cmd + ["b", "-o", output_apk, decompiled_dir], cwd=SCRIPT_DIR)
     return output_apk
 
-def sign_apk(apk_path):
+def sign_apk(apk_path, version_name=None):
     """Sign APK with uber-apk-signer"""
     log("Signing APK...")
     signer_jar = find_uber_apk_signer()
@@ -803,8 +808,13 @@ def sign_apk(apk_path):
         cwd=SCRIPT_DIR
     )
     
-    # Find signed APK
-    aligned = apk_path.replace(".apk", "-aligned-debugSigned.apk")
+    # Find signed APK - handle both versioned and non-versioned filenames
+    if version_name and version_name != "unknown":
+        clean_version = version_name.lstrip('v')
+        aligned = apk_path.replace(f"-v{clean_version}.apk", f"-v{clean_version}-aligned-debugSigned.apk")
+    else:
+        aligned = apk_path.replace(".apk", "-aligned-debugSigned.apk")
+    
     if os.path.exists(aligned):
         return aligned
     return apk_path
@@ -936,11 +946,11 @@ def main():
     log("=" * 50)
     log("Rebuilding APK...")
     log("=" * 50)
-    unsigned_apk = rebuild_apk(decompiled_dir, apktool_cmd)
+    unsigned_apk = rebuild_apk(decompiled_dir, apktool_cmd, detected_version)
     
     # Step 4: Sign
     if not args.no_sign:
-        final_apk = sign_apk(unsigned_apk)
+        final_apk = sign_apk(unsigned_apk, detected_version)
     else:
         final_apk = unsigned_apk
     
