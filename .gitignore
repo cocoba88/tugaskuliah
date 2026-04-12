@@ -1,8 +1,0 @@
-```
-# APK files
-*.apk
-
-# Smali class files
-analysis/smali_classes/
-
-```
