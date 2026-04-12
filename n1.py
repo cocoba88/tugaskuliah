@@ -11,6 +11,8 @@ Features:
 - Fix extractNativeLibs untuk install
 - ✅ STANDALONE: Auto-download apktool & uber-apk-signer jika tidak ada
 - ✅ ADAPTIVE: Auto-detect smali paths (compatible multi-versi)
+- ✅ VERSION DETECTOR: Deteksi versi APK otomatis
+- ✅ HACKER UI: Animasi terminal style hacker
 
 Usage:
     python3 n1.py <input.apk|input.apks> [--output output.apk]
@@ -38,6 +40,8 @@ import argparse
 import glob
 import urllib.request
 import ssl
+import time
+import random
 
 # ============================================================
 # CONFIG
@@ -89,8 +93,120 @@ SMALI_PATHS = {
 # ============================================================
 # HELPERS
 # ============================================================
+
+# ANSI color codes for hacker UI
+class Colors:
+    GREEN = '\033[92m'
+    CYAN = '\033[96m'
+    YELLOW = '\033[93m'
+    RED = '\033[91m'
+    MAGENTA = '\033[95m'
+    BLUE = '\033[94m'
+    WHITE = '\033[97m'
+    BOLD = '\033[1m'
+    DIM = '\033[2m'
+    RESET = '\033[0m'
+
+def hacker_print(text, color=Colors.GREEN, bold=False, delay=0.03):
+    """Print text with hacker-style typing effect"""
+    prefix = Colors.BOLD if bold else ""
+    print(f"{prefix}{color}", end='', flush=True)
+    for char in text:
+        print(char, end='', flush=True)
+        time.sleep(delay)
+    print(f"{Colors.RESET}", flush=True)
+
+def hacker_log(msg, color=Colors.CYAN):
+    """Log message with hacker style"""
+    print(f"{Colors.DIM}[{Colors.GREEN}N1Master{Colors.DIM}]{Colors.RESET} ", end='', flush=True)
+    hacker_print(msg, color=color, delay=0.01)
+
+def hacker_banner():
+    """Display hacker-style banner"""
+    banner = [
+        f"{Colors.GREEN}",
+        "  _   _  ____   ____    _    _   _ _____ ____  ",
+        " | \\ | ||  _ \\ / ___|  / \\  | \\ | | ____|  _ \\ ",
+        " |  \\| | |_) | |     / _ \\ |  \\| |  _| | |_) |",
+        " | |\\  |  __/| |___ / ___ \\| |\\  | |___|  _ < ",
+        " |_| \\_|_|    \\____/_/   \\_\\_| \\_|_____|_| \\_\\",
+        f"{Colors.CYAN}           APK Patcher - Premium Unlimited",
+        f"{Colors.YELLOW}              Patch by : インドラ",
+        f"{Colors.RESET}"
+    ]
+    for line in banner:
+        print(line)
+        time.sleep(0.05)
+    print()
+
+def detect_apk_version(input_file):
+    """Detect APK version from AndroidManifest.xml or file analysis"""
+    log(f"Analyzing APK version...")
+    
+    # Try to extract version using aapt2 or aapt if available
+    for cmd in ["aapt2", "aapt"]:
+        try:
+            result = subprocess.run(
+                [cmd, "dump", "badging", input_file],
+                capture_output=True, text=True, timeout=30
+            )
+            if result.returncode == 0:
+                output = result.stdout
+                # Extract versionName
+                version_match = re.search(r"versionName='([^']+)'", output)
+                version_code_match = re.search(r"versionCode='([^']+)'", output)
+                
+                if version_match:
+                    version_name = version_match.group(1)
+                    version_code = version_code_match.group(1) if version_code_match else "unknown"
+                    log(f"✅ APK Version Detected: v{version_name} (Code: {version_code})")
+                    return {"versionName": version_name, "versionCode": version_code, "method": "aapt"}
+        except:
+            continue
+    
+    # Fallback: Try to extract manifest with apktool and parse
+    try:
+        temp_dir = os.path.join(SCRIPT_DIR, "temp_version_check")
+        if os.path.exists(temp_dir):
+            shutil.rmtree(temp_dir)
+        
+        apktool_cmd = find_apktool()
+        if apktool_cmd:
+            run_cmd(apktool_cmd + ["d", "-f", "-o", temp_dir, "--no-src", "--only-main-classes", input_file], 
+                   cwd=SCRIPT_DIR, check=False)
+            
+            manifest_path = os.path.join(temp_dir, "AndroidManifest.xml")
+            if os.path.exists(manifest_path):
+                with open(manifest_path, 'r', encoding='utf-8') as f:
+                    content = f.read()
+                
+                version_match = re.search(r'android:versionName="([^"]+)"', content)
+                version_code_match = re.search(r'android:versionCode="([^"]+)"', content)
+                
+                if version_match:
+                    version_name = version_match.group(1)
+                    version_code = version_code_match.group(1) if version_code_match else "unknown"
+                    log(f"✅ APK Version Detected: v{version_name} (Code: {version_code})")
+                    shutil.rmtree(temp_dir, ignore_errors=True)
+                    return {"versionName": version_name, "versionCode": version_code, "method": "apktool"}
+            
+            shutil.rmtree(temp_dir, ignore_errors=True)
+    except Exception as e:
+        log(f"⚠️ Version detection via apktool failed: {e}")
+    
+    # Last resort: filename-based detection
+    filename = os.path.basename(input_file)
+    version_match = re.search(r'v?(\d+\.\d+(\.\d+)?)', filename, re.IGNORECASE)
+    if version_match:
+        version_name = version_match.group(1)
+        log(f"⚠️ Estimated version from filename: v{version_name}")
+        return {"versionName": version_name, "versionCode": "unknown", "method": "filename"}
+    
+    log("⚠️ Could not detect exact version, proceeding with adaptive patching...")
+    return {"versionName": "unknown", "versionCode": "unknown", "method": "none"}
+
 def log(msg):
-    print(f"[N1Master Patcher] {msg}")
+    print(f"{Colors.DIM}[{Colors.GREEN}N1Master{Colors.DIM}]{Colors.RESET} {msg}")
 
 def run_cmd(cmd, cwd=None, check=True):
     """Run shell command, return stdout."""
@@ -694,6 +810,9 @@ def sign_apk(apk_path):
     return apk_path
 
 def main():
+    # Display hacker banner at startup
+    hacker_banner()
+    
     parser = argparse.ArgumentParser(description="N1Master APK Patcher (Standalone)")
     parser.add_argument("input", help="Input APK or APKS file")
     parser.add_argument("--output", "-o", help="Output APK filename")
@@ -707,7 +826,24 @@ def main():
         log(f"ERROR: File not found: {input_file}")
         sys.exit(1)
     
+    # Detect APK version first
+    hacker_print("\n🔍 INITIATING APK ANALYSIS...", Colors.YELLOW, bold=True)
+    time.sleep(0.5)
+    version_info = detect_apk_version(input_file)
+    
+    # Store version info for output
+    detected_version = version_info.get("versionName", "unknown")
+    detected_code = version_info.get("versionCode", "unknown")
+    
+    hacker_print(f"\n📦 TARGET APK INFORMATION:", Colors.CYAN, bold=True)
+    hacker_print(f"   File: {os.path.basename(input_file)}", Colors.WHITE)
+    hacker_print(f"   Version: v{detected_version}", Colors.GREEN)
+    hacker_print(f"   Version Code: {detected_code}", Colors.GREEN)
+    hacker_print(f"   Detection Method: {version_info.get('method', 'unknown')}", Colors.DIM)
+    time.sleep(0.3)
+    
     # Check Java first (required for both tools)
+    hacker_print("\n🔧 CHECKING PREREQUISITES...", Colors.YELLOW, bold=True)
     if not check_java():
         sys.exit(1)
     
@@ -814,25 +950,40 @@ def main():
         shutil.copy2(final_apk, output_path)
         final_apk = output_path
     
-    log("=" * 50)
-    log("DONE! ✅")
-    log(f"Output: {final_apk}")
+    # Final summary with hacker style
+    print(f"\n{Colors.GREEN}{'=' * 60}{Colors.RESET}")
+    hacker_print("🎉 PATCHING COMPLETED SUCCESSFULLY!", Colors.GREEN, bold=True)
+    print(f"{Colors.GREEN}{'=' * 60}{Colors.RESET}")
+    
+    hacker_print(f"\n📦 OUTPUT INFORMATION:", Colors.CYAN, bold=True)
+    hacker_print(f"   File: {os.path.basename(final_apk)}", Colors.WHITE)
+    hacker_print(f"   Path: {final_apk}", Colors.DIM)
     size = os.path.getsize(final_apk) / (1024 * 1024)
-    log(f"Size: {size:.1f} MB")
-    log("=" * 50)
-    log("")
-    log("Patches applied:")
-    log("  ✅ isPro() -> true (Premium selamanya)")
-    log("  ✅ getEnergy() -> 999999")
-    log("  ✅ LicenseClient bypassed (initializeLicenseCheck + connectToLicensingService + processResponse)")
-    log("  ✅ LicenseActivity bypassed (onStart + showPaywallAndCloseApp + closeApp)")
-    log("  ✅ LicenseContentProvider bypassed (ROOT CAUSE - onCreate no-op)")
-    log("  ✅ Toast 'Patch by : インドラ' 2x")
-    log("  ✅ Manifest patched")
-    log("  ✅ STANDALONE: Auto-download tools enabled")
-    log("  ✅ ADAPTIVE: Multi-version smali path detection")
-    log("")
-    log("⚠️  Uninstall versi original dulu sebelum install!")
+    hacker_print(f"   Size: {size:.1f} MB", Colors.WHITE)
+    hacker_print(f"   APK Version Detected: v{detected_version}", Colors.YELLOW)
+    
+    print(f"\n{Colors.GREEN}{'=' * 60}{Colors.RESET}")
+    hacker_print("🔓 PATCHES APPLIED:", Colors.MAGENTA, bold=True)
+    print(f"{Colors.GREEN}{'=' * 60}{Colors.RESET}")
+    
+    patches = [
+        ("✅ isPro() -> true", "Premium selamanya"),
+        ("✅ getEnergy() -> 999999", "Energy unlimited"),
+        ("✅ LicenseClient bypassed", "Bypass license check"),
+        ("✅ LicenseActivity bypassed", "No paywall popup"),
+        ("✅ LicenseContentProvider bypassed", "Prevent Play Store redirect"),
+        ("✅ Toast injected", "'Patch by : インドラ' 2x"),
+        ("✅ Manifest patched", "Debuggable & extractNativeLibs"),
+        ("✅ Auto-download tools", "Standalone mode"),
+        ("✅ Adaptive patching", "Multi-version support"),
+    ]
+    
+    for patch, desc in patches:
+        hacker_print(f"   {Colors.GREEN}{patch}{Colors.RESET} - {Colors.DIM}{desc}{Colors.RESET}", delay=0.005)
+    
+    print(f"\n{Colors.YELLOW}⚠️  Uninstall versi original dulu sebelum install!{Colors.RESET}")
+    print(f"{Colors.DIM}\n💀 Patched by N1Master - Hack the Planet! 💀{Colors.RESET}\n")
+    
     return 0
 
 if __name__ == "__main__":
