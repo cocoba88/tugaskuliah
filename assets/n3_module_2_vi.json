@@ -1,0 +1,572 @@
+[
+  {
+    "id": "question_n3_2_001",
+    "question": "「拡大」の意味は？",
+    "furigana": "「拡大[かくだい]」の意味[いみ]は？",
+    "romaji": "'Kakudai' no imi wa?",
+    "level": "N3",
+    "category": "VOCABULARY",
+    "options": [
+      "Giảm bớt",
+      "Mở rộng",
+      "Di dời",
+      "Xóa bỏ"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "'拡大' có nghĩa là gì?",
+    "answerExplanation": "'拡大' (kakudai) có nghĩa là mở rộng, phóng to. Kanji 拡 nghĩa là 'mở rộng' và 大 nghĩa là 'lớn'. Từ trái nghĩa là 縮小 (shukushou/thu nhỏ). Ví dụ: 事業を拡大する (mở rộng kinh doanh), 写真を拡大する (phóng to ảnh).",
+    "hint": "Nghĩ về điều gì đó trở nên lớn hơn hoặc rộng hơn",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_2_002",
+    "question": "「保存」の意味は？",
+    "furigana": "「保存[ほぞん]」の意味[いみ]は？",
+    "romaji": "'Hozon' no imi wa?",
+    "level": "N3",
+    "category": "VOCABULARY",
+    "options": [
+      "Phá hủy",
+      "Vận chuyển",
+      "Bảo tồn",
+      "Loại bỏ"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "'保存' có nghĩa là gì?",
+    "answerExplanation": "'保存' (hozon) có nghĩa là bảo tồn hoặc lưu trữ. Kanji 保 nghĩa là 'bảo vệ' và 存 nghĩa là 'tồn tại'. Từ này dùng để lưu file trên máy tính (ファイルを保存する) cũng như bảo tồn (文化を保存する = bảo tồn văn hóa).",
+    "hint": "Giữ gìn điều gì đó để nó vẫn còn và không biến mất",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_2_003",
+    "question": "「尊重」の意味は？",
+    "furigana": "「尊重[そんちょう]」の意味[いみ]は？",
+    "romaji": "'Sonchou' no imi wa?",
+    "level": "N3",
+    "category": "VOCABULARY",
+    "options": [
+      "Phớt lờ",
+      "Tôn trọng",
+      "Ghét",
+      "Coi thường"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "'尊重' có nghĩa là gì?",
+    "answerExplanation": "'尊重' (sonchou) có nghĩa là tôn trọng hoặc coi trọng. Kanji 尊 nghĩa là 'cao quý/được kính trọng' và 重 nghĩa là 'nặng/quan trọng'. Ví dụ: 相手の意見を尊重する (tôn trọng ý kiến người khác), 人権を尊重する (tôn trọng nhân quyền).",
+    "hint": "Thái độ tích cực đối với người khác hoặc ý kiến của họ",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_2_004",
+    "question": "「判断」の意味は？",
+    "furigana": "「判断[はんだん]」の意味[いみ]は？",
+    "romaji": "'Handan' no imi wa?",
+    "level": "N3",
+    "category": "VOCABULARY",
+    "options": [
+      "Đánh giá",
+      "Câu hỏi",
+      "Giải thích",
+      "Thông báo"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "'判断' có nghĩa là gì?",
+    "answerExplanation": "'判断' (handan) có nghĩa là phán đoán, quyết định. Kanji 判 nghĩa là 'phán xét/quyết định' và 断 nghĩa là 'cắt/quyết định'. Ví dụ: 正しい判断をする (đưa ra phán đoán đúng), 状況を判断する (đánh giá tình hình).",
+    "hint": "Quá trình suy nghĩ để quyết định điều gì đó",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_2_005",
+    "question": "「報告」の意味は？",
+    "furigana": "「報告[ほうこく]」の意味[いみ]は？",
+    "romaji": "'Houkoku' no imi wa?",
+    "level": "N3",
+    "category": "VOCABULARY",
+    "options": [
+      "Xin lỗi",
+      "Lời mời",
+      "Yêu cầu",
+      "Báo cáo"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "'報告' có nghĩa là gì?",
+    "answerExplanation": "'報告' (houkoku) có nghĩa là báo cáo. Kanji 報 nghĩa là 'thông báo' và 告 nghĩa là 'công bố'. Ví dụ: 上司に報告する (báo cáo với cấp trên), 報告書を書く (viết báo cáo).",
+    "hint": "Truyền đạt thông tin về một việc gì đó cho người khác",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_2_006",
+    "question": "「縮小」の読み方は？",
+    "furigana": "「縮小[しゅくしょう]」の読[よ]み方[かた]は？",
+    "romaji": "'Shukushou' no yomikata wa?",
+    "level": "N3",
+    "category": "KANJI",
+    "options": [
+      "しゅくしょう",
+      "しゅうしょう",
+      "そくしょう",
+      "しゅくしょ"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Cách đọc '縮小' là gì?",
+    "answerExplanation": "'縮小' đọc là 'しゅくしょう' (shukushou), nghĩa là thu nhỏ hoặc giảm quy mô. Kanji 縮 đọc là しゅく (shuku = co lại) và 小 đọc là しょう (shou = nhỏ). Đây là từ trái nghĩa của 拡大 (kakudai = mở rộng).",
+    "hint": "Shuku + shou, từ trái nghĩa của 拡大",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_2_007",
+    "question": "「増加」の読み方は？",
+    "furigana": "「増加[ぞうか]」の読[よ]み方[かた]は？",
+    "romaji": "'Zouka' no yomikata wa?",
+    "level": "N3",
+    "category": "KANJI",
+    "options": [
+      "そうか",
+      "ぞうか",
+      "ますか",
+      "ぞっか"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Cách đọc '増加' là gì?",
+    "answerExplanation": "'増加' đọc là 'ぞうか' (zouka), nghĩa là tăng lên. Kanji 増 đọc là ぞう (zou = tăng) và 加 đọc là か (ka = thêm). Từ trái nghĩa là 減少 (genshou = giảm). Ví dụ: 人口が増加する (dân số tăng).",
+    "hint": "Zou + ka, ngược lại với giảm",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_2_008",
+    "question": "「減少」の読み方は？",
+    "furigana": "「減少[げんしょう]」の読[よ]み方[かた]は？",
+    "romaji": "'Genshou' no yomikata wa?",
+    "level": "N3",
+    "category": "KANJI",
+    "options": [
+      "けんしょう",
+      "げんしょ",
+      "げんしょう",
+      "げんじょう"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Cách đọc '減少' là gì?",
+    "answerExplanation": "'減少' đọc là 'げんしょう' (genshou), nghĩa là giảm xuống. Kanji 減 đọc là げん (gen = giảm) và 少 đọc là しょう (shou = ít). Từ trái nghĩa là 増加 (zouka = tăng). Ví dụ: 出生率が減少している (tỉ lệ sinh giảm).",
+    "hint": "Gen + shou, từ trái nghĩa của 増加",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_2_009",
+    "question": "「承認」の読み方は？",
+    "furigana": "「承認[しょうにん]」の読[よ]み方[かた]は？",
+    "romaji": "'Shounin' no yomikata wa?",
+    "level": "N3",
+    "category": "KANJI",
+    "options": [
+      "じょうにん",
+      "しょうにん",
+      "しょうじん",
+      "せいにん"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Cách đọc '承認' là gì?",
+    "answerExplanation": "'承認' đọc là 'しょうにん' (shounin), nghĩa là phê duyệt hoặc chấp thuận. Kanji 承 đọc là しょう (shou = chấp nhận) và 認 đọc là にん (nin = thừa nhận). Ví dụ: 上司の承認を得る (nhận được sự phê duyệt của cấp trên).",
+    "hint": "Shou + nin, liên quan đến việc phê duyệt",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n3_2_010",
+    "question": "「批判」の読み方は？",
+    "furigana": "「批判[ひはん]」の読[よ]み方[かた]は？",
+    "romaji": "'Hihan' no yomikata wa?",
+    "level": "N3",
+    "category": "KANJI",
+    "options": [
+      "ひばん",
+      "びはん",
+      "ひはん",
+      "はっぱん"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Cách đọc '批判' là gì?",
+    "answerExplanation": "'批判' đọc là 'ひはん' (hihan), nghĩa là phê phán. Kanji 批 đọc là ひ (hi = phê phán) và 判 đọc là はん (han = phán xét). Ví dụ: 政府の政策を批判する (phê phán chính sách chính phủ). Lưu ý は vẫn đọc là 'ha', không phải 'ba'.",
+    "hint": "Hi + han, liên quan đến việc phê phán",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_2_011",
+    "question": "遅刻しない___、毎朝アラームをかけている。",
+    "furigana": "遅刻[ちこく]しない___、毎朝[まいあさ]アラームをかけている。",
+    "romaji": "Chikoku shinai ___, maiasa araamu wo kakete iru.",
+    "level": "N3",
+    "category": "GRAMMAR",
+    "options": [
+      "ことに",
+      "ように",
+      "ために",
+      "ものに"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Để không bị trễ, tôi đặt báo thức mỗi sáng.",
+    "answerExplanation": "Mẫu câu '〜ようにする' dùng để diễn tả nỗ lực có ý thức hoặc thói quen để điều gì đó xảy ra hoặc không xảy ra. Nó gắn với thể từ điển hoặc thể phủ định của động từ. '遅刻しないように' = để không bị trễ. Các đáp án khác: 'ことに' = quyết định (một lần), 'ために' = để (mục đích), 'とおりに' = y hệt như (sao chép). Chỉ 'ように' phù hợp với nỗ lực liên tục.",
+    "hint": "Mẫu này diễn tả nỗ lực có ý thức để điều gì đó xảy ra hoặc không xảy ra",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_2_012",
+    "question": "日本に来てから、日本語が話せる___なった。",
+    "furigana": "日本[にほん]に来[き]てから、日本語[にほんご]が話[はな]せる___なった。",
+    "romaji": "Nihon ni kite kara, nihongo ga hanaseru ___ natta.",
+    "level": "N3",
+    "category": "GRAMMAR",
+    "options": [
+      "ことに",
+      "ために",
+      "ものに",
+      "ように"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "Từ khi đến Nhật, tôi đã có thể nói được tiếng Nhật.",
+    "answerExplanation": "Mẫu câu '〜ようになる' dùng để diễn tả sự thay đổi dần dần về trạng thái, đặc biệt là khả năng. Nghĩa là 'trở nên có thể' hoặc 'đạt đến mức'. '話せるようになった' = đã có thể nói được. Khác với '〜ようにする' (nỗ lực có ý thức), '〜ようになる' mô tả sự thay đổi tự nhiên.",
+    "hint": "Mẫu này diễn tả sự thay đổi dần dần về khả năng",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_2_013",
+    "question": "辞書を使わ___、作文を書いた。",
+    "furigana": "辞書[じしょ]を使[つか]わ___、作文[さくぶん]を書[か]いた。",
+    "romaji": "Jisho wo tsukawa ___, sakubun wo kaita.",
+    "level": "N3",
+    "category": "GRAMMAR",
+    "options": [
+      "なくて",
+      "ずに",
+      "ないから",
+      "ないと"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Tôi viết bài luận mà không dùng từ điển.",
+    "answerExplanation": "Mẫu câu '〜ずに' nghĩa là 'không làm~' và là dạng trang trọng/văn viết của 〜ないで. Nó gắn vào gốc phủ định của động từ. '使う' → '使わ' + 'ずに'. Ngoại lệ: 'する' → 'せずに'. Các đáp án khác không mang nghĩa 'không làm'.",
+    "hint": "Dạng trang trọng của 'không làm gì đó', chuyển từ thể phủ định",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n3_2_014",
+    "question": "大丈夫だよ。そんなに心配する___。",
+    "furigana": "大丈夫[だいじょうぶ]だよ。そんなに心配[しんぱい]する___。",
+    "romaji": "Daijoubu da yo. Sonna ni shinpai suru ___.",
+    "level": "N3",
+    "category": "GRAMMAR",
+    "options": [
+      "ことはない",
+      "わけがない",
+      "はずがない",
+      "ものではない"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Không sao đâu. Không cần lo lắng như vậy.",
+    "answerExplanation": "Mẫu câu '〜ことはない' nghĩa là 'không cần~' hoặc 'không có sự cần thiết để~'. Nó được dùng để nói với ai đó không cần lo lắng hoặc hành động là không cần thiết. Nó gắn với thể từ điển của động từ.",
+    "hint": "Mẫu này nói rằng không có nhu cầu hoặc sự cần thiết để làm điều gì đó",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n3_2_015",
+    "question": "このゲームは初心者___に作られている。",
+    "furigana": "このゲームは初心者[しょしんしゃ]___に作[つく]られている。",
+    "romaji": "Kono geemu wa shoshinsha ___ ni tsukurarete iru.",
+    "level": "N3",
+    "category": "GRAMMAR",
+    "options": [
+      "ため",
+      "向け",
+      "用",
+      "よう"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Game này được làm cho người mới bắt đầu (nhắm vào người mới).",
+    "answerExplanation": "Mẫu câu '〜向け' (muke) nghĩa là 'nhắm vào~' hoặc 'dành cho~'. Nó được dùng để chỉ đối tượng mục tiêu hoặc người dùng dự định. Ví dụ: 初心者向け = dành cho người mới, 子供向け = dành cho trẻ em.",
+    "hint": "Từ này chỉ đối tượng mục tiêu hoặc người nhận dự định",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_2_016",
+    "question": "最近忘れ___なって困っている。",
+    "furigana": "最近[さいきん]忘[わす]れ___なって困[こま]っている。",
+    "romaji": "Saikin wasure ___ natte komatte iru.",
+    "level": "N3",
+    "category": "GRAMMAR",
+    "options": [
+      "みたく",
+      "らしく",
+      "っぽく",
+      "そうに"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Gần đây hay quên và cảm thấy phiền phức.",
+    "answerExplanation": "Mẫu câu '〜っぽい' nghĩa là 'có xu hướng~' hoặc 'có vẻ như~'. Nó gắn vào danh từ hoặc gốc động từ và chỉ xu hướng hoặc đặc điểm. '忘れっぽい' = hay quên. Các đáp án khác: 'がち' = xu hướng (tiêu cực hơn, trang trọng), 'やすい' = dễ, '気味' = hơi.",
+    "hint": "Hậu tố chỉ xu hướng hoặc đặc điểm, gắn vào từ",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n3_2_017",
+    "question": "今日は電車が止まったので、電車の___バスで会社に行った。",
+    "furigana": "今日[きょう]は電車[でんしゃ]が止[と]まったので、電車[でんしゃ]の___バスで会社[かいしゃ]に行[い]った。",
+    "romaji": "Kyou wa densha ga tomatta node, densha no ___ basu de kaisha ni itta.",
+    "level": "N3",
+    "category": "GRAMMAR",
+    "options": [
+      "ために",
+      "うちに",
+      "かわりに",
+      "ついでに"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Hôm nay tàu điện ngừng chạy nên tôi đi làm bằng xe buýt thay thế.",
+    "answerExplanation": "Mẫu câu '〜かわりに' nghĩa là 'thay vì~' hoặc 'thay cho~'. Nó được dùng khi điều gì đó được thay thế bằng thứ khác. Ví dụ: 電車のかわりに = thay vì tàu điện.",
+    "hint": "Từ này diễn tả sự thay thế",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n3_2_018",
+    "question": "次のメールを読んで、質問に答えてください。\n\n田中様\n\nお世話になっております。ABC研修センターの山本です。来月予定しておりましたビジネスセミナーについてご連絡いたします。当初の予定では4月10日（金）に開催する予定でしたが、講師の都合により、4月17日（金）に変更させていただくことになりました。時間は午前10時から午後3時までで変更はございません。会場も同じく、東京駅前のABCビル5階です。ご不便をおかけして申し訳ございませんが、ご理解いただけますようお願いいたします。\n\nセミナーの新しい日程はいつですか？",
+    "furigana": "次[つぎ]のメールを読[よ]んで、質問[しつもん]に答[こた]えてください。\n\n田中[たなか]様[さま]\n\nお世話[せわ]になっております。ABC研修[けんしゅう]センターの山本[やまもと]です。来月[らいげつ]予定[よてい]しておりましたビジネスセミナーについてご連絡[れんらく]いたします。当初[とうしょ]の予定[よてい]では4月[しがつ]10日[とおか]（金[きん]）に開催[かいさい]する予定[よてい]でしたが、講師[こうし]の都合[つごう]により、4月[しがつ]17日[じゅうしちにち]（金[きん]）に変更[へんこう]させていただくことになりました。時間[じかん]は午前[ごぜん]10時[じゅうじ]から午後[ごご]3時[さんじ]までで変更[へんこう]はございません。会場[かいじょう]も同[おな]じく、東京駅前[とうきょうえきまえ]のABCビル5階[ごかい]です。ご不便[ふべん]をおかけして申[もう]し訳[わけ]ございませんが、ご理解[りかい]いただけますようお願[ねが]いいたします。\n\nセミナーの新[あたら]しい日程[にってい]はいつですか？",
+    "romaji": "Tsugi no meeru wo yonde, shitsumon ni kotaete kudasai. (Email content) Seminaa no atarashii nittei wa itsu desu ka?",
+    "level": "N3",
+    "category": "READING",
+    "options": [
+      "4月10日（金）",
+      "4月17日（金）",
+      "4月10日（土）",
+      "4月17日（土）"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Đọc email sau và trả lời câu hỏi.\n\n(Email về thay đổi lịch hội thảo)\n\nCâu hỏi: Ngày mới của hội thảo là khi nào?",
+    "answerExplanation": "Trong email, nói rằng lịch hội thảo được đổi từ ngày 10/4 (thứ Sáu) sang ngày 17/4 (thứ Sáu). Từ khóa 変更 (henkou = thay đổi) chỉ sự sửa đổi lịch. Ngày mới được ghi rõ là 17/4.",
+    "hint": "Tìm từ 変更 (henkou = thay đổi) trong email để tìm ngày mới",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_2_019",
+    "question": "次の文章を読んで、質問に答えてください。\n\n最近、映画やドラマを見る人が増えていますが、私は本を読むことをおすすめします。映画は短い時間で楽しめますが、本は自分のペースで読めるという良さがあります。また、本を読むと想像力が豊かになると言われています。映画では映像がすべて見えますが、本では自分の頭の中で場面を想像しなければなりません。さらに、本を読むことで新しい言葉を覚えたり、文章力が上がったりします。もちろん映画にも良い点はありますが、時間があるときはぜひ本を読んでみてください。\n\n筆者が一番すすめていることは何ですか？",
+    "furigana": "次[つぎ]の文章[ぶんしょう]を読[よ]んで、質問[しつもん]に答[こた]えてください。\n\n最近[さいきん]、映画[えいが]やドラマを見[み]る人[ひと]が増[ふ]えていますが、私[わたし]は本[ほん]を読[よ]むことをおすすめします。映画[えいが]は短[みじか]い時間[じかん]で楽[たの]しめますが、本[ほん]は自分[じぶん]のペースで読[よ]めるという良[よ]さがあります。また、本[ほん]を読[よ]むと想像力[そうぞうりょく]が豊[ゆた]かになると言[い]われています。映画[えいが]では映像[えいぞう]がすべて見[み]えますが、本[ほん]では自分[じぶん]の頭[あたま]の中[なか]で場面[ばめん]を想像[そうぞう]しなければなりません。さらに、本[ほん]を読[よ]むことで新[あたら]しい言葉[ことば]を覚[おぼ]えたり、文章力[ぶんしょうりょく]が上[あ]がったりします。もちろん映画[えいが]にも良[よ]い点[てん]はありますが、時間[じかん]があるときはぜひ本[ほん]を読[よ]んでみてください。\n\n筆者[ひっしゃ]が一番[いちばん]すすめていることは何[なん]ですか？",
+    "romaji": "Tsugi no bunshou wo yonde, shitsumon ni kotaete kudasai. (Passage content) Hissha ga ichiban susumete iru koto wa nan desu ka?",
+    "level": "N3",
+    "category": "READING",
+    "options": [
+      "映画やドラマをたくさん見ること",
+      "映画と本を両方楽しむこと",
+      "時間があるときに本を読むこと",
+      "想像力を使って映画を見ること"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Đọc bài viết sau và trả lời câu hỏi.\n\n(Bài viết về thói quen đọc sách và hoạt động thời gian rảnh)\n\nCâu hỏi: Tác giả khuyến nghị điều gì nhất?",
+    "answerExplanation": "Tác giả khuyến nghị nhất là đọc sách khi có thời gian rảnh. Điều này thể hiện qua câu kết luận nơi tác giả nhấn mạnh tầm quan trọng và lợi ích của việc đọc sách là cách sử dụng thời gian rảnh tốt nhất.",
+    "hint": "Chú ý câu cuối như là kết luận và khuyến nghị của tác giả",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n3_2_020",
+    "question": "次のお知らせを読んで、質問に答えてください。\n\nマンション住民の皆様へ\n\n管理組合よりお知らせいたします。来月の5月1日から5月15日まで、マンションの外壁工事を行います。工事は毎日午前9時から午後5時まで行われます。工事中は大きな音が出る場合がありますので、ご了承ください。また、工事期間中はベランダに洗濯物を干さないようにお願いいたします。ほこりや塗料が付く可能性があります。洗濯物は室内に干すか、コインランドリーをご利用ください。ご不便をおかけしますが、ご協力をお願いいたします。\n\n工事期間中、住民は何をしなければなりませんか？",
+    "furigana": "次[つぎ]のお知[し]らせを読[よ]んで、質問[しつもん]に答[こた]えてください。\n\nマンション住民[じゅうみん]の皆様[みなさま]へ\n\n管理組合[かんりくみあい]よりお知[し]らせいたします。来月[らいげつ]の5月[ごがつ]1日[ついたち]から5月[ごがつ]15日[じゅうごにち]まで、マンションの外壁工事[がいへきこうじ]を行[おこな]います。工事[こうじ]は毎日[まいにち]午前[ごぜん]9時[くじ]から午後[ごご]5時[ごじ]まで行[おこな]われます。工事中[こうじちゅう]は大[おお]きな音[おと]が出[で]る場合[ばあい]がありますので、ご了承[りょうしょう]ください。また、工事期間中[こうじきかんちゅう]はベランダに洗濯物[せんたくもの]を干[ほ]さないようにお願[ねが]いいたします。ほこりや塗料[とりょう]が付[つ]く可能性[かのうせい]があります。洗濯物[せんたくもの]は室内[しつない]に干[ほ]すか、コインランドリーをご利用[りよう]ください。ご不便[ふべん]をおかけしますが、ご協力[きょうりょく]をお願[ねが]いいたします。\n\n工事期間中[こうじきかんちゅう]、住民[じゅうみん]は何[なに]をしなければなりませんか？",
+    "romaji": "Tsugi no oshirase wo yonde, shitsumon ni kotaete kudasai. (Notice content) Kouji kikanchuu, juumin wa nani wo shinakereba narimasen ka?",
+    "level": "N3",
+    "category": "READING",
+    "options": [
+      "午前9時から午後5時まで外出すること",
+      "ベランダの洗濯物を室内に干すかコインランドリーを使うこと",
+      "工事の費用を管理組合に払うこと",
+      "大きな音を出さないようにすること"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Đọc thông báo sau và trả lời câu hỏi.\n\n(Thông báo chung cư về công trình xây dựng)\n\nCâu hỏi: Cư dân được yêu cầu làm gì?",
+    "answerExplanation": "Theo thông báo, cư dân được yêu cầu không phơi quần áo trên ban công trong thời gian thi công. Tìm mẫu yêu cầu お願いいたします (chúng tôi kính mong) để xác định điều cư dân cần làm.",
+    "hint": "Tìm phần chứa yêu cầu hoặc hướng dẫn cho cư dân (お願いいたします)",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n3_2_021",
+    "question": "雨が降ったら、試合は中止に___。",
+    "furigana": "雨[あめ]が降[ふ]ったら、試合[しあい]は中止[ちゅうし]に___。",
+    "romaji": "Ame ga futtara, shiai wa chuushi ni ___.",
+    "level": "N3",
+    "category": "GRAMMAR",
+    "options": [
+      "なる",
+      "する",
+      "ある",
+      "いる"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Nếu trời mưa, trận đấu sẽ bị hủy.",
+    "answerExplanation": "Mẫu câu '～ことになる/～になる' được dùng khi điều gì đó được quyết định bởi người khác hoặc hoàn cảnh, không phải ý chí bản thân. '中止になる' nghĩa là 'bị hủy' (quyết định không phải từ người nói). Khác với '中止にする' nghĩa là 'quyết định hủy' (quyết định chủ động). Ở đây, việc hủy xảy ra do mưa (hoàn cảnh).",
+    "hint": "Việc hủy xảy ra do hoàn cảnh (mưa), không phải quyết định cá nhân",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_2_022",
+    "question": "先生に作文を書き直さ___。",
+    "furigana": "先生[せんせい]に作文[さくぶん]を書[か]き直[なお]さ___。",
+    "romaji": "Sensei ni sakubun wo kakinaosa ___.",
+    "level": "N3",
+    "category": "GRAMMAR",
+    "options": [
+      "せた",
+      "された",
+      "れた",
+      "させた"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Tôi bị giáo viên bắt viết lại bài luận.",
+    "answerExplanation": "Mẫu câu bị động '～される/～られる' dùng để diễn đạt rằng chủ ngữ nhận hành động từ người khác. '書き直す' (viết lại) là động từ nhóm I, thể bị động: 書き直す → 書き直される → 書き直された (quá khứ). Cấu trúc: người thực hiện hành động + に + động từ bị động. 'させた' là thể sai khiến chủ động, không phải bị động.",
+    "hint": "Chủ ngữ (tôi) nhận hành động từ giáo viên - đây là thể bị động",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_2_023",
+    "question": "天気予報___、明日は台風が来るらしい。",
+    "furigana": "天気予報[てんきよほう]___、明日[あした]は台風[たいふう]が来[く]るらしい。",
+    "romaji": "Tenki yohou ___, ashita wa taifuu ga kuru rashii.",
+    "level": "N3",
+    "category": "GRAMMAR",
+    "options": [
+      "にとって",
+      "について",
+      "によると",
+      "に関して"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Theo dự báo thời tiết, ngày mai hình như sẽ có bão.",
+    "answerExplanation": "Mẫu câu '～によると' nghĩa là 'theo～' và dùng để nêu nguồn thông tin. Thường kết hợp với '～そうだ' hoặc '～らしい' ở cuối câu. 'にとって' = đối với, 'について' = về, 'に関して' = liên quan đến. Ví dụ khác: 'ニュースによると、事故があったらしい'.",
+    "hint": "Mẫu câu này nêu nguồn thông tin, thường kết hợp với ～らしい/～そうだ",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_2_024",
+    "question": "この薬を飲めば、熱が___はずだ。",
+    "furigana": "この薬[くすり]を飲[の]めば、熱[ねつ]が___はずだ。",
+    "romaji": "Kono kusuri wo nomeba, netsu ga ___ hazu da.",
+    "level": "N3",
+    "category": "VOCABULARY",
+    "options": [
+      "上がる",
+      "下がる",
+      "増える",
+      "続く"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Nếu uống thuốc này, sốt chắc sẽ hạ.",
+    "answerExplanation": "'下がる' (sagaru) nghĩa là hạ xuống. Trong ngữ cảnh này, '熱が下がる' nghĩa là 'sốt hạ'. Mẫu câu '～はずだ' thể hiện kỳ vọng dựa trên logic. '上がる' = lên (ngược lại), '増える' = tăng (số lượng), '続く' = tiếp tục. Cụm từ thường dùng: 熱が下がる, 値段が下がる, 温度が下がる.",
+    "hint": "Thuốc được uống để làm sốt giảm, không phải tăng",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_2_025",
+    "question": "海外旅行の___として、パスポートを更新した。",
+    "furigana": "海外旅行[かいがいりょこう]の___として、パスポートを更新[こうしん]した。",
+    "romaji": "Kaigai ryokou no ___ to shite, pasupooto wo koushin shita.",
+    "level": "N3",
+    "category": "VOCABULARY",
+    "options": [
+      "経験",
+      "準備",
+      "感想",
+      "結果"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Để chuẩn bị cho chuyến du lịch nước ngoài, tôi đã gia hạn hộ chiếu.",
+    "answerExplanation": "'準備' (junbi) có nghĩa là chuẩn bị. '海外旅行の準備として' = 'để chuẩn bị cho chuyến du lịch nước ngoài'. Gia hạn hộ chiếu là hành động chuẩn bị trước khi đi du lịch. '経験' (keiken) = kinh nghiệm, '感想' (kansou) = cảm tưởng, '結果' (kekka) = kết quả.",
+    "hint": "Hành động được thực hiện trước một sự kiện để đảm bảo mọi thứ sẵn sàng",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_2_026",
+    "question": "この問題は___なので、もう少し時間をください。",
+    "furigana": "この問題[もんだい]は___なので、もう少[すこ]し時間[じかん]をください。",
+    "romaji": "Kono mondai wa ___ na node, mou sukoshi jikan wo kudasai.",
+    "level": "N3",
+    "category": "VOCABULARY",
+    "options": [
+      "簡単",
+      "特別",
+      "複雑",
+      "普通"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Vấn đề này phức tạp nên xin hãy cho thêm thời gian.",
+    "answerExplanation": "'複雑' (fukuzatsu) có nghĩa là phức tạp. Phù hợp với ngữ cảnh xin thêm thời gian vì vấn đề khó. '簡単' (kantan) = dễ (ngược lại), '特別' (tokubetsu) = đặc biệt, '普通' (futsuu) = bình thường. Ví dụ khác: '複雑な手続き' (thủ tục phức tạp).",
+    "hint": "Từ này nghĩa là không đơn giản, có nhiều khía cạnh liên quan với nhau",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_2_027",
+    "question": "「連絡」の読み方は？",
+    "furigana": "「連絡[れんらく]」の読[よ]み方[かた]は？",
+    "romaji": "'Renraku' no yomikata wa?",
+    "level": "N3",
+    "category": "KANJI",
+    "options": [
+      "れんらく",
+      "れんらつ",
+      "でんらく",
+      "れんかく"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Cách đọc '連絡' là gì?",
+    "answerExplanation": "'連絡' đọc là 'れんらく' (renraku) nghĩa là liên lạc. Kanji 連 đọc là れん (ren = nối) và 絡 đọc là らく (raku = kết nối). Ví dụ: '連絡先' (thông tin liên lạc), '連絡を取る' (liên hệ). Đây là từ rất thường dùng trong cuộc sống hàng ngày và công việc.",
+    "hint": "Ren + raku. Từ rất thường dùng để liên lạc với ai đó",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_2_028",
+    "question": "「説明」の読み方は？",
+    "furigana": "「説明[せつめい]」の読[よ]み方[かた]は？",
+    "romaji": "'Setsumei' no yomikata wa?",
+    "level": "N3",
+    "category": "KANJI",
+    "options": [
+      "せつめい",
+      "せつみょう",
+      "ぜつめい",
+      "せつめ"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Cách đọc '説明' là gì?",
+    "answerExplanation": "'説明' đọc là 'せつめい' (setsumei) nghĩa là giải thích. Kanji 説 đọc là せつ (setsu = giải thích) và 明 đọc là めい (mei = sáng/rõ). Ví dụ: '説明する' (giải thích), '説明書' (sách hướng dẫn). Đừng đọc nhầm 明 thành 'myou'. Trong từ này đọc là 'mei'.",
+    "hint": "Setsu + mei. Hành động làm cho điều gì đó rõ ràng và dễ hiểu",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_2_029",
+    "question": "次の文章を読んで、質問に答えてください。\n\n日本では、電車の中で携帯電話で話すことはマナー違反とされています。しかし、メッセージを送ったり、音を消してゲームをしたりすることは問題ありません。また、優先席の近くでは携帯電話の電源を切るように言われていましたが、最近ではマナーモードにすればよいとされています。ただし、病院の中では今でも携帯電話の使用が制限されている場所があります。\n\n質問：日本の電車の中で、してはいけないことは何ですか？",
+    "furigana": "次[つぎ]の文章[ぶんしょう]を読[よ]んで、質問[しつもん]に答[こた]えてください。\n\n日本[にほん]では、電車[でんしゃ]の中[なか]で携帯電話[けいたいでんわ]で話[はな]すことはマナー違反[いはん]とされています。しかし、メッセージを送[おく]ったり、音[おと]を消[け]してゲームをしたりすることは問題[もんだい]ありません。また、優先席[ゆうせんせき]の近[ちか]くでは携帯電話[けいたいでんわ]の電源[でんげん]を切[き]るように言[い]われていましたが、最近[さいきん]ではマナーモードにすればよいとされています。ただし、病院[びょういん]の中[なか]では今[いま]でも携帯電話[けいたいでんわ]の使用[しよう]が制限[せいげん]されている場所[ばしょ]があります。\n\n質問[しつもん]：日本[にほん]の電車[でんしゃ]の中[なか]で、してはいけないことは何[なん]ですか？",
+    "romaji": "Tsugi no bunshou wo yonde, shitsumon ni kotaete kudasai. (Passage about phone manners) Shitsumon: Nihon no densha no naka de, shite wa ikenai koto wa nan desu ka?",
+    "level": "N3",
+    "category": "READING",
+    "options": [
+      "メッセージを送ること",
+      "携帯電話で話すこと",
+      "音を消してゲームをすること",
+      "マナーモードにすること"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Hãy đọc đoạn văn sau và trả lời câu hỏi.\n\nỞ Nhật Bản, việc nói chuyện điện thoại trên tàu bị coi là vi phạm phép lịch sự. Tuy nhiên, việc gửi tin nhắn hoặc chơi game với âm thanh tắt không thành vấn đề. Ngoài ra, trước đây phải tắt nguồn điện thoại gần ghế ưu tiên, nhưng gần đây chỉ cần bật chế độ im lặng.\n\nCâu hỏi: Điều gì không nên làm trên tàu ở Nhật Bản?",
+    "answerExplanation": "Câu đầu tiên nêu rằng '電車の中で携帯電話で話すこと' (nói chuyện điện thoại trên tàu) là 'マナー違反' (vi phạm phép lịch sự). Đáp án A và C được nêu rõ là 'không thành vấn đề' (問題ありません). Đáp án D là điều được khuyến khích, không phải bị cấm.",
+    "hint": "Tìm từ 'マナー違反' (vi phạm phép lịch sự) để tìm điều không nên làm",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_2_030",
+    "question": "次の文章を読んで、質問に答えてください。\n\n山田さんは毎朝6時に起きて、近くの公園でジョギングをしています。雨の日は走れないので、代わりに家でストレッチをします。山田さんがジョギングを始めたのは3年前で、最初は10分しか走れませんでしたが、今では1時間走れるようになりました。山田さんは「健康のためにも、ストレスを減らすためにも、運動はとても大切です」と言っています。\n\n質問：山田さんは雨の日にどうしますか？",
+    "furigana": "次[つぎ]の文章[ぶんしょう]を読[よ]んで、質問[しつもん]に答[こた]えてください。\n\n山田[やまだ]さんは毎朝[まいあさ]6時[ろくじ]に起[お]きて、近[ちか]くの公園[こうえん]でジョギングをしています。雨[あめ]の日[ひ]は走[はし]れないので、代[か]わりに家[いえ]でストレッチをします。山田[やまだ]さんがジョギングを始[はじ]めたのは3年前[さんねんまえ]で、最初[さいしょ]は10分[じゅっぷん]しか走[はし]れませんでしたが、今[いま]では1時間[いちじかん]走[はし]れるようになりました。山田[やまだ]さんは「健康[けんこう]のためにも、ストレスを減[へ]らすためにも、運動[うんどう]はとても大切[たいせつ]です」と言[い]っています。\n\n質問[しつもん]：山田[やまだ]さんは雨[あめ]の日[ひ]にどうしますか？",
+    "romaji": "Tsugi no bunshou wo yonde, shitsumon ni kotaete kudasai. (Passage about exercise) Shitsumon: Yamada-san wa ame no hi ni dou shimasu ka?",
+    "level": "N3",
+    "category": "READING",
+    "options": [
+      "公園でジョギングをする",
+      "何も運動しない",
+      "家でストレッチをする",
+      "1時間走る"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Hãy đọc đoạn văn sau và trả lời câu hỏi.\n\nYamada-san thức dậy lúc 6 giờ mỗi sáng và chạy bộ ở công viên gần nhà. Vào ngày mưa không thể chạy nên thay vào đó tập giãn cơ ở nhà. Yamada-san bắt đầu chạy bộ từ 3 năm trước, lúc đầu chỉ chạy được 10 phút nhưng bây giờ đã có thể chạy 1 tiếng.\n\nCâu hỏi: Yamada-san làm gì vào ngày mưa?",
+    "answerExplanation": "Đoạn văn nêu '雨の日は走れないので、代わりに家でストレッチをします' (vào ngày mưa không thể chạy nên thay vào đó tập giãn cơ ở nhà). Đáp án A sai vì chạy bộ là vào ngày thường. Đáp án B sai vì cô ấy vẫn tập. Đáp án D mô tả khả năng hiện tại, không phải hoạt động ngày mưa.",
+    "hint": "Tìm câu bắt đầu bằng '雨の日は' (vào ngày mưa)",
+    "difficultyScore": 3
+  }
+]

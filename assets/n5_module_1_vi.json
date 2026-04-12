@@ -1,0 +1,382 @@
+[
+  {
+    "id": "question_n5_1_001",
+    "question": "あした　デパート___　行きます。",
+    "furigana": "明日[あした]　デパート___　行[い]きます。",
+    "romaji": "Ashita depaato ___ ikimasu.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "が",
+      "へ",
+      "を",
+      "で"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Ngày mai tôi sẽ đi đến cửa hàng bách hóa.",
+    "answerExplanation": "Trợ từ 'へ (e)' chỉ hướng hoặc đích đến của sự di chuyển — nơi ai đó đang đi đến. 'で' chỉ nơi diễn ra hoạt động (không phải đích đến của chuyến đi), 'が' là trợ từ chỉ chủ ngữ, 'を' là trợ từ chỉ tân ngữ trực tiếp. Chỉ có 'へ' phù hợp sau tên địa điểm đích đến + động từ 行く.",
+    "hint": "Chọn trợ từ chỉ HƯỚNG hoặc ĐÍCH ĐẾN của chuyến đi",
+    "difficultyScore": 1
+  },
+  {
+    "id": "question_n5_1_002",
+    "question": "毎日　コーヒーを　___　飲みます。",
+    "furigana": "毎日[まいにち]　コーヒーを　___　飲[の]みます。",
+    "romaji": "Mainichi koohii o ___ nomimasu.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "二本",
+      "二枚",
+      "二杯",
+      "二冊"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Mỗi ngày tôi uống hai tách cà phê.",
+    "answerExplanation": "'杯 (hai/bai)' là trợ số dùng riêng cho đồ uống trong ly, tách hoặc bát. '本 (hon)' dùng cho vật dài/hình trụ như chai hoặc bút chì, '枚 (mai)' dùng cho vật mỏng, phẳng như giấy hoặc đĩa, '冊 (satsu)' dùng cho sách đóng gáy. Cà phê được uống từ tách, nên trợ số đúng là 杯.",
+    "hint": "Trợ số dùng cho đồ uống rót vào ly hoặc tách",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_1_003",
+    "question": "きのう、図書館で　本を　___。",
+    "furigana": "昨日[きのう]、図書館[としょかん]で　本[ほん]を　___。",
+    "romaji": "Kinou, toshokan de hon o ___.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "読みます",
+      "読みたいです",
+      "読んでいます",
+      "読みました"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "Hôm qua tôi đã đọc sách ở thư viện.",
+    "answerExplanation": "Từ 'きのう (hôm qua)' chỉ thời gian quá khứ, nên phải dùng thể lịch sự quá khứ ～ました. '読みます' = thói quen hoặc kế hoạch tương lai, '読みたいです' = muốn đọc (mong muốn, chưa thực hiện), '読んでいます' = đang đọc hiện tại. Chỉ có '読みました' chỉ hành động đã hoàn thành trong quá khứ.",
+    "hint": "Chú ý từ 'きのう' ở đầu câu — đó là dấu hiệu thời quá khứ, nên động từ phải ở thể quá khứ",
+    "difficultyScore": 1
+  },
+  {
+    "id": "question_n5_1_004",
+    "question": "「花」の　読み方は　何ですか。",
+    "furigana": "「花」の　読[よ]み方[かた]は　何[なん]ですか。",
+    "romaji": "'Hana' no yomikata wa nan desu ka.",
+    "level": "N5",
+    "category": "KANJI",
+    "options": [
+      "はな",
+      "はし",
+      "かさ",
+      "くさ"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Cách đọc chữ Hán '花' là gì?",
+    "answerExplanation": "Chữ Hán '花' đọc là 'はな (hana)' và có nghĩa là hoa. Chữ Hán này có bộ 艹 (cỏ) ở trên và 化 ở dưới. Các lựa chọn khác: 'はし (hashi)' = 橋 cầu / 箸 đũa, 'かさ (kasa)' = 傘 ô/dù, 'くさ (kusa)' = 草 cỏ.",
+    "hint": "Chữ Hán này có bộ thực vật (艹) ở trên — hãy nghĩ đến thứ gì đó đẹp từ cây cối",
+    "difficultyScore": 1
+  },
+  {
+    "id": "question_n5_1_005",
+    "question": "田中さんは　毎朝　公園___　走ります。",
+    "furigana": "田中[たなか]さんは　毎朝[まいあさ]　公園[こうえん]___　走[はし]ります。",
+    "romaji": "Tanaka-san wa maiasa kouen ___ hashirimasu.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "に",
+      "へ",
+      "を",
+      "で"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "Tanaka-san chạy bộ ở công viên mỗi sáng.",
+    "answerExplanation": "Trợ từ 'で' chỉ nơi mà một hoạt động được thực hiện. Tanaka chạy bộ Ở công viên, không phải đến công viên. 'に' chỉ điểm tồn tại (ở tại) hoặc đích đến, 'へ' chỉ hướng di chuyển, 'を' chỉ tân ngữ trực tiếp hoặc tuyến đường đi qua. Để diễn tả địa điểm của hoạt động chạy bộ, 'で' là đúng.",
+    "hint": "Hãy nghĩ đến trợ từ chỉ ĐỊA ĐIỂM nơi một hoạt động được thực hiện",
+    "difficultyScore": 1
+  },
+  {
+    "id": "question_n5_1_006",
+    "question": "ご飯を　___　前に、手を洗います。",
+    "furigana": "ご飯[はん]を　___　前[まえ]に、手[て]を洗[あら]います。",
+    "romaji": "Gohan o ___ mae ni, te o araimasu.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "食べた",
+      "食べる",
+      "食べて",
+      "食べない"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Trước khi ăn, tôi rửa tay.",
+    "answerExplanation": "Mẫu câu 'trước khi làm X' trong tiếng Nhật: Động từ thể từ điển + 前に. '食べる' là thể từ điển của 食べます. '食べた' = thể quá khứ (dùng với ～後で không phải ～前に), '食べて' = thể te (để nối câu), '食べない' = thể phủ định. Chỉ có thể từ điển được dùng trước 前に.",
+    "hint": "Trước 前に luôn dùng thể động từ cơ bản nhất — thể kết thúc bằng ~る hoặc ~う",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_1_007",
+    "question": "「財布」の意味は？",
+    "furigana": "「財布[さいふ]」の意味[いみ]は？",
+    "romaji": "'Saifu' no imi wa?",
+    "level": "N5",
+    "category": "VOCABULARY",
+    "options": [
+      "Phong bì",
+      "Ví",
+      "Túi đeo chéo",
+      "Hộp bút chì"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Nghĩa của '財布 (さいふ)' là gì?",
+    "answerExplanation": "'財布 (saifu)' có nghĩa là ví — vật nhỏ dùng để đựng tiền, thẻ và hóa đơn. Chữ Hán '財' nghĩa là tài sản/của cải, và '布' nghĩa là vải, nghĩa đen mô tả 'vải đựng tài sản' hay túi nhỏ đựng đồ quý. Các từ khác: 'ふうとう (fuutou)' = phong bì, 'ショルダーバッグ' = túi đeo vai, 'ふでばこ (fudebako)' = hộp bút.",
+    "hint": "Vật nhỏ bạn thường mở khi muốn thanh toán tại quầy — nơi cất tiền và thẻ",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_1_008",
+    "question": "この　りんごは　あの　りんご___　大きいです。",
+    "furigana": "この　りんごは　あの　りんご___　大[おお]きいです。",
+    "romaji": "Kono ringo wa ano ringo ___ ookii desu.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "から",
+      "まで",
+      "より",
+      "ほど"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Quả táo này to hơn quả táo kia.",
+    "answerExplanation": "Trợ từ 'より' được dùng để so sánh hai thứ (so sánh hơn). Mẫu câu: A は B より ～ (A ～ hơn B). 'から' = từ (điểm bắt đầu thời gian/nơi chốn), 'まで' = đến (điểm kết thúc), 'ほど' = bằng/đến mức (dùng trong câu phủ định: ～ほど～ない). Trợ từ đúng cho so sánh trực tiếp là 'より'.",
+    "hint": "Trợ từ này được dùng để diễn tả so sánh — 'hơn ... so với'",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_1_009",
+    "question": "「曇り」の意味は？",
+    "furigana": "「曇[くも]り」の意味[いみ]は？",
+    "romaji": "'Kumori' no imi wa?",
+    "level": "N5",
+    "category": "VOCABULARY",
+    "options": [
+      "Nhiều mây",
+      "Mưa lớn",
+      "Nhiều gió",
+      "Trời quang"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Nghĩa của '曇り (くもり)' là gì?",
+    "answerExplanation": "'曇り (kumori)' có nghĩa là nhiều mây hoặc u ám — tình trạng bầu trời bị mây che phủ nên không thấy rõ mặt trời. Từ này bắt nguồn từ '雲 (くも/kumo)' nghĩa là mây, cộng thêm hậu tố ～り để biến thành tính từ/trạng thái thời tiết. Các từ thời tiết khác: '大雨 (ooame)' = mưa lớn, '晴れ (hare)' = nắng/quang đãng, '風 (kaze)' = gió.",
+    "hint": "Chú ý phần đầu của từ này: 'くも' trong tiếng Nhật nghĩa là mây — hãy nghĩ đến tình trạng thời tiết liên quan đến mây",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_1_010",
+    "question": "私は　友達に　プレゼントを　___。",
+    "furigana": "私[わたし]は　友達[ともだち]に　プレゼントを　___。",
+    "romaji": "Watashi wa tomodachi ni purezento o ___.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "もらいました",
+      "くれました",
+      "あげました",
+      "かいました"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Tôi đã tặng quà cho bạn.",
+    "answerExplanation": "Mấu chốt: xác định AI là người cho và AI là người nhận. Chủ ngữ '私は (tôi)' = người cho, '友達に (cho bạn)' = người nhận → tôi cho bạn = あげました. 'もらいました' = tôi nhận từ người khác (hướng ngược lại). 'くれました' = người khác cho tôi (hướng ngược lại). 'かいました' = mua (không phải cho). Chỉ có 'あげました' chỉ việc cho từ tôi đến người khác.",
+    "hint": "Chú ý hướng của việc cho: 私は = người cho, 友達に = người nhận. Chọn động từ nghĩa là 'cho từ tôi đến người khác'",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_1_011",
+    "question": "学校___　バスで　行きます。",
+    "furigana": "学校[がっこう]___　バスで　行[い]きます。",
+    "romaji": "Gakkou ___ basu de ikimasu.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "を",
+      "で",
+      "まで",
+      "から"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Tôi đi đến trường bằng xe buýt.",
+    "answerExplanation": "Trợ từ 'まで' chỉ điểm cuối hoặc giới hạn đích đến (đến ~). 'を' là trợ từ chỉ tân ngữ trực tiếp, 'で' chỉ phương tiện/công cụ hoặc nơi hoạt động — trong câu này 'バスで' đã dùng 'で' cho phương tiện, 'から' chỉ điểm bắt đầu (từ ~). Trợ từ đúng để đánh dấu đích đến cuối cùng của chuyến đi là 'まで'.",
+    "hint": "Trợ từ này chỉ điểm cuối hoặc giới hạn — 'đến đâu'",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_1_012",
+    "question": "「難しい」の　反対は　何ですか。",
+    "furigana": "「難[むずか]しい」の　反対[はんたい]は　何[なん]ですか。",
+    "romaji": "'Muzukashii' no hantai wa nan desu ka.",
+    "level": "N5",
+    "category": "VOCABULARY",
+    "options": [
+      "おもしろい",
+      "やさしい",
+      "たのしい",
+      "かわいい"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Từ trái nghĩa của '難しい (khó)' là gì?",
+    "answerExplanation": "'難しい (muzukashii)' có nghĩa là khó. Từ trái nghĩa của nó là 'やさしい (yasashii)' trong ngữ cảnh này có nghĩa là dễ (易しい). 'おもしろい' = thú vị/hài hước, 'たのしい' = vui vẻ, 'かわいい' = dễ thương. Chỉ có 'やさしい' là từ trái nghĩa của 'khó'.",
+    "hint": "Hãy nghĩ đến từ trái nghĩa của 'khó' trong ngữ cảnh thi cử hoặc bài học — từ này cũng có thể có nghĩa là 'tử tế/dịu dàng' trong ngữ cảnh khác",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_1_013",
+    "question": "ここに　名前を　___　ください。",
+    "furigana": "ここに　名前[なまえ]を　___　ください。",
+    "romaji": "Koko ni namae o ___ kudasai.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "書く",
+      "書き",
+      "書いた",
+      "書いて"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "Vui lòng viết tên của bạn ở đây.",
+    "answerExplanation": "Mẫu câu yêu cầu lịch sự trong tiếng Nhật: Động từ thể Te + ください. 書く (kaku) → thể te = 書いて (kaite) + ください = xin hãy viết. '書く' = thể từ điển (không có ください không thành yêu cầu lịch sự), '書き' = chỉ gốc masu, '書いた' = thể quá khứ thường. Chỉ có thể te được dùng trước ください.",
+    "hint": "Trước ください luôn dùng thể て (thể te) của động từ",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_1_014",
+    "question": "私は　音楽が　___　です。",
+    "furigana": "私[わたし]は　音楽[おんがく]が　___　です。",
+    "romaji": "Watashi wa ongaku ga ___ desu.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "好き",
+      "上手",
+      "欲しい",
+      "ほしい"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Tôi thích âm nhạc.",
+    "answerExplanation": "Mẫu câu ～は ～が 好きです được dùng để diễn tả sự yêu thích. '好き (suki)' = thích, phù hợp với mẫu câu này. '上手 (jouzu)' = giỏi/thành thạo (mô tả khả năng, không phải cảm xúc), '欲しい (hoshii)' = muốn có vật chất (không dùng cho sở thích). Lưu ý: '欲しい' và 'ほしい' là cùng một từ — cả hai đều sai ở đây vì âm nhạc không phải thứ 'muốn có' trong ngữ cảnh này.",
+    "hint": "Câu này diễn tả CẢM GIÁC thích âm nhạc — không phải khả năng hay mong muốn sở hữu",
+    "difficultyScore": 1
+  },
+  {
+    "id": "question_n5_1_015",
+    "question": "この　スープは　___そうです。",
+    "furigana": "この　スープは　___そうです。",
+    "romaji": "Kono suupu wa ___ sou desu.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "おいしい",
+      "おいしく",
+      "おいし",
+      "おいしくて"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Món súp này trông có vẻ ngon.",
+    "answerExplanation": "Mẫu câu 'trông có vẻ ~' với tính từ đuôi i: bỏ đuôi 'い' rồi thêm そうです. おいしい → おいし + そうです = おいしそうです. 'おいしい' = dạng đầy đủ (không thể trực tiếp + そう), 'おいしく' = dạng trạng từ, 'おいしくて' = thể te của tính từ đuôi i. Chỉ có gốc từ không có い được dùng trước そうです.",
+    "hint": "Với mẫu ～そうです dùng tính từ đuôi i, BẮT BUỘC phải bỏ đuôi い trước: おいしい → おいし → おいしそうです",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_1_016",
+    "question": "先生は　今　教室に　___。",
+    "furigana": "先生[せんせい]は　今[いま]　教室[きょうしつ]に　___。",
+    "romaji": "Sensei wa ima kyoushitsu ni ___.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "あります",
+      "います",
+      "です",
+      "します"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Giáo viên hiện đang ở trong lớp học.",
+    "answerExplanation": "Để diễn tả sự tồn tại của sinh vật sống (người, động vật), dùng 'います (imasu)'. 'あります (arimasu)' dùng cho vật vô tri. '先生 (sensei)' là người → phải dùng います. 'です' = là (không diễn tả sự tồn tại ở một nơi), 'します' = làm (động từ hành động).",
+    "hint": "先生 là con người — chọn động từ tồn tại dành riêng cho sinh vật sống",
+    "difficultyScore": 1
+  },
+  {
+    "id": "question_n5_1_017",
+    "question": "「飲み物」の　意味は　何ですか。",
+    "furigana": "「飲[の]み物[もの]」の　意味[いみ]は　何[なん]ですか。",
+    "romaji": "'Nomimono' no imi wa nan desu ka.",
+    "level": "N5",
+    "category": "VOCABULARY",
+    "options": [
+      "Thức ăn",
+      "Đồ ăn vặt",
+      "Gia vị",
+      "Đồ uống"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "Nghĩa của '飲み物 (のみもの)' là gì?",
+    "answerExplanation": "'飲み物 (nomimono)' bắt nguồn từ '飲む (nomu = uống)' + '物 (mono = vật/thứ gì đó)'. Vậy nghĩa là 'thứ được uống' = Đồ uống. So sánh với mẫu tương tự: '食べ物 (tabemono)' = thức ăn (thứ được ăn), '買い物 (kaimono)' = mua sắm (thứ được mua).",
+    "hint": "Tách từ này ra: 飲み = từ động từ 'uống', 物 = vật. Kết hợp các nghĩa lại.",
+    "difficultyScore": 1
+  },
+  {
+    "id": "question_n5_1_018",
+    "question": "雨が　降りますから、傘を　___。",
+    "furigana": "雨[あめ]が　降[ふ]りますから、傘[かさ]を　___。",
+    "romaji": "Ame ga furimasu kara, kasa o ___.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "持ちましょう",
+      "持ちたいです",
+      "持ちません",
+      "持ちます"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Vì trời mưa, hãy mang theo ô đi.",
+    "answerExplanation": "Ngữ cảnh của câu này là lời mời/rủ: vì trời mưa → hãy mang ô đi. '持ちましょう (mochimashō)' = hãy mang (lời rủ/let's ~), phù hợp như phản ứng hợp lý với lý do 'trời mưa'. '持ちたいです' = muốn mang (diễn tả mong muốn cá nhân, không phải lời rủ), '持ちません' = không mang (mâu thuẫn với logic câu — mưa thì nên mang ô), '持ちます' = sẽ mang (phát biểu trung tính, kém phù hợp vì câu mang tính rủ rê).",
+    "hint": "Vì trời mưa, người nói đang RỦ người nghe — dùng thể rủ rê ～ましょう",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_1_019",
+    "question": "「重い」の意味は？",
+    "furigana": "「重[おも]い」の意味[いみ]は？",
+    "romaji": "'Omoi' no imi wa?",
+    "level": "N5",
+    "category": "VOCABULARY",
+    "options": [
+      "Nhẹ",
+      "Mỏng",
+      "Nặng",
+      "Dày"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Nghĩa của '重い (おもい)' là gì?",
+    "answerExplanation": "'重い (omoi)' có nghĩa là nặng — mô tả thứ gì đó có khối lượng lớn hoặc khó nhấc. Từ trái nghĩa là '軽い (karui)' = nhẹ. Các tính từ khác: '薄い (usui)' = mỏng, '厚い (atsui)' = dày. Đừng nhầm với '思い (omoi)' nghĩa là suy nghĩ/cảm xúc — chữ Hán khác nhau.",
+    "hint": "Hãy tưởng tượng nhấc một thứ gì đó rất khó nhấc — tính từ nào mô tả nó?",
+    "difficultyScore": 1
+  },
+  {
+    "id": "question_n5_1_020",
+    "question": "部屋が　きれい___、広いです。",
+    "furigana": "部屋[へや]が　きれい___、広[ひろ]いです。",
+    "romaji": "Heya ga kirei ___, hiroi desu.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "くて",
+      "で",
+      "な",
+      "に"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Căn phòng sạch sẽ và rộng rãi.",
+    "answerExplanation": "'きれい' trông giống tính từ đuôi i vì kết thúc bằng い, nhưng thực ra là tính từ đuôi na. Để nối tính từ đuôi na với mô tả khác (thể te), dùng 'で': きれいで + 広いです = sạch VÀ rộng. 'くて' = thể te chỉ dùng cho tính từ đuôi i (ví dụ: 大きくて), 'な' = dùng trước danh từ (きれいな部屋), 'に' = trở thành trạng từ chỉ cách thức (きれいに掃除する).",
+    "hint": "きれい là tính từ đuôi NA mặc dù kết thúc bằng い. Thể te của tính từ đuôi na = thêm 'で'",
+    "difficultyScore": 2
+  }
+]

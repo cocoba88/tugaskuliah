@@ -1,0 +1,382 @@
+[
+  {
+    "id": "question_n4_1_001",
+    "question": "明日、雨が___たら、行きません。",
+    "furigana": "明日[あした]、雨[あめ]が___たら、行[い]きません。",
+    "romaji": "Ashita, ame ga ___ tara, ikimasen.",
+    "level": "N4",
+    "category": "GRAMMAR",
+    "options": [
+      "ふる",
+      "ふり",
+      "ふれ",
+      "ふっ"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "Ngày mai, nếu trời mưa thì tôi sẽ không đi.",
+    "answerExplanation": "Mẫu câu ~たら (tara) được tạo từ dạng ta-form của động từ. '降る' (furu) là động từ nhóm u kết thúc bằng '-る' (sau phụ âm). Quy tắc chia: う/つ/る → った. Vì vậy 降る → 降った → phần trước 'たら' là 'ふっ'. Các lựa chọn khác: 'ふる' = dạng từ điển, 'ふり' = gốc masu, 'ふれ' = dạng mệnh lệnh/điều kiện え.",
+    "hint": "Mẫu câu ~たら yêu cầu dạng ta-form. Với động từ nhóm u kết thúc bằng う/つ/る, quy tắc là: → った. Vì vậy 降る → 降っ + たら.",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_1_002",
+    "question": "「見つかる」はどういう意味ですか？",
+    "furigana": "「見[み]つかる」はどういう意味[いみ]ですか？",
+    "romaji": "'Mitsukaru' wa dou iu imi desu ka?",
+    "level": "N4",
+    "category": "VOCABULARY",
+    "options": [
+      "Quan sát kỹ",
+      "Được tìm thấy",
+      "Trông thấy / có vẻ",
+      "Tìm kiếm / tra cứu"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "'見つかる' có nghĩa là gì?",
+    "answerExplanation": "'見つかる' (mitsukaru) là nội động từ có nghĩa là 'được tìm thấy / xuất hiện' — thứ gì đó bị mất hoặc đang được tìm kiếm cuối cùng đã có. Ví dụ: '鍵が見つかった' (Chìa khóa đã được tìm thấy). Lựa chọn A 'quan sát kỹ' sai (gần nghĩa hơn với '見つめる'). Lựa chọn C 'có thể nhìn thấy' sai (đó là '見える'). Lựa chọn D 'tìm kiếm' sai (đó là '探す'). Tất cả đều liên quan đến hoạt động thị giác, nhưng nghĩa khác nhau.",
+    "hint": "Từ này là nội động từ (自動詞) — chủ ngữ không phải người thực hiện hành động, mà là vật 'xuất hiện' hoặc 'có ở đó'. Hãy nghĩ đến tình huống khi một món đồ bị mất bỗng nhiên được tìm thấy.",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_1_003",
+    "question": "日曜日に友だちと映画を___つもりです。",
+    "furigana": "日曜日[にちようび]に友[とも]だちと映画[えいが]を___つもりです。",
+    "romaji": "Nichiyoubi ni tomodachi to eiga o ___ tsumori desu.",
+    "level": "N4",
+    "category": "GRAMMAR",
+    "options": [
+      "見た",
+      "見て",
+      "見る",
+      "見よう"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Tôi dự định xem phim với bạn vào Chủ nhật.",
+    "answerExplanation": "Mẫu câu '~つもりです' (tsumori desu) diễn đạt kế hoạch/ý định và yêu cầu dạng từ điển đứng trước nó. '見る' (miru) đã ở dạng từ điển, nên thành '見るつもりです'. Các lựa chọn khác: '見た' = dạng quá khứ, '見て' = dạng te, '見よう' = dạng ý chí — không cái nào được dùng trước 'つもり'.",
+    "hint": "Mẫu câu ~つもりです (dự định ~) yêu cầu dạng từ điển của động từ đứng trước つもり.",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_1_004",
+    "question": "「暖かい」の正しい読み方は？",
+    "furigana": "「暖[あたた]かい」の正[ただ]しい読[よ]み方[かた]は？",
+    "romaji": "'Atatakai' no tadashii yomikata wa?",
+    "level": "N4",
+    "category": "KANJI",
+    "options": [
+      "あつかい",
+      "あたたかい",
+      "あたらかい",
+      "あったかい"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Cách đọc đúng của '暖かい' là gì?",
+    "answerExplanation": "'暖かい' được đọc là 'あたたかい' (atatakai) có nghĩa là 'ấm áp' (cho thời tiết/nhiệt độ không khí). Đừng nhầm với: 'あつかい' không phải từ chuẩn, 'あたらかい' không tồn tại trong tiếng Nhật, và 'あったかい' là dạng nói thân mật của あたたかい nhưng không phải cách đọc kanji chuẩn.",
+    "hint": "Kanji 暖 liên quan đến sự ấm áp. Cách đọc của nó bao gồm âm tiết 'た' được lặp lại.",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_1_005",
+    "question": "父は大学で___います。",
+    "furigana": "父[ちち]は大学[だいがく]で___います。",
+    "romaji": "Chichi wa daigaku de ___ imasu.",
+    "level": "N4",
+    "category": "GRAMMAR",
+    "options": [
+      "はたらく",
+      "はたらき",
+      "はたらいて",
+      "はたらか"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Bố tôi làm việc ở trường đại học.",
+    "answerExplanation": "Mẫu câu '~ています' (te imasu) yêu cầu dạng te của động từ. '働く' (hataraku) là động từ nhóm u kết thúc bằng 'く', nên dạng te là: く → いて → '働いて' (hataraite). Sau đó nối với 'います'. Các lựa chọn khác: 'はたらく' = dạng từ điển, 'はたらき' = gốc masu, 'はたらか' = gốc dạng nai.",
+    "hint": "Mẫu câu ~ている yêu cầu dạng te. Với động từ nhóm u kết thúc bằng く, quy tắc là: く → いて. Vì vậy 働く → 働いて + います.",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_1_006",
+    "question": "映画が終わった___、家へ帰りました。",
+    "furigana": "映画[えいが]が終[お]わった___、家[いえ]へ帰[かえ]りました。",
+    "romaji": "Eiga ga owatta ___, ie e kaerimashita.",
+    "level": "N4",
+    "category": "GRAMMAR",
+    "options": [
+      "まえに",
+      "あとで",
+      "あいだに",
+      "ながら"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Sau khi bộ phim kết thúc, tôi đã về nhà.",
+    "answerExplanation": "'~たあとで' có nghĩa là 'sau khi làm ~'. Mẫu câu này được dùng sau dạng ta để diễn đạt trình tự sự kiện. 'まえに' (trước khi) dùng với dạng từ điển, không phải dạng ta. 'あいだに' (trong khi) diễn đạt điều gì đó xảy ra giữa hoạt động khác. 'ながら' (vừa...vừa) diễn đạt hai hành động đồng thời. Vì 'owatta' đã ở dạng ta, chỉ có 'あとで' phù hợp.",
+    "hint": "Động từ đã ở dạng quá khứ (ta-form). Từ nối nào có nghĩa 'sau đó' và phù hợp sau dạng ta?",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_1_007",
+    "question": "「つもり」の意味は？",
+    "furigana": "「つもり」の意味[いみ]は？",
+    "romaji": "'Tsumori' no imi wa?",
+    "level": "N4",
+    "category": "VOCABULARY",
+    "options": [
+      "Dự định / có ý định",
+      "Thói quen / nếp thường",
+      "Kinh nghiệm / từng làm",
+      "Nghĩa vụ / phải"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "'つもり' có nghĩa là gì?",
+    "answerExplanation": "'つもり' (tsumori) có nghĩa là 'dự định' hoặc 'có kế hoạch'. Mẫu câu này được dùng sau dạng từ điển của động từ để diễn đạt ý định/kế hoạch. Ví dụ: 来年、日本に行くつもりです (Năm sau, tôi dự định đi Nhật Bản). Các lựa chọn khác — thói quen, kinh nghiệm, nghĩa vụ — đề cập đến các mẫu ngữ pháp khác như ことがある, なければならない, v.v.",
+    "hint": "'つもり' là từ phụ trợ thường xuất hiện ở trình độ N4, được dùng sau dạng từ điển của động từ để diễn đạt ý định hoặc kế hoạch của ai đó.",
+    "difficultyScore": 1
+  },
+  {
+    "id": "question_n4_1_008",
+    "question": "私は日本語が少し___話せません。",
+    "furigana": "私[わたし]は日本語[にほんご]が少[すこ]し___話[はな]せません。",
+    "romaji": "Watashi wa nihongo ga sukoshi ___ hanasemasen.",
+    "level": "N4",
+    "category": "GRAMMAR",
+    "options": [
+      "だけ",
+      "しか",
+      "ほど",
+      "でも"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Tôi chỉ có thể nói tiếng Nhật một chút thôi.",
+    "answerExplanation": "'しか~ない' là mẫu câu có nghĩa 'chỉ ~ thôi (và không hơn)'. Đặc điểm chính: しか BẮT BUỘC phải theo sau bởi dạng phủ định. Câu này kết thúc bằng '話せません' (phủ định), nên しか phù hợp. So sánh với 'だけ' cũng có nghĩa 'chỉ' nhưng theo sau bởi dạng khẳng định: '少しだけ話せます'. 'ほど' = đến mức/khoảng, 'でも' = ngay cả/cũng — cả hai không phù hợp ngữ pháp ở đây.",
+    "hint": "Vị ngữ của câu này là PHỦ ĐỊNH (話せません). Chỉ có một trợ từ trong các lựa chọn BẮT BUỘC phải đi kèm với dạng phủ định.",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n4_1_009",
+    "question": "日本に___ことがあります。",
+    "furigana": "日本[にほん]に___ことがあります。",
+    "romaji": "Nihon ni ___ koto ga arimasu.",
+    "level": "N4",
+    "category": "GRAMMAR",
+    "options": [
+      "行く",
+      "行った",
+      "行って",
+      "行き"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Tôi đã từng đến Nhật Bản.",
+    "answerExplanation": "Mẫu câu ~たことがある (ta koto ga aru) được dùng để diễn đạt kinh nghiệm — 'đã từng làm ~'. Động từ trước ことがある phải ở dạng ta (quá khứ). '行く' (iku) → dạng ta: '行った' (itta). Các lựa chọn khác: '行く' = dạng từ điển, '行って' = dạng te, '行き' = gốc masu.",
+    "hint": "Mẫu câu ~たことがある diễn đạt kinh nghiệm. Động từ trước ことがある phải ở dạng quá khứ (ta-form).",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_1_010",
+    "question": "この漢字「届」の読み方は？「届ける」",
+    "furigana": "この漢字[かんじ]「届」の読[よ]み方[かた]は？「届[とど]ける」",
+    "romaji": "Kono kanji 'todoku' no yomikata wa? 'Todokeru'",
+    "level": "N4",
+    "category": "KANJI",
+    "options": [
+      "とど",
+      "おく",
+      "つた",
+      "わた"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Cách đọc của kanji '届' trong từ '届ける' là gì?",
+    "answerExplanation": "'届ける' (todokeru) có nghĩa là 'giao hàng / truyền đạt'. Kanji '届' được đọc là 'とど' (todo) theo kun'yomi. Dạng nội động từ: '届く' (todoku) = đến nơi/tới. Ví dụ: 荷物が届いた (Bưu kiện đã đến). Các lựa chọn khác — おく, つた, わた — là cách đọc của các kanji khác.",
+    "hint": "Kanji '届' thường được dùng trong ngữ cảnh giao hàng. Hãy nghĩ đến từ 'todokeru' (giao hàng) — phần nào đứng trước 'ける'?",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_1_011",
+    "question": "このりんごは___おいしいです。",
+    "furigana": "このりんごは___おいしいです。",
+    "romaji": "Kono ringo wa ___ oishii desu.",
+    "level": "N4",
+    "category": "GRAMMAR",
+    "options": [
+      "とても",
+      "あまり",
+      "まだ",
+      "ぜんぜん"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Quả táo này rất ngon.",
+    "answerExplanation": "'とても' (totemo) = rất, dùng để nhấn mạnh tính từ trong câu khẳng định. Các lựa chọn khác không phù hợp: 'あまり' (amari) = không lắm, BẮT BUỘC theo sau bởi dạng phủ định; 'まだ' (mada) = vẫn/chưa, không liên quan đến mô tả mùi vị; 'ぜんぜん' (zenzen) = hoàn toàn không, cũng BẮT BUỘC theo sau bởi dạng phủ định.",
+    "hint": "Câu này là KHẲNG ĐỊNH (おいしいです). Hai trong các lựa chọn chỉ có thể dùng với câu phủ định. Chọn từ tăng cường nghĩa khẳng định.",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_1_012",
+    "question": "「〜なければなりません」はどんな意味ですか？",
+    "furigana": "「〜なければなりません」はどんな意味[いみ]ですか？",
+    "romaji": "'~nakereba narimasen' wa donna imi desu ka?",
+    "level": "N4",
+    "category": "GRAMMAR",
+    "options": [
+      "Khong can phai lam ~",
+      "Co the khong lam ~",
+      "Phai lam ~",
+      "Nen lam ~"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Mẫu câu '~なければなりません' có nghĩa là gì?",
+    "answerExplanation": "'~なければなりません' (nakereba narimasen) có nghĩa là 'phải ~' — diễn đạt nghĩa vụ hoặc sự cần thiết. Nghĩa đen: 'nếu không làm X thì không được'. Ví dụ: '薬を飲まなければなりません' = Phải uống thuốc. Các mẫu câu liên quan: '~なくてもいいです' = không cần ~ (lựa chọn A), '~てもいいです' = có thể ~ (lựa chọn B), '~ほうがいいです' = nên ~ (lựa chọn D).",
+    "hint": "Hãy nhìn cấu trúc: dạng phủ định (-ない → -なければ) + 'なりません' (không thể trở thành). Nếu không làm, 'không thể trở thành' → nghĩa là PHẢI làm.",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_1_013",
+    "question": "山田さんは英語___上手です。",
+    "furigana": "山田[やまだ]さんは英語[えいご]___上手[じょうず]です。",
+    "romaji": "Yamada-san wa eigo ___ jouzu desu.",
+    "level": "N4",
+    "category": "GRAMMAR",
+    "options": [
+      "を",
+      "が",
+      "で",
+      "に"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Yamada giỏi tiếng Anh.",
+    "answerExplanation": "Tính từ na như '上手' (jouzu = giỏi), '下手' (heta = kém), '好き' (suki = thích), và '嫌い' (kirai = ghét) sử dụng trợ từ 'が' để đánh dấu lĩnh vực/điều mà người ta giỏi hoặc thích. Điều này khác với động từ ngoại động dùng 'を'. Vì vậy: 英語が上手 (giỏi tiếng Anh). Các lựa chọn khác: 'を' cho tân ngữ của động từ hành động, 'で' cho nơi chốn/công cụ, 'に' cho hướng/mục đích.",
+    "hint": "Tính từ như 上手・好き・得意 yêu cầu trợ từ đặc biệt KHÁC với trợ từ tân ngữ thông thường (を). Trợ từ này cũng được dùng với わかる.",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n4_1_014",
+    "question": "「届ける」の意味は？",
+    "furigana": "「届[とど]ける」の意味[いみ]は？",
+    "romaji": "'Todokeru' no imi wa?",
+    "level": "N4",
+    "category": "VOCABULARY",
+    "options": [
+      "Nhận / nhận được",
+      "Trả lại / gửi lại",
+      "Giao / chuyển đến",
+      "Thu thập / tập hợp"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "'届ける' có nghĩa là gì?",
+    "answerExplanation": "'届ける' (todokeru) có nghĩa là 'giao hàng' hoặc 'truyền đạt' — mang thứ gì đó đến cho ai hoặc đến nơi nào. Đây là ngoại động từ (cần tân ngữ). Ví dụ: 荷物を届ける = giao bưu kiện. Đừng nhầm với '届く' (todoku) là nội động từ, có nghĩa 'đến nơi/tới' (chủ ngữ tự đến). Các lựa chọn khác: 'nhận' = 受け取る (uketoru), 'trả lại' = 返す (kaesu), 'thu thập' = 集める (atsumeru).",
+    "hint": "Kanji '届' liên quan đến việc 'đến' nơi đích. Dạng ngoại động từ (-ける) có nghĩa là người thực hiện LÀM cho thứ gì đó đến nơi đích.",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_1_015",
+    "question": "「建物」の意味は？",
+    "furigana": "「建物[たてもの]」の意味[いみ]は？",
+    "romaji": "'Tatemono' no imi wa?",
+    "level": "N4",
+    "category": "VOCABULARY",
+    "options": [
+      "Tòa nhà / công trình",
+      "Phong cảnh / toàn cảnh",
+      "Thiết bị / dụng cụ",
+      "Công việc / xây dựng"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "'建物' có nghĩa là gì?",
+    "answerExplanation": "'建物' (たてもの, tatemono) có nghĩa là tòa nhà hoặc công trình — cấu trúc vật lý được xây dựng như nhà, văn phòng, hoặc trường học. Kanji '建' (tate) xuất phát từ '建てる' (tateru = xây dựng), và '物' (mono) có nghĩa là vật/đồ vật. Nghĩa đen: 'vật được xây dựng'. Các lựa chọn khác: '景色' (keshiki = phong cảnh), '道具' (dougu = dụng cụ), '工事' (kouji = công trình xây dựng) — tất cả liên quan đến ngữ cảnh tòa nhà nhưng nghĩa khác nhau.",
+    "hint": "Kanji '建' xuất phát từ '建てる' (xây dựng). Kanji '物' có nghĩa là 'vật'. Kết hợp lại: vật được xây dựng = ?",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_1_016",
+    "question": "友達が来る___に、部屋をそうじしました。",
+    "furigana": "友達[ともだち]が来[く]る___に、部屋[へや]をそうじしました。",
+    "romaji": "Tomodachi ga kuru ___ ni, heya o souji shimashita.",
+    "level": "N4",
+    "category": "GRAMMAR",
+    "options": [
+      "あと",
+      "あいだ",
+      "まえ",
+      "うち"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Trước khi bạn đến, tôi đã dọn phòng.",
+    "answerExplanation": "Mẫu câu '(dạng từ điển) + まえに' có nghĩa là 'trước khi ~'. '来るまえに' = trước khi đến. Mẫu câu này dùng dạng từ điển trước 'まえ'. Các lựa chọn khác: 'あと' (sau khi) dùng sau dạng ta (来たあとに), không phải dạng từ điển; 'あいだ' (trong khi) diễn đạt khoảng thời gian; 'うち' (trong lúc) cũng diễn đạt khoảng thời gian giới hạn. Về logic, dọn phòng được thực hiện TRƯỜC KHI khách đến.",
+    "hint": "Động từ ở dạng từ điển (来る) + ___ + に. Về logic: dọn phòng được làm trước, rồi bạn đến. Từ nào có nghĩa 'trước khi'?",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_1_017",
+    "question": "「季節」の読み方は？",
+    "furigana": "「季節」の読[よ]み方[かた]は？",
+    "romaji": "'Kisetsu' no yomikata wa?",
+    "level": "N4",
+    "category": "KANJI",
+    "options": [
+      "きせつ",
+      "きぶん",
+      "きかい",
+      "きおん"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Cách đọc của '季節' là gì?",
+    "answerExplanation": "'季節' được đọc là 'きせつ' (kisetsu) có nghĩa là 'mùa'. Nhật Bản có bốn mùa: 春 (haru = mùa xuân), 夏 (natsu = mùa hè), 秋 (aki = mùa thu), 冬 (fuyu = mùa đông). Các lựa chọn khác là những từ cũng bắt đầu bằng 'き': 'きぶん' (気分 = tâm trạng), 'きかい' (機会 = cơ hội), 'きおん' (気温 = nhiệt độ không khí) — tất cả đều có kanji và nghĩa khác nhau.",
+    "hint": "Kanji '季' liên quan đến thời gian/giai đoạn, và '節' có nghĩa là phần/đoạn. Sự kết hợp này chỉ sự phân chia thời gian trong một năm. Tất cả lựa chọn đều bắt đầu bằng 'き'.",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_1_018",
+    "question": "（Reading） メアリーさんは、月曜日から金曜日まで会社で働いています。土曜日と日曜日は休みです。昨日は日曜日でしたから、メアリーさんは働きませんでした。友達と公園へ行きました。\n\n質問：メアリーさんはいつ公園へ行きましたか。",
+    "furigana": "メアリーさんは、月曜日[げつようび]から金曜日[きんようび]まで会社[かいしゃ]で働[はたら]いています。土曜日[どようび]と日曜日[にちようび]は休[やす]みです。昨日[きのう]は日曜日[にちようび]でしたから、メアリーさんは働[はたら]きませんでした。友達[ともだち]と公園[こうえん]へ行[い]きました。\n\n質問[しつもん]：メアリーさんはいつ公園[こうえん]へ行[い]きましたか。",
+    "romaji": "Mearii-san wa, getsuyoubi kara kinyoubi made kaisha de hataraite imasu. Doyoubi to nichiyoubi wa yasumi desu. Kinou wa nichiyoubi deshita kara, Mearii-san wa hatarakimasen deshita. Tomodachi to kouen e ikimashita.\n\nShitsumon: Mearii-san wa itsu kouen e ikimashita ka.",
+    "level": "N4",
+    "category": "READING",
+    "options": [
+      "金曜日 (きんようび)",
+      "月曜日 (げつようび)",
+      "土曜日 (どようび)",
+      "日曜日 (にちようび)"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "Mary làm việc ở công ty từ thứ Hai đến thứ Sáu. Thứ Bảy và Chủ nhật là ngày nghỉ. Hôm qua là Chủ nhật, nên Mary không đi làm. Cô ấy đã đi công viên với bạn.\n\nCâu hỏi: Mary đã đi công viên khi nào?",
+    "answerExplanation": "Văn bản nêu rõ: '昨日は日曜日でした' (Hôm qua là Chủ nhật). Sau đó Mary không đi làm và đi công viên. Vì vậy Mary đã đi công viên vào Chủ nhật (日曜日). Đáp án nhiễu '土曜日' cũng là ngày nghỉ của Mary, nhưng văn bản rõ ràng đề cập 'hôm qua = Chủ nhật' là ngày được hỏi.",
+    "hint": "Tìm từ khóa '昨日' (hôm qua) và xác định 'hôm qua' là ngày nào theo văn bản. Đừng bị nhầm lẫn bởi ngày nghỉ khác (土曜日).",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_1_019",
+    "question": "部屋に誰___いませんでした。",
+    "furigana": "部屋[へや]に誰[だれ]___いませんでした。",
+    "romaji": "Heya ni dare ___ imasen deshita.",
+    "level": "N4",
+    "category": "GRAMMAR",
+    "options": [
+      "と",
+      "は",
+      "が",
+      "も"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "Không có ai trong phòng cả.",
+    "answerExplanation": "Mẫu câu 'từ nghi vấn + も + dạng phủ định' có nghĩa là 'không một ai/cái nào'. '誰もいない' = không có ai, '何もない' = không có gì, 'どこにもない' = không ở đâu cả. Trợ từ 'も' ở đây có chức năng nhấn mạnh tính toàn bộ trong ngữ cảnh phủ định, KHÔNG có nghĩa 'cũng'. Các lựa chọn khác: 'と' = và/cùng, 'は' = chủ đề, 'が' = chủ ngữ cụ thể — không cái nào tạo thành mẫu 'không một ai/cái nào'.",
+    "hint": "Mẫu câu: từ nghi vấn (誰/何/どこ) + ___ + dạng phủ định = không một ai/cái nào. Trợ từ nào hoàn thành mẫu câu này?",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n4_1_020",
+    "question": "先生に___、よくわかりました。",
+    "furigana": "先生[せんせい]に___、よくわかりました。",
+    "romaji": "Sensei ni ___, yoku wakarimashita.",
+    "level": "N4",
+    "category": "GRAMMAR",
+    "options": [
+      "説明して",
+      "説明してもらって",
+      "説明させて",
+      "説明した"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Sau khi giáo viên giải thích (cho tôi), tôi đã hiểu rõ.",
+    "answerExplanation": "Mẫu câu '~に~てもらう' có nghĩa là 'nhận được hành động từ ai đó' — ai đó làm điều gì đó vì lợi ích của người nói. '先生に説明してもらって' = nhận được lời giải thích từ giáo viên (rồi tôi hiểu). Các lựa chọn khác: '説明して' = dạng te thông thường, không chứa sắc thái 'nhận lợi ích từ người khác'; '説明させて' = dạng sai khiến 'để (tôi) giải thích', không phù hợp vì giáo viên là người giải thích; '説明した' = dạng quá khứ thông thường, không phù hợp sau 'に'.",
+    "hint": "Chủ ngữ câu = tôi (người hiểu). Giáo viên = người giải thích cho tôi. Mẫu câu nào diễn đạt 'nhận được hành động tốt từ người khác'? Dạng: (người)に~て___.",
+    "difficultyScore": 3
+  }
+]

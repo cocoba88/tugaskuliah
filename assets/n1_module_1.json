@@ -1,0 +1,382 @@
+[
+  {
+    "id": "question_n1_1_001",
+    "question": "「殲滅」の正しい使い方はどれか。",
+    "furigana": "「殲滅[せんめつ]」の正[ただ]しい使[つか]い方[かた]はどれか。",
+    "romaji": "'Senmetsu' no tadashii tsukaikata wa dore ka.",
+    "level": "N1",
+    "category": "VOCABULARY",
+    "options": [
+      "敵軍を殲滅するための作戦が立案された。",
+      "花壇の花を殲滅して新しく植え替えた。",
+      "彼女の笑顔は周囲を殲滅した。",
+      "古い書類を殲滅してファイルに整理した。"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Manakah penggunaan '殲滅' yang benar?",
+    "answerExplanation": "'殲滅' (senmetsu) berarti pemusnahan total, biasanya digunakan dalam konteks militer atau pertempuran. Pilihan pertama tepat karena menggambarkan operasi militer untuk memusnahkan pasukan musuh. Pilihan lain salah karena '殲滅' tidak digunakan untuk bunga, senyuman, atau dokumen.",
+    "hint": "Kata ini berkaitan dengan konteks militer atau peperangan",
+    "difficultyScore": 7
+  },
+  {
+    "id": "question_n1_1_002",
+    "question": "労使間の対話を___する第三者機関が設置された。",
+    "furigana": "労使間[ろうしかん]の対話[たいわ]を___する第三者[だいさんしゃ]機関[きかん]が設置[せっち]された。",
+    "romaji": "Roushikan no taiwa wo ___ suru daisansha kikan ga secchi sareta.",
+    "level": "N1",
+    "category": "VOCABULARY",
+    "options": [
+      "介入",
+      "斡旋",
+      "干渉",
+      "仲裁"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Sebuah lembaga pihak ketiga untuk ___ dialog antara buruh dan manajemen telah dibentuk.",
+    "answerExplanation": "'斡旋' (assen) berarti memediasi atau memfasilitasi, yaitu upaya pihak ketiga untuk mempertemukan kedua belah pihak agar berdialog. Konteks kalimat ini menekankan fasilitasi dialog, bukan penyelesaian sengketa, sehingga '斡旋' lebih tepat daripada '仲裁' (arbitrase) yang bersifat memutuskan perkara. '介入' (kainyuu) berarti intervensi, dan '干渉' (kanshou) berarti campur tangan, keduanya berkonotasi lebih negatif.",
+    "hint": "Istilah formal untuk memfasilitasi dialog antara pihak-pihak tanpa memaksakan keputusan",
+    "difficultyScore": 8
+  },
+  {
+    "id": "question_n1_1_003",
+    "question": "運命に___されるままに生きるのは、もうやめたい。",
+    "furigana": "運命[うんめい]に___されるままに生[い]きるのは、もうやめたい。",
+    "romaji": "Unmei ni ___ sareru mama ni ikiru no wa, mou yametai.",
+    "level": "N1",
+    "category": "VOCABULARY",
+    "options": [
+      "翻弄",
+      "攪乱",
+      "支配",
+      "圧倒"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Saya ingin berhenti hidup dipermainkan oleh takdir.",
+    "answerExplanation": "'翻弄' (honrou) berarti dipermainkan atau diombang-ambingkan, sering digunakan dalam konteks sastra untuk menggambarkan seseorang yang tak berdaya di hadapan kekuatan yang lebih besar seperti takdir atau nasib. '攪乱' (kakuran) berarti mengacaukan, '支配' (shihai) berarti menguasai, '圧倒' (attou) berarti mengungguli.",
+    "hint": "Ekspresi sastra yang menggambarkan ketidakberdayaan seseorang di hadapan kekuatan yang lebih besar",
+    "difficultyScore": 7
+  },
+  {
+    "id": "question_n1_1_004",
+    "question": "都市化が進むにつれ、地域社会からの___を感じる人が増加している。",
+    "furigana": "都市化[としか]が進[すす]むにつれ、地域[ちいき]社会[しゃかい]からの___を感[かん]じる人[ひと]が増加[ぞうか]している。",
+    "romaji": "Toshika ga susumu ni tsure, chiiki shakai kara no ___ wo kanjiru hito ga zouka shite iru.",
+    "level": "N1",
+    "category": "VOCABULARY",
+    "options": [
+      "排除",
+      "隔離",
+      "疎外",
+      "追放"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Seiring kemajuan urbanisasi, semakin banyak orang yang merasakan ___ dari masyarakat setempat.",
+    "answerExplanation": "'疎外' (sogai) berarti pengucilan atau alienasi, yaitu perasaan terasing dari lingkungan sosial. Istilah ini sering digunakan dalam sosiologi dan psikologi. '排除' (haijo) berarti penyingkiran aktif, '隔離' (kakuri) berarti pemisahan fisik, '追放' (tsuihou) berarti pengusiran. '疎外' paling tepat karena menggambarkan perasaan subjektif terasing.",
+    "hint": "Istilah sosiologi yang menggambarkan perasaan terasing dari lingkungan sosial",
+    "difficultyScore": 7
+  },
+  {
+    "id": "question_n1_1_005",
+    "question": "社内規定からの___が発覚し、当該社員は厳重注意を受けた。",
+    "furigana": "社内[しゃない]規定[きてい]からの___が発覚[はっかく]し、当該[とうがい]社員[しゃいん]は厳重[げんじゅう]注意[ちゅうい]を受[う]けた。",
+    "romaji": "Shanai kitei kara no ___ ga hakkaku shi, tougai shain wa genjuu chuui wo uketa.",
+    "level": "N1",
+    "category": "VOCABULARY",
+    "options": [
+      "違反",
+      "逸脱",
+      "背反",
+      "脱線"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Ketika ___ dari peraturan internal perusahaan terungkap, karyawan bersangkutan mendapat teguran keras.",
+    "answerExplanation": "'逸脱' (itsudatsu) berarti penyimpangan dari norma atau aturan yang ditetapkan. Berbeda dengan '違反' (ihan/pelanggaran) yang lebih langsung, '逸脱' memiliki nuansa menyimpang secara bertahap dari standar. '背反' (haihan) berarti bertentangan secara prinsip, '脱線' (dassen) berarti keluar jalur dan lebih informal.",
+    "hint": "Kata ini menunjukkan tindakan keluar dari batas norma yang ditetapkan",
+    "difficultyScore": 7
+  },
+  {
+    "id": "question_n1_1_006",
+    "question": "「脆弱」の読み方として正しいものはどれか。",
+    "furigana": "「脆弱」の読[よ]み方[かた]として正[ただ]しいものはどれか。",
+    "romaji": "'Zeijaku' no yomikata toshite tadashii mono wa dore ka.",
+    "level": "N1",
+    "category": "KANJI",
+    "options": [
+      "きじゃく",
+      "ぜいじゃく",
+      "すいじゃく",
+      "もろじゃく"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Manakah cara baca yang benar untuk '脆弱'?",
+    "answerExplanation": "'脆弱' dibaca 'ぜいじゃく' (zeijaku) dan berarti rapuh atau rentan. '脆' (zei) berarti rapuh/mudah pecah, dan '弱' (jaku) berarti lemah. Kata ini sering digunakan dalam konteks keamanan siber (脆弱性/zeijaku-sei = kerentanan) maupun untuk menggambarkan fondasi atau struktur yang lemah.",
+    "hint": "Karakter pertama '脆' memiliki bacaan on'yomi yang dimulai dengan 'ぜ'",
+    "difficultyScore": 7
+  },
+  {
+    "id": "question_n1_1_007",
+    "question": "「恣意」の読み方として正しいものはどれか。",
+    "furigana": "「恣意」の読[よ]み方[かた]として正[ただ]しいものはどれか。",
+    "romaji": "'Shii' no yomikata toshite tadashii mono wa dore ka.",
+    "level": "N1",
+    "category": "KANJI",
+    "options": [
+      "じい",
+      "しい",
+      "きい",
+      "ちい"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Manakah cara baca yang benar untuk '恣意'?",
+    "answerExplanation": "'恣意' dibaca 'しい' (shii) dan berarti sewenang-wenang atau sesuka hati. '恣意的' (shiiteki) adalah bentuk na-adjektiva yang berarti bersifat sewenang-wenang. Kata ini sering muncul dalam konteks hukum dan kritik kebijakan, misalnya '恣意的な解釈' (penafsiran yang sewenang-wenang).",
+    "hint": "Karakter '恣' memiliki bacaan on'yomi yang sama dengan angka empat dalam bahasa Jepang",
+    "difficultyScore": 8
+  },
+  {
+    "id": "question_n1_1_008",
+    "question": "「瓦解」の読み方として正しいものはどれか。",
+    "furigana": "「瓦解」の読[よ]み方[かた]として正[ただ]しいものはどれか。",
+    "romaji": "'Gakai' no yomikata toshite tadashii mono wa dore ka.",
+    "level": "N1",
+    "category": "KANJI",
+    "options": [
+      "がかい",
+      "かわげ",
+      "がげ",
+      "かかい"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Manakah cara baca yang benar untuk '瓦解'?",
+    "answerExplanation": "'瓦解' dibaca 'がかい' (gakai) dan berarti keruntuhan atau kehancuran total. Secara harfiah berasal dari gambaran genteng (瓦/kawara) yang pecah berantakan. Kata ini digunakan untuk menggambarkan keruntuhan organisasi, sistem, atau rezim secara menyeluruh, misalnya '政権の瓦解' (keruntuhan pemerintahan).",
+    "hint": "Karakter '瓦' yang biasanya dibaca 'かわら' memiliki bacaan on'yomi 'が'",
+    "difficultyScore": 7
+  },
+  {
+    "id": "question_n1_1_009",
+    "question": "「齟齬」の読み方として正しいものはどれか。",
+    "furigana": "「齟齬」の読[よ]み方[かた]として正[ただ]しいものはどれか。",
+    "romaji": "'Sogo' no yomikata toshite tadashii mono wa dore ka.",
+    "level": "N1",
+    "category": "KANJI",
+    "options": [
+      "しょご",
+      "そご",
+      "さご",
+      "じょご"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Manakah cara baca yang benar untuk '齟齬'?",
+    "answerExplanation": "'齟齬' dibaca 'そご' (sogo) dan berarti ketidaksesuaian, perbedaan pendapat, atau diskrepansi. Kedua kanji berasal dari radikal 歯 (gigi) dan secara harfiah menggambarkan gigi atas dan bawah yang tidak pas. Digunakan dalam ungkapan seperti '齟齬が生じる' (terjadi ketidaksesuaian).",
+    "hint": "Kedua kanji ini mengandung radikal 歯 (gigi) dan dibaca dengan vokal 'o'",
+    "difficultyScore": 9
+  },
+  {
+    "id": "question_n1_1_010",
+    "question": "「遡及」の読み方として正しいものはどれか。",
+    "furigana": "「遡及」の読[よ]み方[かた]として正[ただ]しいものはどれか。",
+    "romaji": "'Sokyuu' no yomikata toshite tadashii mono wa dore ka.",
+    "level": "N1",
+    "category": "KANJI",
+    "options": [
+      "さかのぼりきゅう",
+      "そきゅう",
+      "さっきゅう",
+      "しょきゅう"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Manakah cara baca yang benar untuk '遡及'?",
+    "answerExplanation": "'遡及' dibaca 'そきゅう' (sokyuu) dan berarti berlaku surut atau retroaktif. '遡' (so) berarti menelusuri kembali ke masa lalu, '及' (kyuu) berarti mencapai atau menjangkau. Istilah ini sering digunakan dalam konteks hukum, misalnya '遡及適用' (penerapan retroaktif) atau '遡及効' (efek retroaktif).",
+    "hint": "Karakter '遡' memiliki bacaan on'yomi 'そ', bukan bacaan kun'yomi 'さかのぼ(る)'",
+    "difficultyScore": 8
+  },
+  {
+    "id": "question_n1_1_011",
+    "question": "彼女の圧倒的な演技力は、素人の私ごときが真似す___。",
+    "furigana": "彼女[かのじょ]の圧倒的[あっとうてき]な演技力[えんぎりょく]は、素人[しろうと]の私[わたし]ごときが真似[まね]す___。",
+    "romaji": "Kanojo no attouteki na engiryoku wa, shirouto no watashi gotoki ga mane su ___.",
+    "level": "N1",
+    "category": "GRAMMAR",
+    "options": [
+      "べくもない",
+      "までもない",
+      "にはあたらない",
+      "わけがない"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Kemampuan aktingnya yang luar biasa, tidak mungkin bisa ditiru oleh orang awam seperti saya.",
+    "answerExplanation": "'～べくもない' digunakan untuk menyatakan bahwa sesuatu sama sekali tidak mungkin dilakukan. Pola ini sangat formal dan sastra, menekankan ketidakmungkinan mutlak. '～までもない' berarti tidak perlu, '～にはあたらない' berarti tidak layak/pantas, '～わけがない' berarti mustahil tetapi lebih kasual. Bentuk ini menggunakan 'す' (bentuk klasik dari する) + べくもない.",
+    "hint": "Pola tata bahasa N1 yang menyatakan ketidakmungkinan mutlak dengan nuansa formal/sastra",
+    "difficultyScore": 8
+  },
+  {
+    "id": "question_n1_1_012",
+    "question": "彼は周囲の批判___、独自の研究路線を貫き通した。",
+    "furigana": "彼[かれ]は周囲[しゅうい]の批判[ひはん]___、独自[どくじ]の研究[けんきゅう]路線[ろせん]を貫[つらぬ]き通[とお]した。",
+    "romaji": "Kare wa shuui no hihan ___, dokuji no kenkyuu rosen wo tsuranuki tooshita.",
+    "level": "N1",
+    "category": "GRAMMAR",
+    "options": [
+      "をよそに",
+      "をものともせず",
+      "はともかく",
+      "もさることながら"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Dia menempuh jalur penelitiannya sendiri tanpa gentar menghadapi kritik dari sekitarnya.",
+    "answerExplanation": "'～をものともせず' berarti tanpa gentar terhadap atau tidak menghiraukan (kesulitan/rintangan), dengan nuansa kekaguman terhadap keberanian orang tersebut. '～をよそに' berarti mengabaikan tetapi berkonotasi negatif (tidak peduli). '～はともかく' berarti terlepas dari. '～もさることながら' berarti tidak hanya itu tetapi juga.",
+    "hint": "Pola ini mengekspresikan keteguhan hati seseorang dalam menghadapi rintangan, dengan nuansa positif/kagum",
+    "difficultyScore": 7
+  },
+  {
+    "id": "question_n1_1_013",
+    "question": "国民の安全に関わる問題であるからには、一秒___油断することは許されない。",
+    "furigana": "国民[こくみん]の安全[あんぜん]に関[かか]わる問題[もんだい]であるからには、一秒[いちびょう]___油断[ゆだん]することは許[ゆる]されない。",
+    "romaji": "Kokumin no anzen ni kakawaru mondai de aru kara ni wa, ichibyou ___ yudan suru koto wa yurusarenai.",
+    "level": "N1",
+    "category": "GRAMMAR",
+    "options": [
+      "すら",
+      "たりとも",
+      "だけでも",
+      "ばかりも"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Karena ini masalah yang menyangkut keselamatan rakyat, tidak diizinkan lengah barang satu detik pun.",
+    "answerExplanation": "'～たりとも' berarti 'barang satu pun tidak' dan digunakan dengan bilangan terkecil (一秒、一瞬、一人 dll.) diikuti ungkapan negatif untuk menekankan bahwa bahkan jumlah sekecil itu pun tidak diperbolehkan. '～すら' berarti bahkan, tetapi tidak secara khusus digunakan dengan bilangan dalam pola ini. Pola ini sangat formal dan tegas.",
+    "hint": "Pola formal yang digunakan setelah bilangan terkecil untuk menyatakan 'barang satu pun tidak boleh'",
+    "difficultyScore": 7
+  },
+  {
+    "id": "question_n1_1_014",
+    "question": "報酬の条件が改善されるならば、この仕事を引き受け___。",
+    "furigana": "報酬[ほうしゅう]の条件[じょうけん]が改善[かいぜん]されるならば、この仕事[しごと]を引[ひ]き受[う]け___。",
+    "romaji": "Houshuu no jouken ga kaizen sareru naraba, kono shigoto wo hikiuke ___.",
+    "level": "N1",
+    "category": "GRAMMAR",
+    "options": [
+      "かねない",
+      "ないものでもない",
+      "ざるを得ない",
+      "ずにはいられない"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Jika kondisi imbalannya diperbaiki, bukan berarti saya tidak bisa menerima pekerjaan ini.",
+    "answerExplanation": "'～ないものでもない' berarti 'bukan berarti tidak bisa/tidak mau', menyatakan kemungkinan yang dibuka dengan syarat tertentu. Ini adalah ungkapan tidak langsung khas Jepang yang menunjukkan kesediaan bersyarat. '～かねない' berarti bisa saja terjadi (hal buruk), '～ざるを得ない' berarti terpaksa harus, '～ずにはいられない' berarti tidak bisa menahan diri untuk tidak.",
+    "hint": "Ekspresi berlapis ganda negatif yang menyatakan kemungkinan positif secara tidak langsung",
+    "difficultyScore": 8
+  },
+  {
+    "id": "question_n1_1_015",
+    "question": "大企業の社長___、一つの判断ミスが数千人の雇用に影響を与えかねない。",
+    "furigana": "大企業[だいきぎょう]の社長[しゃちょう]___、一[ひと]つの判断[はんだん]ミスが数千人[すうせんにん]の雇用[こよう]に影響[えいきょう]を与[あた]えかねない。",
+    "romaji": "Daikigyou no shachou ___, hitotsu no handan misu ga suusennin no koyou ni eikyou wo atae kanenai.",
+    "level": "N1",
+    "category": "GRAMMAR",
+    "options": [
+      "ともなると",
+      "となれば",
+      "といえども",
+      "にしたら"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Kalau sudah menjabat sebagai presiden perusahaan besar, satu kesalahan penilaian saja bisa mempengaruhi lapangan kerja ribuan orang.",
+    "answerExplanation": "'～ともなると' berarti 'kalau sudah sampai pada level/posisi tertentu', menekankan bahwa pada tingkatan tersebut situasinya berbeda dari biasanya. '～となれば' berarti jika menjadi, '～といえども' berarti meskipun, '～にしたら' berarti dari sudut pandang. Pola ini menekankan konsekuensi yang menyertai posisi atau situasi tertentu.",
+    "hint": "Pola ini menekankan bahwa ketika mencapai tingkatan tertentu, tanggung jawab dan konsekuensinya juga berbeda",
+    "difficultyScore": 7
+  },
+  {
+    "id": "question_n1_1_016",
+    "question": "この辞典は、語源の解説から用例___、極めて充実した内容となっている。",
+    "furigana": "この辞典[じてん]は、語源[ごげん]の解説[かいせつ]から用例[ようれい]___、極[きわ]めて充実[じゅうじつ]した内容[ないよう]となっている。",
+    "romaji": "Kono jiten wa, gogen no kaisetsu kara yourei ___, kiwamete juujitsu shita naiyou to natte iru.",
+    "level": "N1",
+    "category": "GRAMMAR",
+    "options": [
+      "に至るまで",
+      "にかけて",
+      "に限らず",
+      "のみならず"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Kamus ini memiliki konten yang sangat lengkap, mulai dari penjelasan asal-usul kata hingga contoh penggunaan.",
+    "answerExplanation": "'～に至るまで' berarti 'sampai pada/hingga ke', digunakan dengan 'から' untuk menunjukkan cakupan yang luas dari titik awal hingga akhir. Pola ini menekankan kelengkapan atau ketelitian. '～にかけて' menunjukkan rentang waktu/ruang, '～に限らず' berarti tidak terbatas pada, '～のみならず' berarti tidak hanya.",
+    "hint": "Pola ini digunakan berpasangan dengan 'から' untuk menunjukkan jangkauan yang menyeluruh",
+    "difficultyScore": 6
+  },
+  {
+    "id": "question_n1_1_017",
+    "question": "大規模な自然災害により、住民は長期にわたる避難生活___。",
+    "furigana": "大規模[だいきぼ]な自然[しぜん]災害[さいがい]により、住民[じゅうみん]は長期[ちょうき]にわたる避難[ひなん]生活[せいかつ]___。",
+    "romaji": "Daikibo na shizen saigai ni yori, juumin wa chouki ni wataru hinan seikatsu ___.",
+    "level": "N1",
+    "category": "GRAMMAR",
+    "options": [
+      "をやむなくされた",
+      "を余儀なくされた",
+      "を仕方なくされた",
+      "を致し方なくされた"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Akibat bencana alam berskala besar, penduduk terpaksa menjalani kehidupan pengungsian jangka panjang.",
+    "answerExplanation": "'～を余儀なくされる' (yo yogi naku sareru) adalah pola formal yang berarti dipaksa oleh keadaan untuk melakukan sesuatu yang tidak diinginkan. Ini adalah ungkapan tetap (慣用表現) dan tidak bisa diganti dengan sinonim kasualnya. '仕方なくされた' dan 'やむなくされた' bukan pola yang lazim dalam bahasa Jepang baku.",
+    "hint": "Ini adalah ungkapan tetap formal yang berarti 'terpaksa oleh keadaan' — hanya satu bentuk yang benar secara tata bahasa",
+    "difficultyScore": 7
+  },
+  {
+    "id": "question_n1_1_018",
+    "question": "次の文章を読んで、筆者の主張に最も近いものを選びなさい。\n\n近年、司法の場においても人工知能の活用が議論されている。判例データベースの分析や量刑の予測など、AIが裁判官の判断を補助する可能性は確かに存在する。しかしながら、法の適用とは単なるデータの照合ではない。被告人の生育環境、犯行に至る心理的経緯、さらには社会全体の規範意識の変遷といった、数値化し得ない要素を総合的に勘案した上で初めて、正義にかなう判断が下されるのである。効率性の追求が司法の本質を損なうことがあってはならず、AIの導入はあくまでも人間の判断を支える道具としての位置づけに留めるべきである。技術への過度な依存は、かえって司法制度に対する国民の信頼を揺るがしかねないことを、我々は肝に銘じなければならない。",
+    "furigana": "次[つぎ]の文章[ぶんしょう]を読[よ]んで、筆者[ひっしゃ]の主張[しゅちょう]に最[もっと]も近[ちか]いものを選[えら]びなさい。",
+    "romaji": "Tsugi no bunshou wo yonde, hissha no shuchou ni mottomo chikai mono wo erabinasai.",
+    "level": "N1",
+    "category": "READING",
+    "options": [
+      "AIは司法判断を完全に代替できるため、積極的に導入すべきだ。",
+      "AIの司法への導入は、人間の判断を補助する範囲に限定すべきだ。",
+      "司法におけるAI活用は、国民の信頼を高めるために不可欠だ。",
+      "量刑の予測はAIの方が正確であり、裁判官より信頼できる。"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Bacalah teks berikut dan pilihlah yang paling mendekati argumen penulis.\n\n[Teks editorial tentang implikasi etis AI dalam pengambilan keputusan hukum]",
+    "answerExplanation": "Penulis mengakui potensi AI dalam analisis data hukum, namun menegaskan bahwa penerapan hukum bukan sekadar pencocokan data. Faktor-faktor yang tidak dapat dikuantifikasi seperti latar belakang terdakwa dan perubahan kesadaran norma masyarakat harus dipertimbangkan secara menyeluruh. Kesimpulan penulis jelas: AI harus ditempatkan sebatas alat bantu (道具としての位置づけに留めるべき) dan ketergantungan berlebihan justru bisa menggoyang kepercayaan publik terhadap sistem peradilan.",
+    "hint": "Perhatikan kalimat kunci yang menyebutkan posisi AI seharusnya dalam sistem peradilan",
+    "difficultyScore": 8
+  },
+  {
+    "id": "question_n1_1_019",
+    "question": "次の文章を読んで、筆者が「間」について述べていることに最も近いものを選びなさい。\n\n日本の美意識において、「間」とは単なる空白や沈黙を指すものではない。それは、存在と不在の境界に立ち現れる独自の表現領域である。能楽における静止の一瞬、枯山水の石と砂利の間に広がる余白、あるいは俳句の切れ字が生み出す意味の断絶と接続——これらはいずれも、「間」が積極的な美的機能を果たしている例に他ならない。西洋的な美学が充填と完成を志向するのに対し、日本の「間」の思想は、空虚の中にこそ豊かな意味が宿ると説く。すなわち、「間」とは欠如ではなく、鑑賞者の想像力を喚起するための意図的な余地なのである。",
+    "furigana": "次[つぎ]の文章[ぶんしょう]を読[よ]んで、筆者[ひっしゃ]が「間[ま]」について述[の]べていることに最[もっと]も近[ちか]いものを選[えら]びなさい。",
+    "romaji": "Tsugi no bunshou wo yonde, hissha ga 'ma' ni tsuite nobete iru koto ni mottomo chikai mono wo erabinasai.",
+    "level": "N1",
+    "category": "READING",
+    "options": [
+      "「間」は西洋美学の影響を受けて形成された日本独自の概念である。",
+      "「間」は鑑賞者の想像力を引き出すために意図的に設けられた創造的な空間である。",
+      "「間」は能楽や俳句にのみ見られる限定的な美的概念である。",
+      "「間」は現代の日本人には理解しがたい古典的な美意識である。"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Bacalah teks berikut dan pilihlah yang paling mendekati apa yang penulis nyatakan tentang 'ma'.\n\n[Esai sastra tentang konsep 'ma' (間) dalam estetika Jepang]",
+    "answerExplanation": "Penulis menegaskan bahwa '間' bukanlah kekosongan atau kekurangan, melainkan ruang yang sengaja diciptakan untuk membangkitkan imajinasi penikmat (鑑賞者の想像力を喚起するための意図的な余地). Pilihan pertama salah karena penulis justru mengontraskan '間' dengan estetika Barat. Pilihan ketiga salah karena penulis menyebutkan beberapa contoh termasuk karesansui. Pilihan keempat tidak didukung oleh teks.",
+    "hint": "Perhatikan kalimat terakhir yang mendefinisikan esensi '間' menurut penulis",
+    "difficultyScore": 9
+  },
+  {
+    "id": "question_n1_1_020",
+    "question": "次の文章を読んで、筆者の結論として推測されるものに最も近いものを選びなさい。\n\nグローバル化の進展は、世界各地の少数言語に深刻な影響を及ぼしている。経済的合理性の観点から、より広範な通用力を持つ言語への移行が進む一方で、各言語が内包する固有の世界観や認知体系は不可逆的に失われつつある。言語学者サピアとウォーフの仮説に立脚すれば、言語の消滅とは単なるコミュニケーション手段の喪失にとどまらず、人類が環境を認識し概念化する方法の多様性そのものの縮減を意味する。言語の保全とは、したがって、懐古的な文化保存運動ではなく、人類の知的資産の維持に関わる喫緊の課題として捉え直されるべきであろう。標準化と効率化の波に抗うことは容易ではないが、多言語共存のための制度的枠組みの構築こそが、真のグローバル社会の成熟を示す指標となるはずである。",
+    "furigana": "次[つぎ]の文章[ぶんしょう]を読[よ]んで、筆者[ひっしゃ]の結論[けつろん]として推測[すいそく]されるものに最[もっと]も近[ちか]いものを選[えら]びなさい。",
+    "romaji": "Tsugi no bunshou wo yonde, hissha no ketsuron toshite suisoku sareru mono ni mottomo chikai mono wo erabinasai.",
+    "level": "N1",
+    "category": "READING",
+    "options": [
+      "グローバル化に伴う言語の統一は、人類の進歩にとって望ましい現象である。",
+      "少数言語の消滅は避けられないため、主要言語の教育に注力すべきだ。",
+      "多言語が共存できる社会の仕組みを作ることが、成熟したグローバル社会の証である。",
+      "サピア＝ウォーフの仮説は現代の言語学では否定されている。"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Bacalah teks berikut dan pilihlah yang paling mendekati kesimpulan yang dapat disimpulkan dari penulis.\n\n[Kutipan akademis tentang dampak sosiolinguistik globalisasi terhadap bahasa minoritas]",
+    "answerExplanation": "Penulis berargumen bahwa hilangnya bahasa minoritas bukan sekadar hilangnya alat komunikasi, tetapi menyusutnya keragaman cara manusia memahami dunia (berdasarkan hipotesis Sapir-Whorf). Pada kalimat penutup, penulis menyimpulkan bahwa pembangunan kerangka institusional untuk koeksistensi multibahasa (多言語共存のための制度的枠組みの構築) adalah indikator kematangan masyarakat global yang sesungguhnya. Ini sesuai dengan pilihan ketiga.",
+    "hint": "Perhatikan kalimat terakhir yang menyebutkan apa yang menjadi 'indikator' masyarakat global yang matang",
+    "difficultyScore": 9
+  }
+]

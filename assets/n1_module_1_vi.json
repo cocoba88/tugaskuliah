@@ -1,0 +1,382 @@
+[
+  {
+    "id": "question_n1_1_001",
+    "question": "「殲滅」の正しい使い方はどれか。",
+    "furigana": "「殲滅[せんめつ]」の正[ただ]しい使[つか]い方[かた]はどれか。",
+    "romaji": "'Senmetsu' no tadashii tsukaikata wa dore ka.",
+    "level": "N1",
+    "category": "VOCABULARY",
+    "options": [
+      "敵軍を殲滅するための作戦が立案された。",
+      "花壇の花を殲滅して新しく植え替えた。",
+      "彼女の笑顔は周囲を殲滅した。",
+      "古い書類を殲滅してファイルに整理した。"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Cách sử dụng đúng của '殲滅' là gì?",
+    "answerExplanation": "'殲滅' (senmetsu) co nghia la tieu diet hoan toan, thuong duoc dung trong ngu canh quan su hoac tran chien. Lua chon dau tien dung vi mo ta chien dich quan su de tieu diet quan dich. Cac lua chon khac sai vi '殲滅' khong duoc dung cho hoa, nu cuoi, hoac tai lieu.",
+    "hint": "Tu nay lien quan den ngu canh quan su hoac chien tranh",
+    "difficultyScore": 7
+  },
+  {
+    "id": "question_n1_1_002",
+    "question": "労使間の対話を___する第三者機関が設置された。",
+    "furigana": "労使間[ろうしかん]の対話[たいわ]を___する第三者[だいさんしゃ]機関[きかん]が設置[せっち]された。",
+    "romaji": "Roushikan no taiwa wo ___ suru daisansha kikan ga secchi sareta.",
+    "level": "N1",
+    "category": "VOCABULARY",
+    "options": [
+      "介入",
+      "斡旋",
+      "干渉",
+      "仲裁"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Mot co quan ben thu ba de ___ doi thoai giua lao dong va quan ly da duoc thanh lap.",
+    "answerExplanation": "'斡旋' (assen) co nghia la hoa giai hoac tao dieu kien, tuc la no luc cua ben thu ba de dua hai ben lai voi nhau de doi thoai. Ngu canh cau nay nhan manh viec tao dieu kien doi thoai, khong phai giai quyet tranh chap, nen '斡旋' phu hop hon '仲裁' (trong tai) voc tinh quyet dinh vu viec. '介入' (kainyuu) co nghia la can thiep, va '干渉' (kanshou) co nghia la xen vao, ca hai deu mang sac thai tieu cuc hon.",
+    "hint": "Thuat ngu trang trong de tao dieu kien doi thoai giua cac ben ma khong ep buoc quyet dinh",
+    "difficultyScore": 8
+  },
+  {
+    "id": "question_n1_1_003",
+    "question": "運命に___されるままに生きるのは、もうやめたい。",
+    "furigana": "運命[うんめい]に___されるままに生[い]きるのは、もうやめたい。",
+    "romaji": "Unmei ni ___ sareru mama ni ikiru no wa, mou yametai.",
+    "level": "N1",
+    "category": "VOCABULARY",
+    "options": [
+      "翻弄",
+      "攪乱",
+      "支配",
+      "圧倒"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Toi muon ngung song bi so phan dua day.",
+    "answerExplanation": "'翻弄' (honrou) co nghia la bi dua day hoac bi lam cho lung tung, thuong duoc su dung trong ngu canh van hoc de mo ta ai do bat luc truoc suc manh lon hon nhu so phan hoac van menh. '攪乱' (kakuran) co nghia la gay roi, '支配' (shihai) co nghia la thong tri, '圧倒' (attou) co nghia la ap dao.",
+    "hint": "Bieu dat van hoc mo ta su bat luc cua ai do truoc suc manh lon hon",
+    "difficultyScore": 7
+  },
+  {
+    "id": "question_n1_1_004",
+    "question": "都市化が進むにつれ、地域社会からの___を感じる人が増加している。",
+    "furigana": "都市化[としか]が進[すす]むにつれ、地域[ちいき]社会[しゃかい]からの___を感[かん]じる人[ひと]が増加[ぞうか]している。",
+    "romaji": "Toshika ga susumu ni tsure, chiiki shakai kara no ___ wo kanjiru hito ga zouka shite iru.",
+    "level": "N1",
+    "category": "VOCABULARY",
+    "options": [
+      "排除",
+      "隔離",
+      "疎外",
+      "追放"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Cung voi su tien trien cua do thi hoa, ngay cang nhieu nguoi cam thay ___ tu cong dong dia phuong.",
+    "answerExplanation": "'疎外' (sogai) co nghia la su loai tru hoac xa lanh, tuc la cam giac bi xa cach khoi moi truong xa hoi. Thuat ngu nay thuong duoc su dung trong xa hoi hoc va tam ly hoc. '排除' (haijo) co nghia la loai bo chu dong, '隔離' (kakuri) co nghia la cach ly vat ly, '追放' (tsuihou) co nghia la truc xuat. '疎外' chinh xac nhat vi mo ta cam giac chu quan bi xa lanh.",
+    "hint": "Thuat ngu xa hoi hoc mo ta cam giac bi xa cach khoi moi truong xa hoi",
+    "difficultyScore": 7
+  },
+  {
+    "id": "question_n1_1_005",
+    "question": "社内規定からの___が発覚し、当該社員は厳重注意を受けた。",
+    "furigana": "社内[しゃない]規定[きてい]からの___が発覚[はっかく]し、当該[とうがい]社員[しゃいん]は厳重[げんじゅう]注意[ちゅうい]を受[う]けた。",
+    "romaji": "Shanai kitei kara no ___ ga hakkaku shi, tougai shain wa genjuu chuui wo uketa.",
+    "level": "N1",
+    "category": "VOCABULARY",
+    "options": [
+      "違反",
+      "逸脱",
+      "背反",
+      "脱線"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Khi ___ khoi quy dinh noi bo cong ty bi phat hien, nhan vien lien quan da bi khien trach nghiem khac.",
+    "answerExplanation": "'逸脱' (itsudatsu) co nghia la su sai lech khoi cac chuan muc hoac quy tac da thiet lap. Khac voi '違反' (ihan/vi pham) truc tiep hon, '逸脱' co sac thai di lech va dan khoi tieu chuan. '背反' (haihan) co nghia la mau thuan ve nguyen tac, '脱線' (dassen) co nghia la trat duong ray va tho hon.",
+    "hint": "Tu nay cho thay hanh dong vuot qua gioi han cua cac chuan muc da thiet lap",
+    "difficultyScore": 7
+  },
+  {
+    "id": "question_n1_1_006",
+    "question": "「脆弱」の読み方として正しいものはどれか。",
+    "furigana": "「脆弱」の読[よ]み方[かた]として正[ただ]しいものはどれか。",
+    "romaji": "'Zeijaku' no yomikata toshite tadashii mono wa dore ka.",
+    "level": "N1",
+    "category": "KANJI",
+    "options": [
+      "きじゃく",
+      "ぜいじゃく",
+      "すいじゃく",
+      "もろじゃく"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Cach doc dung cua '脆弱' la gi?",
+    "answerExplanation": "'脆弱' duoc doc la 'ぜいじゃく' (zeijaku) va co nghia la mong manh hoac de bi ton thuong. '脆' (zei) co nghia la mong manh/de vo, va '弱' (jaku) co nghia la yeu. Tu nay thuong duoc su dung trong ngu canh an ninh mang (脆弱性/zeijaku-sei = lo hong) cung nhu de mo ta nen mong hoac cau truc yeu.",
+    "hint": "Ky tu dau tien '脆' co cach doc on'yomi bat dau bang 'ぜ'",
+    "difficultyScore": 7
+  },
+  {
+    "id": "question_n1_1_007",
+    "question": "「恣意」の読み方として正しいものはどれか。",
+    "furigana": "「恣意」の読[よ]み方[かた]として正[ただ]しいものはどれか。",
+    "romaji": "'Shii' no yomikata toshite tadashii mono wa dore ka.",
+    "level": "N1",
+    "category": "KANJI",
+    "options": [
+      "じい",
+      "しい",
+      "きい",
+      "ちい"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Cach doc dung cua '恣意' la gi?",
+    "answerExplanation": "'恣意' duoc doc la 'しい' (shii) va co nghia la tuy tien hoac tu y. '恣意的' (shiiteki) la dang tinh tu na co nghia la mang tinh tuy tien. Tu nay thuong xuat hien trong ngu canh phap ly va chi trich chinh sach, vi du '恣意的な解釈' (giai thich tuy tien).",
+    "hint": "Ky tu '恣' co cach doc on'yomi giong voi so bon trong tieng Nhat",
+    "difficultyScore": 8
+  },
+  {
+    "id": "question_n1_1_008",
+    "question": "「瓦解」の読み方として正しいものはどれか。",
+    "furigana": "「瓦解」の読[よ]み方[かた]として正[ただ]しいものはどれか。",
+    "romaji": "'Gakai' no yomikata toshite tadashii mono wa dore ka.",
+    "level": "N1",
+    "category": "KANJI",
+    "options": [
+      "がかい",
+      "かわげ",
+      "がげ",
+      "かかい"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Cach doc dung cua '瓦解' la gi?",
+    "answerExplanation": "'瓦解' duoc doc la 'がかい' (gakai) va co nghia la sup do hoac tan ra hoan toan. Nghia den bat nguon tu hinh anh ngoi (瓦/kawara) vo tan. Tu nay duoc dung de mo ta su sup do cua to chuc, he thong, hoac che do mot cach toan dien, vi du '政権の瓦解' (su sup do cua chinh quyen).",
+    "hint": "Ky tu '瓦' thuong duoc doc la 'かわら' co cach doc on'yomi 'が'",
+    "difficultyScore": 7
+  },
+  {
+    "id": "question_n1_1_009",
+    "question": "「齟齬」の読み方として正しいものはどれか。",
+    "furigana": "「齟齬」の読[よ]み方[かた]として正[ただ]しいものはどれか。",
+    "romaji": "'Sogo' no yomikata toshite tadashii mono wa dore ka.",
+    "level": "N1",
+    "category": "KANJI",
+    "options": [
+      "しょご",
+      "そご",
+      "さご",
+      "じょご"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Cach doc dung cua '齟齬' la gi?",
+    "answerExplanation": "'齟齬' duoc doc la 'そご' (sogo) va co nghia la su bat dong, khac biet y kien, hoac mau thuan. Ca hai kanji deu chua bo 歯 (rang) va nghia den mo ta rang tren va duoi khong an khop. Duoc su dung trong bieu dat nhu '齟齬が生じる' (xay ra mau thuan).",
+    "hint": "Ca hai kanji nay chua bo 歯 (rang) va duoc doc voi nguyen am 'o'",
+    "difficultyScore": 9
+  },
+  {
+    "id": "question_n1_1_010",
+    "question": "「遡及」の読み方として正しいものはどれか。",
+    "furigana": "「遡及」の読[よ]み方[かた]として正[ただ]しいものはどれか。",
+    "romaji": "'Sokyuu' no yomikata toshite tadashii mono wa dore ka.",
+    "level": "N1",
+    "category": "KANJI",
+    "options": [
+      "さかのぼりきゅう",
+      "そきゅう",
+      "さっきゅう",
+      "しょきゅう"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Cach doc dung cua '遡及' la gi?",
+    "answerExplanation": "'遡及' duoc doc la 'そきゅう' (sokyuu) va co nghia la hoi to hoac co hieu luc hoi to. '遡' (so) co nghia la truy nguoc ve qua khu, '及' (kyuu) co nghia la dat den hoac lan toi. Thuat ngu nay thuong duoc su dung trong ngu canh phap ly, vi du '遡及適用' (ap dung hoi to) hoac '遡及効' (hieu luc hoi to).",
+    "hint": "Ky tu '遡' co cach doc on'yomi 'そ', khong phai cach doc kun'yomi 'さかのぼ(る)'",
+    "difficultyScore": 8
+  },
+  {
+    "id": "question_n1_1_011",
+    "question": "彼女の圧倒的な演技力は、素人の私ごときが真似す___。",
+    "furigana": "彼女[かのじょ]の圧倒的[あっとうてき]な演技力[えんぎりょく]は、素人[しろうと]の私[わたし]ごときが真似[まね]す___。",
+    "romaji": "Kanojo no attouteki na engiryoku wa, shirouto no watashi gotoki ga mane su ___.",
+    "level": "N1",
+    "category": "GRAMMAR",
+    "options": [
+      "べくもない",
+      "までもない",
+      "にはあたらない",
+      "わけがない"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Kha nang dien xuat phi thuong cua co ay la dieu ma mot nguoi nghiep du nhu toi khong the nao bat chuoc duoc.",
+    "answerExplanation": "'～べくもない' duoc dung de dien ta rang dieu gi do hoan toan khong the thuc hien. Mau cau nay rat trang trong va mang tinh van hoc, nhan manh su bat kha thi tuyet doi. '～までもない' co nghia la khong can, '～にはあたらない' co nghia la khong xung dang, '～わけがない' co nghia la khong the nhung tho hon. Dang nay su dung 'す' (dang co dien cua する) + べくもない.",
+    "hint": "Mau ngu phap N1 dien ta su bat kha thi tuyet doi voi sac thai trang trong/van hoc",
+    "difficultyScore": 8
+  },
+  {
+    "id": "question_n1_1_012",
+    "question": "彼は周囲の批判___、独自の研究路線を貫き通した。",
+    "furigana": "彼[かれ]は周囲[しゅうい]の批判[ひはん]___、独自[どくじ]の研究[けんきゅう]路線[ろせん]を貫[つらぬ]き通[とお]した。",
+    "romaji": "Kare wa shuui no hihan ___, dokuji no kenkyuu rosen wo tsuranuki tooshita.",
+    "level": "N1",
+    "category": "GRAMMAR",
+    "options": [
+      "をよそに",
+      "をものともせず",
+      "はともかく",
+      "もさることながら"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Anh ay da kien dinh theo duoi con duong nghien cuu rieng ma khong nao nan truoc nhung loi chi trich tu nhung nguoi xung quanh.",
+    "answerExplanation": "'～をものともせず' co nghia la khong nao nan truoc hoac khong bi can tro boi (kho khan/tro ngai), voi sac thai ngung mo su dung cam cua nguoi do. '～をよそに' co nghia la bo mac nhung mang sac thai tieu cuc (khong quan tam). '～はともかく' co nghia la bat ke. '～もさることながら' co nghia la khong chi the ma con.",
+    "hint": "Mau cau nay dien ta su kien dinh cua ai do khi doi mat voi tro ngai, voi sac thai tich cuc/ngung mo",
+    "difficultyScore": 7
+  },
+  {
+    "id": "question_n1_1_013",
+    "question": "国民の安全に関わる問題であるからには、一秒___油断することは許されない。",
+    "furigana": "国民[こくみん]の安全[あんぜん]に関[かか]わる問題[もんだい]であるからには、一秒[いちびょう]___油断[ゆだん]することは許[ゆる]されない。",
+    "romaji": "Kokumin no anzen ni kakawaru mondai de aru kara ni wa, ichibyou ___ yudan suru koto wa yurusarenai.",
+    "level": "N1",
+    "category": "GRAMMAR",
+    "options": [
+      "すら",
+      "たりとも",
+      "だけでも",
+      "ばかりも"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Vi day la van de lien quan den an toan cua nhan dan, khong duoc phep lo la du chi mot giay.",
+    "answerExplanation": "'～たりとも' co nghia la 'du chi mot... cung khong' va duoc dung voi so luong nho nhat (一秒、一瞬、一人 v.v.) kem theo dien dat phu dinh de nhan manh rang du la luong nho nhat cung khong duoc phep. '～すら' co nghia la tham chi, nhung khong duoc dung cu the voi so luong trong mau nay. Mau cau nay rat trang trong va dut khoat.",
+    "hint": "Mau trang trong duoc dung sau so luong nho nhat de dien ta 'du chi mot... cung khong duoc'",
+    "difficultyScore": 7
+  },
+  {
+    "id": "question_n1_1_014",
+    "question": "報酬の条件が改善されるならば、この仕事を引き受け___。",
+    "furigana": "報酬[ほうしゅう]の条件[じょうけん]が改善[かいぜん]されるならば、この仕事[しごと]を引[ひ]き受[う]け___。",
+    "romaji": "Houshuu no jouken ga kaizen sareru naraba, kono shigoto wo hikiuke ___.",
+    "level": "N1",
+    "category": "GRAMMAR",
+    "options": [
+      "かねない",
+      "ないものでもない",
+      "ざるを得ない",
+      "ずにはいられない"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Neu dieu kien thu lao duoc cai thien, khong phai la toi khong the nhan cong viec nay.",
+    "answerExplanation": "'～ないものでもない' co nghia la 'khong phai la khong the/khong muon', dien ta kha nang mo ra voi dieu kien nhat dinh. Day la cach noi gian tiep dac trung cua Nhat Ban the hien su san long co dieu kien. '～かねない' co nghia la co the xay ra (dieu xau), '～ざるを得ない' co nghia la bat buoc phai, '～ずにはいられない' co nghia la khong the kiem che duoc.",
+    "hint": "Bieu dat hai lop phu dinh dien ta kha nang tich cuc mot cach gian tiep",
+    "difficultyScore": 8
+  },
+  {
+    "id": "question_n1_1_015",
+    "question": "大企業の社長___、一つの判断ミスが数千人の雇用に影響を与えかねない。",
+    "furigana": "大企業[だいきぎょう]の社長[しゃちょう]___、一[ひと]つの判断[はんだん]ミスが数千人[すうせんにん]の雇用[こよう]に影響[えいきょう]を与[あた]えかねない。",
+    "romaji": "Daikigyou no shachou ___, hitotsu no handan misu ga suusennin no koyou ni eikyou wo atae kanenai.",
+    "level": "N1",
+    "category": "GRAMMAR",
+    "options": [
+      "ともなると",
+      "となれば",
+      "といえども",
+      "にしたら"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Khi da o vi tri chu tich cong ty lon, chi mot sai lam trong phan doan cung co the anh huong den viec lam cua hang ngan nguoi.",
+    "answerExplanation": "'～ともなると' co nghia la 'khi da dat den muc do/vi tri nhat dinh', nhan manh rang o cap do do tinh hinh khac voi binh thuong. '～となれば' co nghia la neu tro thanh, '～といえども' co nghia la du rang, '～にしたら' co nghia la tu goc nhin cua. Mau cau nay nhan manh hau qua di kem voi mot vi tri hoac tinh huong nhat dinh.",
+    "hint": "Mau cau nay nhan manh rang khi dat den cap do nhat dinh, trach nhiem va hau qua cung khac di",
+    "difficultyScore": 7
+  },
+  {
+    "id": "question_n1_1_016",
+    "question": "この辞典は、語源の解説から用例___、極めて充実した内容となっている。",
+    "furigana": "この辞典[じてん]は、語源[ごげん]の解説[かいせつ]から用例[ようれい]___、極[きわ]めて充実[じゅうじつ]した内容[ないよう]となっている。",
+    "romaji": "Kono jiten wa, gogen no kaisetsu kara yourei ___, kiwamete juujitsu shita naiyou to natte iru.",
+    "level": "N1",
+    "category": "GRAMMAR",
+    "options": [
+      "に至るまで",
+      "にかけて",
+      "に限らず",
+      "のみならず"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Tu dien nay co noi dung vo cung toan dien, tu giai thich nguon goc tu ngu den vi du su dung.",
+    "answerExplanation": "'～に至るまで' co nghia la 'cho den tan', duoc dung voi 'から' de cho thay pham vi rong tu diem bat dau den diem ket thuc. Mau cau nay nhan manh su toan dien hoac ti mi. '～にかけて' cho thay khoang thoi gian/khong gian, '～に限らず' co nghia la khong gioi han o, '～のみならず' co nghia la khong chi.",
+    "hint": "Mau cau nay duoc dung ket hop voi 'から' de cho thay su bao quat toan dien",
+    "difficultyScore": 6
+  },
+  {
+    "id": "question_n1_1_017",
+    "question": "大規模な自然災害により、住民は長期にわたる避難生活___。",
+    "furigana": "大規模[だいきぼ]な自然[しぜん]災害[さいがい]により、住民[じゅうみん]は長期[ちょうき]にわたる避難[ひなん]生活[せいかつ]___。",
+    "romaji": "Daikibo na shizen saigai ni yori, juumin wa chouki ni wataru hinan seikatsu ___.",
+    "level": "N1",
+    "category": "GRAMMAR",
+    "options": [
+      "をやむなくされた",
+      "を余儀なくされた",
+      "を仕方なくされた",
+      "を致し方なくされた"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Do tham hoa thien nhien quy mo lon, cu va bi buoc phai chiu dung cuoc song so tan dai han.",
+    "answerExplanation": "'～を余儀なくされる' (yo yogi naku sareru) la mau trang trong co nghia la bi hoan canh buoc phai lam dieu gi do khong mong muon. Day la thanh ngu co dinh (慣用表現) va khong the thay the bang tu dong nghia tho hon. '仕方なくされた' va 'やむなくされた' khong phai la mau chuan trong tieng Nhat trang trong.",
+    "hint": "Day la thanh ngu co dinh trang trong co nghia la 'bi hoan canh buoc phai' - chi co mot dang dung ve ngu phap",
+    "difficultyScore": 7
+  },
+  {
+    "id": "question_n1_1_018",
+    "question": "次の文章を読んで、筆者の主張に最も近いものを選びなさい。\n\n近年、司法の場においても人工知能の活用が議論されている。判例データベースの分析や量刑の予測など、AIが裁判官の判断を補助する可能性は確かに存在する。しかしながら、法の適用とは単なるデータの照合ではない。被告人の生育環境、犯行に至る心理的経緯、さらには社会全体の規範意識の変遷といった、数値化し得ない要素を総合的に勘案した上で初めて、正義にかなう判断が下されるのである。効率性の追求が司法の本質を損なうことがあってはならず、AIの導入はあくまでも人間の判断を支える道具としての位置づけに留めるべきである。技術への過度な依存は、かえって司法制度に対する国民の信頼を揺るがしかねないことを、我々は肝に銘じなければならない。",
+    "furigana": "次[つぎ]の文章[ぶんしょう]を読[よ]んで、筆者[ひっしゃ]の主張[しゅちょう]に最[もっと]も近[ちか]いものを選[えら]びなさい。",
+    "romaji": "Tsugi no bunshou wo yonde, hissha no shuchou ni mottomo chikai mono wo erabinasai.",
+    "level": "N1",
+    "category": "READING",
+    "options": [
+      "AIは司法判断を完全に代替できるため、積極的に導入すべきだ。",
+      "AIの司法への導入は、人間の判断を補助する範囲に限定すべきだ。",
+      "司法におけるAI活用は、国民の信頼を高めるために不可欠だ。",
+      "量刑の予測はAIの方が正確であり、裁判官より信頼できる。"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Doc doan van sau va chon dap an gan nhat voi lap luan cua tac gia.\n\n[Van ban binh luan ve cac ham y dao duc cua AI trong viec ra quyet dinh phap ly]",
+    "answerExplanation": "Tac gia thua nhan tiem nang cua AI trong phan tich du lieu phap ly, nhung nhan manh rang viec ap dung luat khong chi la doi chieu du lieu. Cac yeu to khong the luong hoa nhu hoan canh cua bi cao va su thay doi nhan thuc chuan muc xa hoi phai duoc xem xet toan dien. Ket luan cua tac gia ro rang: AI chi nen duoc dinh vi la cong cu ho tro (道具としての位置づけに留めるべき) va su phu thuoc qua muc co the lam lung lay niem tin cua cong chung vao he thong tu phap.",
+    "hint": "Luu y cau then chot de cap den vi tri ma AI nen duoc dat trong he thong tu phap",
+    "difficultyScore": 8
+  },
+  {
+    "id": "question_n1_1_019",
+    "question": "次の文章を読んで、筆者が「間」について述べていることに最も近いものを選びなさい。\n\n日本の美意識において、「間」とは単なる空白や沈黙を指すものではない。それは、存在と不在の境界に立ち現れる独自の表現領域である。能楽における静止の一瞬、枯山水の石と砂利の間に広がる余白、あるいは俳句の切れ字が生み出す意味の断絶と接続——これらはいずれも、「間」が積極的な美的機能を果たしている例に他ならない。西洋的な美学が充填と完成を志向するのに対し、日本の「間」の思想は、空虚の中にこそ豊かな意味が宿ると説く。すなわち、「間」とは欠如ではなく、鑑賞者の想像力を喚起するための意図的な余地なのである。",
+    "furigana": "次[つぎ]の文章[ぶんしょう]を読[よ]んで、筆者[ひっしゃ]が「間[ま]」について述[の]べていることに最[もっと]も近[ちか]いものを選[えら]びなさい。",
+    "romaji": "Tsugi no bunshou wo yonde, hissha ga 'ma' ni tsuite nobete iru koto ni mottomo chikai mono wo erabinasai.",
+    "level": "N1",
+    "category": "READING",
+    "options": [
+      "「間」は西洋美学の影響を受けて形成された日本独自の概念である。",
+      "「間」は鑑賞者の想像力を引き出すために意図的に設けられた創造的な空間である。",
+      "「間」は能楽や俳句にのみ見られる限定的な美的概念である。",
+      "「間」は現代の日本人には理解しがたい古典的な美意識である。"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Doc doan van sau va chon dap an gan nhat voi nhung gi tac gia phat bieu ve 'ma'.\n\n[Tieu luan van hoc ve khai niem 'ma' (間) trong my hoc Nhat Ban]",
+    "answerExplanation": "Tac gia khang dinh rang '間' khong phai la su trong rong hay thieu hut, ma la khong gian duoc co y tao ra de goi len tri tuong tuong cua nguoi thuong thuc (鑑賞者の想像力を喚起するための意図的な余地). Lua chon dau tien sai vi tac gia doi lap '間' voi my hoc phuong Tay. Lua chon thu ba sai vi tac gia de cap nhieu vi du bao gom karesansui. Lua chon thu tu khong duoc van ban ho tro.",
+    "hint": "Luu y cau cuoi cung dinh nghia ban chat cua '間' theo tac gia",
+    "difficultyScore": 9
+  },
+  {
+    "id": "question_n1_1_020",
+    "question": "次の文章を読んで、筆者の結論として推測されるものに最も近いものを選びなさい。\n\nグローバル化の進展は、世界各地の少数言語に深刻な影響を及ぼしている。経済的合理性の観点から、より広範な通用力を持つ言語への移行が進む一方で、各言語が内包する固有の世界観や認知体系は不可逆的に失われつつある。言語学者サピアとウォーフの仮説に立脚すれば、言語の消滅とは単なるコミュニケーション手段の喪失にとどまらず、人類が環境を認識し概念化する方法の多様性そのものの縮減を意味する。言語の保全とは、したがって、懐古的な文化保存運動ではなく、人類の知的資産の維持に関わる喫緊の課題として捉え直されるべきであろう。標準化と効率化の波に抗うことは容易ではないが、多言語共存のための制度的枠組みの構築こそが、真のグローバル社会の成熟を示す指標となるはずである。",
+    "furigana": "次[つぎ]の文章[ぶんしょう]を読[よ]んで、筆者[ひっしゃ]の結論[けつろん]として推測[すいそく]されるものに最[もっと]も近[ちか]いものを選[えら]びなさい。",
+    "romaji": "Tsugi no bunshou wo yonde, hissha no ketsuron toshite suisoku sareru mono ni mottomo chikai mono wo erabinasai.",
+    "level": "N1",
+    "category": "READING",
+    "options": [
+      "グローバル化に伴う言語の統一は、人類の進歩にとって望ましい現象である。",
+      "少数言語の消滅は避けられないため、主要言語の教育に注力すべきだ。",
+      "多言語が共存できる社会の仕組みを作ることが、成熟したグローバル社会の証である。",
+      "サピア＝ウォーフの仮説は現代の言語学では否定されている。"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Doc doan van sau va chon dap an gan nhat voi ket luan co the suy ra tu tac gia.\n\n[Trich doan hoc thuat ve tac dong xa hoi ngon ngu hoc cua toan cau hoa doi voi ngon ngu thieu so]",
+    "answerExplanation": "Tac gia lap luan rang su mat di cua ngon ngu thieu so khong chi la mat di cong cu giao tiep, ma con la su thu hep su da dang trong cach con nguoi hieu the gioi (dua tren gia thuyet Sapir-Whorf). Trong cau ket, tac gia ket luan rang viec xay dung khung the che cho su cung ton da ngon ngu (多言語共存のための制度的枠組みの構築) la chi bao cua su truong thanh xa hoi toan cau thuc su. Dieu nay phu hop voi lua chon thu ba.",
+    "hint": "Luu y cau cuoi cung de cap den dieu gi tro thanh 'chi bao' cua xa hoi toan cau truong thanh",
+    "difficultyScore": 9
+  }
+]

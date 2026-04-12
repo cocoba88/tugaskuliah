@@ -1,0 +1,572 @@
+[
+  {
+    "id": "question_n3_4_001",
+    "question": "「省略」の意味は？",
+    "furigana": "「省略[しょうりゃく]」の意味[いみ]は？",
+    "romaji": "'Shouryaku' no imi wa?",
+    "level": "N3",
+    "category": "VOCABULARY",
+    "options": [
+      "Penyingkatan atau penghilangan",
+      "Penambahan informasi baru",
+      "Pengulangan yang sama",
+      "Penerjemahan ke bahasa lain"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Apa arti '省略'?",
+    "answerExplanation": "'省略' (shouryaku) berarti penyingkatan, penghilangan, atau omission. Digunakan ketika suatu bagian dihilangkan atau disingkat karena dianggap tidak perlu. Contoh: '説明を省略する' = menyingkat penjelasan. 省 berarti mengurangi/menghemat, 略 berarti menyingkat.",
+    "hint": "Menghilangkan bagian yang tidak diperlukan",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n3_4_002",
+    "question": "「環境」の意味は？",
+    "furigana": "「環境[かんきょう]」の意味[いみ]は？",
+    "romaji": "'Kankyou' no imi wa?",
+    "level": "N3",
+    "category": "VOCABULARY",
+    "options": [
+      "Perasaan yang mendalam",
+      "Lingkungan atau suasana sekitar",
+      "Peraturan yang ketat",
+      "Kebiasaan sehari-hari"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Apa arti '環境'?",
+    "answerExplanation": "'環境' (kankyou) berarti lingkungan, baik lingkungan alam maupun lingkungan sosial. Contoh: '環境を守る' = menjaga lingkungan, '職場の環境' = lingkungan kerja. Kata ini sangat sering digunakan dalam konteks pelestarian alam dan kehidupan sehari-hari.",
+    "hint": "Segala sesuatu yang ada di sekitar kita",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_4_003",
+    "question": "「促進」の意味は？",
+    "furigana": "「促進[そくしん]」の意味[いみ]は？",
+    "romaji": "'Sokushin' no imi wa?",
+    "level": "N3",
+    "category": "VOCABULARY",
+    "options": [
+      "Penghentian secara tiba-tiba",
+      "Penundaan sampai waktu tertentu",
+      "Mendorong atau mempercepat kemajuan",
+      "Mengurangi jumlah secara bertahap"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Apa arti '促進'?",
+    "answerExplanation": "'促進' (sokushin) berarti mendorong, mempercepat, atau mempromosikan sesuatu agar berkembang lebih cepat. Contoh: '健康促進' = promosi kesehatan, '販売を促進する' = mempercepat penjualan. 促 berarti mendorong/mempercepat, 進 berarti maju.",
+    "hint": "Membuat sesuatu berjalan lebih cepat atau lebih maju",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n3_4_004",
+    "question": "「責任」の意味は？",
+    "furigana": "「責任[せきにん]」の意味[いみ]は？",
+    "romaji": "'Sekinin' no imi wa?",
+    "level": "N3",
+    "category": "VOCABULARY",
+    "options": [
+      "Tanggung jawab atau kewajiban",
+      "Kebebasan memilih",
+      "Hak istimewa seseorang",
+      "Kemampuan alami sejak lahir"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Apa arti '責任'?",
+    "answerExplanation": "'責任' (sekinin) berarti tanggung jawab atau kewajiban. Contoh: '責任を取る' = mengambil tanggung jawab, '責任感が強い' = memiliki rasa tanggung jawab yang kuat. Kata ini sering digunakan dalam konteks pekerjaan dan kehidupan sosial.",
+    "hint": "Sesuatu yang harus kita pikul dan tidak bisa dihindari",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_4_005",
+    "question": "「貢献」の意味は？",
+    "furigana": "「貢献[こうけん]」の意味[いみ]は？",
+    "romaji": "'Kouken' no imi wa?",
+    "level": "N3",
+    "category": "VOCABULARY",
+    "options": [
+      "Pengorbanan yang sia-sia",
+      "Kontribusi atau sumbangan",
+      "Persaingan yang ketat",
+      "Perlawanan terhadap aturan"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Apa arti '貢献'?",
+    "answerExplanation": "'貢献' (kouken) berarti kontribusi, sumbangan, atau memberikan manfaat kepada orang lain atau masyarakat. Contoh: '社会に貢献する' = berkontribusi kepada masyarakat. 貢 berarti memberikan upeti/sumbangan, 献 berarti mempersembahkan.",
+    "hint": "Memberikan sesuatu yang bermanfaat untuk orang lain",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n3_4_006",
+    "question": "「経済」の読み方は？",
+    "furigana": "「経済[けいざい]」の読[よ]み方[かた]は？",
+    "romaji": "'Keizai' no yomikata wa?",
+    "level": "N3",
+    "category": "KANJI",
+    "options": [
+      "けいさい",
+      "きょうざい",
+      "けいざい",
+      "きょうさい"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Bagaimana cara membaca '経済'?",
+    "answerExplanation": "'経済' dibaca 'けいざい' (keizai) yang berarti ekonomi. 経 dibaca 'けい' (bukan 'きょう') dan 済 dibaca 'ざい'. Contoh: '経済学' (keizaigaku) = ilmu ekonomi, '経済成長' (keizai seichou) = pertumbuhan ekonomi.",
+    "hint": "Kei + zai (berkaitan dengan sistem uang dan perdagangan)",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_4_007",
+    "question": "「建築」の読み方は？",
+    "furigana": "「建築[けんちく]」の読[よ]み方[かた]は？",
+    "romaji": "'Kenchiku' no yomikata wa?",
+    "level": "N3",
+    "category": "KANJI",
+    "options": [
+      "たてちく",
+      "けんちく",
+      "こんちく",
+      "けんしゅく"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Bagaimana cara membaca '建築'?",
+    "answerExplanation": "'建築' dibaca 'けんちく' (kenchiku) yang berarti arsitektur atau konstruksi bangunan. 建 dibaca 'けん' (membangun) dan 築 dibaca 'ちく' (membangun/mendirikan). Contoh: '建築家' (kenchikuka) = arsitek.",
+    "hint": "Ken + chiku (berhubungan dengan membangun gedung)",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_4_008",
+    "question": "「調査」の読み方は？",
+    "furigana": "「調査[ちょうさ]」の読[よ]み方[かた]は？",
+    "romaji": "'Chousa' no yomikata wa?",
+    "level": "N3",
+    "category": "KANJI",
+    "options": [
+      "ちょうさ",
+      "ちょうざ",
+      "しらべさ",
+      "そうさ"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Bagaimana cara membaca '調査'?",
+    "answerExplanation": "'調査' dibaca 'ちょうさ' (chousa) yang berarti penyelidikan atau investigasi. 調 dibaca 'ちょう' (memeriksa/menyelidiki) dan 査 dibaca 'さ' (memeriksa). Contoh: '調査する' = menyelidiki, '市場調査' (shijou chousa) = riset pasar. Kata ini sering digunakan dalam konteks penelitian dan laporan.",
+    "hint": "Chou + sa (berkaitan dengan memeriksa atau menyelidiki sesuatu)",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n3_4_009",
+    "question": "「契約」の読み方は？",
+    "furigana": "「契約[けいやく]」の読[よ]み方[かた]は？",
+    "romaji": "'Keiyaku' no yomikata wa?",
+    "level": "N3",
+    "category": "KANJI",
+    "options": [
+      "けいやく",
+      "きやく",
+      "けつやく",
+      "かいやく"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Bagaimana cara membaca '契約'?",
+    "answerExplanation": "'契約' dibaca 'けいやく' (keiyaku) yang berarti kontrak atau perjanjian. 契 dibaca 'けい' (berjanji/bersumpah) dan 約 dibaca 'やく' (janji). Contoh: '契約を結ぶ' (keiyaku wo musubu) = menandatangani kontrak.",
+    "hint": "Kei + yaku (dokumen resmi antara dua pihak)",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n3_4_010",
+    "question": "「受付」の読み方は？",
+    "furigana": "「受付[うけつけ]」の読[よ]み方[かた]は？",
+    "romaji": "'Uketsuke' no yomikata wa?",
+    "level": "N3",
+    "category": "KANJI",
+    "options": [
+      "うけつけ",
+      "じゅつけ",
+      "うけづけ",
+      "じゅふ"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Bagaimana cara membaca '受付'?",
+    "answerExplanation": "'受付' dibaca 'うけつけ' (uketsuke) yang berarti resepsi atau meja penerimaan. 受 dibaca 'うけ' (menerima) dan 付 dibaca 'つけ' (menempelkan/melekatkan). Contoh: '受付で名前を書く' = menulis nama di resepsi, '受付時間' (uketsuke jikan) = jam penerimaan. Kata ini sangat sering digunakan di kantor, rumah sakit, dan hotel.",
+    "hint": "Uke + tsuke (tempat untuk menerima tamu atau pendaftaran)",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_4_011",
+    "question": "せっかく準備した___、中止になった。",
+    "furigana": "せっかく準備[じゅんび]した___、中止[ちゅうし]になった。",
+    "romaji": "Sekkaku junbi shita ___, chuushi ni natta.",
+    "level": "N3",
+    "category": "GRAMMAR",
+    "options": [
+      "ので",
+      "のに",
+      "から",
+      "けど"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Padahal sudah susah payah mempersiapkan, tapi malah dibatalkan.",
+    "answerExplanation": "'〜のに' digunakan untuk mengekspresikan kekecewaan atau ketidakpuasan karena hasil yang terjadi bertentangan dengan harapan. 'せっかく〜のに' adalah kombinasi yang sangat umum, yang menunjukkan bahwa usaha yang dilakukan sia-sia. 'ので' dan 'から' menyatakan alasan. 'けど' kurang kuat nuansa kekecewaannya.",
+    "hint": "Menunjukkan kekecewaan karena hasilnya berbeda dari yang diharapkan",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_4_012",
+    "question": "電車が遅れた___は、バスを利用してください。",
+    "furigana": "電車[でんしゃ]が遅[おく]れた___は、バスを利用[りよう]してください。",
+    "romaji": "Densha ga okureta ___ wa, basu wo riyou shite kudasai.",
+    "level": "N3",
+    "category": "GRAMMAR",
+    "options": [
+      "とき",
+      "ところ",
+      "場合",
+      "うち"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Jika kereta terlambat, silakan gunakan bus.",
+    "answerExplanation": "'〜場合は' (baai wa) berarti 'dalam hal/jika terjadi...' dan digunakan untuk menyatakan kondisi atau situasi tertentu, terutama dalam instruksi atau pengumuman resmi. Berbeda dengan 'とき' yang juga berarti 'ketika' tapi lebih kasual. 'ところ' berarti tempat/saat tertentu. 'うち' berarti selagi/sementara. Contoh lain: 雨の場合は中止します (jika hujan, akan dibatalkan).",
+    "hint": "Pola yang digunakan dalam instruksi atau pengumuman resmi untuk situasi tertentu",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_4_013",
+    "question": "この店は美味しい___だ。今度行ってみよう。",
+    "furigana": "この店[みせ]は美味[おい]しい___だ。今度[こんど]行[い]ってみよう。",
+    "romaji": "Kono mise wa oishii ___ da. Kondo itte miyou.",
+    "level": "N3",
+    "category": "GRAMMAR",
+    "options": [
+      "つもり",
+      "ようだ",
+      "はず",
+      "らしい"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Toko ini seharusnya enak. Kapan-kapan coba pergi ke sana.",
+    "answerExplanation": "'〜はずだ' digunakan untuk menyatakan sesuatu yang seharusnya benar berdasarkan alasan atau bukti logis (misalnya pernah dengar dari teman, lihat ulasan bagus). Berbeda dengan 'つもり' yang berarti niat/bermaksud, 'ようだ' yang berarti tampaknya (berdasarkan pengamatan langsung), dan 'らしい' yang berarti katanya/sepertinya (berdasarkan informasi orang lain, lebih tidak yakin). Contoh lain: 薬を飲んだから、治るはずだ (karena sudah minum obat, seharusnya sembuh).",
+    "hint": "Menunjukkan ekspektasi logis berdasarkan informasi yang diketahui",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n3_4_014",
+    "question": "嫌いな___ではないが、あまり食べない。",
+    "furigana": "嫌[きら]いな___ではないが、あまり食[た]べない。",
+    "romaji": "Kirai na ___ dewa nai ga, amari tabenai.",
+    "level": "N3",
+    "category": "GRAMMAR",
+    "options": [
+      "こと",
+      "もの",
+      "わけ",
+      "ほう"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Bukan berarti tidak suka, tapi jarang makan.",
+    "answerExplanation": "'〜わけではない' berarti 'bukan berarti...' atau 'tidak berarti bahwa...'. Pola ini digunakan untuk mengoreksi anggapan orang lain atau menjelaskan bahwa sesuatu tidak sepenuhnya benar. 'こと' dan 'もの' tidak cocok secara tata bahasa di sini. 'ほう' digunakan untuk perbandingan.",
+    "hint": "Menolak secara halus anggapan yang belum tentu benar",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n3_4_015",
+    "question": "食べられない___はないが、あまり好きではない。",
+    "furigana": "食[た]べられない___はないが、あまり好[す]きではない。",
+    "romaji": "Taberarenai ___ wa nai ga, amari suki dewa nai.",
+    "level": "N3",
+    "category": "GRAMMAR",
+    "options": [
+      "わけ",
+      "もの",
+      "こと",
+      "ところ"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Bukan berarti tidak bisa makan, tapi kurang suka.",
+    "answerExplanation": "'〜ないことはない' berarti 'bukan berarti tidak bisa...' atau 'bukannya tidak mungkin'. Pola ini digunakan untuk mengakui sesuatu secara positif tapi dengan nuansa ragu-ragu atau ada syarat tertentu. Berbeda dengan '〜わけではない' yang mengoreksi anggapan orang lain, '〜ないことはない' lebih menekankan kemungkinan yang lemah. Contoh lain: できないことはない (bukan berarti tidak bisa).",
+    "hint": "Mengakui kemungkinan tapi dengan keraguan atau ketidakyakinan",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n3_4_016",
+    "question": "先生が言った___にやってください。",
+    "furigana": "先生[せんせい]が言[い]った___にやってください。",
+    "romaji": "Sensei ga itta ___ ni yatte kudasai.",
+    "level": "N3",
+    "category": "GRAMMAR",
+    "options": [
+      "まま",
+      "とおり",
+      "ように",
+      "ほど"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Tolong lakukan persis seperti yang guru katakan.",
+    "answerExplanation": "'〜とおりに' berarti 'persis seperti' atau 'sesuai dengan'. Digunakan untuk menyatakan bahwa sesuatu harus dilakukan sama persis seperti contoh atau instruksi. 'まま' berarti dalam keadaan itu. 'ように' berarti supaya/agar. 'ほど' berarti sejauh/sebanyak.",
+    "hint": "Melakukan sesuatu dengan cara yang sama persis",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_4_017",
+    "question": "来月から毎日運動する___。",
+    "furigana": "来月[らいげつ]から毎日[まいにち]運動[うんどう]する___。",
+    "romaji": "Raigetsu kara mainichi undou suru ___.",
+    "level": "N3",
+    "category": "GRAMMAR",
+    "options": [
+      "ことにした",
+      "ことになった",
+      "ようにした",
+      "ものにした"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Saya memutuskan untuk berolahraga setiap hari mulai bulan depan.",
+    "answerExplanation": "'〜ことにする' berarti 'memutuskan untuk melakukan sesuatu' dan digunakan ketika keputusan diambil oleh diri sendiri secara sadar. Berbeda dengan '〜ことになる' yang menyatakan keputusan dari pihak luar atau keadaan. '〜ようにする' berarti 'berusaha untuk〜' (kebiasaan), bukan keputusan tegas. '〜ものにする' bukan pola tata bahasa yang umum. Contoh lain: '毎朝早く起きることにした' = saya memutuskan untuk bangun pagi setiap hari.",
+    "hint": "Keputusan yang diambil sendiri secara sadar, bukan dari pihak luar",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_4_018",
+    "question": "次の文章を読んで、質問に答えてください。\n\n社員の皆様へ\n来月から、会社では新しいリサイクルポリシーを始めます。これまでゴミ箱は一つだけでしたが、これからは「燃えるゴミ」「プラスチック」「紙」の三つに分けてください。各フロアに新しいゴミ箱を設置します。また、ペットボトルはキャップとラベルを外してから捨ててください。このポリシーに協力することで、会社の環境への貢献が大きくなります。ご協力をお願いいたします。\n\n質問：社員がしなければならないことは何ですか？",
+    "furigana": "次[つぎ]の文章[ぶんしょう]を読[よ]んで、質問[しつもん]に答[こた]えてください。\n\n社員[しゃいん]の皆様[みなさま]へ\n来月[らいげつ]から、会社[かいしゃ]では新[あたら]しいリサイクルポリシーを始[はじ]めます。これまでゴミ箱[ばこ]は一[ひと]つだけでしたが、これからは「燃[も]えるゴミ」「プラスチック」「紙[かみ]」の三[みっ]つに分[わ]けてください。各[かく]フロアに新[あたら]しいゴミ箱[ばこ]を設置[せっち]します。また、ペットボトルはキャップとラベルを外[はず]してから捨[す]ててください。このポリシーに協力[きょうりょく]することで、会社[かいしゃ]の環境[かんきょう]への貢献[こうけん]が大[おお]きくなります。ご協力[きょうりょく]をお願[ねが]いいたします。\n\n質問[しつもん]：社員[しゃいん]がしなければならないことは何[なん]ですか？",
+    "romaji": "Tsugi no bunshou wo yonde, shitsumon ni kotaete kudasai. (Shain no minasama e...) Shitsumon: Shain ga shinakereba naranai koto wa nan desu ka?",
+    "level": "N3",
+    "category": "READING",
+    "options": [
+      "新しいゴミ箱を自分で買う",
+      "ゴミを三つに分けて、ペットボトルのキャップとラベルを外す",
+      "リサイクルポリシーを自分で作る",
+      "毎月環境レポートを書く"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Baca teks berikut dan jawab pertanyaannya.\n\n(Memo perusahaan tentang kebijakan daur ulang baru)\n\nPertanyaan: Apa yang harus dilakukan karyawan?",
+    "answerExplanation": "Berdasarkan memo tersebut, karyawan harus melakukan dua hal: (1) memisahkan sampah menjadi tiga kategori yaitu sampah yang bisa dibakar, plastik, dan kertas, serta (2) melepas tutup dan label dari botol PET sebelum membuangnya. Tong sampah baru akan disediakan oleh perusahaan (bukan dibeli sendiri), dan tidak disebutkan tentang membuat kebijakan atau menulis laporan.",
+    "hint": "Perhatikan instruksi spesifik tentang pemisahan sampah dan botol PET",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n3_4_019",
+    "question": "次の文章を読んで、質問に答えてください。\n\n皆さん、ご卒業おめでとうございます。今日は皆さんに一つだけ伝えたいことがあります。それは「継続の大切さ」です。私は若いころ、ピアノを習い始めましたが、何度もやめたいと思いました。しかし、先生の励ましと自分の目標があったから続けることができました。十年後、コンクールで優勝したとき、続けてよかったと心から思いました。才能よりも大切なのは、諦めずに続けることです。皆さんもこれからの人生で困難なことがあっても、どうか続けてください。\n\n質問：話者が一番伝えたいことは何ですか？",
+    "furigana": "次[つぎ]の文章[ぶんしょう]を読[よ]んで、質問[しつもん]に答[こた]えてください。\n\n皆[みな]さん、ご卒業[そつぎょう]おめでとうございます。今日[きょう]は皆[みな]さんに一[ひと]つだけ伝[つた]えたいことがあります。それは「継続[けいぞく]の大切[たいせつ]さ」です。私[わたし]は若[わか]いころ、ピアノを習[なら]い始[はじ]めましたが、何度[なんど]もやめたいと思[おも]いました。しかし、先生[せんせい]の励[はげ]ましと自分[じぶん]の目標[もくひょう]があったから続[つづ]けることができました。十年後[じゅうねんご]、コンクールで優勝[ゆうしょう]したとき、続[つづ]けてよかったと心[こころ]から思[おも]いました。才能[さいのう]よりも大切[たいせつ]なのは、諦[あきら]めずに続[つづ]けることです。皆[みな]さんもこれからの人生[じんせい]で困難[こんなん]なことがあっても、どうか続[つづ]けてください。\n\n質問[しつもん]：話者[わしゃ]が一番[いちばん]伝[つた]えたいことは何[なん]ですか？",
+    "romaji": "Tsugi no bunshou wo yonde, shitsumon ni kotaete kudasai. (Minasan, go sotsugyou omedetou gozaimasu...) Shitsumon: Washa ga ichiban tsutaetai koto wa nan desu ka?",
+    "level": "N3",
+    "category": "READING",
+    "options": [
+      "ピアノを習うことが大切だ",
+      "才能がなければ成功できない",
+      "諦めずに続けることが才能より大切だ",
+      "先生の励ましが一番重要だ"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Baca teks berikut dan jawab pertanyaannya.\n\n(Pidato di upacara kelulusan tentang pentingnya ketekunan)\n\nPertanyaan: Apa pesan utama yang ingin disampaikan pembicara?",
+    "answerExplanation": "Pembicara secara jelas menyatakan '才能よりも大切なのは、諦めずに続けること' yang berarti 'yang lebih penting dari bakat adalah tidak menyerah dan terus melanjutkan'. Meskipun piano dan guru disebutkan, itu hanya contoh pengalaman pribadi untuk mendukung pesan utamanya tentang ketekunan (継続). Pembicara tidak mengatakan bakat tidak diperlukan, melainkan bahwa ketekunan lebih penting.",
+    "hint": "Perhatikan kalimat kunci tentang apa yang lebih penting dari bakat",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n3_4_020",
+    "question": "次の文章を読んで、質問に答えてください。\n\n最近、リモートワークをする人が増えている。しかし、家で仕事をすると、集中できないという問題がある。家族の声やテレビの音が気になる人も多い。また、一人で仕事をするので、孤独を感じることもある。これらの問題を解決するために、専門家は「仕事の時間と休みの時間をはっきり分けること」を勧めている。例えば、仕事用の部屋を作ったり、仕事の開始と終了の時間を決めたりすることが効果的だという。\n\n質問：この記事が提案している解決策は何ですか？",
+    "furigana": "次[つぎ]の文章[ぶんしょう]を読[よ]んで、質問[しつもん]に答[こた]えてください。\n\n最近[さいきん]、リモートワークをする人[ひと]が増[ふ]えている。しかし、家[いえ]で仕事[しごと]をすると、集中[しゅうちゅう]できないという問題[もんだい]がある。家族[かぞく]の声[こえ]やテレビの音[おと]が気[き]になる人[ひと]も多[おお]い。また、一人[ひとり]で仕事[しごと]をするので、孤独[こどく]を感[かん]じることもある。これらの問題[もんだい]を解決[かいけつ]するために、専門家[せんもんか]は「仕事[しごと]の時間[じかん]と休[やす]みの時間[じかん]をはっきり分[わ]けること」を勧[すす]めている。例[たと]えば、仕事用[しごとよう]の部屋[へや]を作[つく]ったり、仕事[しごと]の開始[かいし]と終了[しゅうりょう]の時間[じかん]を決[き]めたりすることが効果的[こうかてき]だという。\n\n質問[しつもん]：この記事[きじ]が提案[ていあん]している解決策[かいけつさく]は何[なん]ですか？",
+    "romaji": "Tsugi no bunshou wo yonde, shitsumon ni kotaete kudasai. (Saikin, rimooto waaku wo suru hito ga fuete iru...) Shitsumon: Kono kiji ga teian shite iru kaiketsusaku wa nan desu ka?",
+    "level": "N3",
+    "category": "READING",
+    "options": [
+      "リモートワークをやめてオフィスに戻ること",
+      "仕事の時間と休みの時間をはっきり分けること",
+      "家族と一緒に仕事をすること",
+      "テレビを見ながら仕事をすること"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Baca teks berikut dan jawab pertanyaannya.\n\n(Artikel tentang tantangan dan solusi kerja jarak jauh)\n\nPertanyaan: Apa solusi yang disarankan artikel ini?",
+    "answerExplanation": "Artikel tersebut menyebutkan bahwa ahli menyarankan untuk 'memisahkan waktu kerja dan waktu istirahat dengan jelas' (仕事の時間と休みの時間をはっきり分けること). Contoh yang diberikan termasuk membuat ruangan khusus untuk bekerja dan menetapkan waktu mulai serta selesai kerja. Artikel tidak menyarankan untuk berhenti bekerja dari rumah, bekerja bersama keluarga, atau menonton TV sambil bekerja.",
+    "hint": "Perhatikan saran dari ahli tentang pembagian waktu",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n3_4_021",
+    "question": "音楽を聞き___勉強するのが好きです。",
+    "furigana": "音楽[おんがく]を聞[き]き___勉強[べんきょう]するのが好[す]きです。",
+    "romaji": "Ongaku wo kiki ___ benkyou suru no ga suki desu.",
+    "level": "N3",
+    "category": "GRAMMAR",
+    "options": [
+      "ながら",
+      "つつ",
+      "まま",
+      "たまま"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Saya suka belajar sambil mendengarkan musik.",
+    "answerExplanation": "「〜ながら」digunakan untuk menyatakan dua tindakan yang dilakukan secara bersamaan oleh orang yang sama. Kata kerja sebelum ながら adalah tindakan sekunder, dan kata kerja setelahnya adalah tindakan utama. 'つつ' memiliki arti mirip tapi lebih formal dan jarang digunakan dalam percakapan sehari-hari. 'まま' berarti dalam keadaan tetap.",
+    "hint": "Melakukan dua hal di waktu yang sama",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_4_022",
+    "question": "最近、日本語が上手に___きた。",
+    "furigana": "最近[さいきん]、日本語[にほんご]が上手[じょうず]に___きた。",
+    "romaji": "Saikin, nihongo ga jouzu ni ___ kita.",
+    "level": "N3",
+    "category": "GRAMMAR",
+    "options": [
+      "して",
+      "なって",
+      "なり",
+      "され"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Akhir-akhir ini, bahasa Jepang saya sudah menjadi semakin bagus.",
+    "answerExplanation": "「〜てくる」digunakan untuk menyatakan perubahan yang terjadi secara bertahap dari masa lalu hingga sekarang. 'なってきた' berarti 'sudah menjadi (secara bertahap)'. Pola ini menunjukkan proses perubahan yang berlanjut menuju pembicara atau waktu sekarang. Berbeda dengan 'していく' yang menunjukkan perubahan dari sekarang ke masa depan.",
+    "hint": "Perubahan bertahap dari masa lalu sampai sekarang",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_4_023",
+    "question": "日本語を上手に話す___毎日練習しています。",
+    "furigana": "日本語[にほんご]を上手[じょうず]に話[はな]す___毎日[まいにち]練習[れんしゅう]しています。",
+    "romaji": "Nihongo wo jouzu ni hanasu ___ mainichi renshuu shite imasu.",
+    "level": "N3",
+    "category": "GRAMMAR",
+    "options": [
+      "ように",
+      "ために",
+      "のに",
+      "ので"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Saya berlatih setiap hari untuk bisa berbicara bahasa Jepang dengan baik.",
+    "answerExplanation": "「〜ために」digunakan untuk menyatakan tujuan dari suatu tindakan yang disengaja. Pola ini digunakan dengan kata kerja bentuk kamus (辞書形) + ために. Berbeda dengan 'ように' yang digunakan untuk tujuan yang tidak sepenuhnya bisa dikontrol atau dengan kata kerja bentuk potensial. 'のに' berarti 'padahal' dan 'ので' berarti 'karena'.",
+    "hint": "Menunjukkan tujuan dari tindakan yang disengaja",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_4_024",
+    "question": "「嬉しい」の意味は？",
+    "furigana": "「嬉[うれ]しい」の意味[いみ]は？",
+    "romaji": "'Ureshii' no imi wa?",
+    "level": "N3",
+    "category": "VOCABULARY",
+    "options": [
+      "Sedih atau murung",
+      "Senang atau gembira",
+      "Marah atau kesal",
+      "Takut atau cemas"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Apa arti '嬉しい'?",
+    "answerExplanation": "「嬉しい」(ureshii) berarti senang, gembira, atau bahagia. Ini adalah kata sifat -i yang mengekspresikan perasaan bahagia atau senang. Contoh: 'プレゼントをもらって嬉しい' = senang mendapat hadiah. Berbeda dengan '楽しい' (tanoshii) yang lebih berarti 'menyenangkan/asyik' untuk aktivitas.",
+    "hint": "Perasaan positif ketika sesuatu yang baik terjadi",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_4_025",
+    "question": "「観光」の意味は？",
+    "furigana": "「観光[かんこう]」の意味[いみ]は？",
+    "romaji": "'Kankou' no imi wa?",
+    "level": "N3",
+    "category": "VOCABULARY",
+    "options": [
+      "Wisata atau pariwisata",
+      "Perjalanan bisnis",
+      "Pindah rumah ke tempat baru",
+      "Olahraga di luar ruangan"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Apa arti '観光'?",
+    "answerExplanation": "「観光」(kankou) berarti wisata atau pariwisata, yaitu mengunjungi tempat-tempat menarik untuk bersenang-senang. 観 berarti melihat/memandang dan 光 berarti cahaya/pemandangan. Contoh: '観光地' (kankouchi) = tempat wisata, '観光客' (kankoukyaku) = wisatawan. Berbeda dengan '旅行' (ryokou) yang lebih umum berarti perjalanan.",
+    "hint": "Kegiatan mengunjungi tempat-tempat menarik saat berlibur",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_4_026",
+    "question": "「会議」の意味は？",
+    "furigana": "「会議[かいぎ]」の意味[いみ]は？",
+    "romaji": "'Kaigi' no imi wa?",
+    "level": "N3",
+    "category": "VOCABULARY",
+    "options": [
+      "Rapat atau pertemuan resmi",
+      "Pesta perayaan",
+      "Wawancara kerja",
+      "Ujian tertulis"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Apa arti '会議'?",
+    "answerExplanation": "「会議」(kaigi) berarti rapat, pertemuan resmi, atau konferensi. 会 berarti bertemu dan 議 berarti berdiskusi/berunding. Contoh: '会議に出席する' = menghadiri rapat, '会議室' (kaigishitsu) = ruang rapat. Ini adalah kata yang sangat umum dalam lingkungan kerja Jepang.",
+    "hint": "Kegiatan formal di tempat kerja untuk berdiskusi",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_4_027",
+    "question": "「影響」の読み方は？",
+    "furigana": "「影響[えいきょう]」の読[よ]み方[かた]は？",
+    "romaji": "'Eikyou' no yomikata wa?",
+    "level": "N3",
+    "category": "KANJI",
+    "options": [
+      "いんきょう",
+      "えいきょう",
+      "えいひびき",
+      "かげひびき"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Bagaimana cara membaca '影響'?",
+    "answerExplanation": "「影響」dibaca 'えいきょう' (eikyou) yang berarti pengaruh atau dampak. 影 dibaca 'えい' (bayangan) dan 響 dibaca 'きょう' (bergema/berdampak). Contoh: '悪い影響を与える' (memberikan pengaruh buruk), '環境に影響する' (mempengaruhi lingkungan). Kata ini sering digunakan untuk menjelaskan dampak dari suatu kejadian.",
+    "hint": "Ei + kyou (dampak atau pengaruh terhadap sesuatu)",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_4_028",
+    "question": "「関係」の読み方は？",
+    "furigana": "「関係[かんけい]」の読[よ]み方[かた]は？",
+    "romaji": "'Kankei' no yomikata wa?",
+    "level": "N3",
+    "category": "KANJI",
+    "options": [
+      "かんけい",
+      "かんけつ",
+      "せきけい",
+      "かんがい"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Bagaimana cara membaca '関係'?",
+    "answerExplanation": "「関係」dibaca 'かんけい' (kankei) yang berarti hubungan, relasi, atau kaitan. 関 dibaca 'かん' (berhubungan/terkait) dan 係 dibaca 'けい' (menghubungkan). Contoh: '人間関係' (ningen kankei) = hubungan antar manusia, '関係がある' = ada hubungan/kaitan. Kata ini digunakan secara luas dalam kehidupan sehari-hari dan dunia kerja.",
+    "hint": "Kan + kei (hubungan atau kaitan antara dua hal)",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_4_029",
+    "question": "次の文章を読んで、質問に答えてください。\n\n田中さんは毎朝コーヒーを飲みながら新聞を読む。しかし、最近忙しくて、朝ご飯を食べる時間もない。それで、通勤の電車の中でパンを食べることがある。妻は「朝ご飯をちゃんと食べないと体に悪いよ」と心配している。田中さんも健康のために朝の時間を大切にしたいと思っているが、なかなか早く起きられない。\n\n質問：田中さんの妻は何を心配していますか？",
+    "furigana": "次[つぎ]の文章[ぶんしょう]を読[よ]んで、質問[しつもん]に答[こた]えてください。\n\n田中[たなか]さんは毎朝[まいあさ]コーヒーを飲[の]みながら新聞[しんぶん]を読[よ]む。しかし、最近[さいきん]忙[いそが]しくて、朝[あさ]ご飯[はん]を食[た]べる時間[じかん]もない。それで、通勤[つうきん]の電車[でんしゃ]の中[なか]でパンを食[た]べることがある。妻[つま]は「朝[あさ]ご飯[はん]をちゃんと食[た]べないと体[からだ]に悪[わる]いよ」と心配[しんぱい]している。田中[たなか]さんも健康[けんこう]のために朝[あさ]の時間[じかん]を大切[たいせつ]にしたいと思[おも]っているが、なかなか早[はや]く起[お]きられない。\n\n質問[しつもん]：田中[たなか]さんの妻[つま]は何[なに]を心配[しんぱい]していますか？",
+    "romaji": "Tsugi no bunshou wo yonde, shitsumon ni kotaete kudasai.\n\nTanaka-san wa maiasa koohii wo nominagara shinbun wo yomu. Shikashi, saikin isogashikute, asagohan wo taberu jikan mo nai. Sorede, tsuukin no densha no naka de pan wo taberu koto ga aru. Tsuma wa 'asagohan wo chanto tabenai to karada ni warui yo' to shinpai shite iru. Tanaka-san mo kenkou no tame ni asa no jikan wo taisetsu ni shitai to omotte iru ga, nakanaka hayaku okirarenai.\n\nShitsumon: Tanaka-san no tsuma wa nani wo shinpai shite imasu ka?",
+    "level": "N3",
+    "category": "READING",
+    "options": [
+      "田中さんがコーヒーを飲みすぎていること",
+      "田中さんが朝ご飯をちゃんと食べないので体に悪いこと",
+      "田中さんが電車で新聞を読んでいること",
+      "田中さんが仕事をやめたいと思っていること"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Baca teks berikut dan jawab pertanyaannya.\n\n(Teks tentang kebiasaan pagi Tanaka-san)\n\nPertanyaan: Apa yang dikhawatirkan istri Tanaka-san?",
+    "answerExplanation": "Dalam teks, istri Tanaka-san berkata '朝ご飯をちゃんと食べないと体に悪いよ' yang berarti 'Kalau tidak makan sarapan dengan benar, tidak baik untuk tubuh'. Jadi kekhawatirannya adalah kesehatan Tanaka-san karena tidak makan sarapan dengan benar. Bukan tentang kopi, membaca koran, atau berhenti kerja.",
+    "hint": "Perhatikan apa yang dikatakan istri Tanaka-san dalam tanda kutip",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_4_030",
+    "question": "次の文章を読んで、質問に答えてください。\n\nお知らせ\n来週の月曜日から、社員食堂のメニューが変わります。これまで昼食は三種類でしたが、健康を考えて五種類に増やします。新しいメニューには、カロリーが低いサラダセットと、アレルギーに対応した特別メニューが加わります。なお、値段は今までと同じです。食堂の営業時間も30分延長して、11時から14時30分までになります。ご意見がありましたら、総務部までお知らせください。\n\n質問：変わらないことは何ですか？",
+    "furigana": "次[つぎ]の文章[ぶんしょう]を読[よ]んで、質問[しつもん]に答[こた]えてください。\n\nお知[し]らせ\n来週[らいしゅう]の月曜日[げつようび]から、社員[しゃいん]食堂[しょくどう]のメニューが変[か]わります。これまで昼食[ちゅうしょく]は三[さん]種類[しゅるい]でしたが、健康[けんこう]を考[かんが]えて五[ご]種類[しゅるい]に増[ふ]やします。新[あたら]しいメニューには、カロリーが低[ひく]いサラダセットと、アレルギーに対応[たいおう]した特別[とくべつ]メニューが加[くわ]わります。なお、値段[ねだん]は今[いま]までと同[おな]じです。食堂[しょくどう]の営業[えいぎょう]時間[じかん]も30分[ぷん]延長[えんちょう]して、11時[じ]から14時[じ]30分[ぷん]までになります。ご意見[いけん]がありましたら、総務部[そうむぶ]までお知[し]らせください。\n\n質問[しつもん]：変[か]わらないことは何[なん]ですか？",
+    "romaji": "Tsugi no bunshou wo yonde, shitsumon ni kotaete kudasai.\n\nOshirase. Raishuu no getsuyoubi kara, shain shokudou no menyuu ga kawarimasu. Kore made chuushoku wa san shurui deshita ga, kenkou wo kangaete go shurui ni fuyashimasu. Atarashii menyuu ni wa, karorii ga hikui sarada setto to, arerugii ni taiou shita tokubetsu menyuu ga kuwawarimasu. Nao, nedan wa ima made to onaji desu. Shokudou no eigyou jikan mo sanjuppun enchou shite, juuichi-ji kara juuyo-ji sanjuppun made ni narimasu. Goiken ga arimashitara, soumu-bu made oshirase kudasai.\n\nShitsumon: Kawaranai koto wa nan desu ka?",
+    "level": "N3",
+    "category": "READING",
+    "options": [
+      "メニューの種類",
+      "食堂の営業時間",
+      "昼食の値段",
+      "食堂の場所"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Baca teks berikut dan jawab pertanyaannya.\n\n(Pengumuman tentang perubahan kantin karyawan)\n\nPertanyaan: Apa yang tidak berubah?",
+    "answerExplanation": "Dalam pengumuman tersebut dinyatakan '値段は今までと同じです' yang berarti 'harga tetap sama seperti sebelumnya'. Menu berubah dari 3 jenis menjadi 5 jenis, jam operasional diperpanjang 30 menit, tapi harga tidak berubah. Tempat kantin tidak disebutkan berubah atau tidak dalam teks.",
+    "hint": "Cari kalimat yang menyebutkan sesuatu tetap sama",
+    "difficultyScore": 3
+  }
+]

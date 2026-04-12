@@ -1,0 +1,382 @@
+[
+  {
+    "id": "question_n5_3_001",
+    "question": "日曜日は　どこ___　行きませんでした。",
+    "furigana": "日曜日[にちようび]は　どこ___　行[い]きませんでした。",
+    "romaji": "Nichiyoubi wa doko ___ ikimasen deshita.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "にも",
+      "でも",
+      "をも",
+      "かも"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "On Sunday I didn't go anywhere.",
+    "answerExplanation": "The pattern 'どこにも + negative' means 'not anywhere'. The particle 'に' indicates destination + 'も' strengthens the negative meaning = not anywhere at all. 'でも' = but/even (conjunction), 'をも' is not commonly used, 'かも' = maybe (かもしれない). Similar patterns: だれにも会わない = not meeting anyone, なにも食べない = not eating anything.",
+    "hint": "Total negative pattern: どこ＿＿ + negative verb = not anywhere",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_3_002",
+    "question": "「先生」の読み方は？",
+    "furigana": "「先生」の読み方は？",
+    "romaji": "'Sensei' no yomikata wa?",
+    "level": "N5",
+    "category": "KANJI",
+    "options": [
+      "さきせい",
+      "せんせい",
+      "せいせん",
+      "さんせい"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "How do you read '先生'?",
+    "answerExplanation": "'先生' is read 'せんせい (sensei)' and means teacher (honorific title for instructors/experts). '先' is read 'せん' (on-yomi), '生' is read 'せい' (on-yomi). Other options: 'さきせい' uses the wrong kun-yomi for 先 here, 'せいせん' reverses the order, 'さんせい (賛成)' means agreement — a different word.",
+    "hint": "An honorific title for someone who teaches — both kanji use on-yomi readings",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_3_003",
+    "question": "「正しい」の意味は？",
+    "furigana": "「正[ただ]しい」の意味[いみ]は？",
+    "romaji": "'Tadashii' no imi wa?",
+    "level": "N5",
+    "category": "VOCABULARY",
+    "options": [
+      "Difficult",
+      "Correct",
+      "Easy",
+      "Neat"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "What is the meaning of '正しい (ただしい)'?",
+    "answerExplanation": "'正しい (tadashii)' means correct, right, or accurate. The kanji '正' carries the meaning of truth/justice (also appears in 正月 = New Year, 正解 = correct answer). Its opposite: '間違い (machigai)' = wrong/mistake. Other words: 'むずかしい' = difficult, 'かんたん' = easy, 'きれい' = neat — none relate to correctness.",
+    "hint": "The kanji 正 contains the meaning of truth — this adjective describes something that is not wrong",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_3_004",
+    "question": "母は　今　台所で　料理を　___います。",
+    "furigana": "母[はは]は　今[いま]　台所[だいどころ]で　料理[りょうり]を　___います。",
+    "romaji": "Haha wa ima daidokoro de ryouri o ___ imasu.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "して",
+      "した",
+      "する",
+      "します"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Mother is cooking in the kitchen now.",
+    "answerExplanation": "The pattern for 'currently doing' = te-form + います. 'する' → te-form = 'して' → して + います = しています (currently doing). The word '今 (いま = now)' confirms the action is ongoing. 'した' = past form (already finished), 'する' = dictionary form, 'します' = polite form — none of these fit before います.",
+    "hint": "The word '今' indicates the action is CURRENTLY happening — use the て-form + います pattern",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_3_005",
+    "question": "「入口」の読み方は？",
+    "furigana": "「入口」の読み方は？",
+    "romaji": "'Iriguchi' no yomikata wa?",
+    "level": "N5",
+    "category": "KANJI",
+    "options": [
+      "でぐち",
+      "にゅうこう",
+      "いりこう",
+      "いりぐち"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "How do you read '入口'?",
+    "answerExplanation": "'入口' is read 'いりぐち (iriguchi)' and means entrance. '入' is read 'いり' (kun-yomi from 入る = to enter), '口' changes from 'くち' to 'ぐち' due to rendaku (sound change when combined). 'でぐち (出口)' = exit (different word), 'にゅうこう' and 'いりこう' use incorrect mixed readings.",
+    "hint": "A sign often seen at buildings — the opposite of 出口 (でぐち). Note rendaku: くち → ぐち",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_3_006",
+    "question": "「疲れた」の意味は？",
+    "furigana": "「疲[つか]れた」の意味[いみ]は？",
+    "romaji": "'Tsukareta' no imi wa?",
+    "level": "N5",
+    "category": "VOCABULARY",
+    "options": [
+      "Hungry",
+      "Sleepy",
+      "Tired",
+      "Sick"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "What is the meaning of '疲れた (つかれた)'?",
+    "answerExplanation": "'疲れた (tsukareta)' means tired or exhausted — the past form of '疲れる (tsukareru)'. Said when the body or mind has run out of energy after activities. Other words: 'おなかがすいた' = hungry, 'ねむい' = sleepy (wanting to sleep), 'びょうき' = sick (health condition). Although similar, tired is not the same as sleepy — one can be tired without being sleepy.",
+    "hint": "A body condition after working hard or exercising for a long time — energy depleted, needing rest",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_3_007",
+    "question": "テーブルの うえ___　ほんが　あります。",
+    "furigana": "テーブルの うえ___　本[ほん]が　あります。",
+    "romaji": "Teeburu no ue ___ hon ga arimasu.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "で",
+      "に",
+      "を",
+      "へ"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "There is a book on the table.",
+    "answerExplanation": "The particle 'に' is used with 'あります/います' to indicate location of existence. Pattern: [place] + に + [thing] + が + あります = At [place] there is [thing]. 'で' = place of activity (not static existence), 'を' = direct object marker, 'へ' = direction of movement. To express 'there is' at a place, always use 'に'.",
+    "hint": "With あります/います, the location of existence is always marked with a specific particle — not で (place of activity)",
+    "difficultyScore": 1
+  },
+  {
+    "id": "question_n5_3_008",
+    "question": "「毎週」の読み方は？",
+    "furigana": "「毎週」の読み方は？",
+    "romaji": "'Maishuu' no yomikata wa?",
+    "level": "N5",
+    "category": "KANJI",
+    "options": [
+      "まいにち",
+      "まいつき",
+      "まいとし",
+      "まいしゅう"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "How do you read '毎週'?",
+    "answerExplanation": "'毎週' is read 'まいしゅう (maishuu)' and means every week. '毎' = まい (every), '週' = しゅう (week). All options start with まい because the first kanji is the same; the key is the second kanji: 日 = にち (day), 月 = つき (month), 年 = とし (year), 週 = しゅう (week).",
+    "hint": "The second kanji '週' means week — time order: day → week → month → year",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_3_009",
+    "question": "「貸す」の意味は？",
+    "furigana": "「貸[か]す」の意味[いみ]は？",
+    "romaji": "'Kasu' no imi wa?",
+    "level": "N5",
+    "category": "VOCABULARY",
+    "options": [
+      "To borrow",
+      "To buy",
+      "To lend",
+      "To sell"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "What is the meaning of '貸す (かす)'?",
+    "answerExplanation": "'貸す (kasu)' means to lend — giving your own item to someone else to use temporarily. BE CAREFUL not to confuse: '貸す (kasu)' = to lend (you own it, someone else uses it), '借りる (kariru)' = to borrow (someone else owns it, you use it). '買う (kau)' = to buy, '売る (uru)' = to sell.",
+    "hint": "You have a book → your friend needs that book → you give it to them temporarily. What did you do?",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_3_010",
+    "question": "このへやには　まどが　___　あります。",
+    "furigana": "このへやには　まどが　___　あります。",
+    "romaji": "Kono heya ni wa mado ga ___ arimasu.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "三つ",
+      "三本",
+      "三枚",
+      "三冊"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "In this room there are three windows.",
+    "answerExplanation": "'つ (tsu)' is a general counter (universal counter) that can be used to count various objects, including windows. '本 (hon)' for long/cylindrical objects, '枚 (mai)' for thin, flat objects (paper, plates), '冊 (satsu)' for bound books. Windows as whole objects (not thin like paper) use つ.",
+    "hint": "A general (universal) counter that can be used for almost any object",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_3_011",
+    "question": "「電車」の読み方は？",
+    "furigana": "「電車」の読み方は？",
+    "romaji": "'Densha' no yomikata wa?",
+    "level": "N5",
+    "category": "KANJI",
+    "options": [
+      "でんしゃ",
+      "でんち",
+      "てんしゃ",
+      "でんくるま"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "How do you read '電車'?",
+    "answerExplanation": "'電車' is read 'でんしゃ (densha)' and means (electric) train. '電' = でん (electric), '車' = しゃ (vehicle/wheel). Other options: 'でんち (電池)' = battery (different word), 'てんしゃ' = wrong reading for 電 (not てん), 'でんくるま' = incorrect on-yomi + kun-yomi mix (車 kun-yomi = くるま, but not used here).",
+    "hint": "A public electric-powered vehicle that runs on rails — both kanji are read with on-yomi",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_3_012",
+    "question": "あした　ともだち___　あいます。",
+    "furigana": "あした　友達[ともだち]___　会[あ]います。",
+    "romaji": "Ashita tomodachi ___ aimasu.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "で",
+      "に",
+      "が",
+      "は"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Tomorrow I will meet my friend.",
+    "answerExplanation": "The verb '会う (au)' = to meet, uses the particle 'に' to mark the person being met. Pattern: [person] + に + 会う. 'で' = place of activity or tool, 'が' = subject marker, 'は' = topic marker. Only 'に' marks the target/person being met.",
+    "hint": "The verb 会う always pairs with a specific particle to mark the PERSON being met",
+    "difficultyScore": 1
+  },
+  {
+    "id": "question_n5_3_013",
+    "question": "「涼しい」の意味は？",
+    "furigana": "「涼[すず]しい」の意味[いみ]は？",
+    "romaji": "'Suzushii' no imi wa?",
+    "level": "N5",
+    "category": "VOCABULARY",
+    "options": [
+      "Cold (object)",
+      "Warm",
+      "Cool",
+      "Hot (weather)"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "What is the meaning of '涼しい (すずしい)'?",
+    "answerExplanation": "'涼しい (suzushii)' means cool — describing air that is fresh and comfortable, not hot and not too cold. The kanji '涼' contains the water element (氵) suggesting freshness. Compare other weather/temperature words: '冷たい (tsumetai)' = cold for touchable objects, '暖かい (atatakai)' = warm, '暑い (atsui)' = hot (weather).",
+    "hint": "Fresh and comfortable air — this kanji contains the water radical (氵) giving an impression of freshness",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_3_014",
+    "question": "「今年」の読み方は？",
+    "furigana": "「今年」の読み方は？",
+    "romaji": "'Kotoshi' no yomikata wa?",
+    "level": "N5",
+    "category": "KANJI",
+    "options": [
+      "いまとし",
+      "こんねん",
+      "こんとし",
+      "ことし"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "How do you read '今年'?",
+    "answerExplanation": "'今年' is read 'ことし (kotoshi)' and means this year. This is a special reading (熟字訓/jukujikun) — it cannot be guessed from individual kanji readings. 'こんねん' technically exists but is rarely used in conversation. 'いまとし' and 'こんとし' are incorrect readings. Compare: 今日 = きょう, 今朝 = けさ — also special readings.",
+    "hint": "This word has a special reading — compare: 今日 = きょう, 今朝 = けさ. This word also doesn't follow the regular pattern",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_3_015",
+    "question": "わたしは　にほんご___　べんきょうします。",
+    "furigana": "わたしは　日本語[にほんご]___　勉強[べんきょう]します。",
+    "romaji": "Watashi wa nihongo ___ benkyou shimasu.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "に",
+      "で",
+      "を",
+      "が"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "I study Japanese.",
+    "answerExplanation": "'勉強します (benkyou shimasu)' is a transitive verb that requires an object. Japanese (にほんご) is the thing being studied = direct object → marked with particle 'を'. 'に' = destination/receiver, 'で' = place of activity or tool, 'が' = subject marker. Pattern: [thing being studied] + を + 勉強します.",
+    "hint": "Japanese is the THING being studied — which particle marks the direct object?",
+    "difficultyScore": 1
+  },
+  {
+    "id": "question_n5_3_016",
+    "question": "「返す」の意味は？",
+    "furigana": "「返[かえ]す」の意味[いみ]は？",
+    "romaji": "'Kaesu' no imi wa?",
+    "level": "N5",
+    "category": "VOCABULARY",
+    "options": [
+      "To go home",
+      "To borrow",
+      "To bring",
+      "To return"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "What is the meaning of '返す (かえす)'?",
+    "answerExplanation": "'返す (kaesu)' means to return/give back — the action of giving back a borrowed item to its original owner. BE CAREFUL: '返す (kaesu)' is not the same as '帰る (kaeru)'. Although they sound similar, '帰る' = to go home, '返す' = to return (an object). '借りる (kariru)' = to borrow, '持つ (motsu)' = to bring/hold.",
+    "hint": "A book borrowed from the library must be ___ before the deadline. What action is that?",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_3_017",
+    "question": "この　へやには　いす___　みっつ　あります。",
+    "furigana": "この　部屋[へや]には　いす___　みっつ　あります。",
+    "romaji": "Kono heya ni wa isu ___ mittsu arimasu.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "は",
+      "も",
+      "を",
+      "が"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "In this room there are three chairs.",
+    "answerExplanation": "In the existence pattern with あります/います, the thing whose existence is stated is marked with 'が'. Pattern: [place] + には + [thing] + が + [quantity] + あります. 'は' = topic marker (here 'には' already exists for the place), 'も' = also, 'を' = direct object marker (doesn't fit with あります). The correct answer is 'が'.",
+    "hint": "With あります, the thing stated to EXIST is always marked with the subject particle",
+    "difficultyScore": 1
+  },
+  {
+    "id": "question_n5_3_018",
+    "question": "（Reading）\nたなかさんは かいしゃいんです。まいあさ 7じに おきて、8じに いえを でます。えきまで あるいて 10ぷん、でんしゃで 30ぷんです。かいしゃは 9じからです。\n\nしつもん：たなかさんは まいあさ なんじに いえを でますか。",
+    "furigana": "たなかさんは かいしゃいんです。まいあさ 7じに おきて、8じに いえを でます。えきまで あるいて 10ぷん、でんしゃで 30ぷんです。かいしゃは 9じからです。\n\nしつもん：たなかさんは まいあさ なんじに いえを でますか。",
+    "romaji": "Tanaka-san wa kaishain desu. Maiasa 7-ji ni okite, 8-ji ni ie wo demasu. Eki made aruite 10-pun, densha de 30-pun desu. Kaisha wa 9-ji kara desu.\n\nShitsumon: Tanaka-san wa maiasa nan-ji ni ie wo demasu ka.",
+    "level": "N5",
+    "category": "READING",
+    "options": [
+      "7じ",
+      "8じ",
+      "9じ",
+      "10じ"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Tanaka is an office worker. Every morning he wakes up at 7, leaves the house at 8. 10 minutes walking to the station, 30 minutes by train. The office starts at 9.\n\nQuestion: What time does Tanaka leave the house every morning?",
+    "answerExplanation": "The text mentions '8じに いえを でます' = leaves the house at 8. This needs to be distinguished from wake-up time (7じ), office start time (9じ), and travel duration (10ぷん/30ぷん). The question asks about the time of LEAVING HOME, not waking up or arriving at the office.",
+    "hint": "Notice the difference between おきる (wake up), いえをでる (leave the house), and かいしゃ (office) — the question asks about leaving the house",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_3_019",
+    "question": "（Reading）\nきのう スーパーへ いきました。やさいと くだものと にくを かいました。やさいは 200えん、くだものは 350えん、にくは 500えんでした。\n\nしつもん：いちばん たかいものは なんですか。",
+    "furigana": "きのう スーパーへ いきました。やさいと くだものと にくを かいました。やさいは 200えん、くだものは 350えん、にくは 500えんでした。\n\nしつもん：いちばん たかいものは なんですか。",
+    "romaji": "Kinou suupaa e ikimashita. Yasai to kudamono to niku wo kaimashita. Yasai wa 200 en, kudamono wa 350 en, niku wa 500 en deshita.\n\nShitsumon: Ichiban takai mono wa nan desu ka.",
+    "level": "N5",
+    "category": "READING",
+    "options": [
+      "やさい",
+      "くだもの",
+      "にく",
+      "さかな"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Yesterday I went to the supermarket. I bought vegetables (200 yen), fruit (350 yen), and meat (500 yen).\n\nQuestion: What was the most expensive?",
+    "answerExplanation": "Of the three items bought: やさい = 200 yen, くだもの = 350 yen, にく = 500 yen. The most expensive (いちばんたかい) is にく (meat) at 500 yen. Keywords: 'いちばん' = most, 'たかい' = expensive/tall. 'さかな' is not mentioned in the text.",
+    "hint": "いちばんたかい = most expensive. Compare the prices of all three items and choose the highest",
+    "difficultyScore": 1
+  },
+  {
+    "id": "question_n5_3_020",
+    "question": "（Reading）\nやまださんの いえには ねこが 2ひき います。しろい ねこは 「ゆき」で、くろい ねこは 「くも」です。「ゆき」は そとが すきですが、「くも」は いえの なかが すきです。\n\nしつもん：いえの なかが すきな ねこは どちらですか。",
+    "furigana": "やまださんの いえには ねこが 2ひき います。しろい ねこは 「ゆき」で、くろい ねこは 「くも」です。「ゆき」は そとが すきですが、「くも」は いえの なかが すきです。\n\nしつもん：いえの なかが すきな ねこは どちらですか。",
+    "romaji": "Yamada-san no ie ni wa neko ga 2-hiki imasu. Shiroi neko wa 'Yuki' de, kuroi neko wa 'Kumo' desu. 'Yuki' wa soto ga suki desu ga, 'Kumo' wa ie no naka ga suki desu.\n\nShitsumon: Ie no naka ga suki na neko wa dochira desu ka.",
+    "level": "N5",
+    "category": "READING",
+    "options": [
+      "ゆき",
+      "くも",
+      "しろいねこ",
+      "2ひきとも"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Yamada has 2 cats. The white cat is named Yuki, the black cat is named Kumo. Yuki likes the outdoors, Kumo likes indoors.\n\nQuestion: Which cat likes being indoors?",
+    "answerExplanation": "The text says: 「くも」は いえのなかが すきです = Kumo likes being indoors. You need to understand that Yuki (white) likes outside, Kumo (black) likes inside. 'しろいねこ' = white cat = Yuki (likes outside, not inside). '2ひきとも' = both (wrong, because their preferences are different).",
+    "hint": "Read carefully who likes 'そと (outside)' and who likes 'なか (inside)' — don't mix them up",
+    "difficultyScore": 2
+  }
+]

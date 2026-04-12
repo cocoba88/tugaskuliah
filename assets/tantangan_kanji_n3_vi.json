@@ -1,0 +1,607 @@
+{
+  "id": "kanji_n3_challenge",
+  "title": "Thử thách Kanji N3",
+  "timer": 15,
+  "description": "Sắp xếp cách đọc Onyomi hoặc Kunyomi của kanji được hiển thị!",
+  "totalQuestions": 30,
+  "questions": [
+    {
+      "id": 1,
+      "hiragana": "政",
+      "meaning": "Chính trị",
+      "readingType": "onyomi",
+      "answerParts": [
+        "sei"
+      ],
+      "distractors": [
+        "ka",
+        "mi",
+        "su",
+        "no",
+        "te",
+        "ra",
+        "ko",
+        "ma"
+      ]
+    },
+    {
+      "id": 2,
+      "hiragana": "経",
+      "meaning": "Đi qua / Kinh nghiệm",
+      "readingType": "onyomi",
+      "answerParts": [
+        "kei"
+      ],
+      "distractors": [
+        "sa",
+        "mi",
+        "to",
+        "no",
+        "ra",
+        "yu",
+        "fu",
+        "ba"
+      ]
+    },
+    {
+      "id": 3,
+      "hiragana": "済",
+      "meaning": "Xong / Hoàn thành",
+      "readingType": "onyomi",
+      "answerParts": [
+        "sai"
+      ],
+      "distractors": [
+        "ka",
+        "mo",
+        "to",
+        "nu",
+        "re",
+        "hi",
+        "do",
+        "bu"
+      ]
+    },
+    {
+      "id": 4,
+      "hiragana": "届",
+      "meaning": "Gửi / Đến nơi",
+      "readingType": "kunyomi",
+      "answerParts": [
+        "to",
+        "do",
+        "ke"
+      ],
+      "distractors": [
+        "sa",
+        "mi",
+        "na",
+        "ra",
+        "yu",
+        "fu",
+        "ba",
+        "shi"
+      ]
+    },
+    {
+      "id": 5,
+      "hiragana": "相",
+      "meaning": "Lẫn nhau / Hình dáng",
+      "readingType": "kunyomi",
+      "answerParts": [
+        "a",
+        "i"
+      ],
+      "distractors": [
+        "sa",
+        "mi",
+        "to",
+        "nu",
+        "re",
+        "hi",
+        "do",
+        "bu"
+      ]
+    },
+    {
+      "id": 6,
+      "hiragana": "際",
+      "meaning": "Dịp / Biên giới",
+      "readingType": "onyomi",
+      "answerParts": [
+        "sai"
+      ],
+      "distractors": [
+        "ka",
+        "mo",
+        "to",
+        "nu",
+        "re",
+        "hi",
+        "do",
+        "bu"
+      ]
+    },
+    {
+      "id": 7,
+      "hiragana": "値",
+      "meaning": "Giá trị / Giá",
+      "readingType": "kunyomi",
+      "answerParts": [
+        "a",
+        "ta",
+        "i"
+      ],
+      "distractors": [
+        "sa",
+        "mi",
+        "no",
+        "re",
+        "yu",
+        "fu",
+        "ba",
+        "shi"
+      ]
+    },
+    {
+      "id": 8,
+      "hiragana": "観",
+      "meaning": "Quan điểm / Quan sát",
+      "readingType": "onyomi",
+      "answerParts": [
+        "kan"
+      ],
+      "distractors": [
+        "sa",
+        "mi",
+        "to",
+        "nu",
+        "re",
+        "hi",
+        "do",
+        "bu"
+      ]
+    },
+    {
+      "id": 9,
+      "hiragana": "術",
+      "meaning": "Nghệ thuật / Kỹ thuật",
+      "readingType": "onyomi",
+      "answerParts": [
+        "ju",
+        "tsu"
+      ],
+      "distractors": [
+        "sa",
+        "mi",
+        "to",
+        "ka",
+        "re",
+        "hi",
+        "do",
+        "bu"
+      ]
+    },
+    {
+      "id": 10,
+      "hiragana": "準",
+      "meaning": "Tiêu chuẩn / Chuẩn bị",
+      "readingType": "onyomi",
+      "answerParts": [
+        "jun"
+      ],
+      "distractors": [
+        "sa",
+        "mi",
+        "to",
+        "nu",
+        "re",
+        "hi",
+        "do",
+        "bu"
+      ]
+    },
+    {
+      "id": 11,
+      "hiragana": "責",
+      "meaning": "Trách nhiệm",
+      "readingType": "onyomi",
+      "answerParts": [
+        "se",
+        "ki"
+      ],
+      "distractors": [
+        "sa",
+        "mi",
+        "to",
+        "nu",
+        "ra",
+        "hi",
+        "do",
+        "bu"
+      ]
+    },
+    {
+      "id": 12,
+      "hiragana": "識",
+      "meaning": "Kiến thức / Ý thức",
+      "readingType": "onyomi",
+      "answerParts": [
+        "shi",
+        "ki"
+      ],
+      "distractors": [
+        "sa",
+        "mi",
+        "to",
+        "nu",
+        "re",
+        "ka",
+        "do",
+        "bu"
+      ]
+    },
+    {
+      "id": 13,
+      "hiragana": "質",
+      "meaning": "Chất lượng / Tính chất",
+      "readingType": "onyomi",
+      "answerParts": [
+        "shi",
+        "tsu"
+      ],
+      "distractors": [
+        "sa",
+        "mi",
+        "to",
+        "nu",
+        "re",
+        "hi",
+        "do",
+        "bu"
+      ]
+    },
+    {
+      "id": 14,
+      "hiragana": "量",
+      "meaning": "Số lượng / Kích thước",
+      "readingType": "onyomi",
+      "answerParts": [
+        "ryou"
+      ],
+      "distractors": [
+        "sa",
+        "mi",
+        "to",
+        "nu",
+        "re",
+        "hi",
+        "do",
+        "bu"
+      ]
+    },
+    {
+      "id": 15,
+      "hiragana": "原",
+      "meaning": "Cánh đồng / Nguồn",
+      "readingType": "kunyomi",
+      "answerParts": [
+        "ha",
+        "ra"
+      ],
+      "distractors": [
+        "sa",
+        "mi",
+        "to",
+        "nu",
+        "re",
+        "ki",
+        "do",
+        "bu"
+      ]
+    },
+    {
+      "id": 16,
+      "hiragana": "因",
+      "meaning": "Nguyên nhân",
+      "readingType": "onyomi",
+      "answerParts": [
+        "in"
+      ],
+      "distractors": [
+        "sa",
+        "mi",
+        "to",
+        "nu",
+        "re",
+        "hi",
+        "do",
+        "bu"
+      ]
+    },
+    {
+      "id": 17,
+      "hiragana": "態",
+      "meaning": "Trạng thái / Thái độ",
+      "readingType": "onyomi",
+      "answerParts": [
+        "tai"
+      ],
+      "distractors": [
+        "sa",
+        "mi",
+        "to",
+        "nu",
+        "re",
+        "hi",
+        "do",
+        "bu"
+      ]
+    },
+    {
+      "id": 18,
+      "hiragana": "性",
+      "meaning": "Tính chất / Giới tính",
+      "readingType": "onyomi",
+      "answerParts": [
+        "sei"
+      ],
+      "distractors": [
+        "ka",
+        "mi",
+        "ta",
+        "no",
+        "te",
+        "ra",
+        "ko",
+        "ma"
+      ]
+    },
+    {
+      "id": 19,
+      "hiragana": "能",
+      "meaning": "Khả năng / Tài năng",
+      "readingType": "onyomi",
+      "answerParts": [
+        "nou"
+      ],
+      "distractors": [
+        "sa",
+        "mi",
+        "to",
+        "nu",
+        "re",
+        "hi",
+        "do",
+        "bu"
+      ]
+    },
+    {
+      "id": 20,
+      "hiragana": "現",
+      "meaning": "Xuất hiện / Hiện tại",
+      "readingType": "kunyomi",
+      "answerParts": [
+        "a",
+        "ra",
+        "wa"
+      ],
+      "distractors": [
+        "sa",
+        "mi",
+        "to",
+        "nu",
+        "re",
+        "ki",
+        "do",
+        "bu"
+      ]
+    },
+    {
+      "id": 21,
+      "hiragana": "表",
+      "meaning": "Bề mặt / Biểu đạt",
+      "readingType": "kunyomi",
+      "answerParts": [
+        "o",
+        "mo",
+        "te"
+      ],
+      "distractors": [
+        "sa",
+        "mi",
+        "na",
+        "nu",
+        "re",
+        "ki",
+        "do",
+        "bu"
+      ]
+    },
+    {
+      "id": 22,
+      "hiragana": "対",
+      "meaning": "Chống / Cặp đôi",
+      "readingType": "onyomi",
+      "answerParts": [
+        "tai"
+      ],
+      "distractors": [
+        "sa",
+        "mi",
+        "to",
+        "nu",
+        "re",
+        "hi",
+        "do",
+        "bu"
+      ]
+    },
+    {
+      "id": 23,
+      "hiragana": "限",
+      "meaning": "Giới hạn / Hạn chế",
+      "readingType": "kunyomi",
+      "answerParts": [
+        "ka",
+        "gi"
+      ],
+      "distractors": [
+        "sa",
+        "mi",
+        "to",
+        "nu",
+        "re",
+        "hi",
+        "do",
+        "bu"
+      ]
+    },
+    {
+      "id": 24,
+      "hiragana": "設",
+      "meaning": "Thành lập / Xây dựng",
+      "readingType": "onyomi",
+      "answerParts": [
+        "se",
+        "tsu"
+      ],
+      "distractors": [
+        "sa",
+        "mi",
+        "to",
+        "nu",
+        "ra",
+        "hi",
+        "do",
+        "bu"
+      ]
+    },
+    {
+      "id": 25,
+      "hiragana": "退",
+      "meaning": "Lùi / Từ chức",
+      "readingType": "kunyomi",
+      "answerParts": [
+        "shi",
+        "ri",
+        "zo",
+        "ku"
+      ],
+      "distractors": [
+        "sa",
+        "mi",
+        "to",
+        "nu",
+        "re",
+        "ka",
+        "ba",
+        "bu"
+      ]
+    },
+    {
+      "id": 26,
+      "hiragana": "判",
+      "meaning": "Phán xét / Đánh giá",
+      "readingType": "onyomi",
+      "answerParts": [
+        "han"
+      ],
+      "distractors": [
+        "sa",
+        "mi",
+        "to",
+        "nu",
+        "re",
+        "hi",
+        "do",
+        "bu"
+      ]
+    },
+    {
+      "id": 27,
+      "hiragana": "選",
+      "meaning": "Chọn / Tuyển chọn",
+      "readingType": "kunyomi",
+      "answerParts": [
+        "e",
+        "ra",
+        "bu"
+      ],
+      "distractors": [
+        "sa",
+        "mi",
+        "to",
+        "nu",
+        "re",
+        "ki",
+        "do",
+        "ba"
+      ]
+    },
+    {
+      "id": 28,
+      "hiragana": "防",
+      "meaning": "Ngăn chặn / Phòng thủ",
+      "readingType": "kunyomi",
+      "answerParts": [
+        "fu",
+        "se",
+        "gu"
+      ],
+      "distractors": [
+        "sa",
+        "mi",
+        "to",
+        "nu",
+        "ra",
+        "hi",
+        "do",
+        "bu"
+      ]
+    },
+    {
+      "id": 29,
+      "hiragana": "認",
+      "meaning": "Thừa nhận / Nhận ra",
+      "readingType": "kunyomi",
+      "answerParts": [
+        "mi",
+        "to",
+        "me",
+        "ru"
+      ],
+      "distractors": [
+        "sa",
+        "ka",
+        "na",
+        "nu",
+        "re",
+        "hi",
+        "do",
+        "bu"
+      ]
+    },
+    {
+      "id": 30,
+      "hiragana": "増",
+      "meaning": "Tăng lên",
+      "readingType": "kunyomi",
+      "answerParts": [
+        "fu",
+        "e",
+        "ru"
+      ],
+      "distractors": [
+        "sa",
+        "mi",
+        "to",
+        "nu",
+        "ra",
+        "ki",
+        "do",
+        "ba"
+      ]
+    }
+  ]
+}

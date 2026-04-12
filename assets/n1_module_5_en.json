@@ -1,0 +1,382 @@
+[
+  {
+    "id": "question_n1_5_001",
+    "question": "「対峙」の意味として最も適切なものはどれか。",
+    "furigana": "「対峙[たいじ]」の意味[いみ]として最[もっと]も適切[てきせつ]なものはどれか。",
+    "romaji": "'Taiji' no imi toshite mottomo tekisetsu na mono wa dore ka.",
+    "level": "N1",
+    "category": "VOCABULARY",
+    "options": [
+      "互いに協力すること",
+      "向かい合ってにらみ合うこと",
+      "遠くから見守ること",
+      "相手に譲歩すること"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Which is the most accurate meaning of '対峙'?",
+    "answerExplanation": "'対峙' (たいじ) means to confront each other in a tense position or confrontation. The kanji 峙 contains the meaning of 'standing firm facing each other'. It is usually used in contexts where two forces face each other without backing down.",
+    "hint": "Imagine two mountains standing tall facing each other.",
+    "difficultyScore": 8
+  },
+  {
+    "id": "question_n1_5_002",
+    "question": "「形骸化」を使った文として正しいものはどれか。",
+    "furigana": "「形骸化[けいがいか]」を使[つか]った文[ぶん]として正[ただ]しいものはどれか。",
+    "romaji": "'Keigaika' o tsukatta bun toshite tadashii mono wa dore ka.",
+    "level": "N1",
+    "category": "VOCABULARY",
+    "options": [
+      "新しい制度が形骸化して、ますます効果的になった。",
+      "長年の慣習が形骸化し、本来の目的を失ってしまった。",
+      "彼の意見が形骸化して、皆に受け入れられた。",
+      "組織の改革が形骸化し、新たな発展を遂げた。"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Which sentence uses '形骸化' correctly?",
+    "answerExplanation": "'形骸化' (けいがいか) means that something has retained only its form without substance, becoming a mere formality. Option B is correct because 'old customs that have become mere formalities and lost their original purpose' matches the negative meaning of this word.",
+    "hint": "This word has a negative meaning: only the outer shell remains.",
+    "difficultyScore": 8
+  },
+  {
+    "id": "question_n1_5_003",
+    "question": "「上司の前で失態を演じ、___たる思いだった。」に入る言葉は？",
+    "furigana": "「上司[じょうし]の前[まえ]で失態[しったい]を演[えん]じ、___たる思[おも]いだった。」に入[はい]る言葉[ことば]は？",
+    "romaji": "'Joushi no mae de shittai o enji, ___taru omoi datta.' ni hairu kotoba wa?",
+    "level": "N1",
+    "category": "VOCABULARY",
+    "options": [
+      "忸怩",
+      "漸進",
+      "峻別",
+      "対峙"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "What word is appropriate to fill in the blank in the sentence 'Having made an embarrassing mistake in front of my superiors, I feel ___'?",
+    "answerExplanation": "'忸怩' (じくじ) is a literary word meaning deep shame. The expression '忸怩たる思い' is a fixed collocation meaning 'a feeling of deep shame'. The context of this sentence is about feeling ashamed for making a mistake in front of superiors.",
+    "hint": "This word describes deep shame, often used in the expression '~たる思い'.",
+    "difficultyScore": 9
+  },
+  {
+    "id": "question_n1_5_004",
+    "question": "「峻別」の意味は？",
+    "furigana": "「峻別[しゅんべつ]」の意味[いみ]は？",
+    "romaji": "'Shunbetsu' no imi wa?",
+    "level": "N1",
+    "category": "VOCABULARY",
+    "options": [
+      "おおまかに分類すること",
+      "厳密に区別すること",
+      "順番に並べること",
+      "混同すること"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "What is the meaning of '峻別'?",
+    "answerExplanation": "'峻別' (しゅんべつ) means to distinguish strictly and precisely. The kanji 峻 carries the meaning of 'sharp/strict', so 峻別 emphasizes a very clear distinction without ambiguity. It is often used in academic or legal contexts.",
+    "hint": "The first kanji means 'sharp/strict', the second means 'distinguish'.",
+    "difficultyScore": 8
+  },
+  {
+    "id": "question_n1_5_005",
+    "question": "「改革は___的に進めるべきであり、急激な変化は混乱を招く。」に入る言葉は？",
+    "furigana": "「改革[かいかく]は___的[てき]に進[すす]めるべきであり、急激[きゅうげき]な変化[へんか]は混乱[こんらん]を招[まね]く。」に入[はい]る言葉[ことば]は？",
+    "romaji": "'Kaikaku wa ___teki ni susumeru beki de ari, kyuugeki na henka wa konran o maneku.' ni hairu kotoba wa?",
+    "level": "N1",
+    "category": "VOCABULARY",
+    "options": [
+      "形骸",
+      "峻別",
+      "漸進",
+      "対峙"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "What word is appropriate to fill in the blank: 'Reform must be carried out ___, as sudden changes will cause chaos.'?",
+    "answerExplanation": "'漸進' (ぜんしん) means gradual progress, little by little. in the context of this sentence, reform must be done gradually (漸進的に) because sudden change will cause chaos. This contrasts with a radical approach.",
+    "hint": "The opposite of sudden/drastic change.",
+    "difficultyScore": 7
+  },
+  {
+    "id": "question_n1_5_006",
+    "question": "「慟哭」の読み方は？",
+    "furigana": "「慟哭[どうこく]」の読[よ]み方[かた]は？",
+    "romaji": "'Doukoku' no yomikata wa?",
+    "level": "N1",
+    "category": "KANJI",
+    "options": [
+      "どうこく",
+      "とうこく",
+      "どうきゅう",
+      "つうこく"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "How do you read '慟哭'?",
+    "answerExplanation": "'慟哭' is read 'どうこく' (doukoku) meaning to wail in grief due to very deep sorrow. The kanji 慟 means 'deep grief' and 哭 means 'loud crying'. This word is literary in nature and used in formal contexts or prose to describe extremely sorrowful crying.",
+    "hint": "Dou-koku. Both kanji relate to sorrow and crying.",
+    "difficultyScore": 8
+  },
+  {
+    "id": "question_n1_5_007",
+    "question": "「瑕疵」の読み方は？",
+    "furigana": "「瑕疵[かし]」の読[よ]み方[かた]は？",
+    "romaji": "'Kashi' no yomikata wa?",
+    "level": "N1",
+    "category": "KANJI",
+    "options": [
+      "かきず",
+      "かし",
+      "けし",
+      "がし"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "How do you read '瑕疵'?",
+    "answerExplanation": "'瑕疵' is read 'かし' (kashi) meaning defect or flaw. This is a very important legal term, often used in the phrase '瑕疵担保責任' (warranty against hidden defects) in sales contracts.",
+    "hint": "Ka-shi. Only two syllables.",
+    "difficultyScore": 9
+  },
+  {
+    "id": "question_n1_5_008",
+    "question": "「敷衍」の読み方は？",
+    "furigana": "「敷衍[ふえん]」の読[よ]み方[かた]は？",
+    "romaji": "'Fuen' no yomikata wa?",
+    "level": "N1",
+    "category": "KANJI",
+    "options": [
+      "しきえん",
+      "ふえん",
+      "しえん",
+      "ふけん"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "How do you read '敷衍'?",
+    "answerExplanation": "'敷衍' is read 'ふえん' (fuen) meaning to elaborate in detail or to develop an explanation. This word is used in academic contexts when someone expothers a theory or concept more broadly and in greater detail.",
+    "hint": "Fu-en. The first kanji is read with the on'yomi 'ふ'.",
+    "difficultyScore": 9
+  },
+  {
+    "id": "question_n1_5_009",
+    "question": "「斡旋」の読み方は？",
+    "furigana": "「斡旋[あっせん]」の読[よ]み方[かた]は？",
+    "romaji": "'Assen' no yomikata wa?",
+    "level": "N1",
+    "category": "KANJI",
+    "options": [
+      "あっせん",
+      "かっせん",
+      "あっかん",
+      "かっかん"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "How do you read '斡旋'?",
+    "answerExplanation": "'斡旋' is read 'あっせん' (assen) meaning mediation or intermediation to bring together parties in a dispute. The kanji 斡 means 'to arrange' and 旋 means 'to rotate'. This word is often used in legal, business, and diplomatic contexts, for example '斡旋を依頼する' (to request mediation).",
+    "hint": "As-sen. The first kanji is read with the sound 'あっ'.",
+    "difficultyScore": 8
+  },
+  {
+    "id": "question_n1_5_010",
+    "question": "「顛末」の読み方は？",
+    "furigana": "「顛末[てんまつ]」の読[よ]み方[かた]は？",
+    "romaji": "'Tenmatsu' no yomikata wa?",
+    "level": "N1",
+    "category": "KANJI",
+    "options": [
+      "てんばつ",
+      "でんまつ",
+      "てんまつ",
+      "てんすえ"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "How do you read '顛末'?",
+    "answerExplanation": "'顛末' is read 'てんまつ' (tenmatsu) meaning the full story from beginning to end, the complete details of an event. 顛 means 'top/beginning' and 末 means 'end', so it literally means 'from beginning to end'.",
+    "hint": "Ten-matsu. The second kanji is the same as in 末 (sue/end).",
+    "difficultyScore": 7
+  },
+  {
+    "id": "question_n1_5_011",
+    "question": "「試験に合格した___、提出書類の不備で入学が取り消された。」に入る表現は？",
+    "furigana": "「試験[しけん]に合格[ごうかく]した___、提出[ていしゅつ]書類[しょるい]の不備[ふび]で入学[にゅうがく]が取[と]り消[け]された。」に入[はい]る表現[ひょうげん]は？",
+    "romaji": "'Shiken ni goukaku shita ___, teishutsu shorui no fubi de nyuugaku ga tori kesareta.' ni hairu hyougen wa?",
+    "level": "N1",
+    "category": "GRAMMAR",
+    "options": [
+      "と思いきや",
+      "とばかりに",
+      "ともなると",
+      "としたところで"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "What expression is appropriate to fill in the blank: 'Just when I thought I had passed the exam, ___ it turns out the acceptance was cancelled due to incomplete documents.'?",
+    "answerExplanation": "'~と思いきや' is used to express that reality differs from what was expected. It means 'just when I thought that~, it turns out~'. In this sentence, the person thought they had passed, but their acceptance was actually cancelled due to document issues.",
+    "hint": "This pattern expresses 'just when I thought/assumed that..., it turns out...'",
+    "difficultyScore": 7
+  },
+  {
+    "id": "question_n1_5_012",
+    "question": "「国民の理解___、この政策の実現は不可能である。」に入る表現は？",
+    "furigana": "「国民[こくみん]の理解[りかい]___、この政策[せいさく]の実現[じつげん]は不可能[ふかのう]である。」に入[はい]る表現[ひょうげん]は？",
+    "romaji": "'Kokumin no rikai ___, kono seisaku no jitsugen wa fukanou de aru.' ni hairu hyougen wa?",
+    "level": "N1",
+    "category": "GRAMMAR",
+    "options": [
+      "をもって",
+      "なくしては",
+      "ならでは",
+      "あっての"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "What expression is appropriate to fill in the blank: 'Without the understanding of the people, this policy cannot be realized.'?",
+    "answerExplanation": "'~なくしては' means 'without~' and is used to express that something is impossible without that condition. This pattern emphasizes that the condition is absolutely necessary. It is usually followed by a negative sentence or one with negative meaning.",
+    "hint": "This pattern means 'without the existence of~, then~ is impossible'. It emphasizes an absolute condition.",
+    "difficultyScore": 7
+  },
+  {
+    "id": "question_n1_5_013",
+    "question": "「大学教授___人が、こんな基本的な事実を知らないとは信じられない。」に入る表現は？",
+    "furigana": "「大学[だいがく]教授[きょうじゅ]___人[ひと]が、こんな基本的[きほんてき]な事実[じじつ]を知[し]らないとは信[しん]じられない。」に入[はい]る表現[ひょうげん]は？",
+    "romaji": "'Daigaku kyouju ___ hito ga, konna kihonteki na jijitsu o shiranai to wa shinjirarenai.' ni hairu hyougen wa?",
+    "level": "N1",
+    "category": "GRAMMAR",
+    "options": [
+      "たりとも",
+      "ともあろう",
+      "ならいざ知らず",
+      "といえども"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "What expression is appropriate to fill in the blank: 'Someone of the caliber of a university professor, it is unbelievable that they would not know such a basic fact.'?",
+    "answerExplanation": "'~ともあろう' is used to express disbelief or disappointment toward someone who should have high qualifications. It means 'someone of the caliber of~, yet~'. It expresses that the behavior does not match the person's status or position.",
+    "hint": "This pattern expresses surprise that someone's behavior does not match their high status.",
+    "difficultyScore": 7
+  },
+  {
+    "id": "question_n1_5_014",
+    "question": "「三月に入ってから急に春___陽気になり、厚手のコートはもう必要なくなった。」に入る表現は？",
+    "furigana": "「三月[さんがつ]に入[はい]ってから急[きゅう]に春[はる]___陽気[ようき]になり、厚手[あつで]のコートはもう必要[ひつよう]なくなった。」に入[はい]る表現[ひょうげん]は？",
+    "romaji": "'Sangatsu ni haitte kara kyuu ni haru ___ youki ni nari, atsude no kooto wa mou hitsuyou nakunatta.' ni hairu hyougen wa?",
+    "level": "N1",
+    "category": "GRAMMAR",
+    "options": [
+      "じみた",
+      "がちの",
+      "めいた",
+      "っぽい"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "What expression is appropriate to fill in the blank: 'Since entering March, the weather has gradually become ___, and heavy coats are no longer needed.'?",
+    "answerExplanation": "'~めく' (which becomes ~めいた when modifying nouns) means 'to feel like~' or 'to have a sense of~'. '春めいた' means 'spring-like'. This pattern gives the impression that something is beginning to show the characteristics of the word it attaches to.",
+    "hint": "This pattern means 'feeling/having the quality of~'. Often used with seasons.",
+    "difficultyScore": 6
+  },
+  {
+    "id": "question_n1_5_015",
+    "question": "「激しい練習の後、選手たちは汗___の状態でベンチに倒れ込んだ。」に入る表現は？",
+    "furigana": "「激[はげ]しい練習[れんしゅう]の後[あと]、選手[せんしゅ]たちは汗[あせ]___の状態[じょうたい]でベンチに倒[たお]れ込[こ]んだ。」に入[はい]る表現[ひょうげん]は？",
+    "romaji": "'Hageshii renshuu no ato, senshu-tachi wa ase ___ no joutai de benchi ni taore konda.' ni hairu hyougen wa?",
+    "level": "N1",
+    "category": "GRAMMAR",
+    "options": [
+      "ずくめ",
+      "まみれ",
+      "だらけ",
+      "ぐるみ"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "What expression is appropriate to fill in the blank: 'After intense practice, the athletes collapsed on the bench covered in ___.'?",
+    "answerExplanation": "'~まみれ' means 'covered in/smeared with~' and is used specifically for things that adhere to the surface of the body or objects, usually something dirty or unpleasant (sweat, mud, blood). Unlike 'だらけ' which is more general and can be used for abstract things.",
+    "hint": "This pattern is specifically for things that adhere to/cover a surface, usually dirty.",
+    "difficultyScore": 6
+  },
+  {
+    "id": "question_n1_5_016",
+    "question": "「今月は昇進、結婚、そして新居への引越しと、おめでたいこと___だ。」に入る表現は？",
+    "furigana": "「今月[こんげつ]は昇進[しょうしん]、結婚[けっこん]、そして新居[しんきょ]への引越[ひっこ]しと、おめでたいこと___だ。」に入[はい]る表現[ひょうげん]は？",
+    "romaji": "'Kongetsu wa shoushin, kekkon, soshite shinkyo e no hikkoshi to, omedetai koto ___ da.' ni hairu hyougen wa?",
+    "level": "N1",
+    "category": "GRAMMAR",
+    "options": [
+      "まみれ",
+      "だらけ",
+      "ずくめ",
+      "ぐるみ"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "What expression is appropriate to fill in the blank: 'This month is full of happy events: a promotion, a wedding, and moving to a new house.'?",
+    "answerExplanation": "'~ずくめ' means 'full of~/nothing but~' and is used when everything that happens shares the same characteristic. 'おめでたいことずくめ' means all the things happening are happy events. Unlike まみれ (covered in dirty things) and だらけ (full of negative things).",
+    "hint": "This pattern means 'everything is~', used when everything shares the same characteristic.",
+    "difficultyScore": 7
+  },
+  {
+    "id": "question_n1_5_017",
+    "question": "「被災地の惨状を目の当たりにして、涙___。」に入る表現は？",
+    "furigana": "「被災地[ひさいち]の惨状[さんじょう]を目[ま]の当[あ]たりにして、涙[なみだ]___。」に入[はい]る表現[ひょうげん]は？",
+    "romaji": "'Hisaichi no sanjou o ma no atari ni shite, namida ___.' ni hairu hyougen wa?",
+    "level": "N1",
+    "category": "GRAMMAR",
+    "options": [
+      "に堪えない",
+      "を禁じ得ない",
+      "をものともせず",
+      "に足る"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "What expression is appropriate to fill in the blank: 'Witnessing firsthand the tragic conditions of the disaster area, one cannot hold back tears.'?",
+    "answerExplanation": "'~を禁じ得ない' means 'cannot suppress/hold back~' and is used for emotions that arise spontaneously and cannot be controlled. This pattern is formal and often used in prose or official speeches. Common preceding words include: 涙 (tears), 驚き (surprise), 怒り (anger).",
+    "hint": "This pattern means 'cannot hold back' a certain emotion. It is formal in nature.",
+    "difficultyScore": 7
+  },
+  {
+    "id": "question_n1_5_018",
+    "question": "次の文章を読んで、問いに答えなさい。\n\n量子力学が私たちの現実認識に突きつける問いは、哲学的に見ても極めて深遠である。観測されるまで粒子の状態が確定しないという解釈は、客観的な実在そのものへの疑念を生む。シュレーディンガーの猫という思考実験が示すように、微視的世界の不確定性が巨視的世界にまで波及し得るという事実は、我々が日常的に前提としている「観測者とは独立に存在する確定的な世界」という素朴実在論を根底から揺るがす。しかしながら、量子力学の数学的形式主義は実験結果を驚異的な精度で予測するのであり、その実用的成功と哲学的困惑との間には埋めがたい溝が横たわっている。一部の物理学者は多世界解釈によってこの矛盾を解消しようとするが、検証不可能な無数の並行世界を想定すること自体が、科学の実証主義的原則に反するとの批判もある。結局のところ、量子力学は「世界とは何か」という問いに対する人間の認識能力の限界を露呈させているのかもしれない。\n\nこの文章で論じられている中心的なパラドックスは何か。",
+    "furigana": "次[つぎ]の文章[ぶんしょう]を読[よ]んで、問[と]いに答[こた]えなさい。\n\n量子力学[りょうしりきがく]が私[わたし]たちの現実[げんじつ]認識[にんしき]に突[つ]きつける問[と]いは、哲学的[てつがくてき]に見[み]ても極[きわ]めて深遠[しんえん]である。（以下[いか]本文[ほんぶん]）\n\nこの文章[ぶんしょう]で論[ろん]じられている中心的[ちゅうしんてき]なパラドックスは何[なん]か。",
+    "romaji": "Tsugi no bunshou o yonde, toi ni kotae nasai. (honbun) Kono bunshou de ronjirarete iru chuushinteki na paradokkusu wa nan ka.",
+    "level": "N1",
+    "category": "READING",
+    "options": [
+      "量子力学は数学的には正確だが、現実世界には適用できないということ",
+      "量子力学の実用的成功と、それが示唆する哲学的困惑との間の矛盾",
+      "シュレーディンガーの猫が生きているか死んでいるか分からないこと",
+      "多世界解釈が科学的に証明できないこと"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "What is the central paradox discussed in this passage?",
+    "answerExplanation": "The central paradox discussed is the contradiction between the practical success of quantum mechanics (which can predict experimental results with extraordinary precision) and the philosophical confusion it causes (questioning objective reality itself). The text explicitly mentions 'a hard-to-bridge gap between practical success and philosophical confusion' (実用的成功と哲学的困惑との間には埋めがたい溝).",
+    "hint": "Note the sentence that directly mentions the existence of a 'gap' (溝) between two things.",
+    "difficultyScore": 9
+  },
+  {
+    "id": "question_n1_5_019",
+    "question": "次の文章を読んで、問いに答えなさい。\n\n東アジアにおける多国間外交の困難さは、歴史認識の相違と安全保障上の利害対立という二重の障壁に起因する。二国間では妥協点を見出しやすいが、関係国が増えるほど各国の思惑が錯綜し、合意形成は指数関数的に難しくなる。加えて、域内大国間のパワーバランスの変動が既存の秩序を不安定化させ、中小国は大国間の対立に翻弄されがちである。筆者は、こうした状況を打開するためには、経済的相互依存を深化させつつ、非伝統的安全保障分野（環境問題、感染症対策、災害救援など）での実務的協力を積み重ねることが肝要であると考える。理念的な大合意を追求するよりも、具体的な成功体験の蓄積が相互信頼の土壌を醸成し、やがてはより困難な政治的課題への取り組みを可能にするであろう。いわば、機能主義的な「下からの統合」こそが、この地域の現実に即した唯一の実行可能な道筋なのである。\n\n筆者が提唱するアプローチとして最も適切なものはどれか。",
+    "furigana": "次[つぎ]の文章[ぶんしょう]を読[よ]んで、問[と]いに答[こた]えなさい。（本文[ほんぶん]）\n\n筆者[ひっしゃ]が提唱[ていしょう]するアプローチとして最[もっと]も適切[てきせつ]なものはどれか。",
+    "romaji": "Tsugi no bunshou o yonde, toi ni kotae nasai. (honbun) Hissha ga teishou suru apuroochi toshite mottomo tekisetsu na mono wa dore ka.",
+    "level": "N1",
+    "category": "READING",
+    "options": [
+      "大国主導で包括的な安全保障条約を締結すること",
+      "二国間外交を優先し、多国間の枠組みを避けること",
+      "実務的な協力を積み重ね、徐々に信頼関係を構築していくこと",
+      "経済制裁を用いて歴史認識問題の解決を迫ること"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Which most accurately describes the approach proposed by the author?",
+    "answerExplanation": "The author proposes a functionalist approach of 'integration from below' (下からの統合), namely by accumulating practical cooperation in non-traditional security areas (environment, epidemic response, disaster relief) to gradually build trust. According to the author, the accumulation of concrete successful experiences will create a foundation of mutual trust, which will eventually enable the handling of more difficult political issues.",
+    "hint": "Note the key phrase '下からの統合' (integration from below) and the emphasis on practical cooperation.",
+    "difficultyScore": 8
+  },
+  {
+    "id": "question_n1_5_020",
+    "question": "次の文章を読んで、問いに答えなさい。\n\n現代社会に生きる我々にとって、「もののあはれ」とは果たして過去の遺物なのだろうか。本居宣長が見出したこの美的感受性は、無常なるものへの深い共感と、その儚さゆえの美しさへの気づきに根差している。情報が瞬時に消費され、次々と新しい刺激に取って代わられる今日、我々は皮肉にも「あはれ」を感じる暇すら失いつつある。しかし、桜の花びらが風に散る瞬間に足を止め、夕暮れの空の色彩の移ろいに心を奪われる感性は、デジタル時代においても決して失われてはいない。むしろ、加速する時代の中でこそ、立ち止まって「あはれ」を感じる能力は、人間の精神的健全さを保つための、一種の防衛機制として再評価されるべきではないだろうか。効率と速度を至上とする現代文明への静かなる抵抗として、「もののあはれ」は新たな存在意義を獲得しつつあるのかもしれない。\n\n筆者の結論として最も適切な解釈はどれか。",
+    "furigana": "次[つぎ]の文章[ぶんしょう]を読[よ]んで、問[と]いに答[こた]えなさい。（本文[ほんぶん]）\n\n筆者[ひっしゃ]の結論[けつろん]として最[もっと]も適切[てきせつ]な解釈[かいしゃく]はどれか。",
+    "romaji": "Tsugi no bunshou o yonde, toi ni kotae nasai. (honbun) Hissha no ketsuron toshite mottomo tekisetsu na kaishaku wa dore ka.",
+    "level": "N1",
+    "category": "READING",
+    "options": [
+      "もののあはれは古典文学の中にのみ存在する概念であり、現代では意味を持たない",
+      "デジタル時代には感性そのものが失われており、もののあはれを感じることは不可能だ",
+      "もののあはれは効率重視の現代社会に対する精神的な防衛機制として新たな価値を持ち得る",
+      "もののあはれを理解するためには、デジタル機器を完全に排除する必要がある"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Which is the most appropriate interpretation of the author's conclusion?",
+    "answerExplanation": "The author concludes that 'mono no aware' has potential new value in the modern era as a kind of psychological defense mechanism (防衛機制) against modern civilization that prioritizes efficiency and speed. The author does not say this concept is dead or irrelevant, but rather finds new meaning in it as a 'quiet resistance' (静かなる抵抗) against the tide of modernization. This shows that the ability to sense beauty in transience is actually increasingly important for maintaining human mental health.",
+    "hint": "Note the phrases '防衛機制' (defense mechanism) and '静かなる抵抗' (quiet resistance).",
+    "difficultyScore": 9
+  }
+]

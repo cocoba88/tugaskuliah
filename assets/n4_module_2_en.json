@@ -1,0 +1,382 @@
+[
+  {
+    "id": "question_n4_2_001",
+    "question": "「かぎをかける」の意味は？",
+    "furigana": "「鍵[かぎ]を掛[か]ける」の意味[いみ]は？",
+    "romaji": "'Kagi wo kakeru' no imi wa?",
+    "level": "N4",
+    "category": "VOCABULARY",
+    "options": [
+      "To unlock a door",
+      "To lock a door or something",
+      "To duplicate a spare key",
+      "To look for a lost key"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "What is the meaning of 'かぎをかける'?",
+    "answerExplanation": "'かぎをかける' (kagi wo kakeru) means to lock a door or something with a key. The verb 'かける' here means 'to apply/attach' the key to the keyhole. Its opposite is 'かぎをあける' (to unlock). Other options: unlock = かぎをあける, duplicate key = 合鍵を作る (aikagi wo tsukuru), search for key = かぎをさがす.",
+    "hint": "An action done AFTER entering the house for security. Its opposite is 'あける' (to open).",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_2_002",
+    "question": "「しゅっちょうする」の意味は？",
+    "furigana": "「出張[しゅっちょう]する」の意味[いみ]は？",
+    "romaji": "'Shucchou suru' no imi wa?",
+    "level": "N4",
+    "category": "VOCABULARY",
+    "options": [
+      "Business trip for work",
+      "Working overtime at the office",
+      "Taking leave from work",
+      "Transferring to another branch"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "What is the meaning of 'しゅっちょうする'?",
+    "answerExplanation": "'出張する' (shucchou suru) means to go on a business trip to another city or a faraway place for work purposes, usually for a few days. Kanji '出' = go out, '張' = stretch/extend. Different from: '残業する' (zangyou suru = work overtime), '休暇を取る' (kyuuka wo toru = take leave), '転勤する' (tenkin suru = permanent job transfer).",
+    "hint": "Kanji '出' (go out) + '張' (stretch). This is a temporary work trip, not a permanent transfer.",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n4_2_003",
+    "question": "荷物が重い___、タクシーで帰りました。",
+    "furigana": "荷物[にもつ]が重[おも]い___、タクシーで帰[かえ]りました。",
+    "romaji": "Nimotsu ga omoi ___, takushii de kaerimashita.",
+    "level": "N4",
+    "category": "GRAMMAR",
+    "options": [
+      "より",
+      "ほど",
+      "と",
+      "ので"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "Because the luggage was heavy, I went home by taxi.",
+    "answerExplanation": "'~ので' is used to state a reason objectively and politely. This sentence explains the reason for taking a taxi: because the luggage was heavy. 'ので' is connected directly after an i-adjective (重いので). Other options: 'より' = than (comparison), 'ほど' = to the extent of (comparison), 'と' = if/when (constant condition) — none are suitable for stating a reason.",
+    "hint": "This sentence states a REASON (heavy luggage) → RESULT (took a taxi). Which particle states a reason objectively after an i-adjective?",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n4_2_004",
+    "question": "「きょうりょくする」の意味は？",
+    "furigana": "「協力[きょうりょく]する」の意味[いみ]は？",
+    "romaji": "'Kyouryoku suru' no imi wa?",
+    "level": "N4",
+    "category": "VOCABULARY",
+    "options": [
+      "To compete with others",
+      "To cooperate for a common goal",
+      "To lead and direct a team",
+      "To work hard independently"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "What is the meaning of 'きょうりょくする'?",
+    "answerExplanation": "'協力する' (kyouryoku suru) means to cooperate or collaborate with others to achieve a common goal. Kanji '協' = together/united, '力' = power/strength. So literally: 'unite strength'. Other options: compete = 競争する (kyousou suru), lead = リーダーシップを取る, try hard alone = 頑張る (ganbaru).",
+    "hint": "Kanji '協' means 'together/united' and '力' means 'strength'. Combine their meanings: unite strength = ?",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n4_2_005",
+    "question": "窓が___あります。",
+    "furigana": "窓[まど]が___あります。",
+    "romaji": "Mado ga ___ arimasu.",
+    "level": "N4",
+    "category": "GRAMMAR",
+    "options": [
+      "開いて",
+      "開けて",
+      "開き",
+      "開く"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "The window is open (has been opened).",
+    "answerExplanation": "The pattern ~てある (te aru) expresses a state resulting from an action — something that has been done and its result still continues. Using the intransitive verb '開く' (aku) → te-form: '開いて' (aite). '窓が開いてあります' = The window is in an open state (someone has opened it). Other options: '開けて' = te-form of transitive '開ける' (akeru), but the pattern ~てある with が uses intransitive. '開き' = masu-stem, '開く' = dictionary form.",
+    "hint": "The pattern ~てある expresses the result of an action that still continues. With particle が, use the te-form of an intransitive verb. '開く' (aku) = to open (intransitive).",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n4_2_006",
+    "question": "「たいせつな」の意味は？",
+    "furigana": "「大切[たいせつ]な」の意味[いみ]は？",
+    "romaji": "'Taisetsu na' no imi wa?",
+    "level": "N4",
+    "category": "VOCABULARY",
+    "options": [
+      "Spacious and open",
+      "Important and valuable",
+      "Expensive and luxurious",
+      "Complicated and difficult"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "What is the meaning of 'たいせつな'?",
+    "answerExplanation": "'大切な' (taisetsu na) means important, precious, or something that must be taken good care of. It can be used for both things and people/relationships. Example: 大切な人 (a precious person), 大切な書類 (important documents). Different from: '広い' (hiroi = wide), '高い' (takai = expensive), '複雑な' (fukuzatsu na = complicated). Note: '重要な' (juuyou na) also means 'important' but is more formal and objective.",
+    "hint": "Something that must not be lost, neglected, or treated carelessly — can be physical objects or interpersonal relationships.",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_2_007",
+    "question": "日本に___前に、日本語を勉強しました。",
+    "furigana": "日本[にほん]に___前[まえ]に、日本語[にほんご]を勉強[べんきょう]しました。",
+    "romaji": "Nihon ni ___ mae ni, nihongo wo benkyou shimashita.",
+    "level": "N4",
+    "category": "GRAMMAR",
+    "options": [
+      "行った",
+      "行って",
+      "行く",
+      "行き"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Before going to Japan, I studied Japanese.",
+    "answerExplanation": "The pattern '(dictionary form) + まえに' means 'before doing ~'. The verb before 'まえに' MUST be in dictionary form, regardless of whether the main clause is past or not. '行く' (iku) is the dictionary form of 'to go'. Other options: '行った' = past form (wrong because まえに requires dictionary form), '行って' = te-form, '行き' = masu-stem.",
+    "hint": "The pattern ~まえに (before) ALWAYS requires the dictionary form of the verb, even if the main sentence is in past tense.",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n4_2_008",
+    "question": "「じゅんびする」の意味は？",
+    "furigana": "「準備[じゅんび]する」の意味[いみ]は？",
+    "romaji": "'Junbi suru' no imi wa?",
+    "level": "N4",
+    "category": "VOCABULARY",
+    "options": [
+      "To finish a pending task",
+      "To clean up after an activity",
+      "To prepare what is needed before an activity",
+      "To plan a long-term schedule"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "What is the meaning of 'じゅんびする'?",
+    "answerExplanation": "'準備する' (junbi suru) means to prepare or get ready everything needed before doing an activity. Example: 旅行の準備をする (to prepare for a trip). Kanji '準' = standard/reference, '備' = provide. Different from: '完成する' (kansei suru = complete), '片付ける' (katazukeru = tidy up), '計画する' (keikaku suru = plan).",
+    "hint": "The keyword is 'BEFORE an activity starts'. The action of getting what is needed so the activity goes smoothly.",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_2_009",
+    "question": "先生に漢字の書き方を___もらいました。",
+    "furigana": "先生[せんせい]に漢字[かんじ]の書[か]き方[かた]を___もらいました。",
+    "romaji": "Sensei ni kanji no kakikata wo ___ moraimashita.",
+    "level": "N4",
+    "category": "GRAMMAR",
+    "options": [
+      "教えて",
+      "教えられて",
+      "教えさせて",
+      "教えになって"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "I received instruction on how to write kanji from the teacher.",
+    "answerExplanation": "The pattern '(person)に~てもらう' means 'to receive an action from someone'. Te-form + もらう shows the speaker receives benefit from someone else's action. '教えてもらう' = to be taught by someone (with gratitude). Other options: '教えられて' = passive form (教えられる), different nuance; '教えさせて' = causative (make someone teach); '教えになって' = not a correct grammatical pattern.",
+    "hint": "Pattern: (person)に + te-form + もらう = to receive a kind action from someone. The te-form of '教える' is?",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n4_2_010",
+    "question": "時間がない___、急ぎましょう。",
+    "furigana": "時間[じかん]がない___、急[いそ]ぎましょう。",
+    "romaji": "Jikan ga nai ___, isogimashou.",
+    "level": "N4",
+    "category": "GRAMMAR",
+    "options": [
+      "ので",
+      "のに",
+      "けど",
+      "から"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "Because there is no time, let's hurry.",
+    "answerExplanation": "'~から' is used to state a reason directly and is often used when the main clause is an invitation (~ましょう), command (~てください), or wish. In this context, '急ぎましょう' is an invitation, so 'から' is most natural. 'ので' sounds too soft/objective for a direct invitation. 'のに' and 'けど' express contrast, so they don't fit.",
+    "hint": "There is an invitation form (~ましょう). Choose the reason pattern most often used with invitations.",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n4_2_011",
+    "question": "「最近」の読み方は？",
+    "furigana": "「最近[さいきん]」の読[よ]み方[かた]は？",
+    "romaji": "'Saikin' no yomikata wa?",
+    "level": "N4",
+    "category": "KANJI",
+    "options": [
+      "もっきん",
+      "さいちか",
+      "こんきん",
+      "さいきん"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "How do you read '最近'?",
+    "answerExplanation": "'最近' is read as 'さいきん' (saikin) meaning recently or lately. '最' (sai) means 'most' and '近' (kin/chika) means 'near'. In on'yomi, '近' is read as 'きん' not 'ちか'. 'もっきん' and 'こんきん' are incorrect readings because '最' is not read as 'もっ' or 'こん'.",
+    "hint": "The first kanji '最' is read 'sai' and the second kanji '近' in on'yomi is read 'kin'.",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n4_2_012",
+    "question": "「不便な」の読み方は？",
+    "furigana": "「不便[ふべん]な」の読[よ]み方[かた]は？",
+    "romaji": "'Fuben na' no yomikata wa?",
+    "level": "N4",
+    "category": "KANJI",
+    "options": [
+      "ふべん",
+      "ぶへん",
+      "ふびん",
+      "ぶべん"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "How do you read '不便な'?",
+    "answerExplanation": "'不便' is read as 'ふべん' (fuben) meaning inconvenient or impractical. '不' (fu) is a negative prefix and '便' (ben) means 'convenient/practical'. 'ぶへん' is wrong because '不' is read 'fu' not 'bu', and '便' is not 'hen'. 'ふびん' means pitiable (不憫) which has a different meaning. 'ぶべん' is wrong because '不' is read 'fu' in this context.",
+    "hint": "The opposite of '便利' (benri). The negative prefix '不' here is read 'fu'.",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n4_2_013",
+    "question": "「世話をする」の読み方は？",
+    "furigana": "「世話[せわ]をする」の読[よ]み方[かた]は？",
+    "romaji": "'Sewa wo suru' no yomikata wa?",
+    "level": "N4",
+    "category": "KANJI",
+    "options": [
+      "よわ",
+      "せわ",
+      "せいわ",
+      "しょわ"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "How do you read '世話'?",
+    "answerExplanation": "'世話' is read as 'せわ' (sewa) meaning care or looking after. '世話をする' means 'to take care of/to look after'. '世' here is read 'se' (not 'yo' or 'sei'), and '話' is read 'wa' (not other forms). 'よわ' is wrong using kun'yomi '世' = 'yo'. 'せいわ' incorrectly adds 'i'. 'しょわ' uses a reading similar to '昭和' (Showa).",
+    "hint": "The action of taking care of or helping someone — kanji '世' here is read 'se'.",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n4_2_014",
+    "question": "「案内する」の読み方は？",
+    "furigana": "「案内[あんない]する」の読[よ]み方[かた]は？",
+    "romaji": "'Annai suru' no yomikata wa?",
+    "level": "N4",
+    "category": "KANJI",
+    "options": [
+      "あんだい",
+      "あんうち",
+      "あんない",
+      "あんにち"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "How do you read '案内'?",
+    "answerExplanation": "'案内' is read as 'あんない' (annai) meaning guide or information/directions. '案' is read 'an' and '内' is read 'nai' in on'yomi. 'あんだい' is wrong because '内' is not 'dai'. 'あんうち' is wrong using kun'yomi '内' = 'uchi'. 'あんにち' is wrong because '内' is not 'nichi'. Often used in '案内所' (information desk) or '案内する' (to show the way).",
+    "hint": "The word for guide or directions — kanji '内' in on'yomi is read 'nai'.",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n4_2_015",
+    "question": "「無料」の読み方は？",
+    "furigana": "「無料[むりょう]」の読[よ]み方[かた]は？",
+    "romaji": "'Muryou' no yomikata wa?",
+    "level": "N4",
+    "category": "KANJI",
+    "options": [
+      "ぶりょう",
+      "むりょく",
+      "むりょう",
+      "むりゅう"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "How do you read '無料'?",
+    "answerExplanation": "'無料' is read as 'むりょう' (muryou) meaning free of charge. '無' (mu) means 'none/without' and '料' (ryou) means 'fee/charge'. 'ぶりょう' is wrong because '無' is read 'mu' not 'bu' here. 'むりょく' changes the ending to 'ryoku' which is the reading for '力' (power). 'むりゅう' is wrong because '料' is read 'ryou' not 'ryuu'.",
+    "hint": "Kanji '無' is read 'mu' and '料' is read 'ryou' — meaning without charge.",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n4_2_016",
+    "question": "（メモ）\n田中様\nお電話ありがとうございました。約束の時間が変更になりました。明日の午後3時ではなく、午後5時に会議室でお待ちしています。資料は準備してあります。\n鈴木\n\n質問：会議は何時からですか。",
+    "furigana": "（メモ）\n田中[たなか]様[さま]\nお電話[でんわ]ありがとうございました。約束[やくそく]の時間[じかん]が変更[へんこう]になりました。明日[あした]の午後[ごご]3時[さんじ]ではなく、午後[ごご]5時[ごじ]に会議室[かいぎしつ]でお待[ま]ちしています。資料[しりょう]は準備[じゅんび]してあります。\n鈴木[すずき]\n\n質問[しつもん]：会議[かいぎ]は何時[なんじ]からですか。",
+    "romaji": "(Memo)\nTanaka-sama\nOdenwa arigatou gozaimashita. Yakusoku no jikan ga henkou ni narimashita. Ashita no gogo san-ji dewa naku, gogo go-ji ni kaigishitsu de omachi shite imasu. Shiryou wa junbi shite arimasu.\nSuzuki\n\nShitsumon: Kaigi wa nan-ji kara desu ka.",
+    "level": "N4",
+    "category": "READING",
+    "options": [
+      "午後3時",
+      "午後4時",
+      "午後6時",
+      "午後5時"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "(Memo)\nDear Tanaka-san,\nThank you for your call. The appointment time has changed. Not 3 PM tomorrow, but I will be waiting in the meeting room at 5 PM. The documents have been prepared.\nSuzuki\n\nQuestion: What time does the meeting start?",
+    "answerExplanation": "The text states '明日の午後3時ではなく、午後5時に' (Not 3 PM tomorrow, but at 5 PM). The pattern 'Aではなく、B' means 'not A, but B', indicating a schedule change from 3 PM to 5 PM. 3 PM is the old time that has been cancelled. The correct answer is 5 PM, the new time after the change.",
+    "hint": "Look for the pattern 'Aではなく、B' which shows a change from A to B — the new time is B.",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n4_2_017",
+    "question": "（案内板）\n1階：受付、喫茶店\n2階：本屋、雑貨店\n3階：レストラン、映画館\n4階：衣料品店、靴屋\n\n質問：本を買いたいです。どの階に行きますか。",
+    "furigana": "（案内板[あんないばん]）\n1階[いっかい]：受付[うけつけ]、喫茶店[きっさてん]\n2階[にかい]：本屋[ほんや]、雑貨店[ざっかてん]\n3階[さんがい]：レストラン、映画館[えいがかん]\n4階[よんかい]：衣料品店[いりょうひんてん]、靴屋[くつや]\n\n質問[しつもん]：本[ほん]を買[か]いたいです。どの階[かい]に行[い]きますか。",
+    "romaji": "(Annaiban)\nIkai: Uketsuke, kissaten\nNikai: Hon'ya, zakkaten\nSangai: Resutoran, eigakan\nYonkai: Iryouhinten, kutsuya\n\nShitsumon: Hon wo kaitai desu. Dono kai ni ikimasu ka.",
+    "level": "N4",
+    "category": "READING",
+    "options": [
+      "1階",
+      "3階",
+      "2階",
+      "4階"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "(Information Board)\nFloor 1: Reception, Coffee Shop\nFloor 2: Bookstore, Variety Store\nFloor 3: Restaurant, Cinema\nFloor 4: Clothing Store, Shoe Store\n\nQuestion: I want to buy a book. Which floor should I go to?",
+    "answerExplanation": "According to the information board, '本屋' (bookstore) is on '二階' (floor 2). '本屋' is a compound word from '本' (book) and '屋' (store). Don't confuse with '雑貨店' (variety store) which is also on floor 2 — the question asks about buying '本' (books), which is at '本屋'.",
+    "hint": "Find the word '本屋' (hon-ya = bookstore) on the information board and match it with the floor.",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_2_018",
+    "question": "（天気予報）\n明日は朝から曇りで、午後は雨が降るでしょう。気温は今日より5度低くなります。朝は20度ですが、昼過ぎには15度になる予定です。夕方からは風も強くなりそうです。\n\n質問：明日の昼過ぎの気温はどのくらいですか。",
+    "furigana": "（天気予報[てんきよほう]）\n明日[あした]は朝[あさ]から曇[くも]りで、午後[ごご]は雨[あめ]が降[ふ]るでしょう。気温[きおん]は今日[きょう]より5度[ど]低[ひく]くなります。朝[あさ]は20度[ど]ですが、昼過[ひるす]ぎには15度[ど]になる予定[よてい]です。夕方[ゆうがた]からは風[かぜ]も強[つよ]くなりそうです。\n\n質問[しつもん]：明日[あした]の昼過[ひるす]ぎの気温[きおん]はどのくらいですか。",
+    "romaji": "(Tenki yohou)\nAshita wa asa kara kumori de, gogo wa ame ga furu deshou. Kion wa kyou yori go-do hikuku narimasu. Asa wa ni-juu-do desu ga, hirusugi ni wa juu-go-do ni naru yotei desu. Yuugata kara wa kaze mo tsuyoku narisou desu.\n\nShitsumon: Ashita no hirusugi no kion wa dono kurai desu ka.",
+    "level": "N4",
+    "category": "READING",
+    "options": [
+      "20度",
+      "15度",
+      "10度",
+      "25度"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "(Weather Forecast)\nTomorrow will be cloudy from the morning, and it will probably rain in the afternoon. The temperature will be 5 degrees lower than today. Morning will be 20 degrees, but by afternoon it is expected to be 15 degrees. Wind will also become stronger from the evening.\n\nQuestion: What will the temperature be tomorrow afternoon?",
+    "answerExplanation": "The text states: '朝は20度ですが、昼過ぎには15度になる予定です' (Morning is 20 degrees, but by afternoon it will become 15 degrees). The question asks about the temperature at '昼過ぎ' (afternoon), which is 15 degrees. 20 degrees is the morning temperature, not afternoon. 25 degrees and 10 degrees are not mentioned specifically for afternoon time.",
+    "hint": "Pay attention to the temperature mentioned specifically for '昼過ぎ' (hirusugi = afternoon), not the morning temperature.",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n4_2_019",
+    "question": "（メール）\n佐藤さん\n先日はお忙しい中、打ち合わせに来ていただきありがとうございました。ご指摘いただいた点を修正しましたので、再度ご確認ください。来週の月曜日までにお返事をいただけますと幸いです。\n田中\n\n質問：田中さんは佐藤さんに何をお願いしていますか。",
+    "furigana": "（メール）\n佐藤[さとう]さん\n先日[せんじつ]はお忙[いそが]しい中[なか]、打[う]ち合[あ]わせに来[き]ていただきありがとうございました。ご指摘[してき]いただいた点[てん]を修正[しゅうせい]しましたので、再度[さいど]ご確認[かくにん]ください。来週[らいしゅう]の月曜日[げつようび]までにお返事[へんじ]をいただけますと幸[さいわ]いです。\n田中[たなか]\n\n質問[しつもん]：田中[たなか]さんは佐藤[さとう]さんに何[なに]をお願[ねが]いしていますか。",
+    "romaji": "(Meeru)\nSatou-san\nSenjitsu wa oisogashii naka, uchiawase ni kite itadaki arigatou gozaimashita. Goshiteki itadaita ten wo shuusei shimashita node, saido gokakunin kudasai. Raishuu no getsuyoubi made ni ohenji wo itadakemasu to saiwai desu.\nTanaka\n\nShitsumon: Tanaka-san wa Satou-san ni nani wo onegai shite imasu ka.",
+    "level": "N4",
+    "category": "READING",
+    "options": [
+      "打ち合わせに来ること",
+      "月曜日に会うこと",
+      "忙しい中でも来ること",
+      "修正した内容を確認すること"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "(Email)\nDear Satou-san,\nThank you for coming to the meeting despite being busy the other day. I have corrected the points you indicated, so please review them again. I would appreciate it if you could reply by Monday next week.\nTanaka\n\nQuestion: What is Tanaka asking Satou to do?",
+    "answerExplanation": "The key sentence is '修正しましたので、再度ご確認ください' (I have corrected it, so please review again). 'ご確認ください' is a request to check/confirm the corrected content. 'Coming to the meeting' is something that already happened (a thank you), not a request. 'Meeting on Monday' is not requested, only a deadline for reply. The pattern '~ましたので、~ください' shows a reason and request.",
+    "hint": "Look for the pattern '~ましたので、~ください' — the part after 'ので' is the core of the request.",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n4_2_020",
+    "question": "（お知らせ）\n図書館の利用時間が変更になります。今までは平日午前9時から午後7時まででしたが、来月から午前8時から午後8時までとなります。ただし、土日祝日は従来通り午前10時から午後5時までです。新しい雑誌コーナーも2階にできました。\n\n質問：来月の平日、図書館は何時まで開いていますか。",
+    "furigana": "（お知[し]らせ）\n図書館[としょかん]の利用[りよう]時間[じかん]が変更[へんこう]になります。今[いま]までは平日[へいじつ]午前[ごぜん]9時[くじ]から午後[ごご]7時[しちじ]まででしたが、来月[らいげつ]から午前[ごぜん]8時[はちじ]から午後[ごご]8時[はちじ]までとなります。ただし、土日祝日[どにちしゅくじつ]は従来通[じゅうらいどお]り午前[ごぜん]10時[じゅうじ]から午後[ごご]5時[ごじ]までです。新[あたら]しい雑誌[ざっし]コーナーも2階[にかい]にできました。\n\n質問[しつもん]：来月[らいげつ]の平日[へいじつ]、図書館[としょかん]は何時[なんじ]まで開[あ]いていますか。",
+    "romaji": "(Oshirase)\nToshokan no riyou jikan ga henkou ni narimasu. Ima made wa heijitsu gozen ku-ji kara gogo shichi-ji made deshita ga, raigetsu kara gozen hachi-ji kara gogo hachi-ji made to narimasu. Tadashi, donichi shukujitsu wa juurai doori gozen juu-ji kara gogo go-ji made desu. Atarashii zasshi koonaa mo nikai ni dekimashita.\n\nShitsumon: Raigetsu no heijitsu, toshokan wa nan-ji made aite imasu ka.",
+    "level": "N4",
+    "category": "READING",
+    "options": [
+      "午後8時",
+      "午後7時",
+      "午後5時",
+      "午後9時"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "(Notice)\nLibrary hours will change. Previously, weekdays were 9 AM to 7 PM, but starting next month it will be 8 AM to 8 PM. However, weekends and holidays remain 10 AM to 5 PM as before. A new magazine corner has also been set up on the 2nd floor.\n\nQuestion: Next month on weekdays, until what time is the library open?",
+    "answerExplanation": "The text states the change for weekdays (平日): '来月から午前8時から午後8時まで' (from next month, 8 AM to 8 PM). The correct answer is 午後8時 (8 PM). Don't confuse with the old closing time (午後7時) or the weekend closing time (午後5時). The question specifically asks about '来月の平日' (weekdays next month), which is the new schedule.",
+    "hint": "The question asks about '来月' (next month) schedule for '平日' (weekdays) — look for information after the words '来月から'.",
+    "difficultyScore": 3
+  }
+]

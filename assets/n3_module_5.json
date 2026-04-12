@@ -1,0 +1,572 @@
+[
+  {
+    "id": "question_n3_5_001",
+    "question": "「進歩」の読み方は？",
+    "furigana": "「進歩[しんぽ]」の読[よ]み方[かた]は？",
+    "romaji": "'Shinpo' no yomikata wa?",
+    "level": "N3",
+    "category": "KANJI",
+    "options": [
+      "しんぽ",
+      "しんほ",
+      "すすぼ",
+      "しんぶ"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Bagaimana cara membaca '進歩'?",
+    "answerExplanation": "「進歩」dibaca 'しんぽ' (shinpo) yang berarti kemajuan atau perkembangan. 進 dibaca 'しん' (maju) dan 歩 dibaca 'ぽ' (langkah, dengan rendaku dari 'ほ' menjadi 'ぽ'). Contoh: '技術が進歩する' = teknologi berkembang, '進歩的な考え' = pemikiran yang progresif. Perhatikan bahwa 歩 berubah dari 'ほ' menjadi 'ぽ' karena pengaruh rendaku.",
+    "hint": "Shin + po (perhatikan rendaku: ほ menjadi ぽ). Berkaitan dengan kemajuan.",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n3_5_002",
+    "question": "「条件」の意味は？",
+    "furigana": "「条件[じょうけん]」の意味[いみ]は？",
+    "romaji": "'Jouken' no imi wa?",
+    "level": "N3",
+    "category": "VOCABULARY",
+    "options": [
+      "Keterangan tambahan yang tidak wajib",
+      "Syarat atau persyaratan yang harus dipenuhi",
+      "Peristiwa penting dalam sejarah",
+      "Pengecualian dari aturan umum"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Apa arti '条件'?",
+    "answerExplanation": "「条件」(jouken) berarti syarat, persyaratan, atau kondisi yang harus dipenuhi agar sesuatu dapat terlaksana. Contoh penggunaan: 条件を満たす (memenuhi syarat), 条件付き (bersyarat). Kata ini sering muncul dalam konteks perjanjian, kontrak, atau seleksi. Berbeda dengan 状況 (joukyou = situasi) yang menggambarkan keadaan secara umum.",
+    "hint": "Hal-hal yang harus dipenuhi terlebih dahulu sebagai prasyarat",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n3_5_003",
+    "question": "「変化」の意味は？",
+    "furigana": "「変化[へんか]」の意味[いみ]は？",
+    "romaji": "'Henka' no imi wa?",
+    "level": "N3",
+    "category": "VOCABULARY",
+    "options": [
+      "Penghapusan sesuatu secara permanen",
+      "Perubahan dari satu keadaan ke keadaan lain",
+      "Pengulangan yang terus-menerus tanpa henti",
+      "Penambahan sesuatu yang baru dari luar"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Apa arti '変化'?",
+    "answerExplanation": "「変化」(henka) berarti perubahan dari satu keadaan ke keadaan lain. Kanji 変 berarti berubah dan 化 berarti menjadi/transformasi. Contoh: '季節の変化' = perubahan musim, '生活が変化する' = kehidupan berubah. Kata ini digunakan secara luas untuk berbagai jenis perubahan, baik yang positif maupun negatif.",
+    "hint": "Sesuatu yang menjadi berbeda dari keadaan sebelumnya",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_5_004",
+    "question": "「整備」の意味は？",
+    "furigana": "「整備[せいび]」の意味[いみ]は？",
+    "romaji": "'Seibi' no imi wa?",
+    "level": "N3",
+    "category": "VOCABULARY",
+    "options": [
+      "Pembatalan acara besar",
+      "Penataan, perawatan, dan pemeliharaan",
+      "Pengurangan jumlah staf",
+      "Penundaan proyek tanpa batas waktu"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Apa arti '整備'?",
+    "answerExplanation": "「整備」(seibi) berarti penataan, perawatan, atau pemeliharaan agar sesuatu berfungsi dengan baik dan teratur. 整 berarti merapikan dan 備 berarti mempersiapkan. Contoh: 道路を整備する (menata jalan), 車の整備 (perawatan mobil). Berbeda dengan 準備 (junbi = persiapan) yang lebih fokus pada menyiapkan sesuatu untuk kegiatan tertentu.",
+    "hint": "Memelihara dan menata agar tetap dalam kondisi baik dan siap digunakan",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n3_5_005",
+    "question": "「現状」の意味は？",
+    "furigana": "「現状[げんじょう]」の意味[いみ]は？",
+    "romaji": "'Genjou' no imi wa?",
+    "level": "N3",
+    "category": "VOCABULARY",
+    "options": [
+      "Rencana masa depan yang sudah ditetapkan",
+      "Situasi atau keadaan saat ini",
+      "Masalah yang belum terselesaikan",
+      "Catatan peristiwa di masa lalu"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Apa arti '現状'?",
+    "answerExplanation": "「現状」(genjou) berarti situasi saat ini, keadaan yang sedang berlangsung, atau kondisi terkini. 現 berarti sekarang/saat ini dan 状 berarti keadaan/kondisi. Contoh: 現状を把握する (memahami situasi saat ini), 現状維持 (mempertahankan keadaan saat ini). Berbeda dengan 状況 (joukyou) yang lebih umum, 現状 menekankan pada kondisi 'saat ini' secara spesifik.",
+    "hint": "Keadaan atau kondisi yang terjadi pada saat ini, bukan di masa lalu atau masa depan",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n3_5_006",
+    "question": "「努力」の読み方は？",
+    "furigana": "「努力[どりょく]」の読[よ]み方[かた]は？",
+    "romaji": "'Doryoku' no yomikata wa?",
+    "level": "N3",
+    "category": "KANJI",
+    "options": [
+      "どりき",
+      "どりょく",
+      "ぬりょく",
+      "どりょうく"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Bagaimana cara membaca '努力'?",
+    "answerExplanation": "「努力」dibaca 'どりょく' (doryoku), yang berarti usaha atau upaya keras. 努 dibaca 'do' dan 力 dibaca 'ryoku'. Contoh: 努力する (berusaha keras), 努力家 (orang yang pekerja keras). Perhatikan bahwa 努 bukan 'nu' melainkan 'do', dan 力 dibaca 'ryoku' bukan 'riki' dalam kombinasi ini.",
+    "hint": "Do-ryoku. Perhatikan 努 dibaca 'do' bukan 'nu'",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_5_007",
+    "question": "「確認」の読み方は？",
+    "furigana": "「確認[かくにん]」の読[よ]み方[かた]は？",
+    "romaji": "'Kakunin' no yomikata wa?",
+    "level": "N3",
+    "category": "KANJI",
+    "options": [
+      "かくにん",
+      "かくじん",
+      "かくめい",
+      "たしにん"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Bagaimana cara membaca '確認'?",
+    "answerExplanation": "「確認」dibaca 'かくにん' (kakunin), yang berarti konfirmasi atau pemeriksaan untuk memastikan. 確 dibaca 'kaku' (pasti/yakin) dan 認 dibaca 'nin' (mengakui/mengenali). Contoh: 予約を確認する (mengkonfirmasi reservasi). Berbeda dengan 確実 (kakujitsu = pasti) yang menggunakan kanji 確 yang sama.",
+    "hint": "Kaku-nin. Kedua kanji dibaca dengan on'yomi (bacaan Cina)",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_5_008",
+    "question": "「正確」の読み方は？",
+    "furigana": "「正確[せいかく]」の読[よ]み方[かた]は？",
+    "romaji": "'Seikaku' no yomikata wa?",
+    "level": "N3",
+    "category": "KANJI",
+    "options": [
+      "しょうかく",
+      "せいがく",
+      "せいかく",
+      "しょうがく"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Bagaimana cara membaca '正確'?",
+    "answerExplanation": "「正確」dibaca 'せいかく' (seikaku), yang berarti akurat, tepat, atau benar. 正 dibaca 'sei' (benar/tepat) dan 確 dibaca 'kaku' (pasti). Contoh: 正確な時間 (waktu yang tepat), 正確に答える (menjawab dengan tepat). Jangan keliru dengan 性格 (seikaku = kepribadian) yang bunyinya sama persis tapi kanjinya berbeda.",
+    "hint": "Sei-kaku. 正 dibaca 'sei' bukan 'shou' dalam kombinasi ini",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n3_5_009",
+    "question": "「実現」の読み方は？",
+    "furigana": "「実現[じつげん]」の読[よ]み方[かた]は？",
+    "romaji": "'Jitsugen' no yomikata wa?",
+    "level": "N3",
+    "category": "KANJI",
+    "options": [
+      "じつげん",
+      "じっけん",
+      "じつけん",
+      "じつあらわ"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Bagaimana cara membaca '実現'?",
+    "answerExplanation": "「実現」dibaca 'じつげん' (jitsugen), yang berarti mewujudkan atau realisasi. 実 dibaca 'jitsu' (kenyataan) dan 現 dibaca 'gen' (muncul/tampak). Contoh: 夢を実現する (mewujudkan impian). Jangan keliru dengan 実験 (jikken = eksperimen) yang menggunakan kanji 実 yang sama tetapi kanji keduanya berbeda dan dibaca berbeda.",
+    "hint": "Jitsu-gen. 現 dibaca 'gen' bukan 'ken'",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n3_5_010",
+    "question": "「対策」の読み方は？",
+    "furigana": "「対策[たいさく]」の読[よ]み方[かた]は？",
+    "romaji": "'Taisaku' no yomikata wa?",
+    "level": "N3",
+    "category": "KANJI",
+    "options": [
+      "たいさつ",
+      "ついさく",
+      "たいさく",
+      "だいさく"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Bagaimana cara membaca '対策'?",
+    "answerExplanation": "「対策」dibaca 'たいさく' (taisaku), yang berarti tindakan penanggulangan, langkah-langkah pencegahan, atau strategi untuk mengatasi masalah. 対 dibaca 'tai' (menghadapi) dan 策 dibaca 'saku' (rencana/strategi). Contoh: 地震対策 (langkah penanggulangan gempa), 対策を立てる (menyusun strategi penanggulangan).",
+    "hint": "Tai-saku. 対 dibaca 'tai' bukan 'tsui' atau 'dai'",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_5_011",
+    "question": "来月から海外に転勤する___になった。",
+    "furigana": "来月[らいげつ]から海外[かいがい]に転勤[てんきん]する___になった。",
+    "romaji": "Raigetsu kara kaigai ni tenkin suru ___ ni natta.",
+    "level": "N3",
+    "category": "GRAMMAR",
+    "options": [
+      "もの",
+      "はず",
+      "こと",
+      "よう"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Sudah diputuskan bahwa mulai bulan depan saya akan dipindahtugaskan ke luar negeri.",
+    "answerExplanation": "「〜ことになる」digunakan untuk menyatakan bahwa suatu keputusan telah dibuat, biasanya oleh pihak luar seperti perusahaan, aturan, atau keadaan (bukan keputusan pribadi). Berbeda dengan 「〜ことにする」yang merupakan keputusan yang diambil sendiri secara sadar. Di sini, pemindahan tugas adalah keputusan perusahaan, sehingga 'ことになった' adalah jawaban yang tepat.",
+    "hint": "Keputusan ini datang dari pihak luar (perusahaan), bukan keputusan sendiri",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n3_5_012",
+    "question": "もう少しで電車に乗り遅れる___だった。",
+    "furigana": "もう少[すこ]しで電車[でんしゃ]に乗[の]り遅[おく]れる___だった。",
+    "romaji": "Mou sukoshi de densha ni noriokureru ___ datta.",
+    "level": "N3",
+    "category": "GRAMMAR",
+    "options": [
+      "こと",
+      "ところ",
+      "もの",
+      "わけ"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Hampir saja saya ketinggalan kereta.",
+    "answerExplanation": "「〜ところだった」digunakan untuk menyatakan bahwa sesuatu yang buruk hampir saja terjadi tetapi akhirnya tidak terjadi. Pola ini sering digunakan bersama 'もう少しで' (sedikit lagi) atau 'あぶなく' (hampir/nyaris). Contoh lain: あぶなく事故に遭うところだった (hampir saja mengalami kecelakaan). Pola ini menekankan perasaan lega karena hal buruk terhindarkan.",
+    "hint": "Hampir saja terjadi tapi akhirnya tidak terjadi (momen kritis yang terhindarkan)",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n3_5_013",
+    "question": "いくら説明し___、彼は理解しなかった。",
+    "furigana": "いくら説明[せつめい]し___、彼[かれ]は理解[りかい]しなかった。",
+    "romaji": "Ikura setsumei shi ___, kare wa rikai shinakatta.",
+    "level": "N3",
+    "category": "GRAMMAR",
+    "options": [
+      "たら",
+      "ても",
+      "ので",
+      "から"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Meskipun sudah dijelaskan berkali-kali, dia tetap tidak mengerti.",
+    "answerExplanation": "「〜ても」berarti 'meskipun/walaupun' dan digunakan untuk menyatakan bahwa hasilnya tetap sama tanpa dipengaruhi oleh kondisi sebelumnya. Pola 「いくら〜ても」secara khusus menekankan bahwa 'berapa pun/sebanyak apapun' melakukan sesuatu, hasilnya tetap tidak berubah. Berbeda dengan たら (kalau/jika), ので/から (karena) yang menunjukkan hubungan sebab-akibat.",
+    "hint": "'Berapa pun' + kondisi + 'tetap saja' = menyatakan usaha yang sia-sia",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n3_5_014",
+    "question": "彼に会った___、連絡がない。",
+    "furigana": "彼[かれ]に会[あ]った___、連絡[れんらく]がない。",
+    "romaji": "Kare ni atta ___, renraku ga nai.",
+    "level": "N3",
+    "category": "GRAMMAR",
+    "options": [
+      "だけ",
+      "まで",
+      "きり",
+      "ばかり"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Sejak bertemu dengannya (terakhir kali), tidak ada kabar sama sekali.",
+    "answerExplanation": "「〜きり」(atau っきり) digunakan setelah bentuk lampau kata kerja (〜た形) untuk menyatakan bahwa sejak kejadian tersebut, kondisi tertentu terus berlanjut (biasanya sesuatu yang tidak terjadi). Pola 「〜たきり、〜ない」berarti 'sejak terakhir kali melakukan X, tidak pernah lagi Y'. Berbeda dengan だけ (hanya/saja) yang tidak mengandung nuansa waktu, atau ばかり (baru saja) yang menunjukkan aksi yang baru terjadi.",
+    "hint": "Sejak saat itu... dan setelahnya tidak pernah lagi (nuansa perpisahan)",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n3_5_015",
+    "question": "バスがないから、歩いて行く___ない。",
+    "furigana": "バスがないから、歩[ある]いて行[い]く___ない。",
+    "romaji": "Basu ga nai kara, aruite iku ___ nai.",
+    "level": "N3",
+    "category": "GRAMMAR",
+    "options": [
+      "まで",
+      "しか",
+      "だけ",
+      "ばかり"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Karena tidak ada bus, tidak ada pilihan selain jalan kaki.",
+    "answerExplanation": "「〜しかない」berarti 'tidak ada pilihan lain selain...' atau 'hanya bisa melakukan...'. Pola ini digunakan ketika seseorang merasa terpaksa karena tidak ada alternatif lain. Bentuknya: kata kerja bentuk kamus + しかない. Berbeda dengan まで (sampai/batas), だけ (hanya, tapi tidak dipasangkan dengan ない dalam pola ini), dan ばかり (hanya/terus-menerus). Contoh lain: 自分でやるしかない (tidak ada pilihan selain melakukannya sendiri).",
+    "hint": "Tidak ada cara lain, terpaksa melakukan satu-satunya pilihan yang tersisa",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n3_5_016",
+    "question": "明日の試験が心配で___。",
+    "furigana": "明日[あした]の試験[しけん]が心配[しんぱい]で___。",
+    "romaji": "Ashita no shiken ga shinpai de ___.",
+    "level": "N3",
+    "category": "GRAMMAR",
+    "options": [
+      "しょうがない",
+      "ちがいない",
+      "かまわない",
+      "すまない"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Saya sangat khawatir tentang ujian besok (tidak bisa menahan perasaan ini).",
+    "answerExplanation": "「〜てしょうがない」(atau 〜てしかたがない) berarti 'sangat... sampai tidak bisa ditahan' atau 'tidak bisa menahan perasaan...'. Digunakan untuk mengekspresikan perasaan atau sensasi yang sangat kuat dan tidak bisa dikendalikan. Contoh lain: 眠くてしょうがない (sangat mengantuk sampai tidak tertahankan). ちがいない = pasti, かまわない = tidak masalah, すまない = merasa bersalah.",
+    "hint": "Perasaan yang begitu kuat sehingga tidak bisa ditahan atau dikendalikan",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n3_5_017",
+    "question": "お金___あれば、世界中を旅行したい。",
+    "furigana": "お金[かね]___あれば、世界中[せかいじゅう]を旅行[りょこう]したい。",
+    "romaji": "Okane ___ areba, sekaijuu o ryokou shitai.",
+    "level": "N3",
+    "category": "GRAMMAR",
+    "options": [
+      "だけ",
+      "でも",
+      "さえ",
+      "しか"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Asalkan ada uang, saya ingin berkeliling dunia.",
+    "answerExplanation": "「〜さえ〜ば」berarti 'asalkan/jika saja ada...' dan menyatakan bahwa satu syarat saja sudah cukup untuk mewujudkan sesuatu. Pola ini menekankan bahwa kondisi tersebut adalah satu-satunya hal yang diperlukan. Bentuknya: kata benda + さえ + 動詞ば形. Berbeda dengan だけ (hanya) yang tidak membentuk pola kondisional, でも (bahkan) yang tidak menyatakan syarat minimal, dan しか (hanya... tidak) yang memerlukan bentuk negatif.",
+    "hint": "Asalkan satu syarat ini terpenuhi, semuanya akan baik-baik saja",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n3_5_018",
+    "question": "（読解）次の文章を読んで、質問に答えてください。\n\n保護者の皆様へ\n\n来月の15日に、3年生の遠足を実施いたします。行き先は市内の自然公園です。当日は朝8時30分に学校に集合し、バスで移動します。お弁当と水筒を必ず持たせてください。また、歩きやすい靴を履かせてください。雨の場合は翌週の月曜日に延期します。なお、参加費として500円を10日までにお子さんに持たせてください。ご不明な点がございましたら、担任までご連絡ください。\n\n3年1組担任　山田\n\n質問：保護者が準備しなければならないものは何ですか。",
+    "furigana": "（読解[どっかい]）次[つぎ]の文章[ぶんしょう]を読[よ]んで、質問[しつもん]に答[こた]えてください。\n\n保護者[ほごしゃ]の皆様[みなさま]へ\n\n来月[らいげつ]の15日[にち]に、3年生[ねんせい]の遠足[えんそく]を実施[じっし]いたします。行[い]き先[さき]は市内[しない]の自然[しぜん]公園[こうえん]です。当日[とうじつ]は朝[あさ]8時[じ]30分[ぷん]に学校[がっこう]に集合[しゅうごう]し、バスで移動[いどう]します。お弁当[べんとう]と水筒[すいとう]を必[かなら]ず持[も]たせてください。また、歩[ある]きやすい靴[くつ]を履[は]かせてください。雨[あめ]の場合[ばあい]は翌週[よくしゅう]の月曜日[げつようび]に延期[えんき]します。なお、参加費[さんかひ]として500円[えん]を10日[にち]までにお子[こ]さんに持[も]たせてください。ご不明[ふめい]な点[てん]がございましたら、担任[たんにん]までご連絡[れんらく]ください。\n\n3年[ねん]1組[くみ]担任[たんにん]　山田[やまだ]\n\n質問[しつもん]：保護者[ほごしゃ]が準備[じゅんび]しなければならないものは何[なん]ですか。",
+    "romaji": "(Dokkai) Tsugi no bunshou o yonde, shitsumon ni kotaete kudasai.\n\nHogosha no minasama e\n\nRaigetsu no juugo-nichi ni, san-nensei no ensoku o jisshi itashimasu. Ikisaki wa shinai no shizen kouen desu. Toujitsu wa asa hachi-ji sanjuppun ni gakkou ni shuugou shi, basu de idou shimasu. Obentou to suitou o kanarazu motasete kudasai. Mata, arukiyasui kutsu o hakasete kudasai. Ame no baai wa yokushuu no getsuyoubi ni enki shimasu. Nao, sankahi toshite gohyaku-en o tooka made ni okosan ni motasete kudasai. Gofumei na ten ga gozaimashitara, tannin made go-renraku kudasai.\n\nSan-nen ichi-kumi tannin Yamada\n\nShitsumon: Hogosha ga junbi shinakereba naranai mono wa nan desu ka.",
+    "level": "N3",
+    "category": "READING",
+    "options": [
+      "バスの切符と帽子",
+      "お弁当、水筒、歩きやすい靴、参加費500円",
+      "お弁当と傘と参加費1000円",
+      "水筒と体操着と500円"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "(Pemahaman Bacaan) Bacalah surat berikut dari guru kepada orang tua tentang acara jalan-jalan sekolah (ensoku).\n\nPertanyaan: Apa saja yang harus disiapkan oleh orang tua?",
+    "answerExplanation": "Dalam surat tersebut disebutkan beberapa hal yang harus disiapkan orang tua: (1) お弁当と水筒を必ず持たせてください (bekal makan dan botol minum wajib dibawa), (2) 歩きやすい靴を履かせてください (sepatu yang nyaman untuk berjalan), dan (3) 参加費として500円を持たせてください (biaya partisipasi 500 yen). Pilihan A salah karena tiket bus dan topi tidak disebutkan. Pilihan C salah karena payung tidak diminta dan biayanya 500 yen bukan 1000 yen. Pilihan D salah karena baju olahraga tidak disebutkan.",
+    "hint": "Perhatikan semua kalimat yang menggunakan kata '持たせてください' (tolong bawakan) dan '履かせてください' (tolong pakaikan)",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n3_5_019",
+    "question": "（読解）次の文章を読んで、質問に答えてください。\n\nSNSは若者にとって便利なコミュニケーションツールである。友達と簡単に連絡が取れるし、世界中の情報をすぐに手に入れることができる。しかし、問題もある。SNSに時間を使いすぎて、勉強や睡眠の時間が減っている若者が増えている。また、ネット上のいじめや、知らない人とのトラブルも報告されている。さらに、SNSで見る他人の生活と自分を比べて、自信をなくす若者もいる。便利な道具だからこそ、使い方をしっかり考える必要があるだろう。\n\n質問：筆者が最も心配していることは何ですか。",
+    "furigana": "（読解[どっかい]）次[つぎ]の文章[ぶんしょう]を読[よ]んで、質問[しつもん]に答[こた]えてください。\n\nSNSは若者[わかもの]にとって便利[べんり]なコミュニケーションツールである。友達[ともだち]と簡単[かんたん]に連絡[れんらく]が取[と]れるし、世界中[せかいじゅう]の情報[じょうほう]をすぐに手[て]に入[い]れることができる。しかし、問題[もんだい]もある。SNSに時間[じかん]を使[つか]いすぎて、勉強[べんきょう]や睡眠[すいみん]の時間[じかん]が減[へ]っている若者[わかもの]が増[ふ]えている。また、ネット上[じょう]のいじめや、知[し]らない人[ひと]とのトラブルも報告[ほうこく]されている。さらに、SNSで見[み]る他人[たにん]の生活[せいかつ]と自分[じぶん]を比[くら]べて、自信[じしん]をなくす若者[わかもの]もいる。便利[べんり]な道具[どうぐ]だからこそ、使[つか]い方[かた]をしっかり考[かんが]える必要[ひつよう]があるだろう。\n\n質問[しつもん]：筆者[ひっしゃ]が最[もっと]も心配[しんぱい]していることは何[なん]ですか。",
+    "romaji": "(Dokkai) Tsugi no bunshou o yonde, shitsumon ni kotaete kudasai.\n\nSNS wa wakamono ni totte benri na komyunikeeshon tsuuru de aru. Tomodachi to kantan ni renraku ga toreru shi, sekaijuu no jouhou o sugu ni te ni ireru koto ga dekiru. Shikashi, mondai mo aru. SNS ni jikan o tsukaisugite, benkyou ya suimin no jikan ga hette iru wakamono ga fuete iru. Mata, netto-jou no ijime ya, shiranai hito to no toraburu mo houkoku sarete iru. Sarani, SNS de miru tanin no seikatsu to jibun o kurabete, jishin o nakusu wakamono mo iru. Benri na dougu da kara koso, tsukaikata o shikkari kangaeru hitsuyou ga aru darou.\n\nShitsumon: Hissha ga mottomo shinpai shite iru koto wa nan desu ka.",
+    "level": "N3",
+    "category": "READING",
+    "options": [
+      "SNSの利用者数が減っていること",
+      "若者がSNSを正しく使えず、様々な悪影響を受けていること",
+      "SNSの技術が進歩しすぎていること",
+      "大人がSNSを使わないこと"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "(Pemahaman Bacaan) Bacalah artikel majalah berikut tentang kelebihan dan kekurangan media sosial bagi anak muda.\n\nPertanyaan: Apa kekhawatiran utama penulis?",
+    "answerExplanation": "Penulis mengakui bahwa SNS memang berguna, tetapi sebagian besar artikel membahas dampak negatifnya bagi anak muda: (1) waktu belajar dan tidur berkurang, (2) perundungan online dan masalah dengan orang asing, (3) kehilangan kepercayaan diri karena membandingkan diri dengan orang lain. Kalimat terakhir 'だからこそ、使い方をしっかり考える必要がある' (justru karena itu, perlu memikirkan cara penggunaannya) menunjukkan kekhawatiran penulis. Pilihan A, C, dan D tidak disebutkan dalam teks.",
+    "hint": "Perhatikan bagian setelah 'しかし' (tetapi/namun) yang menunjukkan kekhawatiran penulis",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n3_5_020",
+    "question": "（読解）次の文章を読んで、質問に答えてください。\n\n私は40歳のときにピアノを始めた。子供のころからピアノに憧れていたが、家にお金がなくて習えなかった。大人になって自分で働くようになり、やっと念願のピアノ教室に通い始めた。最初は指が全然動かなくて、簡単な曲でも何週間もかかった。若い生徒たちがすぐに上手になるのを見て、落ち込むこともあった。しかし、先生が「大人は音楽の意味を深く理解できる。それは子供にはない強みです」と言ってくれた。3年経った今、まだ上手とは言えないが、毎日の練習が一番の楽しみになっている。完璧でなくても、好きなことを続けること自体に価値があると気づいた。\n\n質問：筆者がこの経験から学んだことは何ですか。",
+    "furigana": "（読解[どっかい]）次[つぎ]の文章[ぶんしょう]を読[よ]んで、質問[しつもん]に答[こた]えてください。\n\n私[わたし]は40歳[さい]のときにピアノを始[はじ]めた。子供[こども]のころからピアノに憧[あこが]れていたが、家[いえ]にお金[かね]がなくて習[なら]えなかった。大人[おとな]になって自分[じぶん]で働[はたら]くようになり、やっと念願[ねんがん]のピアノ教室[きょうしつ]に通[かよ]い始[はじ]めた。最初[さいしょ]は指[ゆび]が全然[ぜんぜん]動[うご]かなくて、簡単[かんたん]な曲[きょく]でも何[なん]週間[しゅうかん]もかかった。若[わか]い生徒[せいと]たちがすぐに上手[じょうず]になるのを見[み]て、落[お]ち込[こ]むこともあった。しかし、先生[せんせい]が「大人[おとな]は音楽[おんがく]の意味[いみ]を深[ふか]く理解[りかい]できる。それは子供[こども]にはない強[つよ]みです」と言[い]ってくれた。3年[ねん]経[た]った今[いま]、まだ上手[じょうず]とは言[い]えないが、毎日[まいにち]の練習[れんしゅう]が一番[いちばん]の楽[たの]しみになっている。完璧[かんぺき]でなくても、好[す]きなことを続[つづ]けること自体[じたい]に価値[かち]があると気[き]づいた。\n\n質問[しつもん]：筆者[ひっしゃ]がこの経験[けいけん]から学[まな]んだことは何[なん]ですか。",
+    "romaji": "(Dokkai) Tsugi no bunshou o yonde, shitsumon ni kotaete kudasai.\n\nWatashi wa yonjussai no toki ni piano o hajimeta. Kodomo no koro kara piano ni akogarete ita ga, ie ni okane ga nakute naraenakatta. Otona ni natte jibun de hataraku you ni nari, yatto nengan no piano kyoushitsu ni kayoihajimeta. Saisho wa yubi ga zenzen ugokanakute, kantan na kyoku demo nanshuuran mo kakatta. Wakai seito-tachi ga sugu ni jouzu ni naru no o mite, ochikomu koto mo atta. Shikashi, sensei ga 'Otona wa ongaku no imi o fukaku rikai dekiru. Sore wa kodomo ni wa nai tsuyomi desu' to itte kureta. San-nen tatta ima, mada jouzu to wa ienai ga, mainichi no renshuu ga ichiban no tanoshimi ni natte iru. Kanpeki de nakutemo, suki na koto o tsuzukeru koto jitai ni kachi ga aru to kidzuita.\n\nShitsumon: Hissha ga kono keiken kara mananda koto wa nan desu ka.",
+    "level": "N3",
+    "category": "READING",
+    "options": [
+      "大人はピアノを習うべきではないということ",
+      "完璧でなくても、好きなことを続けること自体に価値があるということ",
+      "子供のうちに楽器を始めないと上手にならないということ",
+      "ピアノの先生を見つけることが一番大切だということ"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "(Pemahaman Bacaan) Bacalah esai pribadi berikut tentang pengalaman belajar alat musik di usia dewasa.\n\nPertanyaan: Apa pelajaran yang dipetik oleh penulis dari pengalaman ini?",
+    "answerExplanation": "Kalimat terakhir esai secara eksplisit menyatakan pelajaran yang dipetik: '完璧でなくても、好きなことを続けること自体に価値があると気づいた' (Saya menyadari bahwa meskipun tidak sempurna, melanjutkan hal yang disukai itu sendiri memiliki nilai). Pilihan A berlawanan dengan semangat penulis yang justru senang belajar piano di usia dewasa. Pilihan C juga bertentangan karena penulis tetap menikmati prosesnya meski mulai terlambat. Pilihan D tidak menjadi poin utama dari esai ini.",
+    "hint": "Perhatikan kalimat terakhir yang dimulai dengan '完璧でなくても' (meskipun tidak sempurna)",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n3_5_021",
+    "question": "練習すれば___ほど上手になる。",
+    "furigana": "練習[れんしゅう]すれば___ほど上手[じょうず]になる。",
+    "romaji": "Renshuu sureba ___ hodo jouzu ni naru.",
+    "level": "N3",
+    "category": "GRAMMAR",
+    "options": [
+      "した",
+      "する",
+      "して",
+      "しよう"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Semakin banyak berlatih, semakin mahir.",
+    "answerExplanation": "「〜ば〜ほど」digunakan untuk menyatakan bahwa semakin banyak melakukan sesuatu, semakin besar hasilnya. Pola ini memerlukan bentuk kondisional (ば形) diikuti oleh bentuk kamus (辞書形) + ほど. Contoh: '食べれば食べるほど太る' = semakin banyak makan, semakin gemuk. Bentuk yang benar adalah 'する' (bentuk kamus), bukan 'した' (lampau), 'して' (bentuk -te), atau 'しよう' (bentuk volitional).",
+    "hint": "Pola 'semakin...semakin...' membutuhkan bentuk kamus setelah ば",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_5_022",
+    "question": "毎日野菜を食べる___している。",
+    "furigana": "毎日[まいにち]野菜[やさい]を食[た]べる___している。",
+    "romaji": "Mainichi yasai wo taberu ___ shite iru.",
+    "level": "N3",
+    "category": "GRAMMAR",
+    "options": [
+      "ことに",
+      "ものに",
+      "ように",
+      "はずに"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Saya berusaha makan sayur setiap hari.",
+    "answerExplanation": "「〜ようにしている」berarti 'berusaha untuk...' atau 'menjadikan kebiasaan untuk...'. Pola ini menyatakan usaha yang dilakukan secara sadar dan berkelanjutan untuk membentuk kebiasaan. Berbeda dengan '〜ことにしている' yang lebih menekankan keputusan yang sudah diambil dan dijalankan. 'ものに' dan 'はずに' bukan pola tata bahasa yang benar.",
+    "hint": "Berusaha secara sadar untuk membentuk kebiasaan baik",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_5_023",
+    "question": "彼が来る___分からない。",
+    "furigana": "彼[かれ]が来[く]る___分[わ]からない。",
+    "romaji": "Kare ga kuru ___ wakaranai.",
+    "level": "N3",
+    "category": "GRAMMAR",
+    "options": [
+      "かどうか",
+      "かないか",
+      "かそうか",
+      "かもうか"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Saya tidak tahu apakah dia akan datang atau tidak.",
+    "answerExplanation": "「〜かどうか」digunakan untuk menyatakan ketidakpastian tentang apakah sesuatu akan terjadi atau tidak. Pola ini berarti 'apakah...atau tidak'. Kata kerja bentuk biasa (普通形) + かどうか. Contoh: '明日雨が降るかどうか分からない' = tidak tahu apakah besok akan hujan atau tidak. Pilihan lainnya bukan pola tata bahasa yang benar dalam bahasa Jepang.",
+    "hint": "Menyatakan ketidakpastian: ya atau tidak",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_5_024",
+    "question": "「悲しい」の意味は？",
+    "furigana": "「悲[かな]しい」の意味[いみ]は？",
+    "romaji": "'Kanashii' no imi wa?",
+    "level": "N3",
+    "category": "VOCABULARY",
+    "options": [
+      "Senang atau bahagia",
+      "Sedih atau pilu",
+      "Marah atau jengkel",
+      "Malu atau sungkan"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Apa arti '悲しい'?",
+    "answerExplanation": "「悲しい」(kanashii) berarti sedih atau pilu. Ini adalah kata sifat -i yang mengekspresikan perasaan kesedihan. Contoh: '友達が引っ越して悲しい' = sedih karena teman pindah. Kanji 悲 mengandung radikal 心 (hati) yang menunjukkan bahwa kata ini berkaitan dengan perasaan. Lawannya adalah '嬉しい' (ureshii) = senang.",
+    "hint": "Perasaan negatif, kebalikan dari senang",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_5_025",
+    "question": "「予約」の意味は？",
+    "furigana": "「予約[よやく]」の意味[いみ]は？",
+    "romaji": "'Yoyaku' no imi wa?",
+    "level": "N3",
+    "category": "VOCABULARY",
+    "options": [
+      "Reservasi atau pemesanan",
+      "Pembatalan rencana",
+      "Penundaan jadwal",
+      "Pengumuman resmi"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Apa arti '予約'?",
+    "answerExplanation": "「予約」(yoyaku) berarti reservasi, pemesanan, atau janji temu. 予 berarti sebelumnya/di muka dan 約 berarti janji. Contoh: 'ホテルを予約する' = memesan hotel, 'レストランの予約' = reservasi restoran, '予約を取る' = membuat reservasi. Kata ini sangat umum digunakan dalam konteks perjalanan, makan di restoran, dan kunjungan ke dokter.",
+    "hint": "Memesan sesuatu terlebih dahulu sebelum menggunakannya",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_5_026",
+    "question": "「報告」の意味は？",
+    "furigana": "「報告[ほうこく]」の意味[いみ]は？",
+    "romaji": "'Houkoku' no imi wa?",
+    "level": "N3",
+    "category": "VOCABULARY",
+    "options": [
+      "Laporan atau pelaporan",
+      "Pengumuman pesta",
+      "Undangan resmi",
+      "Permintaan maaf"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Apa arti '報告'?",
+    "answerExplanation": "「報告」(houkoku) berarti laporan atau pelaporan, yaitu menyampaikan informasi atau hasil kepada atasan atau pihak terkait. 報 berarti memberitahu/melaporkan dan 告 berarti memberitahukan. Contoh: '上司に報告する' = melaporkan kepada atasan, '報告書' (houkokusho) = laporan tertulis. Kata ini sangat penting dalam budaya kerja Jepang, sebagai bagian dari 'ほうれんそう' (報連相 = lapor, hubungi, konsultasi).",
+    "hint": "Menyampaikan informasi atau hasil pekerjaan kepada atasan",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_5_027",
+    "question": "「条件」の読み方は？",
+    "furigana": "「条件[じょうけん]」の読[よ]み方[かた]は？",
+    "romaji": "'Jouken' no yomikata wa?",
+    "level": "N3",
+    "category": "KANJI",
+    "options": [
+      "じょうけん",
+      "じょうかん",
+      "ちょうけん",
+      "じょうげん"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Bagaimana cara membaca '条件'?",
+    "answerExplanation": "「条件」dibaca 'じょうけん' (jouken) yang berarti syarat atau persyaratan. 条 dibaca 'じょう' (pasal/ayat) dan 件 dibaca 'けん' (hal/perkara). Contoh: '条件を満たす' (jouken wo mitasu) = memenuhi syarat, '条件付き' (jouken tsuki) = bersyarat. Perhatikan bahwa 件 dibaca 'けん' bukan 'かん' atau 'げん'.",
+    "hint": "Jou + ken (hal-hal yang harus dipenuhi sebagai syarat)",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_5_028",
+    "question": "「効果」の読み方は？",
+    "furigana": "「効果[こうか]」の読[よ]み方[かた]は？",
+    "romaji": "'Kouka' no yomikata wa?",
+    "level": "N3",
+    "category": "KANJI",
+    "options": [
+      "きょうか",
+      "こうか",
+      "こうけ",
+      "きょうけ"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Bagaimana cara membaca '効果'?",
+    "answerExplanation": "「効果」dibaca 'こうか' (kouka) yang berarti efek, hasil, atau khasiat. 効 dibaca 'こう' (efektif) dan 果 dibaca 'か' (hasil/buah). Contoh: '効果がある' (kouka ga aru) = ada efeknya/efektif, '効果的' (koukateki) = efektif. Kata ini sering digunakan dalam konteks obat-obatan, metode pembelajaran, atau kebijakan.",
+    "hint": "Kou + ka (hasil atau dampak dari suatu tindakan)",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_5_029",
+    "question": "次の文章を読んで、質問に答えてください。\n\n私は来月から海外出張に行くことにした。行き先はベトナムのホーチミン市だ。まず飛行機のチケットとホテルの予約をしなければならない。空港までは電車で行くつもりだ。ベトナム語は話せないが、英語が通じるかどうか少し心配だ。同僚に聞いたら、「ホーチミンなら英語が通じる場所が多いよ」と教えてくれた。出発前にベトナムの天気や文化について調べようと思う。\n\n質問：筆者が心配していることは何ですか？",
+    "furigana": "次[つぎ]の文章[ぶんしょう]を読[よ]んで、質問[しつもん]に答[こた]えてください。\n\n私[わたし]は来月[らいげつ]から海外[かいがい]出張[しゅっちょう]に行[い]くことにした。行[い]き先[さき]はベトナムのホーチミン市[し]だ。まず飛行機[ひこうき]のチケットとホテルの予約[よやく]をしなければならない。空港[くうこう]までは電車[でんしゃ]で行[い]くつもりだ。ベトナム語[ご]は話[はな]せないが、英語[えいご]が通[つう]じるかどうか少[すこ]し心配[しんぱい]だ。同僚[どうりょう]に聞[き]いたら、「ホーチミンなら英語[えいご]が通[つう]じる場所[ばしょ]が多[おお]いよ」と教[おし]えてくれた。出発[しゅっぱつ]前[まえ]にベトナムの天気[てんき]や文化[ぶんか]について調[しら]べようと思[おも]う。\n\n質問[しつもん]：筆者[ひっしゃ]が心配[しんぱい]していることは何[なん]ですか？",
+    "romaji": "Tsugi no bunshou wo yonde, shitsumon ni kotaete kudasai.\n\nWatashi wa raigetsu kara kaigai shutchou ni iku koto ni shita. Ikisaki wa betonamu no hoochimin-shi da. Mazu hikouki no chiketto to hoteru no yoyaku wo shinakereba naranai. Kuukou made wa densha de iku tsumori da. Betonamu-go wa hanasenai ga, eigo ga tsuujiru ka dou ka sukoshi shinpai da. Douryou ni kiitara, 'Hoochimin nara eigo ga tsuujiru basho ga ooi yo' to oshiete kureta. Shuppatsu mae ni betonamu no tenki ya bunka ni tsuite shirabeyou to omou.\n\nShitsumon: Hissha ga shinpai shite iru koto wa nan desu ka?",
+    "level": "N3",
+    "category": "READING",
+    "options": [
+      "飛行機のチケットが高いこと",
+      "ベトナムで英語が通じるかどうか",
+      "ホテルの予約ができないこと",
+      "ベトナムの天気が悪いこと"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Baca teks berikut dan jawab pertanyaannya.\n\n(Teks tentang rencana perjalanan dinas ke Vietnam)\n\nPertanyaan: Apa yang dikhawatirkan penulis?",
+    "answerExplanation": "Dalam teks dinyatakan secara eksplisit '英語が通じるかどうか少し心配だ' yang berarti 'sedikit khawatir apakah bahasa Inggris bisa dipahami atau tidak'. Meskipun penulis juga menyebutkan tiket pesawat, reservasi hotel, dan cuaca Vietnam, hal-hal tersebut tidak disebut sebagai kekhawatiran. Hanya masalah bahasa yang secara jelas disebutkan mengkhawatirkan.",
+    "hint": "Cari kalimat yang menggunakan kata '心配' (khawatir)",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_5_030",
+    "question": "次の文章を読んで、質問に答えてください。\n\n図書館からのお知らせ\n\n4月1日から図書館のルールが一部変わります。これまで本の貸し出し期間は2週間でしたが、3週間に延長します。また、一度に借りられる冊数も5冊から8冊に増えます。ただし、新刊コーナーの本は、多くの方に読んでいただくために、貸し出し期間は1週間のままとします。返却が遅れた場合は、遅れた日数分だけ次の貸し出しができなくなりますので、ご注意ください。\n\n質問：新刊コーナーの本について正しいのはどれですか？",
+    "furigana": "次[つぎ]の文章[ぶんしょう]を読[よ]んで、質問[しつもん]に答[こた]えてください。\n\n図書館[としょかん]からのお知[し]らせ\n\n4月[がつ]1日[ついたち]から図書館[としょかん]のルールが一部[いちぶ]変[か]わります。これまで本[ほん]の貸[か]し出[だ]し期間[きかん]は2週間[しゅうかん]でしたが、3週間[しゅうかん]に延長[えんちょう]します。また、一度[いちど]に借[か]りられる冊数[さっすう]も5冊[さつ]から8冊[さつ]に増[ふ]えます。ただし、新刊[しんかん]コーナーの本[ほん]は、多[おお]くの方[かた]に読[よ]んでいただくために、貸[か]し出[だ]し期間[きかん]は1週間[しゅうかん]のままとします。返却[へんきゃく]が遅[おく]れた場合[ばあい]は、遅[おく]れた日数分[にっすうぶん]だけ次[つぎ]の貸[か]し出[だ]しができなくなりますので、ご注意[ちゅうい]ください。\n\n質問[しつもん]：新刊[しんかん]コーナーの本[ほん]について正[ただ]しいのはどれですか？",
+    "romaji": "Tsugi no bunshou wo yonde, shitsumon ni kotaete kudasai.\n\nToshokan kara no oshirase. Shigatsu tsuitachi kara toshokan no ruuru ga ichibu kawarimasu. Koremade hon no kashidashi kikan wa ni-shuukan deshita ga, san-shuukan ni enchou shimasu. Mata, ichido ni karirareru sassuu mo go-satsu kara hachi-satsu ni fuemasu. Tadashi, shinkan koonaa no hon wa, ooku no kata ni yonde itadaku tame ni, kashidashi kikan wa isshuukan no mama to shimasu. Henkyaku ga okureta baai wa, okureta nissuu-bun dake tsugi no kashidashi ga dekinaku narimasu node, gochuui kudasai.\n\nShitsumon: Shinkan koonaa no hon ni tsuite tadashii no wa dore desu ka?",
+    "level": "N3",
+    "category": "READING",
+    "options": [
+      "貸し出し期間が3週間に延長される",
+      "貸し出し期間は1週間のまま変わらない",
+      "新刊コーナーの本は借りられない",
+      "新刊コーナーの本は10冊まで借りられる"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Baca teks berikut dan jawab pertanyaannya.\n\n(Pengumuman dari perpustakaan tentang perubahan aturan)\n\nPertanyaan: Mana yang benar tentang buku di sudut buku baru?",
+    "answerExplanation": "Dalam pengumuman tersebut dinyatakan '新刊コーナーの本は...貸し出し期間は1週間のままとします' yang berarti 'periode peminjaman buku di sudut buku baru tetap 1 minggu tidak berubah'. Perpanjangan menjadi 3 minggu hanya berlaku untuk buku umum, tidak untuk buku baru. Buku baru tetap bisa dipinjam (bukan tidak bisa), dan jumlah 10 buku tidak disebutkan.",
+    "hint": "Perhatikan kata 'ただし' yang menunjukkan pengecualian dari aturan umum",
+    "difficultyScore": 3
+  }
+]

@@ -1,0 +1,382 @@
+[
+  {
+    "id": "question_n4_5_001",
+    "question": "「退院する」はどういう意味ですか？",
+    "furigana": "「退院[たいいん]する」はどういう意味[いみ]ですか？",
+    "romaji": "'Taiin suru' wa dou iu imi desu ka?",
+    "level": "N4",
+    "category": "VOCABULARY",
+    "options": [
+      "Nhập viện để điều trị",
+      "Xuất viện sau khi bình phục",
+      "Thăm người đang điều trị tại bệnh viện",
+      "Chuyển bệnh nhân sang bệnh viện khác"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "'退院する' có nghĩa là gì?",
+    "answerExplanation": "'退院する' (taiin suru) có nghĩa là xuất viện sau khi điều trị xong hoặc sau khi khỏi bệnh. Kanji '退' (tai) = rút lui/rời đi, '院' (in) = viện/bệnh viện. Trái nghĩa là '入院する' (nyuuin suru = nhập viện). Ví dụ: '来週退院できるそうです' (Nghe nói tuần sau có thể xuất viện). Lựa chọn A sai vì đó là '入院する'. Lựa chọn C sai vì đó là 'お見舞いに行く'. Lựa chọn D sai vì đó là '転院する'.",
+    "hint": "Kanji '退' có nghĩa là rút lui hoặc rời đi, và '院' chỉ bệnh viện. Đây là trái nghĩa của '入院する'.",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_5_002",
+    "question": "「届ける」はどういう意味ですか？",
+    "furigana": "「届[とど]ける」はどういう意味[いみ]ですか？",
+    "romaji": "'Todokeru' wa dou iu imi desu ka?",
+    "level": "N4",
+    "category": "VOCABULARY",
+    "options": [
+      "Nhận đồ từ người khác",
+      "Cất giữ đồ ở nơi an toàn",
+      "Giao hoặc chuyển gì đó cho ai",
+      "Trả lại đồ đã mượn"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "'届ける' có nghĩa là gì?",
+    "answerExplanation": "'届ける' (todokeru) có nghĩa là giao hoặc truyền đạt thứ gì đó cho ai. Đây là ngoại động từ (他動詞). Dạng nội động từ là '届く' (todoku = đến nơi). Ví dụ: '友達に荷物を届けました' (Tôi đã giao bưu kiện cho bạn). Lựa chọn A sai vì đó là '受け取る'. Lựa chọn B sai vì đó là 'しまう'. Lựa chọn D sai vì đó là '返す'.",
+    "hint": "Động từ này liên quan đến việc mang thứ gì đó đến đích hoặc cho ai đó. Hãy nghĩ về việc giao hàng.",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_5_003",
+    "question": "「遠慮する」はどういう意味ですか？",
+    "furigana": "「遠慮[えんりょ]する」はどういう意味[いみ]ですか？",
+    "romaji": "'Enryo suru' wa dou iu imi desu ka?",
+    "level": "N4",
+    "category": "VOCABULARY",
+    "options": [
+      "Kiềm chế hoặc e dè với điều gì đó",
+      "Cảm thấy rất tức giận với ai đó",
+      "Chuẩn bị cho sự kiện quan trọng",
+      "Vui vẻ đồng ý với ý kiến của người khác"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "'遠慮する' có nghĩa là gì?",
+    "answerExplanation": "'遠慮する' (enryo suru) có nghĩa là kiềm chế, e dè, hoặc không làm điều gì đó vì lịch sự. Kanji '遠' (en) = xa, '慮' (ryo) = suy xét. Ví dụ: 'どうぞ遠慮しないでください' (Xin đừng ngại). Lựa chọn B sai vì đó là '怒る'. Lựa chọn C sai vì đó là '準備する'. Lựa chọn D sai vì đó là '賛成する'.",
+    "hint": "Đây là thái độ người Nhật thường thể hiện vì lịch sự, ví dụ lịch sự từ chối lời mời ăn dù thực ra đang đói.",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n4_5_004",
+    "question": "「相談する」はどういう意味ですか？",
+    "furigana": "「相談[そうだん]する」はどういう意味[いみ]ですか？",
+    "romaji": "'Soudan suru' wa dou iu imi desu ka?",
+    "level": "N4",
+    "category": "VOCABULARY",
+    "options": [
+      "Thông báo thông tin quan trọng cho nhiều người",
+      "Thảo luận vấn đề với ai đó để xin ý kiến",
+      "Tranh luận về chủ đề với cảm xúc mạnh",
+      "Kể lại trải nghiệm thú vị cho bạn bè"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "'相談する' có nghĩa là gì?",
+    "answerExplanation": "'相談する' (soudan suru) có nghĩa là tư vấn hoặc thảo luận vấn đề với ai đó để lấy lời khuyên hoặc ý kiến. Kanji '相' (sou) = lẫn nhau, '談' (dan) = nói chuyện. Ví dụ: '先生に進路について相談しました' (Tôi đã tư vấn giáo viên về hướng đi tương lai). Lựa chọn A sai vì đó là '知らせる'. Lựa chọn C sai vì đó là '議論する/喧嘉する'. Lựa chọn D sai vì đó là '話す'.",
+    "hint": "Từ này gồm '相' (lẫn nhau) và '談' (nói). Thường được làm khi ai đó có vấn đề và cần ý kiến của người khác.",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_5_005",
+    "question": "「間に合う」はどういう意味ですか？",
+    "furigana": "「間[ま]に合[あ]う」はどういう意味[いみ]ですか？",
+    "romaji": "'Ma ni au' wa dou iu imi desu ka?",
+    "level": "N4",
+    "category": "VOCABULARY",
+    "options": [
+      "Gặp ai đó tình cờ trên đường",
+      "Đúng giờ hoặc kịp trước hạn",
+      "Dành thời gian vui vẻ với bạn bè",
+      "Đợi ai đó trong thời gian rất lâu"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "'間に合う' có nghĩa là gì?",
+    "answerExplanation": "'間に合う' (ma ni au) có nghĩa là kịp giờ, kịp trước thời hạn. Ví dụ: '走ったので、電車に間に合いました' (Vì chạy nên đã kịp tàu). Nó cũng có thể có nghĩa 'đủ/đáp ứng'. Lựa chọn A sai vì đó là '偶然会う'. Lựa chọn C sai vì đó là '一緒に過ごす'. Lựa chọn D sai vì đó là 'ずっと待つ'.",
+    "hint": "Câu này thường được dùng khi nói về kịp tàu hoặc đáp ứng thời hạn. '間' có nghĩa là thời gian/khoảng, và 'に合う' có nghĩa là phù hợp/vừa.",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n4_5_006",
+    "question": "「経験」の読み方は？",
+    "furigana": "「経験[けいけん]」の読[よ]み方[かた]は？",
+    "romaji": "'Keiken' no yomikata wa?",
+    "level": "N4",
+    "category": "KANJI",
+    "options": [
+      "けいけん",
+      "けんけい",
+      "きょうけん",
+      "けいげん"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Cách đọc của '経験' là gì?",
+    "answerExplanation": "'経験' được đọc là 'けいけん' (keiken) có nghĩa là kinh nghiệm. Kanji '経' (けい) thường xuất hiện trong '経済' (keizai = kinh tế) và '経つ' (tatsu = trôi qua). Kanji '験' (けん) cũng được dùng trong '試験' (shiken = kỳ thi) và '実験' (jikken = thí nghiệm). Ví dụ: '日本で働いた経験があります' (Tôi có kinh nghiệm làm việc ở Nhật).",
+    "hint": "Kanji đầu tiên '経' được đọc 'けい' như trong '経済' (kinh tế). Kanji thứ hai '験' được đọc 'けん' như trong '試験' (kỳ thi).",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_5_007",
+    "question": "「交通」の読み方は？",
+    "furigana": "「交通[こうつう]」の読[よ]み方[かた]は？",
+    "romaji": "'Koutsuu' no yomikata wa?",
+    "level": "N4",
+    "category": "KANJI",
+    "options": [
+      "こうとう",
+      "きょうつう",
+      "こうつう",
+      "かいつう"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Cách đọc của '交通' là gì?",
+    "answerExplanation": "'交通' được đọc là 'こうつう' (koutsuu) có nghĩa là giao thông hoặc vận tải. Kanji '交' (こう) cũng được dùng trong '交差点' (kousaten = ngã tư) và '交換' (koukan = trao đổi). Kanji '通' (つう) cũng xuất hiện trong '通り' (toori = đường) và '通う' (kayou = đi lại). Ví dụ: '交通が便利な場所に住みたいです' (Tôi muốn sống ở nơi giao thông thuận tiện).",
+    "hint": "Kanji '交' được đọc 'こう' (không phải 'きょう'), và '通' được đọc 'つう'. Từ này liên quan đến phương tiện và đường sá.",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_5_008",
+    "question": "「受付」の読み方は？",
+    "furigana": "「受付[うけつけ]」の読[よ]み方[かた]は？",
+    "romaji": "'Uketsuke' no yomikata wa?",
+    "level": "N4",
+    "category": "KANJI",
+    "options": [
+      "じゅふ",
+      "うけつけ",
+      "じゅつき",
+      "うけづけ"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Cách đọc của '受付' là gì?",
+    "answerExplanation": "'受付' được đọc là 'うけつけ' (uketsuke) có nghĩa là lễ tân hoặc quầy tiếp nhận. Từ này xuất phát từ động từ '受け付ける' (uketsukeru = tiếp nhận/xử lý). Kanji '受' (う-ける) = nhận, '付' (つ-ける) = gắn. Ví dụ: '受付で名前を書いてください' (Xin viết tên ở quầy lễ tân). Lưu ý cách đọc dùng kunyomi, không phải onyomi.",
+    "hint": "Cả hai kanji dùng kunyomi (cách đọc Nhật gốc). '受' được đọc 'うけ' và '付' được đọc 'つけ'. Từ này thường thấy ở sảnh tòa nhà hoặc bệnh viện.",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n4_5_009",
+    "question": "「予約」の読み方は？",
+    "furigana": "「予約[よやく]」の読[よ]み方[かた]は？",
+    "romaji": "'Yoyaku' no yomikata wa?",
+    "level": "N4",
+    "category": "KANJI",
+    "options": [
+      "よやく",
+      "よさく",
+      "ちやく",
+      "よきゃく"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Cách đọc của '予約' là gì?",
+    "answerExplanation": "'予約' được đọc là 'よやく' (yoyaku) có nghĩa là đặt chỗ hoặc đặt trước. Kanji '予' (よ) có nghĩa là 'trước' và cũng được dùng trong '予定' (yotei = kế hoạch) và '予習' (yoshuu = học trước). Kanji '約' (やく) có nghĩa là 'lời hứa' và cũng được dùng trong '約束' (yakusoku = lời hứa). Ví dụ: 'レストランを予約しました' (Tôi đã đặt chỗ nhà hàng).",
+    "hint": "Kanji '予' được đọc 'よ' như trong '予定' (kế hoạch), và '約' được đọc 'やく' như trong '約束' (lời hứa).",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_5_010",
+    "question": "「規則」の読み方は？",
+    "furigana": "「規則[きそく]」の読[よ]み方[かた]は？",
+    "romaji": "'Kisoku' no yomikata wa?",
+    "level": "N4",
+    "category": "KANJI",
+    "options": [
+      "きぞく",
+      "きそく",
+      "ぎそく",
+      "きのり"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Cách đọc của '規則' là gì?",
+    "answerExplanation": "'規則' được đọc là 'きそく' (kisoku) có nghĩa là quy tắc hoặc nội quy. Kanji '規' (き) cũng được dùng trong '規模' (kibo = quy mô) và '正規' (seiki = chính thức). Kanji '則' (そく) cũng xuất hiện trong '原則' (gensoku = nguyên tắc). Ví dụ: '学校の規則を守ってください' (Xin hãy tuân thủ nội quy trường). Lưu ý cách đọc là 'きそく' không phải 'きぞく' (có nghĩa là quý tộc/貴族).",
+    "hint": "Cẩn thận với cách đọc giống nhau. '規則' (quy tắc) được đọc 'きそく' với 'そ' không có dấu dakuten, trong khi '貴族' (quý tộc) được đọc 'きぞく' với 'ぞ'.",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n4_5_011",
+    "question": "もっと早く起き___、電車に間に合ったのに。",
+    "furigana": "もっと早[はや]く起[お]き___、電車[でんしゃ]に間[ま]に合[あ]ったのに。",
+    "romaji": "Motto hayaku oki___, densha ni ma ni atta noni.",
+    "level": "N4",
+    "category": "GRAMMAR",
+    "options": [
+      "れば",
+      "たら",
+      "ると",
+      "ので"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Giá mà tôi dậy sớm hơn, thì đã kịp tàu rồi.",
+    "answerExplanation": "Đáp án đúng là 'れば' (dạng điều kiện ~ば). '起きれば' có nghĩa là 'nếu dậy'. Mẫu ~ば được dùng để diễn đạt điều kiện. Với động từ nhóm 2 như '起きる', dạng ~ば là: bỏ 'る' rồi thêm 'れば' → '起きれば'. Câu này dùng '~ば...のに' diễn đạt sự tiếc nuối: 'Giá mà dậy sớm hơn, đã kịp rồi'. Lựa chọn B 'たら' nghĩa tương tự nhưng câu này tập trung vào mẫu ~ば. Lựa chọn C 'ると' không phù hợp cho ngữ cảnh tiếc nuối. Lựa chọn D 'ので' diễn đạt lý do, không phải điều kiện.",
+    "hint": "Mẫu ~ば là dạng điều kiện. Với động từ nhóm 2 (ichidan), bỏ đuôi 'る' và thêm 'れば'. Câu này diễn đạt sự tiếc nuối với '~のに' ở cuối.",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n4_5_012",
+    "question": "雨が降っ___、サッカーの試合は行われます。",
+    "furigana": "雨[あめ]が降[ふ]っ___、サッカーの試合[しあい]は行[おこな]われます。",
+    "romaji": "Ame ga fut___, sakkaa no shiai wa okonawaremasu.",
+    "level": "N4",
+    "category": "GRAMMAR",
+    "options": [
+      "たら",
+      "ても",
+      "から",
+      "ので"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Ngay cả khi trời mưa, trận bóng đá vẫn sẽ được tổ chức.",
+    "answerExplanation": "Đáp án đúng là 'ても' (ngay cả khi/mặc dù). '降っても' có nghĩa là 'ngay cả khi mưa'. Mẫu ~ても được dùng để diễn đạt rằng ngay cả khi điều kiện nào đó xảy ra, kết quả vẫn giữ nguyên hoặc không bị ảnh hưởng. Ví dụ khác: '高くても買います' (Ngay cả đắt tôi vẫn mua). Lựa chọn A 'たら' có nghĩa 'nếu' (điều kiện). Lựa chọn C 'から' và D 'ので' diễn đạt lý do.",
+    "hint": "Mẫu này có nghĩa 'mặc dù/ngay cả khi'. Trận đấu sẽ diễn ra BẤT KỂ điều kiện thời tiết. Hãy nghĩ đến từ nối diễn đạt sự nhượng bộ.",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_5_013",
+    "question": "天気予報によると、明日は雪が降る___。",
+    "furigana": "天気予報[てんきよほう]によると、明日[あした]は雪[ゆき]が降[ふ]る___。",
+    "romaji": "Tenki yohou ni yoru to, ashita wa yuki ga furu ___.",
+    "level": "N4",
+    "category": "GRAMMAR",
+    "options": [
+      "ようです",
+      "らしいです",
+      "そうです",
+      "みたいです"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Theo dự báo thời tiết, ngày mai sẽ có tuyết rơi.",
+    "answerExplanation": "Đáp án đúng là 'そうです' (dạng nghe nói ~そうだ). '降るそうです' có nghĩa là 'nghe nói sẽ có tuyết rơi'. Mẫu nghe nói ~そうだ được dùng để truyền đạt thông tin nghe từ nguồn khác. Lưu ý điều này khác với dạng biểu hiện ~そうだ diễn đạt ấn tượng thị giác. Với dạng nghe nói, động từ/tính từ ở dạng thường + そうです. Cụm từ 'によると' (theo...) là gợi ý mạnh cho dạng nghe nói. Lựa chọn A 'ようです' và D 'みたいです' diễn đạt phỏng đoán. Lựa chọn B 'らしいです' cũng có thể dùng nhưng 'そうです' phù hợp nhất sau 'によると'.",
+    "hint": "Chú ý 'によると' (theo...) ở đầu câu. Điều này chỉ ra thông tin đến từ nguồn khác (dự báo thời tiết), không phải từ quan sát cá nhân.",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n4_5_014",
+    "question": "健康のために、毎日野菜を食べる___しています。",
+    "furigana": "健康[けんこう]のために、毎日[まいにち]野菜[やさい]を食[た]べる___しています。",
+    "romaji": "Kenkou no tame ni, mainichi yasai wo taberu ___ shite imasu.",
+    "level": "N4",
+    "category": "GRAMMAR",
+    "options": [
+      "ことに",
+      "ように",
+      "ために",
+      "はずに"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Vì sức khỏe, tôi cố gắng ăn rau mỗi ngày.",
+    "answerExplanation": "Đáp án đúng là 'ように' (mẫu ~ようにする). '食べるようにしています' có nghĩa là 'tôi cố gắng ăn' hoặc 'tôi tập thói quen ăn'. Mẫu ~ようにする diễn đạt nỗ lực làm thứ gì đó thành thói quen. Dạng ~ようにしています (với ~ている) cho thấy nỗ lực liên tục. Lựa chọn A 'ことに' dùng trong ~ことにする có nghĩa 'quyết định' (quyết định một lần). Lựa chọn C 'ために' diễn đạt mục đích. Lựa chọn D 'はずに' không tồn tại trong ngữ pháp tiếng Nhật.",
+    "hint": "Mẫu này diễn đạt nỗ lực làm điều gì đó liên tục. Người này không chỉ quyết định một lần, mà cố gắng mỗi ngày.",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n4_5_015",
+    "question": "来月から毎朝ジョギングする___しました。",
+    "furigana": "来月[らいげつ]から毎朝[まいあさ]ジョギングする___しました。",
+    "romaji": "Raigetsu kara maiasa jogingu suru ___ shimashita.",
+    "level": "N4",
+    "category": "GRAMMAR",
+    "options": [
+      "ように",
+      "ために",
+      "ことに",
+      "つもりに"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Tôi đã quyết định chạy bộ mỗi sáng từ tháng sau.",
+    "answerExplanation": "Đáp án đúng là 'ことに' (mẫu ~ことにする). 'ジョギングすることにしました' có nghĩa là 'quyết định chạy bộ'. Mẫu ~ことにする diễn đạt quyết định của người nói. Dạng quá khứ '~ことにしました' cho thấy quyết định đã được đưa ra. Lựa chọn A 'ように' dùng trong ~ようにする có nghĩa 'cố gắng' (không phải quyết định dứt khoát). Lựa chọn B 'ために' diễn đạt mục đích. Lựa chọn D 'つもりに' không tồn tại trong ngữ pháp tiếng Nhật.",
+    "hint": "Mẫu này diễn đạt quyết định cá nhân. Lưu ý rằng người này đã đưa ra quyết định dứt khoát (từ tháng sau), không chỉ cố gắng.",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n4_5_016",
+    "question": "母は弟に毎日ピアノを練習___。",
+    "furigana": "母[はは]は弟[おとうと]に毎日[まいにち]ピアノを練習[れんしゅう]___。",
+    "romaji": "Haha wa otouto ni mainichi piano wo renshuu ___.",
+    "level": "N4",
+    "category": "GRAMMAR",
+    "options": [
+      "させます",
+      "されます",
+      "できます",
+      "なります"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Mẹ bắt em trai tôi tập đàn piano mỗi ngày.",
+    "answerExplanation": "Đáp án đúng là 'させます' (dạng sai khiến ~させる). '練習させます' có nghĩa là 'bắt tập'. Mẫu sai khiến ~させる được dùng khi ai đó bắt hoặc cho phép người khác làm điều gì. Trong câu này, mẹ (chủ ngữ) bắt em trai (tân ngữ với trợ từ に) tập đàn piano. Với động từ nhóm 3 (する), dạng sai khiến là 'させる'. Lựa chọn B 'されます' là dạng bị động. Lựa chọn C 'できます' có nghĩa 'có thể'. Lựa chọn D 'なります' có nghĩa 'trở thành'.",
+    "hint": "Mẹ là người ra lệnh, và em trai là người bị bắt làm. Mẫu này diễn đạt việc BẮT ai đó LÀM điều gì.",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n4_5_017",
+    "question": "私は電車の中で知らない人に足を___。",
+    "furigana": "私[わたし]は電車[でんしゃ]の中[なか]で知[し]らない人[ひと]に足[あし]を___。",
+    "romaji": "Watashi wa densha no naka de shiranai hito ni ashi wo ___.",
+    "level": "N4",
+    "category": "GRAMMAR",
+    "options": [
+      "踏みました",
+      "踏まれました",
+      "踏ませました",
+      "踏めました"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Tôi bị một người lạ dẫm lên chân trên tàu.",
+    "answerExplanation": "Đáp án đúng là '踏まれました' (dạng bị động ~られる từ '踏む'). '足を踏まれました' có nghĩa là 'bị dẫm lên chân'. Mẫu bị động ~られる được dùng khi chủ ngữ nhận hoặc trải qua hành động từ người khác, thường với sắc thái tiêu cực (迷惑の受身 = bị động phiền toái). Với động từ nhóm 1 '踏む' (fumu), dạng bị động: bỏ 'む' → 'ふ' + 'まれる' → '踏まれる'. Lựa chọn A '踏みました' là chủ động (tôi dẫm). Lựa chọn C '踏ませました' là sai khiến (bắt ai dẫm). Lựa chọn D '踏めました' là khả năng (có thể dẫm).",
+    "hint": "Trong câu này, 'tôi' là nạn nhân trải qua điều gì đó không vui. Người lạ đã làm hành động đó với tôi. Mẫu nào diễn đạt 'trải qua/nhận hành động'?",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n4_5_018",
+    "question": "次の文を読んでください。\n\n「料理教室のお知らせ\n毎週土曜日 午前10時～12時\n場所：3階の調理室\n※来週の土曜日は祝日のため、お休みです。再来週からまた始めます。持ち物：エプロン」\n\n料理教室について正しいものはどれですか？",
+    "furigana": "次[つぎ]の文[ぶん]を読[よ]んでください。\n\n「料理[りょうり]教室[きょうしつ]のお知[し]らせ\n毎週[まいしゅう]土曜日[どようび] 午前[ごぜん]10時[じ]～12時[じ]\n場所[ばしょ]：3階[かい]の調理室[ちょうりしつ]\n※来週[らいしゅう]の土曜日[どようび]は祝日[しゅくじつ]のため、お休[やす]みです。再来週[さらいしゅう]からまた始[はじ]めます。持[も]ち物[もの]：エプロン」\n\n料理[りょうり]教室[きょうしつ]について正[ただ]しいものはどれですか？",
+    "romaji": "Tsugi no bun wo yonde kudasai. 'Ryouri kyoushitsu no oshirase. Maishuu doyoubi gozen 10-ji kara 12-ji. Basho: 3-kai no chourishitsu. Raishuu no doyoubi wa shukujitsu no tame, oyasumi desu. Saraishuu kara mata hajimemasu. Mochimono: epuron.' Ryouri kyoushitsu ni tsuite tadashii mono wa dore desu ka?",
+    "level": "N4",
+    "category": "READING",
+    "options": [
+      "Lop nau an duoc to chuc vao moi sang Chu nhat",
+      "Lop nau an tuan sau nghi vi ngay le",
+      "Hoc vien phai tu mang nguyen lieu",
+      "Lop nau an keo dai 3 tieng"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Xin hãy đọc văn bản sau. [Thông báo Lớp Nấu ăn: Mỗi thứ Bảy 10 giờ - 12 giờ, Địa điểm: phòng nấu ăn tầng 3. Thứ Bảy tuần sau nghỉ vì ngày lễ. Bắt đầu lại từ tuần kế tiếp. Mang theo: tạp dề.]\n\nPhát biểu nào đúng về lớp nấu ăn?",
+    "answerExplanation": "Đáp án đúng là B: 'Lớp nấu ăn tuần sau nghỉ vì ngày lễ'. Văn bản nêu '来週の土曜日は祝日のため、お休みです' (Thứ Bảy tuần sau nghỉ vì ngày lễ). Lựa chọn A sai vì lớp tổ chức vào thứ Bảy (土曜日), không phải Chủ nhật. Lựa chọn C sai vì cần mang là tạp dề (エプロン), không phải nguyên liệu. Lựa chọn D sai vì lớp kéo dài 2 tiếng (10:00-12:00), không phải 3 tiếng.",
+    "hint": "Đọc thông báo cẩn thận. Chú ý ngày tổ chức, lý do nghỉ, vật cần mang theo, và thời lượng lớp.",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_5_019",
+    "question": "次のメッセージを読んでください。\n\n「ゆきちゃん、土曜日ひま？新しくできたカフェに行かない？駅の東口を出て右に曲がったところにあるよ。ケーキがおいしいって聞いたの。午後2時はどう？だめだったら日曜日でもいいよ。　　みか」\n\nみかさんはゆきさんに何を伝えていますか？",
+    "furigana": "次[つぎ]のメッセージを読[よ]んでください。\n\n「ゆきちゃん、土曜日[どようび]ひま？新[あたら]しくできたカフェに行[い]かない？駅[えき]の東口[ひがしぐち]を出[で]て右[みぎ]に曲[ま]がったところにあるよ。ケーキがおいしいって聞[き]いたの。午後[ごご]2時[じ]はどう？だめだったら日曜日[にちようび]でもいいよ。　　みか」\n\nみかさんはゆきさんに何[なに]を伝[つた]えていますか？",
+    "romaji": "Tsugi no messeeji wo yonde kudasai. 'Yuki-chan, doyoubi hima? Atarashiku dekita kafe ni ikanai? Eki no higashiguchi wo dete migi ni magatta tokoro ni aru yo. Keeki ga oishii tte kiita no. Gogo 2-ji wa dou? Dame dattara nichiyoubi demo ii yo. Mika.' Mika-san wa Yuki-san ni nani wo tsutaete imasu ka?",
+    "level": "N4",
+    "category": "READING",
+    "options": [
+      "Mika ru Yuki den quan ca phe moi gan ga",
+      "Mika bao Yuki rang quan ca phe yeu thich cua ho da dong",
+      "Mika nho Yuki lam banh cho thu Bay",
+      "Mika bao Yuki gap nhau o cua tay cua ga"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Xin hãy đọc tin nhắn sau. [Từ Mika gửi Yuki: Thứ Bảy rảnh không? Muốn đi quán cà phê mới không? Nó gần cửa đông ga, rẽ phải. Nghe nói bánh ngon. 2 giờ chiều được không? Chủ nhật cũng được nếu không được.]\n\nMika nói gì với Yuki?",
+    "answerExplanation": "Đáp án đúng là A: 'Mika rủ Yuki đến quán cà phê mới gần ga'. Mika viết '新しくできたカフェに行かない？' (Muốn đi quán cà phê mới mở không?). Quán gần ga (ra cửa đông, rẽ phải). Lựa chọn B sai vì quán mới mở, không phải đóng. Lựa chọn C sai vì Mika rủ đến quán, không phải nhờ làm bánh. Lựa chọn D sai vì nơi đó ở cửa đông (東口), không phải cửa tây (西口).",
+    "hint": "Chú ý '新しくできた' (mới mở) và '行かない？' (muốn đi không?). Cũng lưu ý hướng từ ga: '東口' có nghĩa là cửa đông.",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n4_5_020",
+    "question": "次のお知らせを読んでください。\n\n「春のセールのお知らせ\nさくらデパート　3月20日（金）～3月25日（水）\n全品20%オフ！食料品は10%オフです。\n※最終日は午後5時に閉店します。\n（通常は午後8時まで）\nポイントカードをお持ちのお客様は、さらに5%引きになります。」\n\nこのお知らせについて正しいものはどれですか？",
+    "furigana": "次[つぎ]のお知[し]らせを読[よ]んでください。\n\n「春[はる]のセールのお知[し]らせ\nさくらデパート　3月[がつ]20日[にち]（金[きん]）～3月[がつ]25日[にち]（水[すい]）\n全品[ぜんぴん]20%オフ！食料品[しょくりょうひん]は10%オフです。\n※最終日[さいしゅうび]は午後[ごご]5時[じ]に閉店[へいてん]します。\n（通常[つうじょう]は午後[ごご]8時[じ]まで）\nポイントカードをお持[も]ちのお客様[きゃくさま]は、さらに5%引[び]きになります。」\n\nこのお知[し]らせについて正[ただ]しいものはどれですか？",
+    "romaji": "Tsugi no oshirase wo yonde kudasai. 'Haru no seeru no oshirase. Sakura depaato. 3-gatsu 20-nichi (kin) kara 3-gatsu 25-nichi (sui). Zenpin 20% ofu! Shokuryouhin wa 10% ofu desu. Saishuu-bi wa gogo 5-ji ni heiten shimasu. (Tsujou wa gogo 8-ji made.) Pointo kaado wo omochi no okyakusama wa, sarani 5% biki ni narimasu.' Kono oshirase ni tsuite tadashii mono wa dore desu ka?",
+    "level": "N4",
+    "category": "READING",
+    "options": [
+      "Tat ca hang hoa ke ca thuc pham deu giam 20%",
+      "Ngay cuoi khuyen mai cua hang dong cua som hon 3 tieng so voi binh thuong",
+      "Khuyen mai keo dai ca tuan",
+      "Chu the diem duoc giam them 10%"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Xin hãy đọc thông báo sau. [Khuyến mãi Mùa Xuân tại Cửa hàng Sakura, 20/3 (Thứ Sáu) - 25/3 (Thứ Tư). Tất cả giảm 20%! Thực phẩm giảm 10%. Ngày cuối đóng cửa lúc 5 giờ chiều (bình thường 8 giờ tối). Khách có thẻ điểm được giảm thêm 5%.]\n\nPhát biểu nào đúng về thông báo này?",
+    "answerExplanation": "Đáp án đúng là B: 'Vào ngày cuối của khuyến mãi, cửa hàng đóng cửa sớm hơn 3 tiếng so với bình thường'. Thông báo nêu ngày cuối đóng cửa lúc 5 giờ chiều (午後5時), bình thường 8 giờ tối (午後8時), vậy là sớm hơn 3 tiếng. Lựa chọn A sai vì thực phẩm (食料品) chỉ giảm 10%, không phải 20%. Lựa chọn C sai vì khuyến mãi từ 20/3 đến 25/3 (6 ngày, không phải cả tuần). Lựa chọn D sai vì khách có thẻ điểm được giảm thêm 5% (5%引き), không phải 10%.",
+    "hint": "So sánh giờ đóng cửa bình thường (通常) với giờ đóng cửa ngày cuối (最終日). Cũng lưu ý giảm giá thực phẩm khác với các mặt hàng khác.",
+    "difficultyScore": 3
+  }
+]

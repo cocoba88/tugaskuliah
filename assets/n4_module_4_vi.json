@@ -1,0 +1,382 @@
+[
+  {
+    "id": "question_n4_4_001",
+    "question": "「壊れる」はどういう意味ですか？",
+    "furigana": "「壊[こわ]れる」はどういう意味[いみ]ですか？",
+    "romaji": "'Kowareru' wa dou iu imi desu ka?",
+    "level": "N4",
+    "category": "VOCABULARY",
+    "options": [
+      "Bị vỡ / bị hư (tự nhiên)",
+      "Sửa chữa / phục hồi",
+      "Lắp ráp / ghép lại",
+      "Bị mòn / bị phai dần"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "'壊れる' có nghĩa là gì?",
+    "answerExplanation": "'壊れる' (kowareru) là nội động từ có nghĩa là 'vỡ' hoặc 'bị hỏng' — vật tự nó bị hư hỏng mà không đề cập ai làm. Ví dụ: 'パソコンが壊れた' (Máy tính bị hỏng). Lựa chọn B 'sửa chữa' sai (đó là '直す'). Lựa chọn C 'lắp ráp' sai (đó là '組み立てる'). Lựa chọn D 'mòn/phai' sai (đó là '擦り減る/薄れる'). Tất cả liên quan đến tình trạng đồ vật, nhưng nghĩa khác nhau.",
+    "hint": "Từ này là nội động từ (自動詞) — vật tự nó trải qua sự thay đổi. Hãy nghĩ về điện thoại khi bị rơi xuống sàn.",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_4_002",
+    "question": "「教室」の各漢字の読み方として正しい組み合わせはどれですか？",
+    "furigana": "「教室[きょうしつ]」の各[かく]漢字[かんじ]の読[よ]み方[かた]として正[ただ]しい組[く]み合[あ]わせはどれですか？",
+    "romaji": "'Kyoushitsu' no kaku kanji no yomikata to shite tadashii kumiwase wa dore desu ka?",
+    "level": "N4",
+    "category": "KANJI",
+    "options": [
+      "「教」→ おし、「室」→ しつ",
+      "「教」→ きょう、「室」→ むろ",
+      "「教」→ きょう、「室」→ しつ",
+      "「教」→ きょ、「室」→ しつ"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Tổ hợp cách đọc nào đúng cho mỗi kanji trong '教室'?",
+    "answerExplanation": "'教室' được đọc là 'きょうしつ' (kyoushitsu). Kanji '教' on-yomi = 'きょう' (教室, 教育), kun-yomi = 'おし(える)'. Kanji '室' on-yomi = 'しつ' (教室, 会議室), kun-yomi = 'むろ'. Trong '教室' cả hai dùng on-yomi: きょう + しつ. Lưu ý: 'きょ' không có う dài là sai — phải là 'きょう'.",
+    "hint": "教室 dùng on-yomi cho cả hai kanji. 'きょう' phải có う dài (きょ không đủ là sai). Kanji 室 trong ngữ cảnh phòng luôn là 'しつ', không phải 'むろ'.",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_4_003",
+    "question": "雨が降っ___、サッカーの試合は中止になりました。",
+    "furigana": "雨[あめ]が降[ふ]っ___、サッカーの試合[しあい]は中止[ちゅうし]になりました。",
+    "romaji": "Ame ga futt___, sakkaa no shiai wa chuushi ni narimashita.",
+    "level": "N4",
+    "category": "GRAMMAR",
+    "options": [
+      "てから",
+      "たり",
+      "たので",
+      "ても"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Vì trời mưa, trận bóng đá đã bị hủy.",
+    "answerExplanation": "'~たので' diễn đạt LÝ DO/NGUYÊN NHÂN khách quan. '雨が降ったので、試合は中止になりました' = Vì trời mưa, trận đấu đã bị hủy. Các lựa chọn khác: '~ても' = mặc dù (tương phản, không phải nguyên nhân); '~てから' = sau khi (trình tự thời gian, không phải nhân quả); '~たり' = liệt kê hành động (không phải nguyên nhân).",
+    "hint": "Trận đấu bị hủy VÌ mưa — mối quan hệ nhân quả. 'ても' = mặc dù (ngữ cảnh ngược lại). Chọn cái diễn đạt nguyên nhân trực tiếp.",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n4_4_004",
+    "question": "田中さんは去年、初めて海外旅行をしました。フランスへ行きました。フランス語は全然わかりませんでしたが、英語で何とかなりました。また行きたいと思っています。\n\n質問：田中さんについて正しいのはどれですか。",
+    "furigana": "田中[たなか]さんは去年[きょねん]、初[はじ]めて海外旅行[かいがいりょこう]をしました。フランスへ行[い]きました。フランス語[ご]は全然[ぜんぜん]わかりませんでしたが、英語[えいご]で何[なん]とかなりました。また行[い]きたいと思[おも]っています。\n\n質問[しつもん]：田中[たなか]さんについて正[ただ]しいのはどれですか。",
+    "romaji": "Tanaka-san wa kyonen, hajimete kaigai ryokou wo shimashita. Furansu e ikimashita. Furansugo wa zenzen wakarimasen deshita ga, eigo de nantoka narimashita. Mata ikitai to omotteimasu.\n\nShitsumon: Tanaka-san ni tsuite tadashii no wa dore desu ka.",
+    "level": "N4",
+    "category": "READING",
+    "options": [
+      "田中さんはフランス語が上手です",
+      "田中さんは英語が全然わかりませんでした",
+      "田中さんは忙しいので、もうフランスへ行けません",
+      "田中さんは去年初めて海外旅行をしました"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "Tanaka lần đầu tiên đi nước ngoài năm ngoái. Anh ấy đã đi Pháp. Không hiểu tiếng Pháp chút nào, nhưng đã xữ lý được bằng tiếng Anh. Anh ấy muốn đi lần nữa.\n\nCâu hỏi: Điều nào đúng về Tanaka-san?",
+    "answerExplanation": "(D) đúng: '去年、初めて海外旅行をしました' được viết rõ ràng. (A) sai — văn bản nói フランス語は全然わかりませんでした; (B) sai — thực ra 英語で何とかなった (xử lý được bằng tiếng Anh); (C) sai — văn bản nói また行きたい, không phải không thể đi.",
+    "hint": "Đối chiếu từng lựa chọn trực tiếp với các câu trong văn bản. Ba lựa chọn mâu thuẫn trực tiếp với sự thật được viết.",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_4_005",
+    "question": "「決まる」はどういう意味ですか？",
+    "furigana": "「決[き]まる」はどういう意味[いみ]ですか？",
+    "romaji": "'Kimaru' wa dou iu imi desu ka?",
+    "level": "N4",
+    "category": "VOCABULARY",
+    "options": [
+      "Thay đổi / chuyển",
+      "Được quyết định / xác định",
+      "Bị hủy / bị dừng",
+      "Bị hoãn / bị lùi"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "'決まる' có nghĩa là gì?",
+    "answerExplanation": "'決まる' (kimaru) là nội động từ có nghĩa là 'được quyết định' hoặc 'được xác định' — điều gì đó đã được ấn định. Ví dụ: '会議の日が決まった' (Ngày hỌp đã được quyết định). Lựa chọn A 'thay đổi' sai (đó là '変わる'). Lựa chọn C 'bị hủy' sai (đó là '中止になる'). Lựa chọn D 'bị hoãn' sai (đó là '延期される'). Tất cả mô tả trạng thái của quyết định/kế hoạch, nhưng nghĩa khác nhau.",
+    "hint": "Từ này là nội động từ (自動詞), cặp ngoại động từ là '決める' (quyết định). Nghĩ: khi lịch hỌp đã chốt và chắc chắn, trạng thái của nó là...?",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_4_006",
+    "question": "忙しくても、毎日日本語を___。",
+    "furigana": "忙[いそが]しくても、毎日[まいにち]日本語[にほんご]を___。",
+    "romaji": "Isogashikutemo, mainichi nihongo o ___.",
+    "level": "N4",
+    "category": "GRAMMAR",
+    "options": [
+      "勉強しません",
+      "勉強しよう",
+      "勉強します",
+      "勉強したい"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Mặc dù bận, tôi vẫn học tiếng Nhật mỗi ngày.",
+    "answerExplanation": "Mẫu câu '~ても' = 'mặc dù' — điều kiện A không ngăn cản kết quả B. '忙しくても、毎日勉強します' = Mặc dù bận, vẫn học mỗi ngày. Các lựa chọn khác: '勉強しません' (không học) mâu thuẫn; '勉強しよう' (hãy học) = lời mời, không phải thói quen; '勉強したい' (muốn học) = mong muốn, không phải thực tế thường xuyên.",
+    "hint": "Mẫu câu ても: 'mặc dù X, Y vẫn xảy ra'. Y phải nêu thói quen thực tế thường xuyên — không phải mong muốn hay lời mời.",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n4_4_007",
+    "question": "「宿題」の読み方として正しいのはどれですか？",
+    "furigana": "「宿題[しゅくだい]」の読[よ]み方[かた]として正[ただ]しいのはどれですか？",
+    "romaji": "'Shukudai' no yomikata to shite tadashii no wa dore desu ka?",
+    "level": "N4",
+    "category": "KANJI",
+    "options": [
+      "すくだい",
+      "しゅくだい",
+      "しゅくたい",
+      "しゅうだい"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Cách đọc đúng của '宿題' là gì?",
+    "answerExplanation": "'宿題' được đọc là 'しゅくだい' (shukudai) = bài tập về nhà. '宿' (shuku) = しゅく, không phải しゅう hay すく. '題' (dai) = だい, giống như trong 問題 (もんだい). Lựa chọn sai: 'すくだい' — 宿 không phải 'su'; 'しゅくたい' — 題 không phải 'tai'; 'しゅうだい' — 宿 phải là 'しゅく' với く, không phải 'しゅう'.",
+    "hint": "Kanji '宿' kết thúc bằng phụ âm: し・ゅ・く (đừng bỏ qua 'く'). Kanji '題' giống như trong 問題 (もんだい) → 'だい'.",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_4_008",
+    "question": "「集める」はどういう意味ですか？",
+    "furigana": "「集[あつ]める」はどういう意味[いみ]ですか？",
+    "romaji": "'Atsumeru' wa dou iu imi desu ka?",
+    "level": "N4",
+    "category": "VOCABULARY",
+    "options": [
+      "Phân phát / phân phối",
+      "Phân loại / sắp xếp",
+      "Thu thập / sưu tầm",
+      "Lưu trữ / tiết kiệm"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "'集める' có nghĩa là gì?",
+    "answerExplanation": "'集める' (atsumeru) là ngoại động từ có nghĩa là 'thu thập' hoặc 'tập hợp'. Ví dụ: '切手を集める' (sưu tầm tem), 'データを集める' (thu thập dữ liệu). Lựa chọn A 'phân phát' sai (đó là '配る'). Lựa chọn B 'phân loại' sai (đó là '分類する'). Lựa chọn D 'tiết kiệm/cất giữ' sai (đó là '貯める'). Tất cả liên quan đến quản lý đồ vật/thông tin, nhưng hành động khác nhau.",
+    "hint": "Từ này là ngoại động từ (他動詞), cặp nội động từ là '集まる' (tụ họi). Hãy nghĩ về hành động được làm đối với các vật riêng lẻ để đưa chúng về một nơi.",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_4_009",
+    "question": "日本に___ことがありますか。",
+    "furigana": "日本[にほん]に___ことがありますか。",
+    "romaji": "Nihon ni ___ koto ga arimasu ka.",
+    "level": "N4",
+    "category": "GRAMMAR",
+    "options": [
+      "行って",
+      "行く",
+      "行き",
+      "行った"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "Bạn đã từng đến Nhật Bản chưa?",
+    "answerExplanation": "Mẫu câu '~たことがある' = đã từng làm gì đó (kinh nghiệm). 行く → dạng ta: 行った. '行ったことがありますか' = Bạn đã từng đi chưa? Các lựa chọn khác: '行って' = dạng te (không phải mẫu kinh nghiệm); '行く' = dạng từ điển; '行き' = gốc masu — không cái nào khớp với ~たことがある.",
+    "hint": "Mẫu kinh nghiệm: [dạng ta] + ことがある. Dạng ta BẮT BUỘC vì kinh nghiệm = đã xảy ra rồi. 行く → dạng ta = ?",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_4_010",
+    "question": "「届く」の読み方として正しいのはどれですか？",
+    "furigana": "「届[とど]く」の読[よ]み方[かた]として正[ただ]しいのはどれですか？",
+    "romaji": "'Todoku' no yomikata to shite tadashii no wa dore desu ka?",
+    "level": "N4",
+    "category": "KANJI",
+    "options": [
+      "つづく",
+      "とどく",
+      "つくる",
+      "とおく"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Cách đọc đúng của '届く' là gì?",
+    "answerExplanation": "'届く' được đọc là 'とどく' (todoku) = đến nơi/tới (thư từ hoặc hàng hóa). Ví dụ: '荷物が届いた' (Bưu kiện đã đến). Các lựa chọn khác: 'つづく' = 続く (tiếp tục, kanji khác), 'つくる' = 作る (làm, kanji khác), 'とおく' = 遠く (xa, kanji khác). Mặc dù âm giống nhau, kanji và nghĩa khác nhau.",
+    "hint": "Kanji '届' có cách đọc kun'yomi 'とど(く/ける)'. Đừng nhầm với '続く' (つづく) có kanji khác mặc dù trông giống nhau.",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_4_011",
+    "question": "このリンゴは___ので、子どもに人気です。",
+    "furigana": "このリンゴは___ので、子[こ]どもに人気[にんき]です。",
+    "romaji": "Kono ringo wa ___ node, kodomo ni ninki desu.",
+    "level": "N4",
+    "category": "GRAMMAR",
+    "options": [
+      "あまいの",
+      "あまくて",
+      "あまい",
+      "あまく"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Quả táo này ngọt, nên được trẻ em yêu thích.",
+    "answerExplanation": "'ので' yêu cầu DẠNG THƯỜNG trước nó. Với tính từ -i, dạng thường = dạng kết thúc bằng 'い': あまい + ので. Các lựa chọn khác: 'あまいの' = danh từ hóa, không phù hợp trước ので; 'あまくて' = dạng te để kết hợp thuộc tính; 'あまく' = dạng trạng từ (trước động từ).",
+    "hint": "Trước 'ので', dùng dạng thường. Với tính từ -i như あまい, dạng thường là dạng cơ bản kết thúc bằng 'い' — nối trực tiếp với ので.",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n4_4_012",
+    "question": "「倒れる」はどういう意味ですか？",
+    "furigana": "「倒[たお]れる」はどういう意味[いみ]ですか？",
+    "romaji": "'Taoreru' wa dou iu imi desu ka?",
+    "level": "N4",
+    "category": "VOCABULARY",
+    "options": [
+      "Đứng dậy / đứng lên",
+      "Ngã / sụp đổ",
+      "Ngồi xổm / cúi xuống",
+      "Dựa vào / tựa vào"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "'倒れる' có nghĩa là gì?",
+    "answerExplanation": "'倒れる' (taoreru) là nội động từ có nghĩa là 'ngã', 'sụp đổ', hoặc 'ngất'. Ví dụ: '木が倒れた' (Cây đổ), '疲れて倒れた' (Ngất vì kiệt sức). Lựa chọn A 'đứng thẳng' sai (đó là '立つ'). Lựa chọn C 'ngồi xổm' sai (đó là 'しゃがむ'). Lựa chọn D 'dựa vào' sai (đó là '寄りかかる'). Tất cả mô tả tư thế cơ thể, nhưng nghĩa khác nhau.",
+    "hint": "Từ này là nội động từ (自動詞) và mô tả sự thay đổi vị trí từ đứng thẳng sang không thẳng. Hãy nghĩ về điều xảy ra với cây khi có gió mạnh.",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_4_013",
+    "question": "「食べ物」の読み方として正しいのはどれですか？",
+    "furigana": "「食べ物[たべもの]」の読[よ]み方[かた]として正[ただ]しいのはどれですか？",
+    "romaji": "'Tabemono' no yomikata to shite tadashii no wa dore desu ka?",
+    "level": "N4",
+    "category": "KANJI",
+    "options": [
+      "たべもの",
+      "たべぶつ",
+      "しょくもの",
+      "たべもつ"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Cách đọc đúng của '食べ物' là gì?",
+    "answerExplanation": "'食べ物' được đọc là 'たべもの' (tabemono) = thức ăn. '食' kun-yomi = 'たべ(る)', on-yomi = 'しょく'. '物' kun-yomi = 'もの', on-yomi = 'ぶつ/もつ'. Trong '食べ物' cả hai dùng kun-yomi: たべ + もの. Lựa chọn sai: 'たべぶつ' trộn kun+on; 'しょくもの' trộn on+kun; 'たべもつ' sai cách đọc 物.",
+    "hint": "食べ物 dùng kun-yomi cho CẢ HAI kanji. '食べ' = 'たべ' (từ 食べる). '物' kun-yomi = 'もの'.",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n4_4_014",
+    "question": "電車で３時間___かかりました。",
+    "furigana": "電車[でんしゃ]で３時間[じかん]___かかりました。",
+    "romaji": "Densha de san-jikan ___ kakarimashita.",
+    "level": "N4",
+    "category": "GRAMMAR",
+    "options": [
+      "を",
+      "で",
+      "に",
+      "も"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "Chuyến tàu mất đến tận 3 tiếng (đồng hồ) (nhiều hơn dự kiến).",
+    "answerExplanation": "Trợ từ 'も' trong ngữ cảnh số lượng diễn đạt số lượng vượt quá kỳ vọng: '3時間もかかりました' = mất ĐẾN TẪN 3 tiếng (nhiều hơn dự kiến). Không có 'も': '3時間かかりました' = trung lập. Các lựa chọn khác: 'を' cho tân ngữ; 'で' cho nơi chốn/công cụ; 'に' cho thời gian cụ thể.",
+    "hint": "Có sắc thái 'chà, đến tận 3 tiếng!' — trợ từ nào nhấn mạnh số lượng vượt quá kỳ vọng?",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n4_4_015",
+    "question": "山田さんは医者で、毎日病院で働いています。最近、忙しくて休みが取れないと言っていました。趣味のテニスも、もう3ヶ月していないそうです。\n\n質問：山田さんについて正しいのはどれですか。",
+    "furigana": "山田[やまだ]さんは医者[いしゃ]で、毎日[まいにち]病院[びょういん]で働[はたら]いています。最近[さいきん]、忙[いそが]しくて休[やす]みが取[と]れないと言[い]っていました。趣味[しゅみ]のテニスも、もう3ヶ月[かげつ]していないそうです。\n\n質問[しつもん]：山田[やまだ]さんについて正[ただ]しいのはどれですか。",
+    "romaji": "Yamada-san wa isha de, mainichi byouin de hataraite imasu. Saikin, isogashikute yasumi ga torenai to itte imashita. Shumi no tenisu mo, mou sankagetsu shite inai sou desu.\n\nShitsumon: Yamada-san ni tsuite tadashii no wa dore desu ka.",
+    "level": "N4",
+    "category": "READING",
+    "options": [
+      "山田さんは最近テニスを毎日しています",
+      "山田さんは土曜日と日曜日は必ず休みです",
+      "山田さんは忙しいので、病院を辞めました",
+      "山田さんは病院で働いていますが、最近休みが取れません"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "Yamada-san là bác sĩ, làm việc ở bệnh viện mỗi ngày. Gần đây, anh ấy nói rất bận không thể nghỉ. Tennis sở thích cũng đã 3 tháng không chơi.\n\nCâu hỏi: Điều nào đúng về Yamada-san?",
+    "answerExplanation": "(D) đúng: kết hợp hai sự thật từ văn bản — làm việc ở bệnh viện và không thể nghỉ. (A) sai — đã 3 tháng không chơi tennis; (B) sai — cụ thể là không thể nghỉ; (C) sai — không có thông tin về việc nghỉ việc.",
+    "hint": "Đáp án phải được hỗ trợ đầy đủ bởi văn bản. Loại bỏ những cái mâu thuẫn và những cái không được đề cập.",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_4_016",
+    "question": "「会議室」の読み方として正しいのはどれですか？",
+    "furigana": "「会議室[かいぎしつ]」の読[よ]み方[かた]として正[ただ]しいのはどれですか？",
+    "romaji": "'Kaigishitsu' no yomikata to shite tadashii no wa dore desu ka?",
+    "level": "N4",
+    "category": "KANJI",
+    "options": [
+      "かいぎむろ",
+      "あいぎしつ",
+      "かいぎしつ",
+      "かいぎへや"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Cách đọc đúng của '会議室' là gì?",
+    "answerExplanation": "'会議室' được đọc là 'かいぎしつ' (kaigishitsu) = phòng họi nghị. Cả ba kanji dùng on-yomi: '会' (kai) = gặp, '議' (gi) = thảo luận, '室' (shitsu) = phòng. Các lựa chọn khác: 'かいぎむろ' — 室 kun-yomi 'むろ' không đúng ở đây; 'あいぎしつ' — 会 không phải 'あい' mà là 'かい'; 'かいぎへや' — 部屋 (heya) không phải 室 (shitsu).",
+    "hint": "Từ ghép ba kanji này dùng on-yomi cho tất cả. '会' = かい, '議' = ぎ, '室' = しつ (không phải kun-yomi 'むろ' hay 'へや').",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_4_017",
+    "question": "「受付」の読み方として正しいのはどれですか？",
+    "furigana": "「受付[うけつけ]」の読[よ]み方[かた]として正[ただ]しいのはどれですか？",
+    "romaji": "'Uketsuke' no yomikata to shite tadashii no wa dore desu ka?",
+    "level": "N4",
+    "category": "KANJI",
+    "options": [
+      "じゅふ",
+      "うけつき",
+      "じゅつけ",
+      "うけつけ"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "Cách đọc đúng của '受付' là gì?",
+    "answerExplanation": "'受付' được đọc là 'うけつけ' (uketsuke) = lễ tân/quầy tiếp nhận. Cả hai kanji dùng kun-yomi: '受' = うけ (từ 受ける = nhận), '付' = つけ (từ 付ける = gắn). Các lựa chọn khác: 'じゅふ' — sai on-yomi cho cả hai; 'うけつき' — sai đuôi, phải là 'つけ' không phải 'つき'; 'じゅつけ' — trộn on+kun không đúng.",
+    "hint": "受付 là từ ghép dùng kun-yomi cho cả hai kanji. '受' kun-yomi = うけ, '付' kun-yomi = つけ. Lưu ý: 'つき' và 'つけ' trông giống nhau nhưng khác nhau.",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n4_4_018",
+    "question": "きのうは天気___よかったので、公園へ行きました。",
+    "furigana": "きのうは天気[てんき]___よかったので、公園[こうえん]へ行[い]きました。",
+    "romaji": "Kinou wa tenki ___ yokatta node, kouen e ikimashita.",
+    "level": "N4",
+    "category": "GRAMMAR",
+    "options": [
+      "が",
+      "で",
+      "を",
+      "は"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Hôm qua thời tiết đẹp, nên tôi đã đi công viên.",
+    "answerExplanation": "Trợ từ 'が' đánh dấu CHỦ NGỮ của vị ngữ mô tả. '天気がよかった' = thời tiết đẹp. 'きのうは' đã là chủ đề thời gian, nên 天気 cần 'が' làm chủ ngữ của mệnh đề giải thích. 'は' cũng có thể dùng nhưng mang sắc thái tương phản. 'で' và 'を' không đúng ngữ pháp.",
+    "hint": "Đã có chủ đề 'きのうは'. Trong mệnh đề giải thích, 天気 = CHỦ NGỮ của よかった. Trợ từ chủ ngữ trong mệnh đề phụ thường là...?",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n4_4_019",
+    "question": "私はコーヒーが好きです。毎朝飲みます。それがないと、一日が始まりません。\n\n質問：「それ」が指す内容として最も適切なのはどれですか。",
+    "furigana": "私[わたし]はコーヒーが好[す]きです。毎朝[まいあさ]飲[の]みます。それがないと、一日[いちにち]が始[はじ]まりません。\n\n質問[しつもん]：「それ」が指[さ]す内容[ないよう]として最[もっと]も適切[てきせつ]なのはどれですか。",
+    "romaji": "Watashi wa koohii ga suki desu. Maiasa nomimasu. Sore ga nai to, ichinichi ga hajimarimasen.\n\nShitsumon: 'Sore' ga sasu naiyou to shite mottomo tekisetsu na no wa dore desu ka.",
+    "level": "N4",
+    "category": "READING",
+    "options": [
+      "毎朝の習慣全体",
+      "コーヒー",
+      "コーヒーを飲む時間帯",
+      "一日の始まり"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Tôi thích cà phê. Uống mỗi sáng. Không có nó, ngày không thể bắt đầu.\n\nCâu hỏi: 'それ' chỉ điều gì phù hợp nhất?",
+    "answerExplanation": "'それ' chỉ danh từ cụ thể gần nhất trước nó = コーヒー. Thứ tự: (1) コーヒーが好き → (2) 毎朝飲む → (3) それがないと... 'それがない' = không có cà phê (vật cụ thể). Các lựa chọn khác quá rộng hoặc không phải điều được nhắc đến.",
+    "hint": "'それ' (cái đó) tự nhiên nhất chỉ danh từ CỤ THỂ gần nhất. Câu trước nói về thứ gì được uống mỗi sáng?",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n4_4_020",
+    "question": "この料理は辛い___、体にもいいそうです。",
+    "furigana": "この料理[りょうり]は辛[から]い___、体[からだ]にもいいそうです。",
+    "romaji": "Kono ryouri wa karai ___, karada ni mo ii sou desu.",
+    "level": "N4",
+    "category": "GRAMMAR",
+    "options": [
+      "し",
+      "のに",
+      "から",
+      "ので"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Món ăn này cay, và nghe nói cũng tốt cho cơ thể.",
+    "answerExplanation": "'~し' liệt kê NHIỀU THUỘC TÍNH/LÝ DO cùng nhau: 'cay, VÀ CÒN tốt cho cơ thể'. Từ 'も' trong '体にも' củng cố sắc thái bổ sung. Các lựa chọn khác: 'から/ので' = vì (nhân quả, không phải bổ sung); 'のに' = mặc dù (tương phản, sắc thái khác).",
+    "hint": "Đây không phải 'vì cay nên tốt cho sức khỏe' (nhân quả) và không phải 'mặc dù cay' (tương phản). Mẫu câu nào liệt kê nhiều thuộc tính CÙNG NHAU?",
+    "difficultyScore": 3
+  }
+]

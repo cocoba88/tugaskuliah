@@ -1,0 +1,382 @@
+[
+  {
+    "id": "question_n4_4_001",
+    "question": "「壊れる」はどういう意味ですか？",
+    "furigana": "「壊[こわ]れる」はどういう意味[いみ]ですか？",
+    "romaji": "'Kowareru' wa dou iu imi desu ka?",
+    "level": "N4",
+    "category": "VOCABULARY",
+    "options": [
+      "Rusak / pecah (dengan sendirinya)",
+      "Memperbaiki / merestorasi",
+      "Merakit / menyusun kembali",
+      "Aus / memudar perlahan"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Apa arti dari '壊れる'?",
+    "answerExplanation": "'壊れる' (kowareru) adalah kata kerja intransitif yang berarti 'rusak' atau 'pecah' — benda itu sendiri yang menjadi rusak tanpa menyebutkan pelakunya. Contoh: 'パソコンが壊れた' (Komputer rusak). Pilihan B 'memperbaiki' salah (itu '直す'). Pilihan C 'merakit' salah (itu '組み立てる'). Pilihan D 'aus/memudar' salah (itu '擦り減る/薄れる'). Semua opsi berhubungan dengan kondisi benda, tapi maknanya berbeda.",
+    "hint": "Kata ini intransitif (自動詞) — benda itu sendiri yang mengalami perubahan. Pikirkan apa yang terjadi pada HP saat jatuh ke lantai.",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_4_002",
+    "question": "「教室」の各漢字の読み方として正しい組み合わせはどれですか？",
+    "furigana": "「教室[きょうしつ]」の各[かく]漢字[かんじ]の読[よ]み方[かた]として正[ただ]しい組[く]み合[あ]わせはどれですか？",
+    "romaji": "'Kyoushitsu' no kaku kanji no yomikata to shite tadashii kumiwase wa dore desu ka?",
+    "level": "N4",
+    "category": "KANJI",
+    "options": [
+      "「教」→ おし、「室」→ しつ",
+      "「教」→ きょう、「室」→ むろ",
+      "「教」→ きょう、「室」→ しつ",
+      "「教」→ きょ、「室」→ しつ"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Manakah kombinasi pembacaan kanji yang benar untuk setiap karakter dalam '教室'?",
+    "answerExplanation": "'教室' dibaca 'きょうしつ' (kyoushitsu). Kanji '教' on-yomi = 'きょう' (教室, 教育), kun-yomi = 'おし(える)'. Kanji '室' on-yomi = 'しつ' (教室, 会議室), kun-yomi = 'むろ'. Dalam '教室' keduanya on-yomi: きょう + しつ. Perhatikan: 'きょ' tanpa う panjang salah — harus 'きょう'.",
+    "hint": "教室 menggunakan on-yomi untuk kedua kanjinya. 'きょう' harus ada う panjang (きょ saja salah). Kanji 室 dalam konteks ruangan selalu 'しつ', bukan 'むろ'.",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_4_003",
+    "question": "雨が降っ___、サッカーの試合は中止になりました。",
+    "furigana": "雨[あめ]が降[ふ]っ___、サッカーの試合[しあい]は中止[ちゅうし]になりました。",
+    "romaji": "Ame ga futt___, sakkaa no shiai wa chuushi ni narimashita.",
+    "level": "N4",
+    "category": "GRAMMAR",
+    "options": [
+      "てから",
+      "たり",
+      "たので",
+      "ても"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Karena hujan turun, pertandingan sepak bola dibatalkan.",
+    "answerExplanation": "'〜たので' menyatakan ALASAN/SEBAB objektif. '雨が降ったので、試合は中止になりました' = Karena hujan, pertandingan dibatalkan. Pilihan lain: '〜ても' = meskipun (kontrasif, bukan sebab); '〜てから' = setelah (urutan waktu, bukan sebab-akibat); '〜たり' = mendaftar aksi (bukan sebab).",
+    "hint": "Pertandingan dibatalkan KARENA hujan — hubungan sebab-akibat. 'ても' = meskipun (berlawanan konteks). Pilih yang menyatakan sebab langsung.",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n4_4_004",
+    "question": "田中さんは去年、初めて海外旅行をしました。フランスへ行きました。フランス語は全然わかりませんでしたが、英語で何とかなりました。また行きたいと思っています。\n\n質問：田中さんについて正しいのはどれですか。",
+    "furigana": "田中[たなか]さんは去年[きょねん]、初[はじ]めて海外旅行[かいがいりょこう]をしました。フランスへ行[い]きました。フランス語[ご]は全然[ぜんぜん]わかりませんでしたが、英語[えいご]で何[なん]とかなりました。また行[い]きたいと思[おも]っています。\n\n質問[しつもん]：田中[たなか]さんについて正[ただ]しいのはどれですか。",
+    "romaji": "Tanaka-san wa kyonen, hajimete kaigai ryokou wo shimashita. Furansu e ikimashita. Furansugo wa zenzen wakarimasen deshita ga, eigo de nantoka narimashita. Mata ikitai to omotteimasu.\n\nShitsumon: Tanaka-san ni tsuite tadashii no wa dore desu ka.",
+    "level": "N4",
+    "category": "READING",
+    "options": [
+      "田中さんはフランス語が上手です",
+      "田中さんは英語が全然わかりませんでした",
+      "田中さんは忙しいので、もうフランスへ行けません",
+      "田中さんは去年初めて海外旅行をしました"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "Tanaka tahun lalu pergi ke luar negeri pertama kali. Pergi ke Prancis. Tidak mengerti bahasa Prancis, tapi berhasil dengan bahasa Inggris. Ingin pergi lagi.\n\nPertanyaan: Manakah yang benar tentang Tanaka-san?",
+    "answerExplanation": "(D) benar: '去年、初めて海外旅行をしました' tertulis eksplisit. (A) salah — teks bilang フランス語は全然わかりませんでした; (B) salah — justru 英語で何とかなった (berhasil dengan bahasa Inggris); (C) salah — teks bilang また行きたい, bukan tidak bisa.",
+    "hint": "Cocokkan setiap pilihan langsung dengan kalimat dalam teks. Tiga pilihan bertentangan langsung dengan fakta tertulis.",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_4_005",
+    "question": "「決まる」はどういう意味ですか？",
+    "furigana": "「決[き]まる」はどういう意味[いみ]ですか？",
+    "romaji": "'Kimaru' wa dou iu imi desu ka?",
+    "level": "N4",
+    "category": "VOCABULARY",
+    "options": [
+      "Berubah / beralih",
+      "Diputuskan / ditentukan",
+      "Dibatalkan / dihentikan",
+      "Ditunda / diundur"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Apa arti dari '決まる'?",
+    "answerExplanation": "'決まる' (kimaru) adalah kata kerja intransitif yang berarti 'diputuskan' atau 'ditentukan' — sesuatu telah ditetapkan. Contoh: '会議の日が決まった' (Tanggal rapat sudah ditentukan). Pilihan A 'berubah' salah (itu '変わる'). Pilihan C 'dibatalkan' salah (itu '中止になる'). Pilihan D 'ditunda' salah (itu '延期される'). Semua opsi menggambarkan status suatu keputusan/rencana, tapi maknanya berbeda.",
+    "hint": "Kata ini intransitif (自動詞), pasangan transitifnya '決める' (memutuskan). Pikirkan: saat jadwal rapat sudah final dan pasti, statusnya...?",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_4_006",
+    "question": "忙しくても、毎日日本語を___。",
+    "furigana": "忙[いそが]しくても、毎日[まいにち]日本語[にほんご]を___。",
+    "romaji": "Isogashikutemo, mainichi nihongo o ___.",
+    "level": "N4",
+    "category": "GRAMMAR",
+    "options": [
+      "勉強しません",
+      "勉強しよう",
+      "勉強します",
+      "勉強したい"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Meskipun sibuk, saya belajar bahasa Jepang setiap hari.",
+    "answerExplanation": "Pola '〜ても' = 'meskipun' — kondisi A tidak menghalangi hasil B. '忙しくても、毎日勉強します' = Meskipun sibuk, tetap belajar tiap hari. Pilihan lain: '勉強しません' (tidak belajar) kontradiktif; '勉強しよう' (ayo belajar) = ajakan, bukan kebiasaan; '勉強したい' (ingin belajar) = keinginan, bukan fakta rutin.",
+    "hint": "Pola ても: 'meskipun X, Y tetap terjadi'. Y harus menyatakan kebiasaan nyata yang rutin dilakukan — bukan keinginan atau ajakan.",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n4_4_007",
+    "question": "「宿題」の読み方として正しいのはどれですか？",
+    "furigana": "「宿題[しゅくだい]」の読[よ]み方[かた]として正[ただ]しいのはどれですか？",
+    "romaji": "'Shukudai' no yomikata to shite tadashii no wa dore desu ka?",
+    "level": "N4",
+    "category": "KANJI",
+    "options": [
+      "すくだい",
+      "しゅくだい",
+      "しゅくたい",
+      "しゅうだい"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Manakah cara baca yang benar untuk '宿題'?",
+    "answerExplanation": "'宿題' dibaca 'しゅくだい' (shukudai) = PR/pekerjaan rumah. '宿' (shuku) = しゅく, bukan しゅう atau すく. '題' (dai) = だい, sama seperti 問題 (もんだい). Pilihan salah: 'すくだい' — 宿 bukan 'su'; 'しゅくたい' — 題 bukan 'tai'; 'しゅうだい' — 宿 harus 'しゅく' dengan く, bukan 'しゅう'.",
+    "hint": "Kanji '宿' berakhiran konsonan: し・ゅ・く (jangan lewatkan 'く'). Kanji '題' sama seperti dalam 問題 (もんだい) → 'だい'.",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_4_008",
+    "question": "「集める」はどういう意味ですか？",
+    "furigana": "「集[あつ]める」はどういう意味[いみ]ですか？",
+    "romaji": "'Atsumeru' wa dou iu imi desu ka?",
+    "level": "N4",
+    "category": "VOCABULARY",
+    "options": [
+      "Menyebarkan / mendistribusikan",
+      "Menyortir / memilah-milah",
+      "Mengumpulkan / mengoleksi",
+      "Menyimpan / menabung"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Apa arti dari '集める'?",
+    "answerExplanation": "'集める' (atsumeru) adalah kata kerja transitif yang berarti 'mengumpulkan' atau 'mengoleksi'. Contoh: '切手を集める' (mengoleksi perangko), 'データを集める' (mengumpulkan data). Pilihan A 'menyebarkan' salah (itu '配る'). Pilihan B 'menyortir' salah (itu '分類する'). Pilihan D 'menyimpan/menabung' salah (itu '貯める'). Semua opsi berkaitan dengan pengelolaan benda/informasi, tapi aksinya berbeda.",
+    "hint": "Kata ini transitif (他動詞), pasangan intransitifnya '集まる' (berkumpul). Pikirkan aksi yang dilakukan terhadap benda-benda yang terpisah agar menjadi satu tempat.",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_4_009",
+    "question": "日本に___ことがありますか。",
+    "furigana": "日本[にほん]に___ことがありますか。",
+    "romaji": "Nihon ni ___ koto ga arimasu ka.",
+    "level": "N4",
+    "category": "GRAMMAR",
+    "options": [
+      "行って",
+      "行く",
+      "行き",
+      "行った"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "Apakah Anda pernah pergi ke Jepang?",
+    "answerExplanation": "Pola '〜たことがある' = pernah melakukan sesuatu (pengalaman). 行く → ta-form: 行った. '行ったことがありますか' = Pernah pergi? Pilihan lain: '行って' = te-form (bukan pola pengalaman); '行く' = bentuk kamus; '行き' = masu-stem — ketiganya tidak sesuai pola ~たことがある.",
+    "hint": "Pola pengalaman: [ta-form] + ことがある. Ta-form WAJIB karena pengalaman = sudah pernah terjadi. 行く → ta-form = ?",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_4_010",
+    "question": "「届く」の読み方として正しいのはどれですか？",
+    "furigana": "「届[とど]く」の読[よ]み方[かた]として正[ただ]しいのはどれですか？",
+    "romaji": "'Todoku' no yomikata to shite tadashii no wa dore desu ka?",
+    "level": "N4",
+    "category": "KANJI",
+    "options": [
+      "つづく",
+      "とどく",
+      "つくる",
+      "とおく"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Manakah cara baca yang benar untuk '届く'?",
+    "answerExplanation": "'届く' dibaca 'とどく' (todoku) = sampai/tiba (barang atau pesan). Contoh: '荷物が届いた' (Paketnya sudah sampai). Pilihan lain: 'つづく' = 続く (berlanjut, kanji berbeda), 'つくる' = 作る (membuat, kanji berbeda), 'とおく' = 遠く (jauh, kanji berbeda). Meskipun bunyinya mirip-mirip, kanji dan maknanya berbeda.",
+    "hint": "Kanji '届' memiliki bacaan kun-yomi 'とど(く/ける)'. Jangan tertukar dengan '続く' (つづく) yang kanjinya berbeda meskipun mirip secara visual.",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_4_011",
+    "question": "このリンゴは___ので、子どもに人気です。",
+    "furigana": "このリンゴは___ので、子[こ]どもに人気[にんき]です。",
+    "romaji": "Kono ringo wa ___ node, kodomo ni ninki desu.",
+    "level": "N4",
+    "category": "GRAMMAR",
+    "options": [
+      "あまいの",
+      "あまくて",
+      "あまい",
+      "あまく"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Apel ini manis, sehingga populer di kalangan anak-anak.",
+    "answerExplanation": "'ので' memerlukan PLAIN FORM sebelumnya. Untuk i-adjective, plain form = bentuk berakhiran 'い': あまい + ので. Pilihan lain: 'あまいの' = nominalisasi, tidak cocok sebelum ので; 'あまくて' = te-form untuk menggabungkan sifat; 'あまく' = adverbial form (sebelum kata kerja).",
+    "hint": "Sebelum 'ので', gunakan plain form. Untuk i-adjective seperti あまい, plain form-nya adalah bentuk dasar berakhiran 'い' — langsung disambung dengan ので.",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n4_4_012",
+    "question": "「倒れる」はどういう意味ですか？",
+    "furigana": "「倒[たお]れる」はどういう意味[いみ]ですか？",
+    "romaji": "'Taoreru' wa dou iu imi desu ka?",
+    "level": "N4",
+    "category": "VOCABULARY",
+    "options": [
+      "Berdiri tegak / bangkit",
+      "Terjatuh / roboh",
+      "Berjongkok / merunduk",
+      "Bersandar / bertopang"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Apa arti dari '倒れる'?",
+    "answerExplanation": "'倒れる' (taoreru) adalah kata kerja intransitif yang berarti 'terjatuh', 'roboh', atau 'pingsan'. Contoh: '木が倒れた' (Pohon tumbang), '疲れて倒れた' (Pingsan karena kelelahan). Pilihan A 'berdiri tegak' salah (itu '立つ'). Pilihan C 'berjongkok' salah (itu 'しゃがむ'). Pilihan D 'bersandar' salah (itu '寄りかかる'). Semua opsi menggambarkan posisi tubuh, tapi maknanya berbeda.",
+    "hint": "Kata ini intransitif (自動詞) dan menggambarkan perubahan posisi dari tegak menjadi tidak tegak. Pikirkan apa yang terjadi pada pohon saat ada angin kencang.",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_4_013",
+    "question": "「食べ物」の読み方として正しいのはどれですか？",
+    "furigana": "「食べ物[たべもの]」の読[よ]み方[かた]として正[ただ]しいのはどれですか？",
+    "romaji": "'Tabemono' no yomikata to shite tadashii no wa dore desu ka?",
+    "level": "N4",
+    "category": "KANJI",
+    "options": [
+      "たべもの",
+      "たべぶつ",
+      "しょくもの",
+      "たべもつ"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Manakah cara baca yang benar untuk '食べ物'?",
+    "answerExplanation": "'食べ物' dibaca 'たべもの' (tabemono) = makanan. '食' kun-yomi = 'たべ(る)', on-yomi = 'しょく'. '物' kun-yomi = 'もの', on-yomi = 'ぶつ/もつ'. Dalam '食べ物' keduanya kun-yomi: たべ + もの. Pilihan salah: 'たべぶつ' campuran kun+on; 'しょくもの' campuran on+kun; 'たべもつ' salah bacaan 物.",
+    "hint": "食べ物 menggunakan kun-yomi untuk KEDUA kanji. '食べ' = 'たべ' (dari 食べる). '物' kun-yomi = 'もの'.",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n4_4_014",
+    "question": "電車で３時間___かかりました。",
+    "furigana": "電車[でんしゃ]で３時間[じかん]___かかりました。",
+    "romaji": "Densha de san-jikan ___ kakarimashita.",
+    "level": "N4",
+    "category": "GRAMMAR",
+    "options": [
+      "を",
+      "で",
+      "に",
+      "も"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "Perjalanan dengan kereta memakan waktu hingga 3 jam (lebih dari perkiraan).",
+    "answerExplanation": "Partikel 'も' pada konteks jumlah menyatakan kuantitas melebihi ekspektasi: '3時間もかかりました' = memakan waktu SAMPAI 3 jam (lebih dari perkiraan). Tanpa 'も': '3時間かかりました' = netral. Pilihan lain: 'を' untuk objek aksi; 'で' untuk tempat/alat; 'に' untuk waktu spesifik.",
+    "hint": "Ada nuansa 'wah, sampai 3 jam!' — partikel apa yang menekankan kuantitas melebihi ekspektasi?",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n4_4_015",
+    "question": "山田さんは医者で、毎日病院で働いています。最近、忙しくて休みが取れないと言っていました。趣味のテニスも、もう3ヶ月していないそうです。\n\n質問：山田さんについて正しいのはどれですか。",
+    "furigana": "山田[やまだ]さんは医者[いしゃ]で、毎日[まいにち]病院[びょういん]で働[はたら]いています。最近[さいきん]、忙[いそが]しくて休[やす]みが取[と]れないと言[い]っていました。趣味[しゅみ]のテニスも、もう3ヶ月[かげつ]していないそうです。\n\n質問[しつもん]：山田[やまだ]さんについて正[ただ]しいのはどれですか。",
+    "romaji": "Yamada-san wa isha de, mainichi byouin de hataraite imasu. Saikin, isogashikute yasumi ga torenai to itte imashita. Shumi no tenisu mo, mou sankagetsu shite inai sou desu.\n\nShitsumon: Yamada-san ni tsuite tadashii no wa dore desu ka.",
+    "level": "N4",
+    "category": "READING",
+    "options": [
+      "山田さんは最近テニスを毎日しています",
+      "山田さんは土曜日と日曜日は必ず休みです",
+      "山田さんは忙しいので、病院を辞めました",
+      "山田さんは病院で働いていますが、最近休みが取れません"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "Yamada-san dokter, bekerja di RS setiap hari. Belakangan bilang sangat sibuk tak bisa libur. Tenis pun 3 bulan tidak dilakukan.\n\nPertanyaan: Manakah yang benar tentang Yamada-san?",
+    "answerExplanation": "(D) benar: menggabungkan dua fakta dari teks — bekerja di RS dan tidak bisa libur. (A) salah — sudah 3 bulan TIDAK main tenis; (B) salah — justru tidak bisa libur; (C) salah — tidak ada info berhenti kerja.",
+    "hint": "Jawaban harus didukung penuh oleh teks. Eliminasi yang bertentangan dan yang tidak disebutkan.",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_4_016",
+    "question": "「会議室」の読み方として正しいのはどれですか？",
+    "furigana": "「会議室[かいぎしつ]」の読[よ]み方[かた]として正[ただ]しいのはどれですか？",
+    "romaji": "'Kaigishitsu' no yomikata to shite tadashii no wa dore desu ka?",
+    "level": "N4",
+    "category": "KANJI",
+    "options": [
+      "かいぎむろ",
+      "あいぎしつ",
+      "かいぎしつ",
+      "かいぎへや"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Manakah cara baca yang benar untuk '会議室'?",
+    "answerExplanation": "'会議室' dibaca 'かいぎしつ' (kaigishitsu) = ruang rapat. Tiga kanji ini semua on-yomi: '会' (kai) = bertemu, '議' (gi) = diskusi, '室' (shitsu) = ruangan. Pilihan lain: 'かいぎむろ' — 室 kun-yomi 'むろ' tidak tepat di sini; 'あいぎしつ' — 会 bukan 'あい' tapi 'かい'; 'かいぎへや' — 部屋 (heya) bukan 室 (shitsu).",
+    "hint": "Kata majemuk tiga kanji ini semua menggunakan on-yomi. '会' = かい, '議' = ぎ, '室' = しつ (bukan kun-yomi 'むろ' atau 'へや').",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_4_017",
+    "question": "「受付」の読み方として正しいのはどれですか？",
+    "furigana": "「受付[うけつけ]」の読[よ]み方[かた]として正[ただ]しいのはどれですか？",
+    "romaji": "'Uketsuke' no yomikata to shite tadashii no wa dore desu ka?",
+    "level": "N4",
+    "category": "KANJI",
+    "options": [
+      "じゅふ",
+      "うけつき",
+      "じゅつけ",
+      "うけつけ"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "Manakah cara baca yang benar untuk '受付'?",
+    "answerExplanation": "'受付' dibaca 'うけつけ' (uketsuke) = resepsi/tempat penerimaan. Kedua kanji menggunakan kun-yomi: '受' = うけ (dari 受ける = menerima), '付' = つけ (dari 付ける = memasang/melampirkan). Pilihan lain: 'じゅふ' — menggunakan on-yomi yang salah untuk keduanya; 'うけつき' — salah akhiran, harus 'つけ' bukan 'つき'; 'じゅつけ' — campuran on+kun yang tidak tepat.",
+    "hint": "受付 adalah kata majemuk yang menggunakan kun-yomi untuk kedua kanji. '受' kun-yomi = うけ, '付' kun-yomi = つけ. Perhatikan: 'つき' dan 'つけ' mirip tapi berbeda.",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n4_4_018",
+    "question": "きのうは天気___よかったので、公園へ行きました。",
+    "furigana": "きのうは天気[てんき]___よかったので、公園[こうえん]へ行[い]きました。",
+    "romaji": "Kinou wa tenki ___ yokatta node, kouen e ikimashita.",
+    "level": "N4",
+    "category": "GRAMMAR",
+    "options": [
+      "が",
+      "で",
+      "を",
+      "は"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Kemarin cuacanya bagus, jadi pergi ke taman.",
+    "answerExplanation": "Partikel 'が' menandai SUBJEK dari predikat deskriptif. '天気がよかった' = cuacanya bagus. 'きのうは' sudah jadi topik waktu, sehingga 天気 perlu 'が' sebagai subjek klausa penjelas. 'は' juga bisa tapi mengandung nuansa kontras. 'で' dan 'を' tidak tepat gramatikal.",
+    "hint": "Sudah ada topik 'きのうは'. Di dalam klausa penjelas, 天気 = SUBJEK dari よかった. Partikel subjek dalam klausa subordinat biasanya...?",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n4_4_019",
+    "question": "私はコーヒーが好きです。毎朝飲みます。それがないと、一日が始まりません。\n\n質問：「それ」が指す内容として最も適切なのはどれですか。",
+    "furigana": "私[わたし]はコーヒーが好[す]きです。毎朝[まいあさ]飲[の]みます。それがないと、一日[いちにち]が始[はじ]まりません。\n\n質問[しつもん]：「それ」が指[さ]す内容[ないよう]として最[もっと]も適切[てきせつ]なのはどれですか。",
+    "romaji": "Watashi wa koohii ga suki desu. Maiasa nomimasu. Sore ga nai to, ichinichi ga hajimarimasen.\n\nShitsumon: 'Sore' ga sasu naiyou to shite mottomo tekisetsu na no wa dore desu ka.",
+    "level": "N4",
+    "category": "READING",
+    "options": [
+      "毎朝の習慣全体",
+      "コーヒー",
+      "コーヒーを飲む時間帯",
+      "一日の始まり"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Saya suka kopi. Meminumnya setiap pagi. Tanpa itu, hari tidak bisa dimulai.\n\nPertanyaan: Apa yang dirujuk oleh 'それ'?",
+    "answerExplanation": "'それ' merujuk kata benda spesifik terdekat sebelumnya = コーヒー. Urutan: (1) コーヒーが好き → (2) 毎朝飲む → (3) それがないと... 'それがない' = tidak ada kopi (benda konkret). Pilihan lain terlalu luas atau bukan yang dirujuk.",
+    "hint": "'それ' (itu) paling alami merujuk kata benda KONKRET terdekat. Kalimat sebelumnya membicarakan benda apa yang diminum setiap pagi?",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n4_4_020",
+    "question": "この料理は辛い___、体にもいいそうです。",
+    "furigana": "この料理[りょうり]は辛[から]い___、体[からだ]にもいいそうです。",
+    "romaji": "Kono ryouri wa karai ___, karada ni mo ii sou desu.",
+    "level": "N4",
+    "category": "GRAMMAR",
+    "options": [
+      "し",
+      "のに",
+      "から",
+      "ので"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Masakan ini pedas, dan juga katanya baik untuk tubuh.",
+    "answerExplanation": "'〜し' mendaftar BEBERAPA SIFAT/ALASAN bersamaan: 'pedas, DAN JUGA baik untuk tubuh'. Kata 'も' di '体にも' memperkuat nuansa penambahan. Pilihan lain: 'から/ので' = karena (kausalitas, bukan penambahan); 'のに' = meskipun (kontras, nuansa berbeda).",
+    "hint": "Ini bukan 'karena pedas maka sehat' (kausalitas) dan bukan 'meskipun pedas' (kontras). Pola apa yang mendaftar beberapa sifat BERSAMAAN?",
+    "difficultyScore": 3
+  }
+]

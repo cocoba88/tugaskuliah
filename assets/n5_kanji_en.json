@@ -1,0 +1,2998 @@
+{
+  "metadata": {
+    "level": "N5",
+    "total_kanji": 103,
+    "source": "Cross-referenced from 6 sources: jlptglobal.com, Kanshudo, Nihongo-Pro, JLPT Bootcamp, Kanji Master Suki, Fluentin3months",
+    "version": "3.0",
+    "catatan": "Standard version of 103 N5 kanji. Removed 16 non-N5 kanji (草林森石犬鳥虫海田帰文字力赤青黒). Added 8 missing N5 kanji (駅道店社午何出入)."
+  },
+  "kanji_list": [
+    {
+      "id": 1,
+      "kanji": "日",
+      "onyomi": "ニチ、ジツ",
+      "kunyomi": "ひ、か",
+      "meaning": "day, sun",
+      "contoh_kalimat": [
+        {
+          "contoh": "日曜日",
+          "furigana": "にちようび",
+          "arti": "Sunday"
+        },
+        {
+          "contoh": "日本",
+          "furigana": "にほん",
+          "arti": "Japan"
+        },
+        {
+          "contoh": "明日",
+          "furigana": "あした",
+          "arti": "tomorrow"
+        },
+        {
+          "contoh": "今日",
+          "furigana": "きょう",
+          "arti": "today"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "kanji": "月",
+      "onyomi": "ゲツ、ガツ",
+      "kunyomi": "つき",
+      "meaning": "moon, month",
+      "contoh_kalimat": [
+        {
+          "contoh": "月曜日",
+          "furigana": "げつようび",
+          "arti": "Monday"
+        },
+        {
+          "contoh": "一月",
+          "furigana": "いちがつ",
+          "arti": "January"
+        },
+        {
+          "contoh": "三ヶ月",
+          "furigana": "さんかげつ",
+          "arti": "three months"
+        },
+        {
+          "contoh": "月見",
+          "furigana": "つきみ",
+          "arti": "moon viewing"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "kanji": "火",
+      "onyomi": "カ",
+      "kunyomi": "ひ",
+      "meaning": "fire, blaze",
+      "contoh_kalimat": [
+        {
+          "contoh": "火曜日",
+          "furigana": "かようび",
+          "arti": "Tuesday"
+        },
+        {
+          "contoh": "火事",
+          "furigana": "かじ",
+          "arti": "fire (disaster)"
+        },
+        {
+          "contoh": "花火",
+          "furigana": "はなび",
+          "arti": "fireworks"
+        },
+        {
+          "contoh": "火山",
+          "furigana": "かざん",
+          "arti": "volcano"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "kanji": "水",
+      "onyomi": "スイ",
+      "kunyomi": "みず",
+      "meaning": "water",
+      "contoh_kalimat": [
+        {
+          "contoh": "水曜日",
+          "furigana": "すいようび",
+          "arti": "Wednesday"
+        },
+        {
+          "contoh": "水着",
+          "furigana": "みずぎ",
+          "arti": "swimsuit"
+        },
+        {
+          "contoh": "お水",
+          "furigana": "おみず",
+          "arti": "drinking water"
+        },
+        {
+          "contoh": "水族館",
+          "furigana": "すいぞくかん",
+          "arti": "aquarium"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "kanji": "木",
+      "onyomi": "モク、ボク",
+      "kunyomi": "き、こ",
+      "meaning": "tree, wood",
+      "contoh_kalimat": [
+        {
+          "contoh": "木曜日",
+          "furigana": "もくようび",
+          "arti": "Thursday"
+        },
+        {
+          "contoh": "大きな木",
+          "furigana": "おおきなき",
+          "arti": "big tree"
+        },
+        {
+          "contoh": "木材",
+          "furigana": "もくざい",
+          "arti": "lumber, wood material"
+        },
+        {
+          "contoh": "木の葉",
+          "furigana": "このは",
+          "arti": "tree leaf"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "kanji": "金",
+      "onyomi": "キン、コン",
+      "kunyomi": "かね、かな",
+      "meaning": "gold, money, metal",
+      "contoh_kalimat": [
+        {
+          "contoh": "金曜日",
+          "furigana": "きんようび",
+          "arti": "Friday"
+        },
+        {
+          "contoh": "お金",
+          "furigana": "おかね",
+          "arti": "money"
+        },
+        {
+          "contoh": "金色",
+          "furigana": "きんいろ",
+          "arti": "gold color"
+        },
+        {
+          "contoh": "税金",
+          "furigana": "ぜいきん",
+          "arti": "tax"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "kanji": "土",
+      "onyomi": "ド、ト",
+      "kunyomi": "つち",
+      "meaning": "earth, soil, ground",
+      "contoh_kalimat": [
+        {
+          "contoh": "土曜日",
+          "furigana": "どようび",
+          "arti": "Saturday"
+        },
+        {
+          "contoh": "土産",
+          "furigana": "みやげ",
+          "arti": "souvenir"
+        },
+        {
+          "contoh": "土地",
+          "furigana": "とち",
+          "arti": "land, property"
+        },
+        {
+          "contoh": "土台",
+          "furigana": "どだい",
+          "arti": "foundation"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "kanji": "人",
+      "onyomi": "ジン、ニン",
+      "kunyomi": "ひと",
+      "meaning": "person, human",
+      "contoh_kalimat": [
+        {
+          "contoh": "日本人",
+          "furigana": "にほんじん",
+          "arti": "Japanese person"
+        },
+        {
+          "contoh": "一人",
+          "furigana": "ひとり",
+          "arti": "one person"
+        },
+        {
+          "contoh": "大人",
+          "furigana": "おとな",
+          "arti": "adult"
+        },
+        {
+          "contoh": "人口",
+          "furigana": "じんこう",
+          "arti": "population"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "kanji": "子",
+      "onyomi": "シ、ス",
+      "kunyomi": "こ",
+      "meaning": "child, offspring",
+      "contoh_kalimat": [
+        {
+          "contoh": "子供",
+          "furigana": "こども",
+          "arti": "children"
+        },
+        {
+          "contoh": "女子",
+          "furigana": "じょし",
+          "arti": "girl, female"
+        },
+        {
+          "contoh": "男の子",
+          "furigana": "おとこのこ",
+          "arti": "boy"
+        },
+        {
+          "contoh": "子供たち",
+          "furigana": "こどもたち",
+          "arti": "children (plural)"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "kanji": "女",
+      "onyomi": "ジョ、ニョ",
+      "kunyomi": "おんな、め",
+      "meaning": "woman, female",
+      "contoh_kalimat": [
+        {
+          "contoh": "女の人",
+          "furigana": "おんなのひと",
+          "arti": "woman"
+        },
+        {
+          "contoh": "少女",
+          "furigana": "しょうじょ",
+          "arti": "young girl"
+        },
+        {
+          "contoh": "女の子",
+          "furigana": "おんなのこ",
+          "arti": "girl"
+        },
+        {
+          "contoh": "女性",
+          "furigana": "じょせい",
+          "arti": "woman (formal)"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "kanji": "男",
+      "onyomi": "ダン、ナン",
+      "kunyomi": "おとこ",
+      "meaning": "man, male",
+      "contoh_kalimat": [
+        {
+          "contoh": "男の人",
+          "furigana": "おとこのひと",
+          "arti": "man"
+        },
+        {
+          "contoh": "男子",
+          "furigana": "だんし",
+          "arti": "male, boy"
+        },
+        {
+          "contoh": "長男",
+          "furigana": "ちょうなん",
+          "arti": "eldest son"
+        },
+        {
+          "contoh": "男性",
+          "furigana": "だんせい",
+          "arti": "man (formal)"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "kanji": "父",
+      "onyomi": "フ",
+      "kunyomi": "ちち",
+      "meaning": "father",
+      "contoh_kalimat": [
+        {
+          "contoh": "父",
+          "furigana": "ちち",
+          "arti": "father (own)"
+        },
+        {
+          "contoh": "お父さん",
+          "furigana": "おとうさん",
+          "arti": "father (respectful)"
+        },
+        {
+          "contoh": "父母",
+          "furigana": "ふぼ",
+          "arti": "parents"
+        },
+        {
+          "contoh": "祖父",
+          "furigana": "そふ",
+          "arti": "grandfather"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "kanji": "母",
+      "onyomi": "ボ",
+      "kunyomi": "はは",
+      "meaning": "mother",
+      "contoh_kalimat": [
+        {
+          "contoh": "母",
+          "furigana": "はは",
+          "arti": "mother (own)"
+        },
+        {
+          "contoh": "お母さん",
+          "furigana": "おかあさん",
+          "arti": "mother (respectful)"
+        },
+        {
+          "contoh": "母の日",
+          "furigana": "ははのひ",
+          "arti": "Mother's Day"
+        },
+        {
+          "contoh": "祖母",
+          "furigana": "そぼ",
+          "arti": "grandmother"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "kanji": "友",
+      "onyomi": "ユウ",
+      "kunyomi": "とも",
+      "meaning": "friend, companion",
+      "contoh_kalimat": [
+        {
+          "contoh": "友達",
+          "furigana": "ともだち",
+          "arti": "friend"
+        },
+        {
+          "contoh": "友人",
+          "furigana": "ゆうじん",
+          "arti": "friend (formal)"
+        },
+        {
+          "contoh": "親友",
+          "furigana": "しんゆう",
+          "arti": "close friend"
+        },
+        {
+          "contoh": "友情",
+          "furigana": "ゆうじょう",
+          "arti": "friendship"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "kanji": "口",
+      "onyomi": "コウ、ク",
+      "kunyomi": "くち",
+      "meaning": "mouth, opening",
+      "contoh_kalimat": [
+        {
+          "contoh": "口",
+          "furigana": "くち",
+          "arti": "mouth"
+        },
+        {
+          "contoh": "入口",
+          "furigana": "いりぐち",
+          "arti": "entrance"
+        },
+        {
+          "contoh": "出口",
+          "furigana": "でぐち",
+          "arti": "exit"
+        },
+        {
+          "contoh": "人口",
+          "furigana": "じんこう",
+          "arti": "population"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "kanji": "目",
+      "onyomi": "モク、ボク",
+      "kunyomi": "め",
+      "meaning": "eye, sight",
+      "contoh_kalimat": [
+        {
+          "contoh": "目",
+          "furigana": "め",
+          "arti": "eye"
+        },
+        {
+          "contoh": "目的",
+          "furigana": "もくてき",
+          "arti": "purpose"
+        },
+        {
+          "contoh": "目上",
+          "furigana": "めうえ",
+          "arti": "superior, senior"
+        },
+        {
+          "contoh": "目薬",
+          "furigana": "めぐすり",
+          "arti": "eye drops"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "kanji": "耳",
+      "onyomi": "ジ",
+      "kunyomi": "みみ",
+      "meaning": "ear, hearing",
+      "contoh_kalimat": [
+        {
+          "contoh": "耳",
+          "furigana": "みみ",
+          "arti": "ear"
+        },
+        {
+          "contoh": "耳鼻科",
+          "furigana": "じびか",
+          "arti": "ENT specialist"
+        },
+        {
+          "contoh": "耳鳴り",
+          "furigana": "みみなり",
+          "arti": "ringing in ears"
+        },
+        {
+          "contoh": "耳が痛い",
+          "furigana": "みみがいたい",
+          "arti": "earache"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "kanji": "手",
+      "onyomi": "シュ",
+      "kunyomi": "て",
+      "meaning": "hand",
+      "contoh_kalimat": [
+        {
+          "contoh": "手",
+          "furigana": "て",
+          "arti": "hand"
+        },
+        {
+          "contoh": "上手",
+          "furigana": "じょうず",
+          "arti": "skillful"
+        },
+        {
+          "contoh": "下手",
+          "furigana": "へた",
+          "arti": "unskillful"
+        },
+        {
+          "contoh": "手紙",
+          "furigana": "てがみ",
+          "arti": "letter"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "kanji": "足",
+      "onyomi": "ソク",
+      "kunyomi": "あし、た-りる",
+      "meaning": "foot, leg, enough",
+      "contoh_kalimat": [
+        {
+          "contoh": "足",
+          "furigana": "あし",
+          "arti": "foot, leg"
+        },
+        {
+          "contoh": "足りる",
+          "furigana": "たりる",
+          "arti": "to be enough"
+        },
+        {
+          "contoh": "遠足",
+          "furigana": "えんそく",
+          "arti": "excursion, picnic"
+        },
+        {
+          "contoh": "足音",
+          "furigana": "あしおと",
+          "arti": "footsteps"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "kanji": "見",
+      "onyomi": "ケン",
+      "kunyomi": "み-る",
+      "meaning": "see, watch",
+      "contoh_kalimat": [
+        {
+          "contoh": "見る",
+          "furigana": "みる",
+          "arti": "to see, to watch"
+        },
+        {
+          "contoh": "見学",
+          "furigana": "けんがく",
+          "arti": "study visit"
+        },
+        {
+          "contoh": "見物",
+          "furigana": "けんぶつ",
+          "arti": "sightseeing"
+        },
+        {
+          "contoh": "花見",
+          "furigana": "はなみ",
+          "arti": "cherry blossom viewing"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "kanji": "言",
+      "onyomi": "ゲン、ゴン",
+      "kunyomi": "い-う、こと",
+      "meaning": "say, word",
+      "contoh_kalimat": [
+        {
+          "contoh": "言う",
+          "furigana": "いう",
+          "arti": "to say"
+        },
+        {
+          "contoh": "言葉",
+          "furigana": "ことば",
+          "arti": "word, language"
+        },
+        {
+          "contoh": "発言",
+          "furigana": "はつげん",
+          "arti": "statement"
+        },
+        {
+          "contoh": "伝言",
+          "furigana": "でんごん",
+          "arti": "message"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "kanji": "話",
+      "onyomi": "ワ",
+      "kunyomi": "はな-す、はなし",
+      "meaning": "speak, talk, conversation",
+      "contoh_kalimat": [
+        {
+          "contoh": "話す",
+          "furigana": "はなす",
+          "arti": "to speak"
+        },
+        {
+          "contoh": "電話",
+          "furigana": "でんわ",
+          "arti": "telephone"
+        },
+        {
+          "contoh": "会話",
+          "furigana": "かいわ",
+          "arti": "conversation"
+        },
+        {
+          "contoh": "話し合い",
+          "furigana": "はなしあい",
+          "arti": "discussion"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "kanji": "聞",
+      "onyomi": "ブン、モン",
+      "kunyomi": "き-く",
+      "meaning": "hear, listen, ask",
+      "contoh_kalimat": [
+        {
+          "contoh": "聞く",
+          "furigana": "きく",
+          "arti": "to hear, to ask"
+        },
+        {
+          "contoh": "新聞",
+          "furigana": "しんぶん",
+          "arti": "newspaper"
+        },
+        {
+          "contoh": "聞こえる",
+          "furigana": "きこえる",
+          "arti": "to be audible"
+        },
+        {
+          "contoh": "風聞",
+          "furigana": "ふうぶん",
+          "arti": "rumor"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "kanji": "読",
+      "onyomi": "ドク、トク、トウ",
+      "kunyomi": "よ-む",
+      "meaning": "read",
+      "contoh_kalimat": [
+        {
+          "contoh": "読む",
+          "furigana": "よむ",
+          "arti": "to read"
+        },
+        {
+          "contoh": "読書",
+          "furigana": "どくしょ",
+          "arti": "reading books"
+        },
+        {
+          "contoh": "音読",
+          "furigana": "おんどく",
+          "arti": "reading aloud"
+        },
+        {
+          "contoh": "読者",
+          "furigana": "どくしゃ",
+          "arti": "reader"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "kanji": "書",
+      "onyomi": "ショ",
+      "kunyomi": "か-く",
+      "meaning": "write, document, book",
+      "contoh_kalimat": [
+        {
+          "contoh": "書く",
+          "furigana": "かく",
+          "arti": "to write"
+        },
+        {
+          "contoh": "辞書",
+          "furigana": "じしょ",
+          "arti": "dictionary"
+        },
+        {
+          "contoh": "図書館",
+          "furigana": "としょかん",
+          "arti": "library"
+        },
+        {
+          "contoh": "書道",
+          "furigana": "しょどう",
+          "arti": "calligraphy"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "kanji": "食",
+      "onyomi": "ショク、ジキ",
+      "kunyomi": "た-べる",
+      "meaning": "eat, food",
+      "contoh_kalimat": [
+        {
+          "contoh": "食べる",
+          "furigana": "たべる",
+          "arti": "to eat"
+        },
+        {
+          "contoh": "食事",
+          "furigana": "しょくじ",
+          "arti": "meal"
+        },
+        {
+          "contoh": "食堂",
+          "furigana": "しょくどう",
+          "arti": "cafeteria, dining hall"
+        },
+        {
+          "contoh": "昼食",
+          "furigana": "ちゅうしょく",
+          "arti": "lunch"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "kanji": "飲",
+      "onyomi": "イン",
+      "kunyomi": "の-む",
+      "meaning": "drink",
+      "contoh_kalimat": [
+        {
+          "contoh": "飲む",
+          "furigana": "のむ",
+          "arti": "to drink"
+        },
+        {
+          "contoh": "飲み物",
+          "furigana": "のみもの",
+          "arti": "beverage"
+        },
+        {
+          "contoh": "飲料",
+          "furigana": "いんりょう",
+          "arti": "beverage (formal)"
+        },
+        {
+          "contoh": "飲食店",
+          "furigana": "いんしょくてん",
+          "arti": "restaurant"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "kanji": "行",
+      "onyomi": "コウ、ギョウ、アン",
+      "kunyomi": "い-く、ゆ-く、おこな-う",
+      "meaning": "go, carry out",
+      "contoh_kalimat": [
+        {
+          "contoh": "行く",
+          "furigana": "いく",
+          "arti": "to go"
+        },
+        {
+          "contoh": "旅行",
+          "furigana": "りょこう",
+          "arti": "travel, trip"
+        },
+        {
+          "contoh": "行事",
+          "furigana": "ぎょうじ",
+          "arti": "event, function"
+        },
+        {
+          "contoh": "銀行",
+          "furigana": "ぎんこう",
+          "arti": "bank"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "kanji": "来",
+      "onyomi": "ライ",
+      "kunyomi": "く-る、き-たる",
+      "meaning": "come, next",
+      "contoh_kalimat": [
+        {
+          "contoh": "来る",
+          "furigana": "くる",
+          "arti": "to come"
+        },
+        {
+          "contoh": "来年",
+          "furigana": "らいねん",
+          "arti": "next year"
+        },
+        {
+          "contoh": "来月",
+          "furigana": "らいげつ",
+          "arti": "next month"
+        },
+        {
+          "contoh": "外来語",
+          "furigana": "がいらいご",
+          "arti": "loanword"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "kanji": "入",
+      "onyomi": "ニュウ",
+      "kunyomi": "い-る、はい-る、い-れる",
+      "meaning": "enter, put in",
+      "contoh_kalimat": [
+        {
+          "contoh": "入る",
+          "furigana": "はいる",
+          "arti": "to enter"
+        },
+        {
+          "contoh": "入口",
+          "furigana": "いりぐち",
+          "arti": "entrance"
+        },
+        {
+          "contoh": "入学",
+          "furigana": "にゅうがく",
+          "arti": "enrollment"
+        },
+        {
+          "contoh": "入れる",
+          "furigana": "いれる",
+          "arti": "to put in"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "kanji": "出",
+      "onyomi": "シュツ、スイ",
+      "kunyomi": "で-る、だ-す",
+      "meaning": "exit, take out",
+      "contoh_kalimat": [
+        {
+          "contoh": "出る",
+          "furigana": "でる",
+          "arti": "to exit, to leave"
+        },
+        {
+          "contoh": "出口",
+          "furigana": "でぐち",
+          "arti": "exit"
+        },
+        {
+          "contoh": "出発",
+          "furigana": "しゅっぱつ",
+          "arti": "departure"
+        },
+        {
+          "contoh": "出す",
+          "furigana": "だす",
+          "arti": "to take out"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "kanji": "立",
+      "onyomi": "リツ、リュウ",
+      "kunyomi": "た-つ",
+      "meaning": "stand, establish",
+      "contoh_kalimat": [
+        {
+          "contoh": "立つ",
+          "furigana": "たつ",
+          "arti": "to stand"
+        },
+        {
+          "contoh": "自立",
+          "furigana": "じりつ",
+          "arti": "independence"
+        },
+        {
+          "contoh": "国立",
+          "furigana": "こくりつ",
+          "arti": "national, public"
+        },
+        {
+          "contoh": "立てる",
+          "furigana": "たてる",
+          "arti": "to establish"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "kanji": "休",
+      "onyomi": "キュウ",
+      "kunyomi": "やす-む",
+      "meaning": "rest, holiday",
+      "contoh_kalimat": [
+        {
+          "contoh": "休む",
+          "furigana": "やすむ",
+          "arti": "to rest, to take a day off"
+        },
+        {
+          "contoh": "休日",
+          "furigana": "きゅうじつ",
+          "arti": "holiday, day off"
+        },
+        {
+          "contoh": "休憩",
+          "furigana": "きゅうけい",
+          "arti": "break, rest"
+        },
+        {
+          "contoh": "夏休み",
+          "furigana": "なつやすみ",
+          "arti": "summer vacation"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "kanji": "買",
+      "onyomi": "バイ",
+      "kunyomi": "か-う",
+      "meaning": "buy",
+      "contoh_kalimat": [
+        {
+          "contoh": "買う",
+          "furigana": "かう",
+          "arti": "to buy"
+        },
+        {
+          "contoh": "買い物",
+          "furigana": "かいもの",
+          "arti": "shopping"
+        },
+        {
+          "contoh": "売買",
+          "furigana": "ばいばい",
+          "arti": "buying and selling"
+        },
+        {
+          "contoh": "買い手",
+          "furigana": "かいて",
+          "arti": "buyer"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "kanji": "会",
+      "onyomi": "カイ、エ",
+      "kunyomi": "あ-う",
+      "meaning": "meet, meeting, association",
+      "contoh_kalimat": [
+        {
+          "contoh": "会う",
+          "furigana": "あう",
+          "arti": "to meet"
+        },
+        {
+          "contoh": "会社",
+          "furigana": "かいしゃ",
+          "arti": "company"
+        },
+        {
+          "contoh": "会議",
+          "furigana": "かいぎ",
+          "arti": "meeting, conference"
+        },
+        {
+          "contoh": "社会",
+          "furigana": "しゃかい",
+          "arti": "society"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "kanji": "学",
+      "onyomi": "ガク",
+      "kunyomi": "まな-ぶ",
+      "meaning": "study, learning, education",
+      "contoh_kalimat": [
+        {
+          "contoh": "学生",
+          "furigana": "がくせい",
+          "arti": "student"
+        },
+        {
+          "contoh": "学校",
+          "furigana": "がっこう",
+          "arti": "school"
+        },
+        {
+          "contoh": "大学",
+          "furigana": "だいがく",
+          "arti": "university"
+        },
+        {
+          "contoh": "数学",
+          "furigana": "すうがく",
+          "arti": "mathematics"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "kanji": "校",
+      "onyomi": "コウ",
+      "kunyomi": "",
+      "meaning": "school, campus",
+      "contoh_kalimat": [
+        {
+          "contoh": "学校",
+          "furigana": "がっこう",
+          "arti": "school"
+        },
+        {
+          "contoh": "高校",
+          "furigana": "こうこう",
+          "arti": "high school"
+        },
+        {
+          "contoh": "校長",
+          "furigana": "こうちょう",
+          "arti": "principal"
+        },
+        {
+          "contoh": "校舎",
+          "furigana": "こうしゃ",
+          "arti": "school building"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "kanji": "生",
+      "onyomi": "セイ、ショウ",
+      "kunyomi": "い-きる、なま、う-まれる",
+      "meaning": "life, birth, raw, student",
+      "contoh_kalimat": [
+        {
+          "contoh": "学生",
+          "furigana": "がくせい",
+          "arti": "student"
+        },
+        {
+          "contoh": "生まれる",
+          "furigana": "うまれる",
+          "arti": "to be born"
+        },
+        {
+          "contoh": "生きる",
+          "furigana": "いきる",
+          "arti": "to live"
+        },
+        {
+          "contoh": "先生",
+          "furigana": "せんせい",
+          "arti": "teacher"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "kanji": "先",
+      "onyomi": "セン",
+      "kunyomi": "さき",
+      "meaning": "ahead, previous, before",
+      "contoh_kalimat": [
+        {
+          "contoh": "先生",
+          "furigana": "せんせい",
+          "arti": "teacher"
+        },
+        {
+          "contoh": "先月",
+          "furigana": "せんげつ",
+          "arti": "last month"
+        },
+        {
+          "contoh": "先週",
+          "furigana": "せんしゅう",
+          "arti": "last week"
+        },
+        {
+          "contoh": "先に",
+          "furigana": "さきに",
+          "arti": "beforehand, first"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "kanji": "語",
+      "onyomi": "ゴ",
+      "kunyomi": "かた-る",
+      "meaning": "language, story",
+      "contoh_kalimat": [
+        {
+          "contoh": "日本語",
+          "furigana": "にほんご",
+          "arti": "Japanese language"
+        },
+        {
+          "contoh": "英語",
+          "furigana": "えいご",
+          "arti": "English language"
+        },
+        {
+          "contoh": "語る",
+          "furigana": "かたる",
+          "arti": "to tell, to narrate"
+        },
+        {
+          "contoh": "物語",
+          "furigana": "ものがたり",
+          "arti": "story, tale"
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "kanji": "本",
+      "onyomi": "ホン",
+      "kunyomi": "もと",
+      "meaning": "book, origin, main",
+      "contoh_kalimat": [
+        {
+          "contoh": "本",
+          "furigana": "ほん",
+          "arti": "book"
+        },
+        {
+          "contoh": "日本",
+          "furigana": "にほん",
+          "arti": "Japan"
+        },
+        {
+          "contoh": "本当",
+          "furigana": "ほんとう",
+          "arti": "truth, really"
+        },
+        {
+          "contoh": "一本",
+          "furigana": "いっぽん",
+          "arti": "one (long object)"
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "kanji": "山",
+      "onyomi": "サン、ザン",
+      "kunyomi": "やま",
+      "meaning": "mountain, hill",
+      "contoh_kalimat": [
+        {
+          "contoh": "山",
+          "furigana": "やま",
+          "arti": "mountain"
+        },
+        {
+          "contoh": "富士山",
+          "furigana": "ふじさん",
+          "arti": "Mt. Fuji"
+        },
+        {
+          "contoh": "火山",
+          "furigana": "かざん",
+          "arti": "volcano"
+        },
+        {
+          "contoh": "登山",
+          "furigana": "とざん",
+          "arti": "mountain climbing"
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "kanji": "川",
+      "onyomi": "セン",
+      "kunyomi": "かわ",
+      "meaning": "river",
+      "contoh_kalimat": [
+        {
+          "contoh": "川",
+          "furigana": "かわ",
+          "arti": "river"
+        },
+        {
+          "contoh": "小川",
+          "furigana": "おがわ",
+          "arti": "stream, brook"
+        },
+        {
+          "contoh": "川辺",
+          "furigana": "かわべ",
+          "arti": "riverside"
+        },
+        {
+          "contoh": "山川",
+          "furigana": "やまかわ",
+          "arti": "mountains and rivers"
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "kanji": "天",
+      "onyomi": "テン",
+      "kunyomi": "あま、あめ",
+      "meaning": "sky, heaven",
+      "contoh_kalimat": [
+        {
+          "contoh": "天気",
+          "furigana": "てんき",
+          "arti": "weather"
+        },
+        {
+          "contoh": "天の川",
+          "furigana": "あまのがわ",
+          "arti": "Milky Way"
+        },
+        {
+          "contoh": "天国",
+          "furigana": "てんごく",
+          "arti": "heaven, paradise"
+        },
+        {
+          "contoh": "天才",
+          "furigana": "てんさい",
+          "arti": "genius"
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "kanji": "雨",
+      "onyomi": "ウ",
+      "kunyomi": "あめ、あま",
+      "meaning": "rain",
+      "contoh_kalimat": [
+        {
+          "contoh": "雨",
+          "furigana": "あめ",
+          "arti": "rain"
+        },
+        {
+          "contoh": "大雨",
+          "furigana": "おおあめ",
+          "arti": "heavy rain"
+        },
+        {
+          "contoh": "雨天",
+          "furigana": "うてん",
+          "arti": "rainy weather"
+        },
+        {
+          "contoh": "雨傘",
+          "furigana": "あまがさ",
+          "arti": "rain umbrella"
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "kanji": "花",
+      "onyomi": "カ",
+      "kunyomi": "はな",
+      "meaning": "flower",
+      "contoh_kalimat": [
+        {
+          "contoh": "花",
+          "furigana": "はな",
+          "arti": "flower"
+        },
+        {
+          "contoh": "花見",
+          "furigana": "はなみ",
+          "arti": "cherry blossom viewing"
+        },
+        {
+          "contoh": "花火",
+          "furigana": "はなび",
+          "arti": "fireworks"
+        },
+        {
+          "contoh": "花瓶",
+          "furigana": "かびん",
+          "arti": "flower vase"
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "kanji": "空",
+      "onyomi": "クウ",
+      "kunyomi": "そら、から、あ-く",
+      "meaning": "sky, air, empty",
+      "contoh_kalimat": [
+        {
+          "contoh": "空",
+          "furigana": "そら",
+          "arti": "sky"
+        },
+        {
+          "contoh": "空港",
+          "furigana": "くうこう",
+          "arti": "airport"
+        },
+        {
+          "contoh": "空気",
+          "furigana": "くうき",
+          "arti": "air, atmosphere"
+        },
+        {
+          "contoh": "空く",
+          "furigana": "あく",
+          "arti": "to be empty, to be vacant"
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "kanji": "魚",
+      "onyomi": "ギョ",
+      "kunyomi": "さかな、うお",
+      "meaning": "fish",
+      "contoh_kalimat": [
+        {
+          "contoh": "魚",
+          "furigana": "さかな",
+          "arti": "fish"
+        },
+        {
+          "contoh": "金魚",
+          "furigana": "きんぎょ",
+          "arti": "goldfish"
+        },
+        {
+          "contoh": "魚屋",
+          "furigana": "さかなや",
+          "arti": "fish shop"
+        },
+        {
+          "contoh": "焼き魚",
+          "furigana": "やきざかな",
+          "arti": "grilled fish"
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "kanji": "車",
+      "onyomi": "シャ",
+      "kunyomi": "くるま",
+      "meaning": "car, vehicle, wheel",
+      "contoh_kalimat": [
+        {
+          "contoh": "車",
+          "furigana": "くるま",
+          "arti": "car, vehicle"
+        },
+        {
+          "contoh": "電車",
+          "furigana": "でんしゃ",
+          "arti": "electric train"
+        },
+        {
+          "contoh": "自動車",
+          "furigana": "じどうしゃ",
+          "arti": "automobile"
+        },
+        {
+          "contoh": "駐車場",
+          "furigana": "ちゅうしゃじょう",
+          "arti": "parking lot"
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "kanji": "電",
+      "onyomi": "デン",
+      "kunyomi": "",
+      "meaning": "electricity, electronic",
+      "contoh_kalimat": [
+        {
+          "contoh": "電車",
+          "furigana": "でんしゃ",
+          "arti": "electric train"
+        },
+        {
+          "contoh": "電話",
+          "furigana": "でんわ",
+          "arti": "telephone"
+        },
+        {
+          "contoh": "電気",
+          "furigana": "でんき",
+          "arti": "electricity"
+        },
+        {
+          "contoh": "電子",
+          "furigana": "でんし",
+          "arti": "electron"
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "kanji": "気",
+      "onyomi": "キ、ケ",
+      "kunyomi": "",
+      "meaning": "energy, spirit, air, mood",
+      "contoh_kalimat": [
+        {
+          "contoh": "天気",
+          "furigana": "てんき",
+          "arti": "weather"
+        },
+        {
+          "contoh": "元気",
+          "furigana": "げんき",
+          "arti": "healthy, energetic"
+        },
+        {
+          "contoh": "気持ち",
+          "furigana": "きもち",
+          "arti": "feeling"
+        },
+        {
+          "contoh": "人気",
+          "furigana": "にんき",
+          "arti": "popular"
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "kanji": "上",
+      "onyomi": "ジョウ",
+      "kunyomi": "うえ、あ-げる、のぼ-る",
+      "meaning": "up, above, rise",
+      "contoh_kalimat": [
+        {
+          "contoh": "上",
+          "furigana": "うえ",
+          "arti": "up, above"
+        },
+        {
+          "contoh": "上手",
+          "furigana": "じょうず",
+          "arti": "skillful"
+        },
+        {
+          "contoh": "上がる",
+          "furigana": "あがる",
+          "arti": "to go up"
+        },
+        {
+          "contoh": "上着",
+          "furigana": "うわぎ",
+          "arti": "jacket, coat"
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "kanji": "下",
+      "onyomi": "カ、ゲ",
+      "kunyomi": "した、さ-げる、くだ-る",
+      "meaning": "down, below, descend",
+      "contoh_kalimat": [
+        {
+          "contoh": "下",
+          "furigana": "した",
+          "arti": "down, below"
+        },
+        {
+          "contoh": "下手",
+          "furigana": "へた",
+          "arti": "unskillful"
+        },
+        {
+          "contoh": "下がる",
+          "furigana": "さがる",
+          "arti": "to go down"
+        },
+        {
+          "contoh": "地下",
+          "furigana": "ちか",
+          "arti": "underground"
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "kanji": "左",
+      "onyomi": "サ",
+      "kunyomi": "ひだり",
+      "meaning": "left",
+      "contoh_kalimat": [
+        {
+          "contoh": "左",
+          "furigana": "ひだり",
+          "arti": "left"
+        },
+        {
+          "contoh": "左右",
+          "furigana": "さゆう",
+          "arti": "left and right"
+        },
+        {
+          "contoh": "左手",
+          "furigana": "ひだりて",
+          "arti": "left hand"
+        },
+        {
+          "contoh": "左側",
+          "furigana": "ひだりがわ",
+          "arti": "left side"
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "kanji": "右",
+      "onyomi": "ウ、ユウ",
+      "kunyomi": "みぎ",
+      "meaning": "right",
+      "contoh_kalimat": [
+        {
+          "contoh": "右",
+          "furigana": "みぎ",
+          "arti": "right"
+        },
+        {
+          "contoh": "右手",
+          "furigana": "みぎて",
+          "arti": "right hand"
+        },
+        {
+          "contoh": "右側",
+          "furigana": "みぎがわ",
+          "arti": "right side"
+        },
+        {
+          "contoh": "左右",
+          "furigana": "さゆう",
+          "arti": "left and right"
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "kanji": "中",
+      "onyomi": "チュウ",
+      "kunyomi": "なか",
+      "meaning": "middle, inside",
+      "contoh_kalimat": [
+        {
+          "contoh": "中",
+          "furigana": "なか",
+          "arti": "inside, middle"
+        },
+        {
+          "contoh": "中国",
+          "furigana": "ちゅうごく",
+          "arti": "China"
+        },
+        {
+          "contoh": "中学校",
+          "furigana": "ちゅうがっこう",
+          "arti": "junior high school"
+        },
+        {
+          "contoh": "一日中",
+          "furigana": "いちにちじゅう",
+          "arti": "all day long"
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "kanji": "外",
+      "onyomi": "ガイ、ゲ",
+      "kunyomi": "そと、はず-す",
+      "meaning": "outside, foreign",
+      "contoh_kalimat": [
+        {
+          "contoh": "外",
+          "furigana": "そと",
+          "arti": "outside"
+        },
+        {
+          "contoh": "外国",
+          "furigana": "がいこく",
+          "arti": "foreign country"
+        },
+        {
+          "contoh": "外出",
+          "furigana": "がいしゅつ",
+          "arti": "going out"
+        },
+        {
+          "contoh": "以外",
+          "furigana": "いがい",
+          "arti": "except, other than"
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "kanji": "前",
+      "onyomi": "ゼン",
+      "kunyomi": "まえ",
+      "meaning": "front, before",
+      "contoh_kalimat": [
+        {
+          "contoh": "前",
+          "furigana": "まえ",
+          "arti": "front, before"
+        },
+        {
+          "contoh": "名前",
+          "furigana": "なまえ",
+          "arti": "name"
+        },
+        {
+          "contoh": "以前",
+          "furigana": "いぜん",
+          "arti": "before, previously"
+        },
+        {
+          "contoh": "午前",
+          "furigana": "ごぜん",
+          "arti": "morning (AM)"
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "kanji": "後",
+      "onyomi": "ゴ、コウ",
+      "kunyomi": "あと、うし-ろ、のち",
+      "meaning": "behind, after, later",
+      "contoh_kalimat": [
+        {
+          "contoh": "後ろ",
+          "furigana": "うしろ",
+          "arti": "behind, back"
+        },
+        {
+          "contoh": "後で",
+          "furigana": "あとで",
+          "arti": "later, afterwards"
+        },
+        {
+          "contoh": "午後",
+          "furigana": "ごご",
+          "arti": "afternoon (PM)"
+        },
+        {
+          "contoh": "最後",
+          "furigana": "さいご",
+          "arti": "the last"
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "kanji": "東",
+      "onyomi": "トウ",
+      "kunyomi": "ひがし",
+      "meaning": "east",
+      "contoh_kalimat": [
+        {
+          "contoh": "東",
+          "furigana": "ひがし",
+          "arti": "east"
+        },
+        {
+          "contoh": "東京",
+          "furigana": "とうきょう",
+          "arti": "Tokyo"
+        },
+        {
+          "contoh": "東口",
+          "furigana": "ひがしぐち",
+          "arti": "east exit"
+        },
+        {
+          "contoh": "東洋",
+          "furigana": "とうよう",
+          "arti": "the East, Asia"
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "kanji": "西",
+      "onyomi": "セイ、サイ",
+      "kunyomi": "にし",
+      "meaning": "west",
+      "contoh_kalimat": [
+        {
+          "contoh": "西",
+          "furigana": "にし",
+          "arti": "west"
+        },
+        {
+          "contoh": "西洋",
+          "furigana": "せいよう",
+          "arti": "the West, Europe"
+        },
+        {
+          "contoh": "西日本",
+          "furigana": "にしにほん",
+          "arti": "West Japan"
+        },
+        {
+          "contoh": "関西",
+          "furigana": "かんさい",
+          "arti": "Kansai region"
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "kanji": "南",
+      "onyomi": "ナン、ナ",
+      "kunyomi": "みなみ",
+      "meaning": "south",
+      "contoh_kalimat": [
+        {
+          "contoh": "南",
+          "furigana": "みなみ",
+          "arti": "south"
+        },
+        {
+          "contoh": "南米",
+          "furigana": "なんべい",
+          "arti": "South America"
+        },
+        {
+          "contoh": "南東",
+          "furigana": "なんとう",
+          "arti": "southeast"
+        },
+        {
+          "contoh": "南口",
+          "furigana": "みなみぐち",
+          "arti": "south exit"
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "kanji": "北",
+      "onyomi": "ホク",
+      "kunyomi": "きた",
+      "meaning": "north",
+      "contoh_kalimat": [
+        {
+          "contoh": "北",
+          "furigana": "きた",
+          "arti": "north"
+        },
+        {
+          "contoh": "北口",
+          "furigana": "きたぐち",
+          "arti": "north exit"
+        },
+        {
+          "contoh": "北米",
+          "furigana": "ほくべい",
+          "arti": "North America"
+        },
+        {
+          "contoh": "東北",
+          "furigana": "とうほく",
+          "arti": "northeast"
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "kanji": "一",
+      "onyomi": "イチ、イツ",
+      "kunyomi": "ひと",
+      "meaning": "one",
+      "contoh_kalimat": [
+        {
+          "contoh": "一",
+          "furigana": "いち",
+          "arti": "one"
+        },
+        {
+          "contoh": "一人",
+          "furigana": "ひとり",
+          "arti": "one person"
+        },
+        {
+          "contoh": "一番",
+          "furigana": "いちばん",
+          "arti": "number one, the best"
+        },
+        {
+          "contoh": "一つ",
+          "furigana": "ひとつ",
+          "arti": "one (thing)"
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "kanji": "二",
+      "onyomi": "ニ",
+      "kunyomi": "ふた",
+      "meaning": "two",
+      "contoh_kalimat": [
+        {
+          "contoh": "二",
+          "furigana": "に",
+          "arti": "two"
+        },
+        {
+          "contoh": "二人",
+          "furigana": "ふたり",
+          "arti": "two people"
+        },
+        {
+          "contoh": "二つ",
+          "furigana": "ふたつ",
+          "arti": "two (things)"
+        },
+        {
+          "contoh": "二月",
+          "furigana": "にがつ",
+          "arti": "February"
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "kanji": "三",
+      "onyomi": "サン",
+      "kunyomi": "み、みっ",
+      "meaning": "three",
+      "contoh_kalimat": [
+        {
+          "contoh": "三",
+          "furigana": "さん",
+          "arti": "three"
+        },
+        {
+          "contoh": "三人",
+          "furigana": "さんにん",
+          "arti": "three people"
+        },
+        {
+          "contoh": "三つ",
+          "furigana": "みっつ",
+          "arti": "three (things)"
+        },
+        {
+          "contoh": "三月",
+          "furigana": "さんがつ",
+          "arti": "March"
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "kanji": "四",
+      "onyomi": "シ",
+      "kunyomi": "よん、よ、よっ",
+      "meaning": "four",
+      "contoh_kalimat": [
+        {
+          "contoh": "四",
+          "furigana": "よん",
+          "arti": "four"
+        },
+        {
+          "contoh": "四人",
+          "furigana": "よにん",
+          "arti": "four people"
+        },
+        {
+          "contoh": "四つ",
+          "furigana": "よっつ",
+          "arti": "four (things)"
+        },
+        {
+          "contoh": "四月",
+          "furigana": "しがつ",
+          "arti": "April"
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "kanji": "五",
+      "onyomi": "ゴ",
+      "kunyomi": "いつ",
+      "meaning": "five",
+      "contoh_kalimat": [
+        {
+          "contoh": "五",
+          "furigana": "ご",
+          "arti": "five"
+        },
+        {
+          "contoh": "五人",
+          "furigana": "ごにん",
+          "arti": "five people"
+        },
+        {
+          "contoh": "五つ",
+          "furigana": "いつつ",
+          "arti": "five (things)"
+        },
+        {
+          "contoh": "五月",
+          "furigana": "ごがつ",
+          "arti": "May"
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "kanji": "六",
+      "onyomi": "ロク",
+      "kunyomi": "む、むっ、むい",
+      "meaning": "six",
+      "contoh_kalimat": [
+        {
+          "contoh": "六",
+          "furigana": "ろく",
+          "arti": "six"
+        },
+        {
+          "contoh": "六人",
+          "furigana": "ろくにん",
+          "arti": "six people"
+        },
+        {
+          "contoh": "六つ",
+          "furigana": "むっつ",
+          "arti": "six (things)"
+        },
+        {
+          "contoh": "六月",
+          "furigana": "ろくがつ",
+          "arti": "June"
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "kanji": "七",
+      "onyomi": "シチ",
+      "kunyomi": "なな、なの",
+      "meaning": "seven",
+      "contoh_kalimat": [
+        {
+          "contoh": "七",
+          "furigana": "なな",
+          "arti": "seven"
+        },
+        {
+          "contoh": "七人",
+          "furigana": "ななにん",
+          "arti": "seven people"
+        },
+        {
+          "contoh": "七つ",
+          "furigana": "ななつ",
+          "arti": "seven (things)"
+        },
+        {
+          "contoh": "七月",
+          "furigana": "しちがつ",
+          "arti": "July"
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "kanji": "八",
+      "onyomi": "ハチ",
+      "kunyomi": "や、やっ",
+      "meaning": "eight",
+      "contoh_kalimat": [
+        {
+          "contoh": "八",
+          "furigana": "はち",
+          "arti": "eight"
+        },
+        {
+          "contoh": "八人",
+          "furigana": "はちにん",
+          "arti": "eight people"
+        },
+        {
+          "contoh": "八つ",
+          "furigana": "やっつ",
+          "arti": "eight (things)"
+        },
+        {
+          "contoh": "八月",
+          "furigana": "はちがつ",
+          "arti": "August"
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "kanji": "九",
+      "onyomi": "キュウ、ク",
+      "kunyomi": "ここの",
+      "meaning": "nine",
+      "contoh_kalimat": [
+        {
+          "contoh": "九",
+          "furigana": "きゅう",
+          "arti": "nine"
+        },
+        {
+          "contoh": "九人",
+          "furigana": "きゅうにん",
+          "arti": "nine people"
+        },
+        {
+          "contoh": "九つ",
+          "furigana": "ここのつ",
+          "arti": "nine (things)"
+        },
+        {
+          "contoh": "九月",
+          "furigana": "くがつ",
+          "arti": "September"
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "kanji": "十",
+      "onyomi": "ジュウ、ジッ",
+      "kunyomi": "とお、と",
+      "meaning": "ten",
+      "contoh_kalimat": [
+        {
+          "contoh": "十",
+          "furigana": "じゅう",
+          "arti": "ten"
+        },
+        {
+          "contoh": "十人",
+          "furigana": "じゅうにん",
+          "arti": "ten people"
+        },
+        {
+          "contoh": "十日",
+          "furigana": "とおか",
+          "arti": "the 10th (day)"
+        },
+        {
+          "contoh": "十月",
+          "furigana": "じゅうがつ",
+          "arti": "October"
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "kanji": "百",
+      "onyomi": "ヒャク",
+      "kunyomi": "",
+      "meaning": "hundred",
+      "contoh_kalimat": [
+        {
+          "contoh": "百",
+          "furigana": "ひゃく",
+          "arti": "hundred"
+        },
+        {
+          "contoh": "三百",
+          "furigana": "さんびゃく",
+          "arti": "three hundred"
+        },
+        {
+          "contoh": "百円",
+          "furigana": "ひゃくえん",
+          "arti": "one hundred yen"
+        },
+        {
+          "contoh": "百貨店",
+          "furigana": "ひゃっかてん",
+          "arti": "department store"
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "kanji": "千",
+      "onyomi": "セン",
+      "kunyomi": "ち",
+      "meaning": "thousand",
+      "contoh_kalimat": [
+        {
+          "contoh": "千",
+          "furigana": "せん",
+          "arti": "thousand"
+        },
+        {
+          "contoh": "三千",
+          "furigana": "さんぜん",
+          "arti": "three thousand"
+        },
+        {
+          "contoh": "千円",
+          "furigana": "せんえん",
+          "arti": "one thousand yen"
+        },
+        {
+          "contoh": "千葉",
+          "furigana": "ちば",
+          "arti": "Chiba Prefecture"
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "kanji": "万",
+      "onyomi": "マン、バン",
+      "kunyomi": "",
+      "meaning": "ten thousand",
+      "contoh_kalimat": [
+        {
+          "contoh": "一万",
+          "furigana": "いちまん",
+          "arti": "ten thousand"
+        },
+        {
+          "contoh": "一万円",
+          "furigana": "いちまんえん",
+          "arti": "10,000 yen"
+        },
+        {
+          "contoh": "万国",
+          "furigana": "ばんこく",
+          "arti": "all nations"
+        },
+        {
+          "contoh": "万歳",
+          "furigana": "ばんざい",
+          "arti": "hooray, long live!"
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "kanji": "円",
+      "onyomi": "エン",
+      "kunyomi": "まる-い",
+      "meaning": "yen (currency), circle",
+      "contoh_kalimat": [
+        {
+          "contoh": "円",
+          "furigana": "えん",
+          "arti": "yen"
+        },
+        {
+          "contoh": "百円",
+          "furigana": "ひゃくえん",
+          "arti": "one hundred yen"
+        },
+        {
+          "contoh": "円い",
+          "furigana": "まるい",
+          "arti": "round"
+        },
+        {
+          "contoh": "円周",
+          "furigana": "えんしゅう",
+          "arti": "circumference"
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "kanji": "時",
+      "onyomi": "ジ",
+      "kunyomi": "とき",
+      "meaning": "time, hour",
+      "contoh_kalimat": [
+        {
+          "contoh": "時",
+          "furigana": "とき",
+          "arti": "time, moment"
+        },
+        {
+          "contoh": "時間",
+          "furigana": "じかん",
+          "arti": "time, hour"
+        },
+        {
+          "contoh": "時計",
+          "furigana": "とけい",
+          "arti": "clock, watch"
+        },
+        {
+          "contoh": "一時",
+          "furigana": "いちじ",
+          "arti": "one o'clock"
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "kanji": "間",
+      "onyomi": "カン、ケン",
+      "kunyomi": "あいだ、ま",
+      "meaning": "interval, space, time",
+      "contoh_kalimat": [
+        {
+          "contoh": "時間",
+          "furigana": "じかん",
+          "arti": "time"
+        },
+        {
+          "contoh": "人間",
+          "furigana": "にんげん",
+          "arti": "human being"
+        },
+        {
+          "contoh": "間に合う",
+          "furigana": "まにあう",
+          "arti": "to be on time"
+        },
+        {
+          "contoh": "間違い",
+          "furigana": "まちがい",
+          "arti": "mistake"
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "kanji": "分",
+      "onyomi": "ブン、フン、ブ",
+      "kunyomi": "わ-かる、わ-ける",
+      "meaning": "minute, part, divide, understand",
+      "contoh_kalimat": [
+        {
+          "contoh": "分かる",
+          "furigana": "わかる",
+          "arti": "to understand"
+        },
+        {
+          "contoh": "十分",
+          "furigana": "じゅうぶん",
+          "arti": "enough, sufficient"
+        },
+        {
+          "contoh": "三分",
+          "furigana": "さんぷん",
+          "arti": "three minutes"
+        },
+        {
+          "contoh": "自分",
+          "furigana": "じぶん",
+          "arti": "oneself"
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "kanji": "今",
+      "onyomi": "コン、キン",
+      "kunyomi": "いま",
+      "meaning": "now, present",
+      "contoh_kalimat": [
+        {
+          "contoh": "今",
+          "furigana": "いま",
+          "arti": "now"
+        },
+        {
+          "contoh": "今日",
+          "furigana": "きょう",
+          "arti": "today"
+        },
+        {
+          "contoh": "今月",
+          "furigana": "こんげつ",
+          "arti": "this month"
+        },
+        {
+          "contoh": "今年",
+          "furigana": "ことし",
+          "arti": "this year"
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "kanji": "半",
+      "onyomi": "ハン",
+      "kunyomi": "なか-ば",
+      "meaning": "half, middle",
+      "contoh_kalimat": [
+        {
+          "contoh": "半分",
+          "furigana": "はんぶん",
+          "arti": "half"
+        },
+        {
+          "contoh": "一時半",
+          "furigana": "いちじはん",
+          "arti": "half past one"
+        },
+        {
+          "contoh": "半年",
+          "furigana": "はんとし",
+          "arti": "half a year"
+        },
+        {
+          "contoh": "半島",
+          "furigana": "はんとう",
+          "arti": "peninsula"
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "kanji": "午",
+      "onyomi": "ゴ",
+      "kunyomi": "",
+      "meaning": "noon, midday",
+      "contoh_kalimat": [
+        {
+          "contoh": "午前",
+          "furigana": "ごぜん",
+          "arti": "morning (AM)"
+        },
+        {
+          "contoh": "午後",
+          "furigana": "ごご",
+          "arti": "afternoon (PM)"
+        },
+        {
+          "contoh": "正午",
+          "furigana": "しょうご",
+          "arti": "noon"
+        },
+        {
+          "contoh": "午前中",
+          "furigana": "ごぜんちゅう",
+          "arti": "throughout the morning"
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "kanji": "年",
+      "onyomi": "ネン",
+      "kunyomi": "とし",
+      "meaning": "year, age",
+      "contoh_kalimat": [
+        {
+          "contoh": "今年",
+          "furigana": "ことし",
+          "arti": "this year"
+        },
+        {
+          "contoh": "去年",
+          "furigana": "きょねん",
+          "arti": "last year"
+        },
+        {
+          "contoh": "来年",
+          "furigana": "らいねん",
+          "arti": "next year"
+        },
+        {
+          "contoh": "毎年",
+          "furigana": "まいとし",
+          "arti": "every year"
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "kanji": "毎",
+      "onyomi": "マイ",
+      "kunyomi": "",
+      "meaning": "every, each",
+      "contoh_kalimat": [
+        {
+          "contoh": "毎日",
+          "furigana": "まいにち",
+          "arti": "every day"
+        },
+        {
+          "contoh": "毎週",
+          "furigana": "まいしゅう",
+          "arti": "every week"
+        },
+        {
+          "contoh": "毎月",
+          "furigana": "まいつき",
+          "arti": "every month"
+        },
+        {
+          "contoh": "毎年",
+          "furigana": "まいとし",
+          "arti": "every year"
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "kanji": "週",
+      "onyomi": "シュウ",
+      "kunyomi": "",
+      "meaning": "week",
+      "contoh_kalimat": [
+        {
+          "contoh": "今週",
+          "furigana": "こんしゅう",
+          "arti": "this week"
+        },
+        {
+          "contoh": "来週",
+          "furigana": "らいしゅう",
+          "arti": "next week"
+        },
+        {
+          "contoh": "一週間",
+          "furigana": "いっしゅうかん",
+          "arti": "one week"
+        },
+        {
+          "contoh": "週末",
+          "furigana": "しゅうまつ",
+          "arti": "weekend"
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "kanji": "何",
+      "onyomi": "カ",
+      "kunyomi": "なに、なん",
+      "meaning": "what, how many",
+      "contoh_kalimat": [
+        {
+          "contoh": "何",
+          "furigana": "なに",
+          "arti": "what"
+        },
+        {
+          "contoh": "何人",
+          "furigana": "なんにん",
+          "arti": "how many people"
+        },
+        {
+          "contoh": "何時",
+          "furigana": "なんじ",
+          "arti": "what time"
+        },
+        {
+          "contoh": "何曜日",
+          "furigana": "なんようび",
+          "arti": "what day of the week"
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "kanji": "新",
+      "onyomi": "シン",
+      "kunyomi": "あたら-しい、あら",
+      "meaning": "new, fresh",
+      "contoh_kalimat": [
+        {
+          "contoh": "新しい",
+          "furigana": "あたらしい",
+          "arti": "new"
+        },
+        {
+          "contoh": "新聞",
+          "furigana": "しんぶん",
+          "arti": "newspaper"
+        },
+        {
+          "contoh": "新年",
+          "furigana": "しんねん",
+          "arti": "New Year"
+        },
+        {
+          "contoh": "新品",
+          "furigana": "しんぴん",
+          "arti": "new item"
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "kanji": "古",
+      "onyomi": "コ",
+      "kunyomi": "ふる-い",
+      "meaning": "old, ancient",
+      "contoh_kalimat": [
+        {
+          "contoh": "古い",
+          "furigana": "ふるい",
+          "arti": "old"
+        },
+        {
+          "contoh": "古代",
+          "furigana": "こだい",
+          "arti": "ancient times"
+        },
+        {
+          "contoh": "中古",
+          "furigana": "ちゅうこ",
+          "arti": "secondhand"
+        },
+        {
+          "contoh": "古本",
+          "furigana": "ふるほん",
+          "arti": "used book"
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "kanji": "大",
+      "onyomi": "ダイ、タイ",
+      "kunyomi": "おお-きい",
+      "meaning": "big, large, great",
+      "contoh_kalimat": [
+        {
+          "contoh": "大きい",
+          "furigana": "おおきい",
+          "arti": "big, large"
+        },
+        {
+          "contoh": "大人",
+          "furigana": "おとな",
+          "arti": "adult"
+        },
+        {
+          "contoh": "大学",
+          "furigana": "だいがく",
+          "arti": "university"
+        },
+        {
+          "contoh": "大好き",
+          "furigana": "だいすき",
+          "arti": "love, like very much"
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "kanji": "小",
+      "onyomi": "ショウ",
+      "kunyomi": "ちい-さい、こ、お",
+      "meaning": "small, little",
+      "contoh_kalimat": [
+        {
+          "contoh": "小さい",
+          "furigana": "ちいさい",
+          "arti": "small, little"
+        },
+        {
+          "contoh": "小学校",
+          "furigana": "しょうがっこう",
+          "arti": "elementary school"
+        },
+        {
+          "contoh": "小説",
+          "furigana": "しょうせつ",
+          "arti": "novel"
+        },
+        {
+          "contoh": "小川",
+          "furigana": "おがわ",
+          "arti": "stream, brook"
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "kanji": "高",
+      "onyomi": "コウ",
+      "kunyomi": "たか-い",
+      "meaning": "tall, high, expensive",
+      "contoh_kalimat": [
+        {
+          "contoh": "高い",
+          "furigana": "たかい",
+          "arti": "tall, high, expensive"
+        },
+        {
+          "contoh": "高校",
+          "furigana": "こうこう",
+          "arti": "high school"
+        },
+        {
+          "contoh": "高速",
+          "furigana": "こうそく",
+          "arti": "high speed"
+        },
+        {
+          "contoh": "最高",
+          "furigana": "さいこう",
+          "arti": "the best, highest"
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "kanji": "安",
+      "onyomi": "アン",
+      "kunyomi": "やす-い",
+      "meaning": "cheap, peaceful, safe",
+      "contoh_kalimat": [
+        {
+          "contoh": "安い",
+          "furigana": "やすい",
+          "arti": "cheap, inexpensive"
+        },
+        {
+          "contoh": "安心",
+          "furigana": "あんしん",
+          "arti": "relief, peace of mind"
+        },
+        {
+          "contoh": "安全",
+          "furigana": "あんぜん",
+          "arti": "safety, security"
+        },
+        {
+          "contoh": "安売り",
+          "furigana": "やすうり",
+          "arti": "sale, bargain"
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "kanji": "長",
+      "onyomi": "チョウ",
+      "kunyomi": "なが-い",
+      "meaning": "long, leader",
+      "contoh_kalimat": [
+        {
+          "contoh": "長い",
+          "furigana": "ながい",
+          "arti": "long"
+        },
+        {
+          "contoh": "校長",
+          "furigana": "こうちょう",
+          "arti": "principal"
+        },
+        {
+          "contoh": "身長",
+          "furigana": "しんちょう",
+          "arti": "height (body)"
+        },
+        {
+          "contoh": "長所",
+          "furigana": "ちょうしょ",
+          "arti": "strong point"
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "kanji": "多",
+      "onyomi": "タ",
+      "kunyomi": "おお-い",
+      "meaning": "many, much",
+      "contoh_kalimat": [
+        {
+          "contoh": "多い",
+          "furigana": "おおい",
+          "arti": "many, much"
+        },
+        {
+          "contoh": "多分",
+          "furigana": "たぶん",
+          "arti": "probably, maybe"
+        },
+        {
+          "contoh": "多数",
+          "furigana": "たすう",
+          "arti": "large number"
+        },
+        {
+          "contoh": "多様",
+          "furigana": "たよう",
+          "arti": "diverse, varied"
+        }
+      ]
+    },
+    {
+      "id": 96,
+      "kanji": "少",
+      "onyomi": "ショウ",
+      "kunyomi": "すく-ない、すこ-し",
+      "meaning": "few, little",
+      "contoh_kalimat": [
+        {
+          "contoh": "少ない",
+          "furigana": "すくない",
+          "arti": "few, little"
+        },
+        {
+          "contoh": "少し",
+          "furigana": "すこし",
+          "arti": "a little"
+        },
+        {
+          "contoh": "少女",
+          "furigana": "しょうじょ",
+          "arti": "young girl"
+        },
+        {
+          "contoh": "少年",
+          "furigana": "しょうねん",
+          "arti": "boy, youth"
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "kanji": "白",
+      "onyomi": "ハク、ビャク",
+      "kunyomi": "しろ、しら",
+      "meaning": "white",
+      "contoh_kalimat": [
+        {
+          "contoh": "白い",
+          "furigana": "しろい",
+          "arti": "white"
+        },
+        {
+          "contoh": "白黒",
+          "furigana": "しろくろ",
+          "arti": "black and white"
+        },
+        {
+          "contoh": "白鳥",
+          "furigana": "はくちょう",
+          "arti": "swan"
+        },
+        {
+          "contoh": "明白",
+          "furigana": "めいはく",
+          "arti": "obvious, clear"
+        }
+      ]
+    },
+    {
+      "id": 98,
+      "kanji": "国",
+      "onyomi": "コク",
+      "kunyomi": "くに",
+      "meaning": "country, nation",
+      "contoh_kalimat": [
+        {
+          "contoh": "国",
+          "furigana": "くに",
+          "arti": "country"
+        },
+        {
+          "contoh": "外国",
+          "furigana": "がいこく",
+          "arti": "foreign country"
+        },
+        {
+          "contoh": "国会",
+          "furigana": "こっかい",
+          "arti": "parliament"
+        },
+        {
+          "contoh": "外国人",
+          "furigana": "がいこくじん",
+          "arti": "foreigner"
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "kanji": "名",
+      "onyomi": "メイ、ミョウ",
+      "kunyomi": "な",
+      "meaning": "name, reputation, famous",
+      "contoh_kalimat": [
+        {
+          "contoh": "名前",
+          "furigana": "なまえ",
+          "arti": "name"
+        },
+        {
+          "contoh": "名字",
+          "furigana": "みょうじ",
+          "arti": "family name"
+        },
+        {
+          "contoh": "有名",
+          "furigana": "ゆうめい",
+          "arti": "famous"
+        },
+        {
+          "contoh": "名所",
+          "furigana": "めいしょ",
+          "arti": "famous place"
+        }
+      ]
+    },
+    {
+      "id": 100,
+      "kanji": "駅",
+      "onyomi": "エキ",
+      "kunyomi": "",
+      "meaning": "station",
+      "contoh_kalimat": [
+        {
+          "contoh": "駅",
+          "furigana": "えき",
+          "arti": "station"
+        },
+        {
+          "contoh": "駅前",
+          "furigana": "えきまえ",
+          "arti": "in front of station"
+        },
+        {
+          "contoh": "駅員",
+          "furigana": "えきいん",
+          "arti": "station staff"
+        },
+        {
+          "contoh": "東京駅",
+          "furigana": "とうきょうえき",
+          "arti": "Tokyo Station"
+        }
+      ]
+    },
+    {
+      "id": 101,
+      "kanji": "道",
+      "onyomi": "ドウ",
+      "kunyomi": "みち",
+      "meaning": "road, way",
+      "contoh_kalimat": [
+        {
+          "contoh": "道",
+          "furigana": "みち",
+          "arti": "road, way"
+        },
+        {
+          "contoh": "道路",
+          "furigana": "どうろ",
+          "arti": "road, highway"
+        },
+        {
+          "contoh": "柔道",
+          "furigana": "じゅうどう",
+          "arti": "judo"
+        },
+        {
+          "contoh": "書道",
+          "furigana": "しょどう",
+          "arti": "calligraphy"
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "kanji": "店",
+      "onyomi": "テン",
+      "kunyomi": "みせ",
+      "meaning": "shop, store",
+      "contoh_kalimat": [
+        {
+          "contoh": "店",
+          "furigana": "みせ",
+          "arti": "shop, store"
+        },
+        {
+          "contoh": "喫茶店",
+          "furigana": "きっさてん",
+          "arti": "cafe"
+        },
+        {
+          "contoh": "店員",
+          "furigana": "てんいん",
+          "arti": "shop clerk"
+        },
+        {
+          "contoh": "本屋の店",
+          "furigana": "ほんやのみせ",
+          "arti": "bookstore"
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "kanji": "社",
+      "onyomi": "シャ",
+      "kunyomi": "やしろ",
+      "meaning": "company, Shinto shrine",
+      "contoh_kalimat": [
+        {
+          "contoh": "会社",
+          "furigana": "かいしゃ",
+          "arti": "company"
+        },
+        {
+          "contoh": "社会",
+          "furigana": "しゃかい",
+          "arti": "society"
+        },
+        {
+          "contoh": "神社",
+          "furigana": "じんじゃ",
+          "arti": "Shinto shrine"
+        },
+        {
+          "contoh": "社長",
+          "furigana": "しゃちょう",
+          "arti": "company president"
+        }
+      ]
+    }
+  ]
+}

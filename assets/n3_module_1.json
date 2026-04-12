@@ -1,0 +1,572 @@
+[
+  {
+    "id": "question_n3_1_001",
+    "question": "「確実」の意味は？",
+    "furigana": "「確実[かくじつ]」の意味[いみ]は？",
+    "romaji": "'Kakujitsu' no imi wa?",
+    "level": "N3",
+    "category": "VOCABULARY",
+    "options": [
+      "不安定で予測できない",
+      "確かで間違いがない",
+      "急いで行動すること",
+      "曖昧で分かりにくい"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Apa arti '確実'?",
+    "answerExplanation": "'確実' (kakujitsu) berarti pasti, yakin, atau dapat dipercaya. Kata ini terdiri dari kanji 確 (pasti/yakin) dan 実 (kenyataan/buah). Contoh penggunaan: '確実な情報' (informasi yang pasti), '確実に届ける' (menyampaikan dengan pasti). Pilihan lain salah karena: '不安定' berarti tidak stabil, '急いで行動' berarti bertindak terburu-buru, dan '曖昧' berarti ambigu.",
+    "hint": "Terdiri dari kanji 確 (pasti) dan 実 (nyata/kenyataan)",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_1_002",
+    "question": "テレビの暴力シーンは子供に長期的に悪い___を与える。",
+    "furigana": "テレビの暴力[ぼうりょく]シーンは子供[こども]に長期的[ちょうきてき]に悪[わる]い___を与[あた]える。",
+    "romaji": "Terebi no bouryoku shiin wa kodomo ni choukiteki ni warui ___ wo ataeru.",
+    "level": "N3",
+    "category": "VOCABULARY",
+    "options": [
+      "印象",
+      "影響",
+      "感想",
+      "経験"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Adegan kekerasan di TV memberikan ___ yang buruk kepada anak-anak.",
+    "answerExplanation": "'影響' (eikyou) berarti pengaruh. '悪い影響を与える' adalah kolokasi umum yang berarti 'memberikan pengaruh buruk'. Pilihan lain: '印象' (inshou) = kesan, '感想' (kansou) = pendapat/tanggapan, '経験' (keiken) = pengalaman. Meskipun '印象' (kesan) mirip, konteks kalimat ini berbicara tentang dampak/pengaruh jangka panjang, bukan sekadar kesan sesaat.",
+    "hint": "Kata ini berarti dampak atau efek yang ditimbulkan terhadap sesuatu",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_1_003",
+    "question": "歯が痛いが、歯医者が怖いので痛みを___している。",
+    "furigana": "歯[は]が痛[いた]いが、歯医者[はいしゃ]が怖[こわ]いので痛[いた]みを___している。",
+    "romaji": "Ha ga itai ga, haisha ga kowai node itami wo ___ shite iru.",
+    "level": "N3",
+    "category": "VOCABULARY",
+    "options": [
+      "努力",
+      "遠慮",
+      "我慢",
+      "無視"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Gigi sakit, tapi karena takut dokter gigi, jadi ___.",
+    "answerExplanation": "'我慢' (gaman) berarti bersabar, menahan diri, atau bertahan menghadapi sesuatu yang tidak menyenangkan. '我慢する' sering digunakan ketika seseorang menahan rasa sakit atau ketidaknyamanan. Pilihan lain: '努力' (doryoku) = usaha/berusaha keras, '遠慮' (enryo) = menahan diri karena sopan santun, '無視' (mushi) = mengabaikan. Konteks menahan rasa sakit paling cocok dengan '我慢'.",
+    "hint": "Kata ini berarti menahan diri dari sesuatu yang tidak menyenangkan",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_1_004",
+    "question": "先生は学生のレポートを___した。",
+    "furigana": "先生[せんせい]は学生[がくせい]のレポートを___した。",
+    "romaji": "Sensei wa gakusei no repooto wo ___ shita.",
+    "level": "N3",
+    "category": "VOCABULARY",
+    "options": [
+      "評価",
+      "予約",
+      "翻訳",
+      "紹介"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Guru ___ laporan mahasiswa.",
+    "answerExplanation": "'評価' (hyouka) berarti penilaian atau evaluasi. '評価する' berarti menilai atau mengevaluasi. Dalam konteks akademik, guru mengevaluasi laporan mahasiswa adalah hal yang natural. Pilihan lain: '予約' (yoyaku) = reservasi, '翻訳' (honyaku) = terjemahan, '紹介' (shoukai) = perkenalan. Semua tidak cocok dengan konteks guru dan laporan.",
+    "hint": "Apa yang dilakukan guru terhadap tugas mahasiswa?",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_1_005",
+    "question": "この問題は条件が多くてとても___で、簡単には解けない。",
+    "furigana": "この問題[もんだい]は条件[じょうけん]が多[おお]くてとても___で、簡単[かんたん]には解[と]けない。",
+    "romaji": "Kono mondai wa jouken ga ookute totemo ___ de, kantan ni wa tokenai.",
+    "level": "N3",
+    "category": "VOCABULARY",
+    "options": [
+      "正確",
+      "複雑",
+      "丁寧",
+      "重要"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Masalah ini sangat ___, tidak bisa diselesaikan dengan mudah.",
+    "answerExplanation": "'複雑' (fukuzatsu) berarti rumit atau kompleks. Konteks kalimat menjelaskan bahwa masalah ini tidak bisa diselesaikan dengan mudah, sehingga kata 'rumit' paling cocok. Pilihan lain: '正確' (seikaku) = tepat/akurat, '丁寧' (teinei) = sopan/teliti, '重要' (juuyou) = penting. Meskipun '重要' (penting) bisa masuk secara makna, frasa 'tidak bisa diselesaikan dengan mudah' lebih merujuk pada tingkat kerumitan.",
+    "hint": "Lawan kata dari 'sederhana' atau 'simple'",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_1_006",
+    "question": "「相談」の読み方は？",
+    "furigana": "「相談[そうだん]」の読[よ]み方[かた]は？",
+    "romaji": "'Soudan' no yomikata wa?",
+    "level": "N3",
+    "category": "KANJI",
+    "options": [
+      "しょうだん",
+      "そうだん",
+      "そうたん",
+      "しょうたん"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Bagaimana cara membaca '相談'?",
+    "answerExplanation": "'相談' dibaca 'そうだん' (soudan) yang berarti konsultasi atau berunding. Kanji 相 (sou) berarti saling/bersama dan 談 (dan) berarti bicara/percakapan. Contoh penggunaan: '友達に相談する' (berkonsultasi dengan teman), '相談窓口' (loket konsultasi). Perhatikan bahwa 相 dibaca 'そう' bukan 'しょう', dan 談 dibaca 'だん' bukan 'たん'.",
+    "hint": "Sou + dan (berbicara bersama untuk meminta pendapat)",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_1_007",
+    "question": "「深刻」の読み方は？",
+    "furigana": "「深刻[しんこく]」の読[よ]み方[かた]は？",
+    "romaji": "'Shinkoku' no yomikata wa?",
+    "level": "N3",
+    "category": "KANJI",
+    "options": [
+      "しんごく",
+      "じんこく",
+      "しんこく",
+      "しんかく"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Bagaimana cara membaca '深刻'?",
+    "answerExplanation": "'深刻' dibaca 'しんこく' (shinkoku) yang berarti serius atau gawat. Kanji 深 (shin) berarti dalam/mendalam dan 刻 (koku) berarti mengukir/waktu. Contoh: '深刻な問題' (masalah yang serius). Perhatikan bahwa 深 dibaca 'しん' bukan 'じん', dan 刻 dibaca 'こく' bukan 'ごく' atau 'かく'.",
+    "hint": "Shin + koku (sesuatu yang serius dan mendalam)",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_1_008",
+    "question": "「比較」の読み方は？",
+    "furigana": "「比較[ひかく]」の読[よ]み方[かた]は？",
+    "romaji": "'Hikaku' no yomikata wa?",
+    "level": "N3",
+    "category": "KANJI",
+    "options": [
+      "ひがく",
+      "ひかく",
+      "ひきゃく",
+      "ひこう"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Bagaimana cara membaca '比較'?",
+    "answerExplanation": "'比較' dibaca 'ひかく' (hikaku) yang berarti perbandingan. Kanji 比 (hi) berarti membandingkan dan 較 (kaku) berarti membandingkan/mencocokkan. Contoh: '二つの商品を比較する' (membandingkan dua produk). Perhatikan bahwa 較 dibaca 'kaku' bukan 'gaku', 'kyaku', atau 'kou'.",
+    "hint": "Hi + kaku (membandingkan dua hal atau lebih)",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n3_1_009",
+    "question": "「届ける」の読み方は？",
+    "furigana": "「届[とど]ける」の読[よ]み方[かた]は？",
+    "romaji": "'Todokeru' no yomikata wa?",
+    "level": "N3",
+    "category": "KANJI",
+    "options": [
+      "ととける",
+      "とどける",
+      "とおける",
+      "とどげる"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Bagaimana cara membaca '届ける'?",
+    "answerExplanation": "'届ける' dibaca 'とどける' (todokeru) yang berarti mengirimkan, menyampaikan, atau mengantarkan sesuatu. Kanji 届 memiliki kun'yomi 'とど(ける)' dan 'とど(く)'. Contoh: '荷物を届ける' (mengantarkan barang), '届け出' (laporan/pemberitahuan). Bentuk intransitifnya adalah '届く' (todoku) = sampai/tersampaikan.",
+    "hint": "Todo + keru (mengantarkan sesuatu ke tujuan)",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_1_010",
+    "question": "「経験」の読み方は？",
+    "furigana": "「経験[けいけん]」の読[よ]み方[かた]は？",
+    "romaji": "'Keiken' no yomikata wa?",
+    "level": "N3",
+    "category": "KANJI",
+    "options": [
+      "きょうけん",
+      "けいげん",
+      "けいけん",
+      "きけん"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Bagaimana cara membaca '経験'?",
+    "answerExplanation": "'経験' dibaca 'けいけん' (keiken) yang berarti pengalaman. Kanji 経 (kei) berarti melewati/melalui dan 験 (ken) berarti menguji/membuktikan. Contoh: '海外での経験' (pengalaman di luar negeri). Jangan tertukar dengan '危険' (きけん/kiken) yang berarti bahaya, atau '経験' salah dibaca 'けいげん' karena 験 dibaca 'ken' bukan 'gen'.",
+    "hint": "Kei + ken (sesuatu yang dialami dan dipelajari)",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_1_011",
+    "question": "新しいゲームが欲しく___たまらない。",
+    "furigana": "新[あたら]しいゲームが欲[ほ]しく___たまらない。",
+    "romaji": "Atarashii geemu ga hoshiku ___ tamaranai.",
+    "level": "N3",
+    "category": "GRAMMAR",
+    "options": [
+      "て",
+      "ても",
+      "ので",
+      "ば"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Ingin game baru sampai tidak tahan.",
+    "answerExplanation": "Pola '～てたまらない' digunakan untuk mengekspresikan perasaan atau keinginan yang sangat kuat sampai tidak tertahankan. Bentuknya: i-adjective → ~くて + たまらない, na-adjective → ~で + たまらない, V-て form + たまらない. '欲しい' adalah i-adjective, sehingga menjadi '欲しくて + たまらない'. Pilihan '～ても' berarti 'meskipun', '～ので' berarti 'karena', dan '～ば' berarti 'jika' - semuanya tidak cocok dengan pola ini.",
+    "hint": "Pola ～てたまらない memerlukan bentuk て (te-form) sebelum たまらない",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n3_1_012",
+    "question": "最近、彼はよく風邪をひき___だ。",
+    "furigana": "最近[さいきん]、彼[かれ]はよく風邪[かぜ]をひき___だ。",
+    "romaji": "Saikin, kare wa yoku kaze wo hiki ___ da.",
+    "level": "N3",
+    "category": "GRAMMAR",
+    "options": [
+      "っぽい",
+      "やすい",
+      "がち",
+      "気味"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Akhir-akhir ini, dia cenderung sering masuk angin.",
+    "answerExplanation": "Pola '～がち' (gachi) digunakan untuk menyatakan kecenderungan negatif yang sering terjadi. Disambungkan dengan masu-stem (kata kerja bentuk ます tanpa ます). 'ひく' → masu-stem = 'ひき' → 'ひきがち'. Pilihan lain: '～っぽい' = terkesan seperti (lebih informal), '～やすい' = mudah (melekat pada masu-stem tapi bermakna 'mudah terjadi'), '～気味' (gimi) = sedikit/agak (mirip tapi lebih ringan). '～がち' menekankan kecenderungan negatif yang berulang.",
+    "hint": "Pola ini melekat pada masu-stem dan menunjukkan kecenderungan negatif",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n3_1_013",
+    "question": "毎日練習しているから、上手になった___だ。どうりで。",
+    "furigana": "毎日[まいにち]練習[れんしゅう]しているから、上手[じょうず]になった___だ。どうりで。",
+    "romaji": "Mainichi renshuu shite iru kara, jouzu ni natta ___ da. Douri de.",
+    "level": "N3",
+    "category": "GRAMMAR",
+    "options": [
+      "はず",
+      "わけ",
+      "もの",
+      "こと"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Karena berlatih setiap hari, wajar saja jadi pandai.",
+    "answerExplanation": "Pola '～わけだ' digunakan untuk menyatakan kesimpulan logis berdasarkan fakta yang sudah diketahui. Artinya 'pantas saja' atau 'wajar kalau'. Di sini, fakta 'berlatih setiap hari' menjadi alasan logis mengapa 'menjadi pandai'. Pilihan lain: '～はずだ' = seharusnya (perkiraan berdasarkan bukti), '～ものだ' = memang begitulah (kebenaran umum/nostalgia), '～ことだ' = sebaiknya (saran). Konteks menyimpulkan hasil logis paling cocok dengan 'わけだ'.",
+    "hint": "Menyatakan kesimpulan logis: 'pantas saja' atau 'wajar kalau begitu'",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n3_1_014",
+    "question": "この曲を聞く___、学生時代を思い出す。",
+    "furigana": "この曲[きょく]を聞[き]く___、学生時代[がくせいじだい]を思[おも]い出[だ]す。",
+    "romaji": "Kono kyoku wo kiku ___, gakusei jidai wo omoidasu.",
+    "level": "N3",
+    "category": "GRAMMAR",
+    "options": [
+      "ついでに",
+      "うちに",
+      "最中に",
+      "たびに"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "Setiap kali mendengar lagu ini, saya teringat masa pelajar.",
+    "answerExplanation": "Pola '～たびに' (tabi ni) berarti 'setiap kali'. Disambungkan dengan bentuk kamus (dictionary form) kata kerja atau kata benda + の. '聞くたびに' = setiap kali mendengar. Pilihan lain: '～ついでに' = sambil/sekalian (melakukan dua hal bersamaan), '～うちに' = selagi/sementara (sebelum kondisi berubah), '～最中に' (saichuu ni) = di tengah-tengah sedang melakukan sesuatu. Hanya 'たびに' yang menunjukkan pengulangan yang konsisten.",
+    "hint": "Pola yang berarti 'setiap kali suatu hal terjadi, selalu diikuti hal lain'",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n3_1_015",
+    "question": "高い商品が___いいとは限らない。",
+    "furigana": "高[たか]い商品[しょうひん]が___いいとは限[かぎ]らない。",
+    "romaji": "Takai shouhin ga ___ ii to wa kagiranai.",
+    "level": "N3",
+    "category": "GRAMMAR",
+    "options": [
+      "ぜんぜん",
+      "たいてい",
+      "必ずしも",
+      "めったに"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Barang mahal ___ bagus.",
+    "answerExplanation": "Pola '必ずしも～とは限らない' (kanarazushimo ~ to wa kagiranai) berarti 'belum tentu' atau 'tidak selalu'. Ini adalah pola tetap di mana '必ずしも' selalu berpasangan dengan '～とは限らない'. Pilihan lain: 'ぜんぜん' = sama sekali (dipakai dengan bentuk negatif tapi bukan pola ini), 'たいてい' = biasanya, 'めったに' = jarang (dipakai dengan bentuk negatif). Hanya '必ずしも' yang membentuk pola tetap dengan 'とは限らない'.",
+    "hint": "Pola tetap: ___ + ～とは限らない = belum tentu/tidak selalu",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_1_016",
+    "question": "日本語は勉強すれ___するほど面白くなる。",
+    "furigana": "日本語[にほんご]は勉強[べんきょう]すれ___するほど面白[おもしろ]くなる。",
+    "romaji": "Nihongo wa benkyou sure ___ suru hodo omoshiroku naru.",
+    "level": "N3",
+    "category": "GRAMMAR",
+    "options": [
+      "ても",
+      "たら",
+      "ば",
+      "なら"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Bahasa Jepang semakin dipelajari semakin menarik.",
+    "answerExplanation": "Pola '～ば～ほど' (ba ~ hodo) berarti 'semakin ... semakin ...'. Kata kerja yang sama diulang: bentuk ば条件 + bentuk kamus + ほど. 'する' → 'すれば' + 'するほど'. Karena 'すれ' sudah ada di soal, kita perlu menambahkan 'ば'. Pilihan lain: '～ても' = meskipun, '～たら' = kalau/ketika (kondisional), '～なら' = jika (kondisional). Hanya 'ば' yang membentuk pola progresif 'semakin...semakin...' dengan ほど.",
+    "hint": "Pola ～ば～ほど: semakin ... semakin ...",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n3_1_017",
+    "question": "事故の___、また電車が遅れた。",
+    "furigana": "事故[じこ]の___、また電車[でんしゃ]が遅[おく]れた。",
+    "romaji": "Jiko no ___、mata densha ga okureta.",
+    "level": "N3",
+    "category": "GRAMMAR",
+    "options": [
+      "おかげで",
+      "せいで",
+      "ために",
+      "くせに"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Karena kecelakaan, kereta terlambat.",
+    "answerExplanation": "Pola '～せいで' digunakan untuk menyatakan penyebab yang menghasilkan akibat negatif. '事故のせいで' = gara-gara kecelakaan. Pilihan lain: '～おかげで' = berkat (penyebab dengan hasil positif), '～ために' = karena/untuk (netral, bisa positif atau negatif tapi lebih formal), '～くせに' = padahal (menyatakan kontradiksi/keluhan tentang seseorang). Keterlambatan kereta adalah hal negatif, sehingga 'せいで' paling tepat.",
+    "hint": "Pola ini digunakan khusus untuk penyebab yang menghasilkan akibat negatif (menyalahkan)",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n3_1_018",
+    "question": "（Reading）\n\n私は去年、日本に留学しました。日本に来る前は、日本人はみんな静かで真面目だと思っていました。しかし、実際に日本で生活してみると、とても明るくて面白い人がたくさんいることに気がつきました。特に驚いたのは、日本人が電車の中ではとても静かなのに、居酒屋ではとても賑やかだったことです。場面によって態度が変わるのが興味深いと思いました。\n\n質問：この留学生が日本で一番驚いたことは何ですか。",
+    "furigana": "私[わたし]は去年[きょねん]、日本[にほん]に留学[りゅうがく]しました。日本[にほん]に来[く]る前[まえ]は、日本人[にほんじん]はみんな静[しず]かで真面目[まじめ]だと思[おも]っていました。しかし、実際[じっさい]に日本[にほん]で生活[せいかつ]してみると、とても明[あか]るくて面白[おもしろ]い人[ひと]がたくさんいることに気[き]がつきました。特[とく]に驚[おどろ]いたのは、日本人[にほんじん]が電車[でんしゃ]の中[なか]ではとても静[しず]かなのに、居酒屋[いざかや]ではとても賑[にぎ]やかだったことです。場面[ばめん]によって態度[たいど]が変[か]わるのが興味深[きょうみぶか]いと思[おも]いました。\n\n質問[しつもん]：この留学生[りゅうがくせい]が日本[にほん]で一番[いちばん]驚[おどろ]いたことは何[なん]ですか。",
+    "romaji": "Watashi wa kyonen, Nihon ni ryuugaku shimashita. Nihon ni kuru mae wa, Nihonjin wa minna shizuka de majime da to omotte imashita. Shikashi, jissai ni Nihon de seikatsu shite miru to, totemo akarukute omoshiroi hito ga takusan iru koto ni ki ga tsukimashita. Toku ni odoroita no wa, Nihonjin ga densha no naka de wa totemo shizuka na noni, izakaya de wa totemo nigiyaka datta koto desu. Bamen ni yotte taido ga kawaru no ga kyoumibukai to omoimashita.\n\nShitsumon: Kono ryuugakusei ga Nihon de ichiban odoroita koto wa nan desu ka.",
+    "level": "N3",
+    "category": "READING",
+    "options": [
+      "日本人がみんな真面目だったこと",
+      "日本の電車がとても静かだったこと",
+      "場面によって日本人の態度が変わること",
+      "居酒屋の食べ物がおいしかったこと"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Saya pergi berkuliah ke Jepang tahun lalu. Sebelum datang ke Jepang, saya pikir orang Jepang semuanya pendiam dan serius. Namun, setelah benar-benar tinggal di Jepang, saya menyadari ada banyak orang yang ceria dan menarik. Yang paling mengejutkan adalah orang Jepang sangat diam di kereta, tetapi sangat ramai di izakaya. Saya merasa menarik bahwa sikap mereka berubah tergantung situasi.\n\nPertanyaan: Apa yang paling mengejutkan mahasiswa asing ini di Jepang?",
+    "answerExplanation": "Kalimat kunci adalah '特に驚いたのは...場面によって態度が変わる' (yang paling mengejutkan adalah sikap berubah tergantung situasi). Teks menjelaskan kontras antara diam di kereta vs ramai di izakaya sebagai contoh. Pilihan A salah karena teks justru mengatakan ternyata tidak semua orang Jepang serius. Pilihan B hanya menyebut sebagian fakta, bukan hal yang paling mengejutkan. Pilihan D sama sekali tidak disebutkan dalam teks.",
+    "hint": "Perhatikan kalimat yang dimulai dengan '特に驚いたのは' (yang paling mengejutkan adalah...)",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n3_1_019",
+    "question": "（Reading）\n\n日本では「旬の食べ物」という考え方があります。旬とは、その食べ物が一番おいしくて、栄養も豊富な時期のことです。例えば、秋にはさんまやきのこが旬を迎えます。最近はハウス栽培や冷凍技術の発達により、一年中いろいろな食べ物が手に入りますが、旬の食べ物は味も値段も一番いいと言われています。季節を感じながら食事を楽しむのは、日本の食文化の大切な一部です。\n\n質問：この文章が一番言いたいことは何ですか。",
+    "furigana": "日本[にほん]では「旬[しゅん]の食[た]べ物[もの]」という考[かんが]え方[かた]があります。旬[しゅん]とは、その食[た]べ物[もの]が一番[いちばん]おいしくて、栄養[えいよう]も豊富[ほうふ]な時期[じき]のことです。例[たと]えば、秋[あき]にはさんまやきのこが旬[しゅん]を迎[むか]えます。最近[さいきん]はハウス栽培[さいばい]や冷凍技術[れいとうぎじゅつ]の発達[はったつ]により、一年中[いちねんじゅう]いろいろな食[た]べ物[もの]が手[て]に入[はい]りますが、旬[しゅん]の食[た]べ物[もの]は味[あじ]も値段[ねだん]も一番[いちばん]いいと言[い]われています。季節[きせつ]を感[かん]じながら食事[しょくじ]を楽[たの]しむのは、日本[にほん]の食文化[しょくぶんか]の大切[たいせつ]な一部[いちぶ]です。\n\n質問[しつもん]：この文章[ぶんしょう]が一番[いちばん]言[い]いたいことは何[なん]ですか。",
+    "romaji": "Nihon de wa 'shun no tabemono' to iu kangaekata ga arimasu. Shun to wa, sono tabemono ga ichiban oishikute, eiyou mo houfu na jiki no koto desu. Tatoeba, aki ni wa sanma ya kinoko ga shun wo mukaemasu. Saikin wa hausu saibai ya reitou gijutsu no hattatsu ni yori, ichinenjuu iroirona tabemono ga te ni hairimasu ga, shun no tabemono wa aji mo nedan mo ichiban ii to iwarete imasu. Kisetsu wo kanji nagara shokuji wo tanoshimu no wa, Nihon no shoku bunka no taisetsu na ichibu desu.\n\nShitsumon: Kono bunshou ga ichiban iitai koto wa nan desu ka.",
+    "level": "N3",
+    "category": "READING",
+    "options": [
+      "ハウス栽培のおかげで一年中食べ物が手に入る",
+      "さんまときのこは秋に食べるべきだ",
+      "旬の食べ物を楽しむことは日本の食文化の大切な部分だ",
+      "冷凍技術の発達が日本の食文化を変えた"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Di Jepang ada konsep 'makanan musiman' (shun no tabemono). Shun adalah periode ketika makanan tersebut paling enak dan kaya nutrisi. Misalnya, di musim gugur, ikan sanma dan jamur mencapai musimnya. Belakangan ini, berkat budidaya rumah kaca dan teknologi pembekuan, berbagai makanan tersedia sepanjang tahun, tetapi makanan musiman dikatakan paling baik dari segi rasa maupun harga. Menikmati makan sambil merasakan musim adalah bagian penting dari budaya makanan Jepang.\n\nPertanyaan: Apa pesan utama dari tulisan ini?",
+    "answerExplanation": "Kalimat terakhir menyimpulkan pesan utama: '季節を感じながら食事を楽しむのは、日本の食文化の大切な一部です' (menikmati makan sambil merasakan musim adalah bagian penting dari budaya makanan Jepang). Pilihan A dan D hanya menyebutkan detail pendukung, bukan pesan utama. Pilihan B terlalu spesifik dan bukan merupakan pesan utama teks.",
+    "hint": "Pesan utama biasanya terdapat di kalimat terakhir atau kalimat kesimpulan",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n3_1_020",
+    "question": "（Reading）\n\n私の住んでいる町では、毎年夏に盆踊り大会が開かれます。昔はたくさんの人が参加していましたが、最近は若い人の参加が減ってきました。しかし、去年から実行委員会がSNSで情報を発信したり、屋台の種類を増やしたりしたところ、若者の参加者が増えました。私は、伝統的な祭りも時代に合わせて工夫すれば、もっと多くの人に楽しんでもらえると思います。\n\n質問：筆者はどう思っていますか。",
+    "furigana": "私[わたし]の住[す]んでいる町[まち]では、毎年[まいとし]夏[なつ]に盆踊[ぼんおど]り大会[たいかい]が開[ひら]かれます。昔[むかし]はたくさんの人[ひと]が参加[さんか]していましたが、最近[さいきん]は若[わか]い人[ひと]の参加[さんか]が減[へ]ってきました。しかし、去年[きょねん]から実行委員会[じっこういいんかい]がSNSで情報[じょうほう]を発信[はっしん]したり、屋台[やたい]の種類[しゅるい]を増[ふ]やしたりしたところ、若者[わかもの]の参加者[さんかしゃ]が増[ふ]えました。私[わたし]は、伝統的[でんとうてき]な祭[まつ]りも時代[じだい]に合[あ]わせて工夫[くふう]すれば、もっと多[おお]くの人[ひと]に楽[たの]しんでもらえると思[おも]います。\n\n質問[しつもん]：筆者[ひっしゃ]はどう思[おも]っていますか。",
+    "romaji": "Watashi no sunde iru machi de wa, maitoshi natsu ni bon odori taikai ga hirakaremasu. Mukashi wa takusan no hito ga sanka shite imashita ga, saikin wa wakai hito no sanka ga hette kimashita. Shikashi, kyonen kara jikkou iinkai ga SNS de jouhou wo hasshin shitari, yatai no shurui wo fuyashitari shita tokoro, wakamono no sankasha ga fuemashita. Watashi wa, dentouteki na matsuri mo jidai ni awasete kufuu sureba, motto ooku no hito ni tanoshinde moraeru to omoimasu.\n\nShitsumon: Hissha wa dou omotte imasu ka.",
+    "level": "N3",
+    "category": "READING",
+    "options": [
+      "伝統的な祭りはそのまま残すべきだ",
+      "若い人は祭りに興味がない",
+      "祭りを時代に合わせて工夫すればもっと楽しめる",
+      "SNSを使うと祭りの伝統が壊れる"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Di kota tempat saya tinggal, setiap musim panas diadakan festival Bon Odori. Dulu banyak orang berpartisipasi, tapi akhir-akhir ini partisipasi anak muda berkurang. Namun, sejak tahun lalu panitia menyebarkan informasi melalui SNS dan menambah variasi stan makanan, peserta muda meningkat. Saya berpendapat bahwa jika festival tradisional juga disesuaikan dengan zaman, lebih banyak orang bisa menikmatinya.\n\nPertanyaan: Apa pendapat penulis?",
+    "answerExplanation": "Kalimat terakhir menyatakan pendapat penulis secara eksplisit: '伝統的な祭りも時代に合わせて工夫すれば、もっと多くの人に楽しんでもらえると思います' (jika festival tradisional disesuaikan dengan zaman, lebih banyak orang bisa menikmatinya). Pilihan A salah karena penulis justru mendukung perubahan. Pilihan B salah karena teks menunjukkan bahwa setelah ada inovasi, anak muda justru datang. Pilihan D salah karena penulis melihat penggunaan SNS secara positif.",
+    "hint": "Pendapat penulis biasanya ditandai dengan '～と思います' (saya berpikir bahwa...)",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n3_1_021",
+    "question": "日本語が上手になる___、毎日練習しています。",
+    "furigana": "日本語[にほんご]が上手[じょうず]になる___、毎日[まいにち]練習[れんしゅう]しています。",
+    "romaji": "Nihongo ga jouzu ni naru ___, mainichi renshuu shite imasu.",
+    "level": "N3",
+    "category": "GRAMMAR",
+    "options": [
+      "ために",
+      "ように",
+      "ことに",
+      "ものに"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Agar menjadi pandai bahasa Jepang, saya berlatih setiap hari.",
+    "answerExplanation": "Pola '～ように' digunakan untuk menyatakan tujuan dengan kata kerja yang tidak menunjukkan kehendak langsung (intransitif/potensial). '上手になる' adalah kata kerja intransitif, sehingga menggunakan 'ように'. Jika kata kerjanya transitif/berkehendak seperti '勉強する', maka menggunakan 'ために'. Contoh lain: '聞こえるように大きい声で話す' (berbicara keras agar terdengar).",
+    "hint": "Kata kerja sebelum bagian kosong bersifat intransitif (tidak berkehendak)",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_1_022",
+    "question": "財布を電車に忘れて___。",
+    "furigana": "財布[さいふ]を電車[でんしゃ]に忘[わす]れて___。",
+    "romaji": "Saifu wo densha ni wasurete ___.",
+    "level": "N3",
+    "category": "GRAMMAR",
+    "options": [
+      "しまった",
+      "おいた",
+      "みた",
+      "あった"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Saya (tidak sengaja) meninggalkan dompet di kereta.",
+    "answerExplanation": "Pola '～てしまう' (bentuk lampau: ～てしまった) digunakan untuk menyatakan penyesalan atas sesuatu yang telah terjadi secara tidak sengaja. Di sini, melupakan dompet di kereta adalah hal yang tidak disengaja dan disesali. 'ておいた' menyatakan persiapan, 'てみた' menyatakan percobaan, dan 'てあった' menyatakan keadaan hasil tindakan orang lain.",
+    "hint": "Ekspresi yang menunjukkan penyesalan atau ketidaksengajaan",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_1_023",
+    "question": "来月から毎朝ジョギングする___にした。",
+    "furigana": "来月[らいげつ]から毎朝[まいあさ]ジョギングする___にした。",
+    "romaji": "Raigetsu kara maiasa jogingu suru ___ ni shita.",
+    "level": "N3",
+    "category": "GRAMMAR",
+    "options": [
+      "もの",
+      "わけ",
+      "こと",
+      "ところ"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Saya memutuskan untuk jogging setiap pagi mulai bulan depan.",
+    "answerExplanation": "Pola '～ことにする' berarti 'memutuskan untuk～'. Digunakan saat seseorang membuat keputusan sendiri secara sadar. Berbeda dengan '～ことになる' yang berarti keputusan dibuat oleh pihak lain atau situasi. 'もの' dan 'わけ' tidak digunakan dalam pola ini. 'ところ' digunakan dalam pola yang berbeda seperti '～ところだ'.",
+    "hint": "Pola ini menyatakan keputusan pribadi yang dibuat secara sadar",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_1_024",
+    "question": "「状況」の意味は？",
+    "furigana": "「状況[じょうきょう]」の意味[いみ]は？",
+    "romaji": "'Joukyou' no imi wa?",
+    "level": "N3",
+    "category": "VOCABULARY",
+    "options": [
+      "物事の結果や終わり",
+      "ある時点での物事のありさま",
+      "将来の計画や予定",
+      "過去の思い出や記憶"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Apa arti '状況'?",
+    "answerExplanation": "'状況' (joukyou) berarti situasi atau keadaan pada saat tertentu. Terdiri dari kanji 状 (keadaan/bentuk) dan 況 (situasi). Contoh: '経済状況' (situasi ekonomi), '状況を説明する' (menjelaskan situasi). Pilihan lain salah: 'hasil' = 結果, 'rencana' = 計画, 'kenangan' = 思い出.",
+    "hint": "Kata ini menggambarkan keadaan atau kondisi saat ini",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_1_025",
+    "question": "会議で自分の意見を___のは大切なことだ。",
+    "furigana": "会議[かいぎ]で自分[じぶん]の意見[いけん]を___のは大切[たいせつ]なことだ。",
+    "romaji": "Kaigi de jibun no iken wo ___ no wa taisetsu na koto da.",
+    "level": "N3",
+    "category": "VOCABULARY",
+    "options": [
+      "届ける",
+      "届く",
+      "述べる",
+      "浮かべる"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Menyatakan pendapat sendiri di rapat adalah hal yang penting.",
+    "answerExplanation": "'述べる' (noberu) berarti menyatakan, mengungkapkan, atau mengemukakan (pendapat/pikiran). Kolokasi umum: '意見を述べる' (menyatakan pendapat). '届ける' berarti menyampaikan/mengirimkan (barang), '届く' berarti sampai/tiba, '浮かべる' berarti memunculkan (ekspresi wajah, dll).",
+    "hint": "Kata kerja ini berarti 'menyatakan' atau 'mengemukakan' secara formal",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_1_026",
+    "question": "彼女は___が豊かで、いつも面白い話を考える。",
+    "furigana": "彼女[かのじょ]は___が豊[ゆた]かで、いつも面白[おもしろ]い話[はなし]を考[かんが]える。",
+    "romaji": "Kanojo wa ___ ga yutaka de, itsumo omoshiroi hanashi wo kangaeru.",
+    "level": "N3",
+    "category": "VOCABULARY",
+    "options": [
+      "経験",
+      "想像力",
+      "記憶力",
+      "体力"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Dia (perempuan) kaya akan ___, selalu memikirkan cerita yang menarik.",
+    "answerExplanation": "'想像力' (souzouryoku) berarti daya imajinasi. '想像力が豊か' adalah kolokasi umum yang berarti 'kaya akan imajinasi'. Cocok dengan konteks 'memikirkan cerita yang menarik'. '経験' (keiken) = pengalaman, '記憶力' (kiokuryoku) = daya ingat, '体力' (tairyoku) = stamina/kekuatan fisik.",
+    "hint": "Kemampuan untuk membayangkan hal-hal yang belum ada",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_1_027",
+    "question": "「準備」の読み方は？",
+    "furigana": "「準備[じゅんび]」の読[よ]み方[かた]は？",
+    "romaji": "'Junbi' no yomikata wa?",
+    "level": "N3",
+    "category": "KANJI",
+    "options": [
+      "じゅんび",
+      "じゅんぴ",
+      "しゅんび",
+      "じゅんみ"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Bagaimana cara membaca '準備'?",
+    "answerExplanation": "'準備' dibaca 'じゅんび' (junbi) yang berarti persiapan. Kanji 準 dibaca じゅん (jun = standar/mengikuti) dan 備 dibaca び (bi = mempersiapkan). Contoh: '試験の準備をする' (mempersiapkan ujian), '準備ができた' (persiapan sudah selesai). Perhatikan bahwa 備 dibaca 'bi' bukan 'pi'.",
+    "hint": "Jun + bi. Kata yang sangat umum berarti persiapan",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_1_028",
+    "question": "「環境」の読み方は？",
+    "furigana": "「環境[かんきょう]」の読[よ]み方[かた]は？",
+    "romaji": "'Kankyou' no yomikata wa?",
+    "level": "N3",
+    "category": "KANJI",
+    "options": [
+      "かんけい",
+      "かんきょう",
+      "かんきょ",
+      "がんきょう"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Bagaimana cara membaca '環境'?",
+    "answerExplanation": "'環境' dibaca 'かんきょう' (kankyou) yang berarti lingkungan. Kanji 環 dibaca かん (kan = lingkaran/mengelilingi) dan 境 dibaca きょう (kyou = batas/perbatasan). Contoh: '環境問題' (masalah lingkungan), '環境を守る' (menjaga lingkungan). Jangan tertukar dengan '関係' (かんけい/kankei = hubungan).",
+    "hint": "Kan + kyou (bunyi panjang). Berkaitan dengan alam dan sekitar kita",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_1_029",
+    "question": "次の文章を読んで、質問に答えてください。\n\n最近、リモートワークをする人が増えています。リモートワークには、通勤時間がなくなるという大きなメリットがあります。しかし、家で仕事をすると、仕事とプライベートの区別がつきにくくなるという問題もあります。ある調査によると、リモートワークをしている人の半数以上が、仕事の時間が長くなったと感じているそうです。\n\n質問：リモートワークの問題点は何ですか？",
+    "furigana": "次[つぎ]の文章[ぶんしょう]を読[よ]んで、質問[しつもん]に答[こた]えてください。\n\n最近[さいきん]、リモートワークをする人[ひと]が増[ふ]えています。リモートワークには、通勤[つうきん]時間[じかん]がなくなるという大[おお]きなメリットがあります。しかし、家[いえ]で仕事[しごと]をすると、仕事[しごと]とプライベートの区別[くべつ]がつきにくくなるという問題[もんだい]もあります。ある調査[ちょうさ]によると、リモートワークをしている人[ひと]の半数[はんすう]以上[いじょう]が、仕事[しごと]の時間[じかん]が長[なが]くなったと感[かん]じているそうです。\n\n質問[しつもん]：リモートワークの問題点[もんだいてん]は何[なん]ですか？",
+    "romaji": "Tsugi no bunshou wo yonde, shitsumon ni kotaete kudasai. (Passage about remote work) Shitsumon: Rimooto waaku no mondaiten wa nan desu ka?",
+    "level": "N3",
+    "category": "READING",
+    "options": [
+      "通勤時間が長くなること",
+      "仕事とプライベートの区別がつきにくくなること",
+      "会社に行かなくてもいいこと",
+      "リモートワークをする人が少ないこと"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Baca tulisan berikut dan jawab pertanyaannya.\n\nAkhir-akhir ini, semakin banyak orang yang bekerja jarak jauh. Kerja jarak jauh memiliki keuntungan besar yaitu tidak ada waktu perjalanan ke kantor. Namun, jika bekerja di rumah, ada masalah bahwa sulit membedakan antara pekerjaan dan kehidupan pribadi. Menurut sebuah survei, lebih dari separuh orang yang bekerja jarak jauh merasa waktu kerja mereka menjadi lebih panjang.\n\nPertanyaan: Apa masalah dari kerja jarak jauh?",
+    "answerExplanation": "Teks menyebutkan masalah kerja jarak jauh setelah kata 'しかし' (namun): '仕事とプライベートの区別がつきにくくなる' (sulit membedakan antara pekerjaan dan kehidupan pribadi). Pilihan A salah karena justru waktu perjalanan hilang (itu keuntungan). Pilihan C adalah keuntungan bukan masalah. Pilihan D bertentangan dengan teks yang menyatakan orang yang bekerja jarak jauh meningkat.",
+    "hint": "Cari kata 'しかし' (namun) yang menandai perpindahan ke masalah",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n3_1_030",
+    "question": "次の文章を読んで、質問に答えてください。\n\n私の友人は料理が得意で、よく手作りのお菓子をくれます。先週もらったクッキーはとてもおいしかったので、作り方を教えてほしいと頼みました。すると、友人は「レシピを送るけど、材料を正確に量ることが一番大切だよ」と言いました。私は今まで目分量で作っていたので、それがうまくいかない原因だったのかもしれません。\n\n質問：友人が一番大切だと言ったことは何ですか？",
+    "furigana": "次[つぎ]の文章[ぶんしょう]を読[よ]んで、質問[しつもん]に答[こた]えてください。\n\n私[わたし]の友人[ゆうじん]は料理[りょうり]が得意[とくい]で、よく手作[てづく]りのお菓子[かし]をくれます。先週[せんしゅう]もらったクッキーはとてもおいしかったので、作[つく]り方[かた]を教[おし]えてほしいと頼[たの]みました。すると、友人[ゆうじん]は「レシピを送[おく]るけど、材料[ざいりょう]を正確[せいかく]に量[はか]ることが一番[いちばん]大切[たいせつ]だよ」と言[い]いました。私[わたし]は今[いま]まで目分量[めぶんりょう]で作[つく]っていたので、それがうまくいかない原因[げんいん]だったのかもしれません。\n\n質問[しつもん]：友人[ゆうじん]が一番[いちばん]大切[たいせつ]だと言[い]ったことは何[なん]ですか？",
+    "romaji": "Tsugi no bunshou wo yonde, shitsumon ni kotaete kudasai. (Passage about cooking) Shitsumon: Yuujin ga ichiban taisetsu da to itta koto wa nan desu ka?",
+    "level": "N3",
+    "category": "READING",
+    "options": [
+      "レシピどおりに作ること",
+      "材料を正確に量ること",
+      "手作りのお菓子を友達にあげること",
+      "目分量で気楽に作ること"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Baca tulisan berikut dan jawab pertanyaannya.\n\nTeman saya pandai memasak dan sering memberi kue buatan tangan. Kue kering yang saya terima minggu lalu sangat enak, jadi saya minta diajari cara membuatnya. Lalu, teman saya berkata 'Aku akan kirim resepnya, tapi yang paling penting adalah mengukur bahan dengan tepat.' Saya selama ini membuat dengan perkiraan saja, jadi mungkin itu penyebab hasilnya tidak bagus.\n\nPertanyaan: Apa yang dikatakan teman sebagai hal paling penting?",
+    "answerExplanation": "Teman berkata '材料を正確に量ることが一番大切だよ' (yang paling penting adalah mengukur bahan dengan tepat). Ini langsung menjawab pertanyaan. Pilihan A tidak tepat karena teman menekankan mengukur bahan, bukan hanya mengikuti resep. Pilihan C tidak relevan dengan pertanyaan. Pilihan D justru kebalikan dari apa yang disarankan teman.",
+    "hint": "Cari kutipan langsung dari teman yang mengandung kata '一番大切'",
+    "difficultyScore": 3
+  }
+]

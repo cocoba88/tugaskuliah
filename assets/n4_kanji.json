@@ -1,0 +1,4019 @@
+{
+  "metadata": {
+    "level": "N4",
+    "total_kanji": 167,
+    "source": "Cross-referenced dari 6 sumber: Nihongo-Pro, Kanji Master Suki, NIHONGO ICHIBAN, jlptglobal.com, Wikibooks, JLPT Samurai",
+    "version": "3.0",
+    "catatan": "Daftar 167 kanji N4-ONLY (tidak termasuk 103 kanji N5). Total pengetahuan N4 = 103 N5 + 167 N4 = 270 kanji."
+  },
+  "kanji_list": [
+    {
+      "id": 1,
+      "kanji": "不",
+      "onyomi": "フ、ブ",
+      "kunyomi": "",
+      "meaning": "tidak, bukan (prefiks negatif)",
+      "contoh_kalimat": [
+        {
+          "contoh": "不便",
+          "furigana": "ふべん",
+          "arti": "tidak nyaman"
+        },
+        {
+          "contoh": "不安",
+          "furigana": "ふあん",
+          "arti": "cemas"
+        },
+        {
+          "contoh": "不足",
+          "furigana": "ふそく",
+          "arti": "kekurangan"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "kanji": "世",
+      "onyomi": "セイ、セ",
+      "kunyomi": "よ",
+      "meaning": "dunia, generasi, era",
+      "contoh_kalimat": [
+        {
+          "contoh": "世界",
+          "furigana": "せかい",
+          "arti": "dunia"
+        },
+        {
+          "contoh": "世話",
+          "furigana": "せわ",
+          "arti": "merawat/membantu"
+        },
+        {
+          "contoh": "世の中",
+          "furigana": "よのなか",
+          "arti": "dunia/masyarakat"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "kanji": "主",
+      "onyomi": "シュ",
+      "kunyomi": "ぬし、おも",
+      "meaning": "utama, tuan, pemilik",
+      "contoh_kalimat": [
+        {
+          "contoh": "主人",
+          "furigana": "しゅじん",
+          "arti": "suami/tuan rumah"
+        },
+        {
+          "contoh": "主に",
+          "furigana": "おもに",
+          "arti": "terutama"
+        },
+        {
+          "contoh": "主語",
+          "furigana": "しゅご",
+          "arti": "subjek (tata bahasa)"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "kanji": "事",
+      "onyomi": "ジ、ズ",
+      "kunyomi": "こと",
+      "meaning": "hal, urusan, kejadian",
+      "contoh_kalimat": [
+        {
+          "contoh": "仕事",
+          "furigana": "しごと",
+          "arti": "pekerjaan"
+        },
+        {
+          "contoh": "大事",
+          "furigana": "だいじ",
+          "arti": "penting"
+        },
+        {
+          "contoh": "事故",
+          "furigana": "じこ",
+          "arti": "kecelakaan"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "kanji": "京",
+      "onyomi": "キョウ、ケイ",
+      "kunyomi": "みやこ",
+      "meaning": "ibu kota",
+      "contoh_kalimat": [
+        {
+          "contoh": "東京",
+          "furigana": "とうきょう",
+          "arti": "Tokyo"
+        },
+        {
+          "contoh": "京都",
+          "furigana": "きょうと",
+          "arti": "Kyoto"
+        },
+        {
+          "contoh": "上京",
+          "furigana": "じょうきょう",
+          "arti": "pergi ke Tokyo"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "kanji": "仕",
+      "onyomi": "シ、ジ",
+      "kunyomi": "つか-える",
+      "meaning": "melayani, urusan",
+      "contoh_kalimat": [
+        {
+          "contoh": "仕事",
+          "furigana": "しごと",
+          "arti": "pekerjaan"
+        },
+        {
+          "contoh": "仕方",
+          "furigana": "しかた",
+          "arti": "cara"
+        },
+        {
+          "contoh": "仕組み",
+          "furigana": "しくみ",
+          "arti": "mekanisme"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "kanji": "代",
+      "onyomi": "ダイ、タイ",
+      "kunyomi": "か-わる、よ",
+      "meaning": "menggantikan, generasi, era",
+      "contoh_kalimat": [
+        {
+          "contoh": "時代",
+          "furigana": "じだい",
+          "arti": "era/zaman"
+        },
+        {
+          "contoh": "代わり",
+          "furigana": "かわり",
+          "arti": "pengganti"
+        },
+        {
+          "contoh": "現代",
+          "furigana": "げんだい",
+          "arti": "masa kini"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "kanji": "以",
+      "onyomi": "イ",
+      "kunyomi": "",
+      "meaning": "dengan, sejak, lebih dari",
+      "contoh_kalimat": [
+        {
+          "contoh": "以上",
+          "furigana": "いじょう",
+          "arti": "di atas/lebih dari"
+        },
+        {
+          "contoh": "以下",
+          "furigana": "いか",
+          "arti": "di bawah/kurang dari"
+        },
+        {
+          "contoh": "以前",
+          "furigana": "いぜん",
+          "arti": "sebelumnya"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "kanji": "会",
+      "onyomi": "カイ、エ",
+      "kunyomi": "あ-う",
+      "meaning": "bertemu, perkumpulan",
+      "contoh_kalimat": [
+        {
+          "contoh": "会議",
+          "furigana": "かいぎ",
+          "arti": "rapat"
+        },
+        {
+          "contoh": "社会",
+          "furigana": "しゃかい",
+          "arti": "masyarakat"
+        },
+        {
+          "contoh": "会話",
+          "furigana": "かいわ",
+          "arti": "percakapan"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "kanji": "住",
+      "onyomi": "ジュウ",
+      "kunyomi": "す-む",
+      "meaning": "tinggal, mendiami",
+      "contoh_kalimat": [
+        {
+          "contoh": "住む",
+          "furigana": "すむ",
+          "arti": "tinggal"
+        },
+        {
+          "contoh": "住所",
+          "furigana": "じゅうしょ",
+          "arti": "alamat"
+        },
+        {
+          "contoh": "住民",
+          "furigana": "じゅうみん",
+          "arti": "penduduk"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "kanji": "体",
+      "onyomi": "タイ、テイ",
+      "kunyomi": "からだ",
+      "meaning": "tubuh, badan",
+      "contoh_kalimat": [
+        {
+          "contoh": "体",
+          "furigana": "からだ",
+          "arti": "tubuh"
+        },
+        {
+          "contoh": "体育",
+          "furigana": "たいいく",
+          "arti": "pendidikan jasmani"
+        },
+        {
+          "contoh": "体重",
+          "furigana": "たいじゅう",
+          "arti": "berat badan"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "kanji": "作",
+      "onyomi": "サク、サ",
+      "kunyomi": "つく-る",
+      "meaning": "membuat, karya",
+      "contoh_kalimat": [
+        {
+          "contoh": "作る",
+          "furigana": "つくる",
+          "arti": "membuat"
+        },
+        {
+          "contoh": "作品",
+          "furigana": "さくひん",
+          "arti": "karya"
+        },
+        {
+          "contoh": "作文",
+          "furigana": "さくぶん",
+          "arti": "karangan"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "kanji": "使",
+      "onyomi": "シ",
+      "kunyomi": "つか-う",
+      "meaning": "menggunakan",
+      "contoh_kalimat": [
+        {
+          "contoh": "使う",
+          "furigana": "つかう",
+          "arti": "menggunakan"
+        },
+        {
+          "contoh": "使用",
+          "furigana": "しよう",
+          "arti": "penggunaan"
+        },
+        {
+          "contoh": "大使",
+          "furigana": "たいし",
+          "arti": "duta besar"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "kanji": "借",
+      "onyomi": "シャク",
+      "kunyomi": "か-りる",
+      "meaning": "meminjam",
+      "contoh_kalimat": [
+        {
+          "contoh": "借りる",
+          "furigana": "かりる",
+          "arti": "meminjam"
+        },
+        {
+          "contoh": "借金",
+          "furigana": "しゃっきん",
+          "arti": "utang"
+        },
+        {
+          "contoh": "拝借",
+          "furigana": "はいしゃく",
+          "arti": "meminjam (sopan)"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "kanji": "元",
+      "onyomi": "ゲン、ガン",
+      "kunyomi": "もと",
+      "meaning": "asal, awal, sehat",
+      "contoh_kalimat": [
+        {
+          "contoh": "元気",
+          "furigana": "げんき",
+          "arti": "sehat/bersemangat"
+        },
+        {
+          "contoh": "元々",
+          "furigana": "もともと",
+          "arti": "pada awalnya"
+        },
+        {
+          "contoh": "地元",
+          "furigana": "じもと",
+          "arti": "daerah asal"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "kanji": "兄",
+      "onyomi": "ケイ、キョウ",
+      "kunyomi": "あに",
+      "meaning": "kakak laki-laki",
+      "contoh_kalimat": [
+        {
+          "contoh": "兄",
+          "furigana": "あに",
+          "arti": "kakak laki-laki"
+        },
+        {
+          "contoh": "お兄さん",
+          "furigana": "おにいさん",
+          "arti": "kakak laki-laki (sopan)"
+        },
+        {
+          "contoh": "兄弟",
+          "furigana": "きょうだい",
+          "arti": "saudara kandung"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "kanji": "公",
+      "onyomi": "コウ",
+      "kunyomi": "おおやけ",
+      "meaning": "umum, publik, resmi",
+      "contoh_kalimat": [
+        {
+          "contoh": "公園",
+          "furigana": "こうえん",
+          "arti": "taman umum"
+        },
+        {
+          "contoh": "公共",
+          "furigana": "こうきょう",
+          "arti": "fasilitas umum"
+        },
+        {
+          "contoh": "公務員",
+          "furigana": "こうむいん",
+          "arti": "PNS"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "kanji": "写",
+      "onyomi": "シャ",
+      "kunyomi": "うつ-す",
+      "meaning": "menyalin, memotret",
+      "contoh_kalimat": [
+        {
+          "contoh": "写真",
+          "furigana": "しゃしん",
+          "arti": "foto"
+        },
+        {
+          "contoh": "写す",
+          "furigana": "うつす",
+          "arti": "menyalin/memotret"
+        },
+        {
+          "contoh": "写生",
+          "furigana": "しゃせい",
+          "arti": "melukis dari alam"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "kanji": "冬",
+      "onyomi": "トウ",
+      "kunyomi": "ふゆ",
+      "meaning": "musim dingin",
+      "contoh_kalimat": [
+        {
+          "contoh": "冬",
+          "furigana": "ふゆ",
+          "arti": "musim dingin"
+        },
+        {
+          "contoh": "冬休み",
+          "furigana": "ふゆやすみ",
+          "arti": "liburan musim dingin"
+        },
+        {
+          "contoh": "真冬",
+          "furigana": "まふゆ",
+          "arti": "puncak musim dingin"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "kanji": "切",
+      "onyomi": "セツ、サイ",
+      "kunyomi": "き-る",
+      "meaning": "memotong, penting",
+      "contoh_kalimat": [
+        {
+          "contoh": "切る",
+          "furigana": "きる",
+          "arti": "memotong"
+        },
+        {
+          "contoh": "大切",
+          "furigana": "たいせつ",
+          "arti": "penting/berharga"
+        },
+        {
+          "contoh": "切手",
+          "furigana": "きって",
+          "arti": "perangko"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "kanji": "別",
+      "onyomi": "ベツ",
+      "kunyomi": "わか-れる",
+      "meaning": "berbeda, berpisah",
+      "contoh_kalimat": [
+        {
+          "contoh": "別れる",
+          "furigana": "わかれる",
+          "arti": "berpisah"
+        },
+        {
+          "contoh": "特別",
+          "furigana": "とくべつ",
+          "arti": "khusus"
+        },
+        {
+          "contoh": "別々",
+          "furigana": "べつべつ",
+          "arti": "terpisah-pisah"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "kanji": "力",
+      "onyomi": "リョク、リキ",
+      "kunyomi": "ちから",
+      "meaning": "kekuatan, tenaga",
+      "contoh_kalimat": [
+        {
+          "contoh": "力",
+          "furigana": "ちから",
+          "arti": "kekuatan"
+        },
+        {
+          "contoh": "努力",
+          "furigana": "どりょく",
+          "arti": "usaha keras"
+        },
+        {
+          "contoh": "体力",
+          "furigana": "たいりょく",
+          "arti": "stamina"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "kanji": "勉",
+      "onyomi": "ベン",
+      "kunyomi": "",
+      "meaning": "rajin, berusaha",
+      "contoh_kalimat": [
+        {
+          "contoh": "勉強",
+          "furigana": "べんきょう",
+          "arti": "belajar"
+        },
+        {
+          "contoh": "勉学",
+          "furigana": "べんがく",
+          "arti": "studi"
+        },
+        {
+          "contoh": "不勉強",
+          "furigana": "ふべんきょう",
+          "arti": "malas belajar"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "kanji": "動",
+      "onyomi": "ドウ",
+      "kunyomi": "うご-く",
+      "meaning": "bergerak",
+      "contoh_kalimat": [
+        {
+          "contoh": "動く",
+          "furigana": "うごく",
+          "arti": "bergerak"
+        },
+        {
+          "contoh": "動物",
+          "furigana": "どうぶつ",
+          "arti": "hewan"
+        },
+        {
+          "contoh": "運動",
+          "furigana": "うんどう",
+          "arti": "olahraga"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "kanji": "医",
+      "onyomi": "イ",
+      "kunyomi": "",
+      "meaning": "dokter, medis",
+      "contoh_kalimat": [
+        {
+          "contoh": "医者",
+          "furigana": "いしゃ",
+          "arti": "dokter"
+        },
+        {
+          "contoh": "医学",
+          "furigana": "いがく",
+          "arti": "ilmu kedokteran"
+        },
+        {
+          "contoh": "医療",
+          "furigana": "いりょう",
+          "arti": "perawatan medis"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "kanji": "去",
+      "onyomi": "キョ、コ",
+      "kunyomi": "さ-る",
+      "meaning": "pergi, lalu",
+      "contoh_kalimat": [
+        {
+          "contoh": "去年",
+          "furigana": "きょねん",
+          "arti": "tahun lalu"
+        },
+        {
+          "contoh": "過去",
+          "furigana": "かこ",
+          "arti": "masa lalu"
+        },
+        {
+          "contoh": "去る",
+          "furigana": "さる",
+          "arti": "pergi/meninggalkan"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "kanji": "口",
+      "onyomi": "コウ、ク",
+      "kunyomi": "くち",
+      "meaning": "mulut, pembukaan",
+      "contoh_kalimat": [
+        {
+          "contoh": "窓口",
+          "furigana": "まどぐち",
+          "arti": "loket"
+        },
+        {
+          "contoh": "人口",
+          "furigana": "じんこう",
+          "arti": "populasi"
+        },
+        {
+          "contoh": "口座",
+          "furigana": "こうざ",
+          "arti": "rekening bank"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "kanji": "古",
+      "onyomi": "コ",
+      "kunyomi": "ふる-い",
+      "meaning": "tua, kuno",
+      "contoh_kalimat": [
+        {
+          "contoh": "中古",
+          "furigana": "ちゅうこ",
+          "arti": "bekas pakai"
+        },
+        {
+          "contoh": "古本",
+          "furigana": "ふるほん",
+          "arti": "buku bekas"
+        },
+        {
+          "contoh": "古代",
+          "furigana": "こだい",
+          "arti": "zaman kuno"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "kanji": "台",
+      "onyomi": "ダイ、タイ",
+      "kunyomi": "",
+      "meaning": "meja, unit (mesin), panggung",
+      "contoh_kalimat": [
+        {
+          "contoh": "台所",
+          "furigana": "だいどころ",
+          "arti": "dapur"
+        },
+        {
+          "contoh": "台風",
+          "furigana": "たいふう",
+          "arti": "topan"
+        },
+        {
+          "contoh": "一台",
+          "furigana": "いちだい",
+          "arti": "satu unit"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "kanji": "同",
+      "onyomi": "ドウ",
+      "kunyomi": "おな-じ",
+      "meaning": "sama, bersama",
+      "contoh_kalimat": [
+        {
+          "contoh": "同じ",
+          "furigana": "おなじ",
+          "arti": "sama"
+        },
+        {
+          "contoh": "同時",
+          "furigana": "どうじ",
+          "arti": "bersamaan"
+        },
+        {
+          "contoh": "共同",
+          "furigana": "きょうどう",
+          "arti": "kerjasama"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "kanji": "味",
+      "onyomi": "ミ",
+      "kunyomi": "あじ",
+      "meaning": "rasa, minat",
+      "contoh_kalimat": [
+        {
+          "contoh": "味",
+          "furigana": "あじ",
+          "arti": "rasa"
+        },
+        {
+          "contoh": "意味",
+          "furigana": "いみ",
+          "arti": "arti/makna"
+        },
+        {
+          "contoh": "趣味",
+          "furigana": "しゅみ",
+          "arti": "hobi"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "kanji": "品",
+      "onyomi": "ヒン",
+      "kunyomi": "しな",
+      "meaning": "barang, produk, kualitas",
+      "contoh_kalimat": [
+        {
+          "contoh": "品物",
+          "furigana": "しなもの",
+          "arti": "barang"
+        },
+        {
+          "contoh": "作品",
+          "furigana": "さくひん",
+          "arti": "karya"
+        },
+        {
+          "contoh": "食品",
+          "furigana": "しょくひん",
+          "arti": "bahan makanan"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "kanji": "員",
+      "onyomi": "イン",
+      "kunyomi": "",
+      "meaning": "anggota, staf",
+      "contoh_kalimat": [
+        {
+          "contoh": "店員",
+          "furigana": "てんいん",
+          "arti": "pegawai toko"
+        },
+        {
+          "contoh": "会員",
+          "furigana": "かいいん",
+          "arti": "anggota"
+        },
+        {
+          "contoh": "全員",
+          "furigana": "ぜんいん",
+          "arti": "semua anggota"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "kanji": "問",
+      "onyomi": "モン",
+      "kunyomi": "と-う",
+      "meaning": "bertanya, masalah",
+      "contoh_kalimat": [
+        {
+          "contoh": "問題",
+          "furigana": "もんだい",
+          "arti": "soal/masalah"
+        },
+        {
+          "contoh": "質問",
+          "furigana": "しつもん",
+          "arti": "pertanyaan"
+        },
+        {
+          "contoh": "問い合わせ",
+          "furigana": "といあわせ",
+          "arti": "pertanyaan/konfirmasi"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "kanji": "図",
+      "onyomi": "ズ、ト",
+      "kunyomi": "",
+      "meaning": "gambar, peta, diagram",
+      "contoh_kalimat": [
+        {
+          "contoh": "地図",
+          "furigana": "ちず",
+          "arti": "peta"
+        },
+        {
+          "contoh": "図書館",
+          "furigana": "としょかん",
+          "arti": "perpustakaan"
+        },
+        {
+          "contoh": "図形",
+          "furigana": "ずけい",
+          "arti": "bentuk geometri"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "kanji": "地",
+      "onyomi": "チ、ジ",
+      "kunyomi": "",
+      "meaning": "tanah, bumi, tempat",
+      "contoh_kalimat": [
+        {
+          "contoh": "地図",
+          "furigana": "ちず",
+          "arti": "peta"
+        },
+        {
+          "contoh": "地震",
+          "furigana": "じしん",
+          "arti": "gempa bumi"
+        },
+        {
+          "contoh": "地方",
+          "furigana": "ちほう",
+          "arti": "daerah"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "kanji": "堂",
+      "onyomi": "ドウ",
+      "kunyomi": "",
+      "meaning": "aula, ruang besar",
+      "contoh_kalimat": [
+        {
+          "contoh": "食堂",
+          "furigana": "しょくどう",
+          "arti": "kantin"
+        },
+        {
+          "contoh": "講堂",
+          "furigana": "こうどう",
+          "arti": "aula"
+        },
+        {
+          "contoh": "堂々",
+          "furigana": "どうどう",
+          "arti": "percaya diri"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "kanji": "場",
+      "onyomi": "ジョウ",
+      "kunyomi": "ば",
+      "meaning": "tempat, situasi",
+      "contoh_kalimat": [
+        {
+          "contoh": "場所",
+          "furigana": "ばしょ",
+          "arti": "tempat"
+        },
+        {
+          "contoh": "場合",
+          "furigana": "ばあい",
+          "arti": "situasi/kasus"
+        },
+        {
+          "contoh": "駐車場",
+          "furigana": "ちゅうしゃじょう",
+          "arti": "tempat parkir"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "kanji": "売",
+      "onyomi": "バイ",
+      "kunyomi": "う-る",
+      "meaning": "menjual",
+      "contoh_kalimat": [
+        {
+          "contoh": "売る",
+          "furigana": "うる",
+          "arti": "menjual"
+        },
+        {
+          "contoh": "売店",
+          "furigana": "ばいてん",
+          "arti": "kios"
+        },
+        {
+          "contoh": "販売",
+          "furigana": "はんばい",
+          "arti": "penjualan"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "kanji": "夏",
+      "onyomi": "カ、ゲ",
+      "kunyomi": "なつ",
+      "meaning": "musim panas",
+      "contoh_kalimat": [
+        {
+          "contoh": "夏",
+          "furigana": "なつ",
+          "arti": "musim panas"
+        },
+        {
+          "contoh": "夏休み",
+          "furigana": "なつやすみ",
+          "arti": "liburan musim panas"
+        },
+        {
+          "contoh": "真夏",
+          "furigana": "まなつ",
+          "arti": "puncak musim panas"
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "kanji": "夕",
+      "onyomi": "セキ",
+      "kunyomi": "ゆう",
+      "meaning": "sore, petang",
+      "contoh_kalimat": [
+        {
+          "contoh": "夕方",
+          "furigana": "ゆうがた",
+          "arti": "sore hari"
+        },
+        {
+          "contoh": "夕食",
+          "furigana": "ゆうしょく",
+          "arti": "makan malam"
+        },
+        {
+          "contoh": "夕日",
+          "furigana": "ゆうひ",
+          "arti": "matahari terbenam"
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "kanji": "多",
+      "onyomi": "タ",
+      "kunyomi": "おお-い",
+      "meaning": "banyak",
+      "contoh_kalimat": [
+        {
+          "contoh": "多い",
+          "furigana": "おおい",
+          "arti": "banyak"
+        },
+        {
+          "contoh": "多分",
+          "furigana": "たぶん",
+          "arti": "mungkin"
+        },
+        {
+          "contoh": "多数",
+          "furigana": "たすう",
+          "arti": "banyak jumlah"
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "kanji": "夜",
+      "onyomi": "ヤ",
+      "kunyomi": "よる",
+      "meaning": "malam",
+      "contoh_kalimat": [
+        {
+          "contoh": "夜",
+          "furigana": "よる",
+          "arti": "malam"
+        },
+        {
+          "contoh": "夜中",
+          "furigana": "よなか",
+          "arti": "tengah malam"
+        },
+        {
+          "contoh": "今夜",
+          "furigana": "こんや",
+          "arti": "malam ini"
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "kanji": "妹",
+      "onyomi": "マイ",
+      "kunyomi": "いもうと",
+      "meaning": "adik perempuan",
+      "contoh_kalimat": [
+        {
+          "contoh": "妹",
+          "furigana": "いもうと",
+          "arti": "adik perempuan"
+        },
+        {
+          "contoh": "姉妹",
+          "furigana": "しまい",
+          "arti": "saudara perempuan"
+        },
+        {
+          "contoh": "妹さん",
+          "furigana": "いもうとさん",
+          "arti": "adik perempuan (sopan)"
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "kanji": "姉",
+      "onyomi": "シ",
+      "kunyomi": "あね",
+      "meaning": "kakak perempuan",
+      "contoh_kalimat": [
+        {
+          "contoh": "姉",
+          "furigana": "あね",
+          "arti": "kakak perempuan"
+        },
+        {
+          "contoh": "お姉さん",
+          "furigana": "おねえさん",
+          "arti": "kakak perempuan (sopan)"
+        },
+        {
+          "contoh": "姉妹",
+          "furigana": "しまい",
+          "arti": "saudara perempuan"
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "kanji": "始",
+      "onyomi": "シ",
+      "kunyomi": "はじ-める",
+      "meaning": "mulai",
+      "contoh_kalimat": [
+        {
+          "contoh": "始める",
+          "furigana": "はじめる",
+          "arti": "memulai"
+        },
+        {
+          "contoh": "始まる",
+          "furigana": "はじまる",
+          "arti": "dimulai"
+        },
+        {
+          "contoh": "開始",
+          "furigana": "かいし",
+          "arti": "permulaan"
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "kanji": "字",
+      "onyomi": "ジ",
+      "kunyomi": "あざ",
+      "meaning": "huruf, karakter",
+      "contoh_kalimat": [
+        {
+          "contoh": "漢字",
+          "furigana": "かんじ",
+          "arti": "kanji"
+        },
+        {
+          "contoh": "文字",
+          "furigana": "もじ",
+          "arti": "karakter/huruf"
+        },
+        {
+          "contoh": "字幕",
+          "furigana": "じまく",
+          "arti": "subtitel"
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "kanji": "安",
+      "onyomi": "アン",
+      "kunyomi": "やす-い",
+      "meaning": "murah, aman, tenang",
+      "contoh_kalimat": [
+        {
+          "contoh": "安全",
+          "furigana": "あんぜん",
+          "arti": "aman"
+        },
+        {
+          "contoh": "安心",
+          "furigana": "あんしん",
+          "arti": "tenang/lega"
+        },
+        {
+          "contoh": "不安",
+          "furigana": "ふあん",
+          "arti": "cemas"
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "kanji": "室",
+      "onyomi": "シツ",
+      "kunyomi": "むろ",
+      "meaning": "ruangan",
+      "contoh_kalimat": [
+        {
+          "contoh": "教室",
+          "furigana": "きょうしつ",
+          "arti": "ruang kelas"
+        },
+        {
+          "contoh": "会議室",
+          "furigana": "かいぎしつ",
+          "arti": "ruang rapat"
+        },
+        {
+          "contoh": "和室",
+          "furigana": "わしつ",
+          "arti": "kamar gaya Jepang"
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "kanji": "家",
+      "onyomi": "カ、ケ",
+      "kunyomi": "いえ、うち",
+      "meaning": "rumah, keluarga",
+      "contoh_kalimat": [
+        {
+          "contoh": "家",
+          "furigana": "いえ",
+          "arti": "rumah"
+        },
+        {
+          "contoh": "家族",
+          "furigana": "かぞく",
+          "arti": "keluarga"
+        },
+        {
+          "contoh": "作家",
+          "furigana": "さっか",
+          "arti": "pengarang"
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "kanji": "少",
+      "onyomi": "ショウ",
+      "kunyomi": "すく-ない、すこ-し",
+      "meaning": "sedikit",
+      "contoh_kalimat": [
+        {
+          "contoh": "少年",
+          "furigana": "しょうねん",
+          "arti": "remaja laki-laki"
+        },
+        {
+          "contoh": "少女",
+          "furigana": "しょうじょ",
+          "arti": "gadis muda"
+        },
+        {
+          "contoh": "少なくとも",
+          "furigana": "すくなくとも",
+          "arti": "setidaknya"
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "kanji": "屋",
+      "onyomi": "オク",
+      "kunyomi": "や",
+      "meaning": "toko (akhiran), atap",
+      "contoh_kalimat": [
+        {
+          "contoh": "本屋",
+          "furigana": "ほんや",
+          "arti": "toko buku"
+        },
+        {
+          "contoh": "肉屋",
+          "furigana": "にくや",
+          "arti": "toko daging"
+        },
+        {
+          "contoh": "屋上",
+          "furigana": "おくじょう",
+          "arti": "atap gedung"
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "kanji": "工",
+      "onyomi": "コウ、ク",
+      "kunyomi": "",
+      "meaning": "kerajinan, teknik, industri",
+      "contoh_kalimat": [
+        {
+          "contoh": "工場",
+          "furigana": "こうじょう",
+          "arti": "pabrik"
+        },
+        {
+          "contoh": "工事",
+          "furigana": "こうじ",
+          "arti": "konstruksi"
+        },
+        {
+          "contoh": "工業",
+          "furigana": "こうぎょう",
+          "arti": "industri"
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "kanji": "帰",
+      "onyomi": "キ",
+      "kunyomi": "かえ-る",
+      "meaning": "pulang",
+      "contoh_kalimat": [
+        {
+          "contoh": "帰る",
+          "furigana": "かえる",
+          "arti": "pulang"
+        },
+        {
+          "contoh": "帰国",
+          "furigana": "きこく",
+          "arti": "pulang ke tanah air"
+        },
+        {
+          "contoh": "帰宅",
+          "furigana": "きたく",
+          "arti": "pulang ke rumah"
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "kanji": "広",
+      "onyomi": "コウ",
+      "kunyomi": "ひろ-い",
+      "meaning": "luas, lebar",
+      "contoh_kalimat": [
+        {
+          "contoh": "広い",
+          "furigana": "ひろい",
+          "arti": "luas"
+        },
+        {
+          "contoh": "広場",
+          "furigana": "ひろば",
+          "arti": "alun-alun"
+        },
+        {
+          "contoh": "広告",
+          "furigana": "こうこく",
+          "arti": "iklan"
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "kanji": "店",
+      "onyomi": "テン",
+      "kunyomi": "みせ",
+      "meaning": "toko",
+      "contoh_kalimat": [
+        {
+          "contoh": "店員",
+          "furigana": "てんいん",
+          "arti": "pegawai toko"
+        },
+        {
+          "contoh": "閉店",
+          "furigana": "へいてん",
+          "arti": "toko tutup"
+        },
+        {
+          "contoh": "売店",
+          "furigana": "ばいてん",
+          "arti": "kios"
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "kanji": "度",
+      "onyomi": "ド、ト",
+      "kunyomi": "たび",
+      "meaning": "derajat, kali, tingkatan",
+      "contoh_kalimat": [
+        {
+          "contoh": "今度",
+          "furigana": "こんど",
+          "arti": "kali ini/lain kali"
+        },
+        {
+          "contoh": "温度",
+          "furigana": "おんど",
+          "arti": "suhu"
+        },
+        {
+          "contoh": "制度",
+          "furigana": "せいど",
+          "arti": "sistem"
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "kanji": "建",
+      "onyomi": "ケン、コン",
+      "kunyomi": "た-てる",
+      "meaning": "membangun, mendirikan",
+      "contoh_kalimat": [
+        {
+          "contoh": "建てる",
+          "furigana": "たてる",
+          "arti": "membangun"
+        },
+        {
+          "contoh": "建物",
+          "furigana": "たてもの",
+          "arti": "bangunan/gedung"
+        },
+        {
+          "contoh": "建設",
+          "furigana": "けんせつ",
+          "arti": "pembangunan"
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "kanji": "弟",
+      "onyomi": "テイ、ダイ",
+      "kunyomi": "おとうと",
+      "meaning": "adik laki-laki",
+      "contoh_kalimat": [
+        {
+          "contoh": "弟",
+          "furigana": "おとうと",
+          "arti": "adik laki-laki"
+        },
+        {
+          "contoh": "兄弟",
+          "furigana": "きょうだい",
+          "arti": "saudara kandung"
+        },
+        {
+          "contoh": "弟子",
+          "furigana": "でし",
+          "arti": "murid/pengikut"
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "kanji": "強",
+      "onyomi": "キョウ、ゴウ",
+      "kunyomi": "つよ-い",
+      "meaning": "kuat",
+      "contoh_kalimat": [
+        {
+          "contoh": "強い",
+          "furigana": "つよい",
+          "arti": "kuat"
+        },
+        {
+          "contoh": "勉強",
+          "furigana": "べんきょう",
+          "arti": "belajar"
+        },
+        {
+          "contoh": "強化",
+          "furigana": "きょうか",
+          "arti": "penguatan"
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "kanji": "待",
+      "onyomi": "タイ",
+      "kunyomi": "ま-つ",
+      "meaning": "menunggu",
+      "contoh_kalimat": [
+        {
+          "contoh": "待つ",
+          "furigana": "まつ",
+          "arti": "menunggu"
+        },
+        {
+          "contoh": "招待",
+          "furigana": "しょうたい",
+          "arti": "undangan"
+        },
+        {
+          "contoh": "期待",
+          "furigana": "きたい",
+          "arti": "harapan"
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "kanji": "心",
+      "onyomi": "シン",
+      "kunyomi": "こころ",
+      "meaning": "hati, pikiran, jiwa",
+      "contoh_kalimat": [
+        {
+          "contoh": "心",
+          "furigana": "こころ",
+          "arti": "hati/jiwa"
+        },
+        {
+          "contoh": "安心",
+          "furigana": "あんしん",
+          "arti": "tenang/lega"
+        },
+        {
+          "contoh": "心配",
+          "furigana": "しんぱい",
+          "arti": "khawatir"
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "kanji": "思",
+      "onyomi": "シ",
+      "kunyomi": "おも-う",
+      "meaning": "berpikir, merasa",
+      "contoh_kalimat": [
+        {
+          "contoh": "思う",
+          "furigana": "おもう",
+          "arti": "berpikir/merasa"
+        },
+        {
+          "contoh": "思い出",
+          "furigana": "おもいで",
+          "arti": "kenangan"
+        },
+        {
+          "contoh": "不思議",
+          "furigana": "ふしぎ",
+          "arti": "aneh/ajaib"
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "kanji": "急",
+      "onyomi": "キュウ",
+      "kunyomi": "いそ-ぐ",
+      "meaning": "terburu-buru, darurat",
+      "contoh_kalimat": [
+        {
+          "contoh": "急ぐ",
+          "furigana": "いそぐ",
+          "arti": "terburu-buru"
+        },
+        {
+          "contoh": "急行",
+          "furigana": "きゅうこう",
+          "arti": "kereta ekspres"
+        },
+        {
+          "contoh": "緊急",
+          "furigana": "きんきゅう",
+          "arti": "darurat"
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "kanji": "悪",
+      "onyomi": "アク、オ",
+      "kunyomi": "わる-い",
+      "meaning": "buruk, jahat",
+      "contoh_kalimat": [
+        {
+          "contoh": "悪い",
+          "furigana": "わるい",
+          "arti": "buruk/jahat"
+        },
+        {
+          "contoh": "悪口",
+          "furigana": "わるくち",
+          "arti": "gosip/cacian"
+        },
+        {
+          "contoh": "最悪",
+          "furigana": "さいあく",
+          "arti": "terburuk"
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "kanji": "意",
+      "onyomi": "イ",
+      "kunyomi": "",
+      "meaning": "maksud, pikiran",
+      "contoh_kalimat": [
+        {
+          "contoh": "意味",
+          "furigana": "いみ",
+          "arti": "arti/makna"
+        },
+        {
+          "contoh": "注意",
+          "furigana": "ちゅうい",
+          "arti": "perhatian/hati-hati"
+        },
+        {
+          "contoh": "用意",
+          "furigana": "ようい",
+          "arti": "persiapan"
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "kanji": "持",
+      "onyomi": "ジ",
+      "kunyomi": "も-つ",
+      "meaning": "memegang, memiliki",
+      "contoh_kalimat": [
+        {
+          "contoh": "持つ",
+          "furigana": "もつ",
+          "arti": "memegang"
+        },
+        {
+          "contoh": "気持ち",
+          "furigana": "きもち",
+          "arti": "perasaan"
+        },
+        {
+          "contoh": "持ち物",
+          "furigana": "もちもの",
+          "arti": "barang bawaan"
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "kanji": "教",
+      "onyomi": "キョウ",
+      "kunyomi": "おし-える",
+      "meaning": "mengajar",
+      "contoh_kalimat": [
+        {
+          "contoh": "教える",
+          "furigana": "おしえる",
+          "arti": "mengajar"
+        },
+        {
+          "contoh": "教室",
+          "furigana": "きょうしつ",
+          "arti": "ruang kelas"
+        },
+        {
+          "contoh": "教育",
+          "furigana": "きょういく",
+          "arti": "pendidikan"
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "kanji": "文",
+      "onyomi": "ブン、モン",
+      "kunyomi": "ふみ",
+      "meaning": "tulisan, kalimat, sastra",
+      "contoh_kalimat": [
+        {
+          "contoh": "文化",
+          "furigana": "ぶんか",
+          "arti": "budaya"
+        },
+        {
+          "contoh": "作文",
+          "furigana": "さくぶん",
+          "arti": "karangan"
+        },
+        {
+          "contoh": "文章",
+          "furigana": "ぶんしょう",
+          "arti": "kalimat/paragraf"
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "kanji": "料",
+      "onyomi": "リョウ",
+      "kunyomi": "",
+      "meaning": "biaya, bahan",
+      "contoh_kalimat": [
+        {
+          "contoh": "料理",
+          "furigana": "りょうり",
+          "arti": "masakan"
+        },
+        {
+          "contoh": "料金",
+          "furigana": "りょうきん",
+          "arti": "biaya"
+        },
+        {
+          "contoh": "無料",
+          "furigana": "むりょう",
+          "arti": "gratis"
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "kanji": "新",
+      "onyomi": "シン",
+      "kunyomi": "あたら-しい",
+      "meaning": "baru",
+      "contoh_kalimat": [
+        {
+          "contoh": "新聞",
+          "furigana": "しんぶん",
+          "arti": "koran"
+        },
+        {
+          "contoh": "新幹線",
+          "furigana": "しんかんせん",
+          "arti": "Shinkansen"
+        },
+        {
+          "contoh": "新年",
+          "furigana": "しんねん",
+          "arti": "tahun baru"
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "kanji": "方",
+      "onyomi": "ホウ",
+      "kunyomi": "かた",
+      "meaning": "arah, cara, orang (sopan)",
+      "contoh_kalimat": [
+        {
+          "contoh": "方",
+          "furigana": "かた",
+          "arti": "orang (sopan)"
+        },
+        {
+          "contoh": "方向",
+          "furigana": "ほうこう",
+          "arti": "arah"
+        },
+        {
+          "contoh": "仕方",
+          "furigana": "しかた",
+          "arti": "cara"
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "kanji": "旅",
+      "onyomi": "リョ",
+      "kunyomi": "たび",
+      "meaning": "perjalanan",
+      "contoh_kalimat": [
+        {
+          "contoh": "旅行",
+          "furigana": "りょこう",
+          "arti": "perjalanan"
+        },
+        {
+          "contoh": "旅館",
+          "furigana": "りょかん",
+          "arti": "penginapan Jepang"
+        },
+        {
+          "contoh": "旅人",
+          "furigana": "たびびと",
+          "arti": "pelancong"
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "kanji": "族",
+      "onyomi": "ゾク",
+      "kunyomi": "",
+      "meaning": "keluarga, suku",
+      "contoh_kalimat": [
+        {
+          "contoh": "家族",
+          "furigana": "かぞく",
+          "arti": "keluarga"
+        },
+        {
+          "contoh": "民族",
+          "furigana": "みんぞく",
+          "arti": "suku bangsa"
+        },
+        {
+          "contoh": "水族館",
+          "furigana": "すいぞくかん",
+          "arti": "akuarium"
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "kanji": "早",
+      "onyomi": "ソウ、サッ",
+      "kunyomi": "はや-い",
+      "meaning": "cepat, pagi-pagi",
+      "contoh_kalimat": [
+        {
+          "contoh": "早い",
+          "furigana": "はやい",
+          "arti": "cepat/pagi"
+        },
+        {
+          "contoh": "早朝",
+          "furigana": "そうちょう",
+          "arti": "pagi-pagi sekali"
+        },
+        {
+          "contoh": "早速",
+          "furigana": "さっそく",
+          "arti": "segera"
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "kanji": "明",
+      "onyomi": "メイ、ミョウ",
+      "kunyomi": "あか-るい",
+      "meaning": "terang, jelas",
+      "contoh_kalimat": [
+        {
+          "contoh": "明るい",
+          "furigana": "あかるい",
+          "arti": "terang/ceria"
+        },
+        {
+          "contoh": "説明",
+          "furigana": "せつめい",
+          "arti": "penjelasan"
+        },
+        {
+          "contoh": "明日",
+          "furigana": "あした",
+          "arti": "besok"
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "kanji": "映",
+      "onyomi": "エイ",
+      "kunyomi": "うつ-る",
+      "meaning": "memantulkan, film",
+      "contoh_kalimat": [
+        {
+          "contoh": "映画",
+          "furigana": "えいが",
+          "arti": "film"
+        },
+        {
+          "contoh": "映る",
+          "furigana": "うつる",
+          "arti": "terpantul/terlihat"
+        },
+        {
+          "contoh": "上映",
+          "furigana": "じょうえい",
+          "arti": "pemutaran film"
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "kanji": "春",
+      "onyomi": "シュン",
+      "kunyomi": "はる",
+      "meaning": "musim semi",
+      "contoh_kalimat": [
+        {
+          "contoh": "春",
+          "furigana": "はる",
+          "arti": "musim semi"
+        },
+        {
+          "contoh": "春休み",
+          "furigana": "はるやすみ",
+          "arti": "liburan musim semi"
+        },
+        {
+          "contoh": "青春",
+          "furigana": "せいしゅん",
+          "arti": "masa muda"
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "kanji": "昼",
+      "onyomi": "チュウ",
+      "kunyomi": "ひる",
+      "meaning": "siang",
+      "contoh_kalimat": [
+        {
+          "contoh": "昼",
+          "furigana": "ひる",
+          "arti": "siang"
+        },
+        {
+          "contoh": "昼食",
+          "furigana": "ちゅうしょく",
+          "arti": "makan siang"
+        },
+        {
+          "contoh": "昼間",
+          "furigana": "ひるま",
+          "arti": "siang hari"
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "kanji": "曜",
+      "onyomi": "ヨウ",
+      "kunyomi": "",
+      "meaning": "hari dalam seminggu",
+      "contoh_kalimat": [
+        {
+          "contoh": "曜日",
+          "furigana": "ようび",
+          "arti": "hari (dalam seminggu)"
+        },
+        {
+          "contoh": "月曜日",
+          "furigana": "げつようび",
+          "arti": "hari Senin"
+        },
+        {
+          "contoh": "何曜日",
+          "furigana": "なんようび",
+          "arti": "hari apa"
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "kanji": "有",
+      "onyomi": "ユウ、ウ",
+      "kunyomi": "あ-る",
+      "meaning": "ada, memiliki",
+      "contoh_kalimat": [
+        {
+          "contoh": "有名",
+          "furigana": "ゆうめい",
+          "arti": "terkenal"
+        },
+        {
+          "contoh": "有利",
+          "furigana": "ゆうり",
+          "arti": "menguntungkan"
+        },
+        {
+          "contoh": "所有",
+          "furigana": "しょゆう",
+          "arti": "kepemilikan"
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "kanji": "服",
+      "onyomi": "フク",
+      "kunyomi": "",
+      "meaning": "pakaian",
+      "contoh_kalimat": [
+        {
+          "contoh": "服",
+          "furigana": "ふく",
+          "arti": "pakaian"
+        },
+        {
+          "contoh": "洋服",
+          "furigana": "ようふく",
+          "arti": "pakaian gaya Barat"
+        },
+        {
+          "contoh": "制服",
+          "furigana": "せいふく",
+          "arti": "seragam"
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "kanji": "朝",
+      "onyomi": "チョウ",
+      "kunyomi": "あさ",
+      "meaning": "pagi",
+      "contoh_kalimat": [
+        {
+          "contoh": "朝",
+          "furigana": "あさ",
+          "arti": "pagi"
+        },
+        {
+          "contoh": "朝食",
+          "furigana": "ちょうしょく",
+          "arti": "sarapan"
+        },
+        {
+          "contoh": "毎朝",
+          "furigana": "まいあさ",
+          "arti": "setiap pagi"
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "kanji": "業",
+      "onyomi": "ギョウ、ゴウ",
+      "kunyomi": "わざ",
+      "meaning": "pekerjaan, industri",
+      "contoh_kalimat": [
+        {
+          "contoh": "授業",
+          "furigana": "じゅぎょう",
+          "arti": "pelajaran"
+        },
+        {
+          "contoh": "職業",
+          "furigana": "しょくぎょう",
+          "arti": "profesi"
+        },
+        {
+          "contoh": "工業",
+          "furigana": "こうぎょう",
+          "arti": "industri"
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "kanji": "楽",
+      "onyomi": "ラク、ガク",
+      "kunyomi": "たの-しい",
+      "meaning": "menyenangkan, musik",
+      "contoh_kalimat": [
+        {
+          "contoh": "楽しい",
+          "furigana": "たのしい",
+          "arti": "menyenangkan"
+        },
+        {
+          "contoh": "音楽",
+          "furigana": "おんがく",
+          "arti": "musik"
+        },
+        {
+          "contoh": "楽器",
+          "furigana": "がっき",
+          "arti": "alat musik"
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "kanji": "歌",
+      "onyomi": "カ",
+      "kunyomi": "うた",
+      "meaning": "lagu, bernyanyi",
+      "contoh_kalimat": [
+        {
+          "contoh": "歌",
+          "furigana": "うた",
+          "arti": "lagu"
+        },
+        {
+          "contoh": "歌う",
+          "furigana": "うたう",
+          "arti": "bernyanyi"
+        },
+        {
+          "contoh": "歌手",
+          "furigana": "かしゅ",
+          "arti": "penyanyi"
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "kanji": "止",
+      "onyomi": "シ",
+      "kunyomi": "と-まる",
+      "meaning": "berhenti",
+      "contoh_kalimat": [
+        {
+          "contoh": "止まる",
+          "furigana": "とまる",
+          "arti": "berhenti"
+        },
+        {
+          "contoh": "中止",
+          "furigana": "ちゅうし",
+          "arti": "pembatalan"
+        },
+        {
+          "contoh": "禁止",
+          "furigana": "きんし",
+          "arti": "dilarang"
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "kanji": "正",
+      "onyomi": "セイ、ショウ",
+      "kunyomi": "ただ-しい",
+      "meaning": "benar, lurus",
+      "contoh_kalimat": [
+        {
+          "contoh": "正しい",
+          "furigana": "ただしい",
+          "arti": "benar"
+        },
+        {
+          "contoh": "正月",
+          "furigana": "しょうがつ",
+          "arti": "tahun baru"
+        },
+        {
+          "contoh": "正直",
+          "furigana": "しょうじき",
+          "arti": "jujur"
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "kanji": "歩",
+      "onyomi": "ホ、ブ",
+      "kunyomi": "ある-く",
+      "meaning": "berjalan",
+      "contoh_kalimat": [
+        {
+          "contoh": "歩く",
+          "furigana": "あるく",
+          "arti": "berjalan"
+        },
+        {
+          "contoh": "散歩",
+          "furigana": "さんぽ",
+          "arti": "jalan-jalan"
+        },
+        {
+          "contoh": "歩道",
+          "furigana": "ほどう",
+          "arti": "trotoar"
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "kanji": "死",
+      "onyomi": "シ",
+      "kunyomi": "し-ぬ",
+      "meaning": "mati",
+      "contoh_kalimat": [
+        {
+          "contoh": "死ぬ",
+          "furigana": "しぬ",
+          "arti": "mati"
+        },
+        {
+          "contoh": "死亡",
+          "furigana": "しぼう",
+          "arti": "kematian"
+        },
+        {
+          "contoh": "必死",
+          "furigana": "ひっし",
+          "arti": "mati-matian"
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "kanji": "注",
+      "onyomi": "チュウ",
+      "kunyomi": "そそ-ぐ",
+      "meaning": "menuangkan, memperhatikan",
+      "contoh_kalimat": [
+        {
+          "contoh": "注意",
+          "furigana": "ちゅうい",
+          "arti": "perhatian"
+        },
+        {
+          "contoh": "注文",
+          "furigana": "ちゅうもん",
+          "arti": "pesanan"
+        },
+        {
+          "contoh": "注目",
+          "furigana": "ちゅうもく",
+          "arti": "memperhatikan"
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "kanji": "洋",
+      "onyomi": "ヨウ",
+      "kunyomi": "",
+      "meaning": "Barat, lautan",
+      "contoh_kalimat": [
+        {
+          "contoh": "洋服",
+          "furigana": "ようふく",
+          "arti": "pakaian gaya Barat"
+        },
+        {
+          "contoh": "洋食",
+          "furigana": "ようしょく",
+          "arti": "masakan Barat"
+        },
+        {
+          "contoh": "太平洋",
+          "furigana": "たいへいよう",
+          "arti": "Samudra Pasifik"
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "kanji": "海",
+      "onyomi": "カイ",
+      "kunyomi": "うみ",
+      "meaning": "laut",
+      "contoh_kalimat": [
+        {
+          "contoh": "海",
+          "furigana": "うみ",
+          "arti": "laut"
+        },
+        {
+          "contoh": "海外",
+          "furigana": "かいがい",
+          "arti": "luar negeri"
+        },
+        {
+          "contoh": "北海道",
+          "furigana": "ほっかいどう",
+          "arti": "Hokkaido"
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "kanji": "漢",
+      "onyomi": "カン",
+      "kunyomi": "",
+      "meaning": "Cina, kanji",
+      "contoh_kalimat": [
+        {
+          "contoh": "漢字",
+          "furigana": "かんじ",
+          "arti": "kanji"
+        },
+        {
+          "contoh": "漢方",
+          "furigana": "かんぽう",
+          "arti": "obat tradisional Cina"
+        },
+        {
+          "contoh": "漢文",
+          "furigana": "かんぶん",
+          "arti": "sastra Cina klasik"
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "kanji": "牛",
+      "onyomi": "ギュウ",
+      "kunyomi": "うし",
+      "meaning": "sapi",
+      "contoh_kalimat": [
+        {
+          "contoh": "牛",
+          "furigana": "うし",
+          "arti": "sapi"
+        },
+        {
+          "contoh": "牛肉",
+          "furigana": "ぎゅうにく",
+          "arti": "daging sapi"
+        },
+        {
+          "contoh": "牛乳",
+          "furigana": "ぎゅうにゅう",
+          "arti": "susu sapi"
+        }
+      ]
+    },
+    {
+      "id": 96,
+      "kanji": "物",
+      "onyomi": "ブツ、モツ",
+      "kunyomi": "もの",
+      "meaning": "benda, hal",
+      "contoh_kalimat": [
+        {
+          "contoh": "動物",
+          "furigana": "どうぶつ",
+          "arti": "hewan"
+        },
+        {
+          "contoh": "食べ物",
+          "furigana": "たべもの",
+          "arti": "makanan"
+        },
+        {
+          "contoh": "買い物",
+          "furigana": "かいもの",
+          "arti": "belanja"
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "kanji": "特",
+      "onyomi": "トク",
+      "kunyomi": "",
+      "meaning": "khusus, istimewa",
+      "contoh_kalimat": [
+        {
+          "contoh": "特別",
+          "furigana": "とくべつ",
+          "arti": "khusus"
+        },
+        {
+          "contoh": "特急",
+          "furigana": "とっきゅう",
+          "arti": "kereta super ekspres"
+        },
+        {
+          "contoh": "特徴",
+          "furigana": "とくちょう",
+          "arti": "ciri khas"
+        }
+      ]
+    },
+    {
+      "id": 98,
+      "kanji": "犬",
+      "onyomi": "ケン",
+      "kunyomi": "いぬ",
+      "meaning": "anjing",
+      "contoh_kalimat": [
+        {
+          "contoh": "犬",
+          "furigana": "いぬ",
+          "arti": "anjing"
+        },
+        {
+          "contoh": "子犬",
+          "furigana": "こいぬ",
+          "arti": "anak anjing"
+        },
+        {
+          "contoh": "犬小屋",
+          "furigana": "いぬごや",
+          "arti": "kandang anjing"
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "kanji": "理",
+      "onyomi": "リ",
+      "kunyomi": "",
+      "meaning": "logika, alasan",
+      "contoh_kalimat": [
+        {
+          "contoh": "料理",
+          "furigana": "りょうり",
+          "arti": "masakan"
+        },
+        {
+          "contoh": "理由",
+          "furigana": "りゆう",
+          "arti": "alasan"
+        },
+        {
+          "contoh": "理解",
+          "furigana": "りかい",
+          "arti": "pemahaman"
+        }
+      ]
+    },
+    {
+      "id": 100,
+      "kanji": "用",
+      "onyomi": "ヨウ",
+      "kunyomi": "もち-いる",
+      "meaning": "menggunakan, keperluan",
+      "contoh_kalimat": [
+        {
+          "contoh": "用事",
+          "furigana": "ようじ",
+          "arti": "urusan"
+        },
+        {
+          "contoh": "利用",
+          "furigana": "りよう",
+          "arti": "pemanfaatan"
+        },
+        {
+          "contoh": "用意",
+          "furigana": "ようい",
+          "arti": "persiapan"
+        }
+      ]
+    },
+    {
+      "id": 101,
+      "kanji": "田",
+      "onyomi": "デン",
+      "kunyomi": "た",
+      "meaning": "sawah",
+      "contoh_kalimat": [
+        {
+          "contoh": "田んぼ",
+          "furigana": "たんぼ",
+          "arti": "sawah"
+        },
+        {
+          "contoh": "田中",
+          "furigana": "たなか",
+          "arti": "Tanaka (nama)"
+        },
+        {
+          "contoh": "田舎",
+          "furigana": "いなか",
+          "arti": "pedesaan"
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "kanji": "町",
+      "onyomi": "チョウ",
+      "kunyomi": "まち",
+      "meaning": "kota kecil, blok",
+      "contoh_kalimat": [
+        {
+          "contoh": "町",
+          "furigana": "まち",
+          "arti": "kota kecil"
+        },
+        {
+          "contoh": "町中",
+          "furigana": "まちなか",
+          "arti": "pusat kota"
+        },
+        {
+          "contoh": "下町",
+          "furigana": "したまち",
+          "arti": "daerah kota bawah"
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "kanji": "画",
+      "onyomi": "ガ、カク",
+      "kunyomi": "",
+      "meaning": "gambar, rencana, coretan",
+      "contoh_kalimat": [
+        {
+          "contoh": "映画",
+          "furigana": "えいが",
+          "arti": "film"
+        },
+        {
+          "contoh": "計画",
+          "furigana": "けいかく",
+          "arti": "rencana"
+        },
+        {
+          "contoh": "画家",
+          "furigana": "がか",
+          "arti": "pelukis"
+        }
+      ]
+    },
+    {
+      "id": 104,
+      "kanji": "界",
+      "onyomi": "カイ",
+      "kunyomi": "",
+      "meaning": "dunia, batas",
+      "contoh_kalimat": [
+        {
+          "contoh": "世界",
+          "furigana": "せかい",
+          "arti": "dunia"
+        },
+        {
+          "contoh": "業界",
+          "furigana": "ぎょうかい",
+          "arti": "industri/bidang"
+        },
+        {
+          "contoh": "限界",
+          "furigana": "げんかい",
+          "arti": "batas"
+        }
+      ]
+    },
+    {
+      "id": 105,
+      "kanji": "病",
+      "onyomi": "ビョウ",
+      "kunyomi": "やまい",
+      "meaning": "sakit, penyakit",
+      "contoh_kalimat": [
+        {
+          "contoh": "病気",
+          "furigana": "びょうき",
+          "arti": "penyakit"
+        },
+        {
+          "contoh": "病院",
+          "furigana": "びょういん",
+          "arti": "rumah sakit"
+        },
+        {
+          "contoh": "病人",
+          "furigana": "びょうにん",
+          "arti": "orang sakit"
+        }
+      ]
+    },
+    {
+      "id": 106,
+      "kanji": "発",
+      "onyomi": "ハツ、ホツ",
+      "kunyomi": "",
+      "meaning": "berangkat, mengeluarkan",
+      "contoh_kalimat": [
+        {
+          "contoh": "出発",
+          "furigana": "しゅっぱつ",
+          "arti": "keberangkatan"
+        },
+        {
+          "contoh": "発音",
+          "furigana": "はつおん",
+          "arti": "pengucapan"
+        },
+        {
+          "contoh": "発見",
+          "furigana": "はっけん",
+          "arti": "penemuan"
+        }
+      ]
+    },
+    {
+      "id": 107,
+      "kanji": "的",
+      "onyomi": "テキ",
+      "kunyomi": "まと",
+      "meaning": "target, -tik (akhiran)",
+      "contoh_kalimat": [
+        {
+          "contoh": "目的",
+          "furigana": "もくてき",
+          "arti": "tujuan"
+        },
+        {
+          "contoh": "具体的",
+          "furigana": "ぐたいてき",
+          "arti": "konkret"
+        },
+        {
+          "contoh": "一般的",
+          "furigana": "いっぱんてき",
+          "arti": "umum"
+        }
+      ]
+    },
+    {
+      "id": 108,
+      "kanji": "目",
+      "onyomi": "モク",
+      "kunyomi": "め",
+      "meaning": "mata, urutan",
+      "contoh_kalimat": [
+        {
+          "contoh": "目的",
+          "furigana": "もくてき",
+          "arti": "tujuan"
+        },
+        {
+          "contoh": "注目",
+          "furigana": "ちゅうもく",
+          "arti": "perhatian"
+        },
+        {
+          "contoh": "科目",
+          "furigana": "かもく",
+          "arti": "mata pelajaran"
+        }
+      ]
+    },
+    {
+      "id": 109,
+      "kanji": "真",
+      "onyomi": "シン",
+      "kunyomi": "ま、まこと",
+      "meaning": "benar, sungguh",
+      "contoh_kalimat": [
+        {
+          "contoh": "写真",
+          "furigana": "しゃしん",
+          "arti": "foto"
+        },
+        {
+          "contoh": "真面目",
+          "furigana": "まじめ",
+          "arti": "serius"
+        },
+        {
+          "contoh": "真っ赤",
+          "furigana": "まっか",
+          "arti": "merah padam"
+        }
+      ]
+    },
+    {
+      "id": 110,
+      "kanji": "着",
+      "onyomi": "チャク",
+      "kunyomi": "き-る、つ-く",
+      "meaning": "memakai, tiba",
+      "contoh_kalimat": [
+        {
+          "contoh": "着る",
+          "furigana": "きる",
+          "arti": "memakai (baju)"
+        },
+        {
+          "contoh": "着く",
+          "furigana": "つく",
+          "arti": "tiba"
+        },
+        {
+          "contoh": "到着",
+          "furigana": "とうちゃく",
+          "arti": "kedatangan"
+        }
+      ]
+    },
+    {
+      "id": 111,
+      "kanji": "知",
+      "onyomi": "チ",
+      "kunyomi": "し-る",
+      "meaning": "mengetahui",
+      "contoh_kalimat": [
+        {
+          "contoh": "知る",
+          "furigana": "しる",
+          "arti": "mengetahui"
+        },
+        {
+          "contoh": "知識",
+          "furigana": "ちしき",
+          "arti": "pengetahuan"
+        },
+        {
+          "contoh": "知らせる",
+          "furigana": "しらせる",
+          "arti": "memberitahu"
+        }
+      ]
+    },
+    {
+      "id": 112,
+      "kanji": "研",
+      "onyomi": "ケン",
+      "kunyomi": "と-ぐ",
+      "meaning": "mengasah, meneliti",
+      "contoh_kalimat": [
+        {
+          "contoh": "研究",
+          "furigana": "けんきゅう",
+          "arti": "penelitian"
+        },
+        {
+          "contoh": "研修",
+          "furigana": "けんしゅう",
+          "arti": "pelatihan"
+        },
+        {
+          "contoh": "研究者",
+          "furigana": "けんきゅうしゃ",
+          "arti": "peneliti"
+        }
+      ]
+    },
+    {
+      "id": 113,
+      "kanji": "社",
+      "onyomi": "シャ",
+      "kunyomi": "やしろ",
+      "meaning": "perusahaan, kuil Shinto",
+      "contoh_kalimat": [
+        {
+          "contoh": "会社",
+          "furigana": "かいしゃ",
+          "arti": "perusahaan"
+        },
+        {
+          "contoh": "社会",
+          "furigana": "しゃかい",
+          "arti": "masyarakat"
+        },
+        {
+          "contoh": "社長",
+          "furigana": "しゃちょう",
+          "arti": "direktur"
+        }
+      ]
+    },
+    {
+      "id": 114,
+      "kanji": "私",
+      "onyomi": "シ",
+      "kunyomi": "わたし、わたくし",
+      "meaning": "saya, pribadi",
+      "contoh_kalimat": [
+        {
+          "contoh": "私",
+          "furigana": "わたし",
+          "arti": "saya"
+        },
+        {
+          "contoh": "私立",
+          "furigana": "しりつ",
+          "arti": "swasta"
+        },
+        {
+          "contoh": "私生活",
+          "furigana": "しせいかつ",
+          "arti": "kehidupan pribadi"
+        }
+      ]
+    },
+    {
+      "id": 115,
+      "kanji": "秋",
+      "onyomi": "シュウ",
+      "kunyomi": "あき",
+      "meaning": "musim gugur",
+      "contoh_kalimat": [
+        {
+          "contoh": "秋",
+          "furigana": "あき",
+          "arti": "musim gugur"
+        },
+        {
+          "contoh": "秋分",
+          "furigana": "しゅうぶん",
+          "arti": "titik balik musim gugur"
+        },
+        {
+          "contoh": "秋風",
+          "furigana": "あきかぜ",
+          "arti": "angin musim gugur"
+        }
+      ]
+    },
+    {
+      "id": 116,
+      "kanji": "究",
+      "onyomi": "キュウ",
+      "kunyomi": "きわ-める",
+      "meaning": "meneliti, mendalami",
+      "contoh_kalimat": [
+        {
+          "contoh": "研究",
+          "furigana": "けんきゅう",
+          "arti": "penelitian"
+        },
+        {
+          "contoh": "究明",
+          "furigana": "きゅうめい",
+          "arti": "investigasi"
+        },
+        {
+          "contoh": "探究",
+          "furigana": "たんきゅう",
+          "arti": "eksplorasi"
+        }
+      ]
+    },
+    {
+      "id": 117,
+      "kanji": "空",
+      "onyomi": "クウ",
+      "kunyomi": "そら、から",
+      "meaning": "langit, kosong",
+      "contoh_kalimat": [
+        {
+          "contoh": "空港",
+          "furigana": "くうこう",
+          "arti": "bandara"
+        },
+        {
+          "contoh": "空気",
+          "furigana": "くうき",
+          "arti": "udara"
+        },
+        {
+          "contoh": "空席",
+          "furigana": "くうせき",
+          "arti": "kursi kosong"
+        }
+      ]
+    },
+    {
+      "id": 118,
+      "kanji": "立",
+      "onyomi": "リツ",
+      "kunyomi": "た-つ",
+      "meaning": "berdiri, mendirikan",
+      "contoh_kalimat": [
+        {
+          "contoh": "立派",
+          "furigana": "りっぱ",
+          "arti": "hebat/megah"
+        },
+        {
+          "contoh": "独立",
+          "furigana": "どくりつ",
+          "arti": "kemerdekaan"
+        },
+        {
+          "contoh": "国立",
+          "furigana": "こくりつ",
+          "arti": "negeri/nasional"
+        }
+      ]
+    },
+    {
+      "id": 119,
+      "kanji": "答",
+      "onyomi": "トウ",
+      "kunyomi": "こた-える",
+      "meaning": "menjawab",
+      "contoh_kalimat": [
+        {
+          "contoh": "答える",
+          "furigana": "こたえる",
+          "arti": "menjawab"
+        },
+        {
+          "contoh": "答え",
+          "furigana": "こたえ",
+          "arti": "jawaban"
+        },
+        {
+          "contoh": "回答",
+          "furigana": "かいとう",
+          "arti": "jawaban resmi"
+        }
+      ]
+    },
+    {
+      "id": 120,
+      "kanji": "紙",
+      "onyomi": "シ",
+      "kunyomi": "かみ",
+      "meaning": "kertas",
+      "contoh_kalimat": [
+        {
+          "contoh": "紙",
+          "furigana": "かみ",
+          "arti": "kertas"
+        },
+        {
+          "contoh": "手紙",
+          "furigana": "てがみ",
+          "arti": "surat"
+        },
+        {
+          "contoh": "新聞紙",
+          "furigana": "しんぶんし",
+          "arti": "kertas koran"
+        }
+      ]
+    },
+    {
+      "id": 121,
+      "kanji": "終",
+      "onyomi": "シュウ",
+      "kunyomi": "お-わる",
+      "meaning": "berakhir, selesai",
+      "contoh_kalimat": [
+        {
+          "contoh": "終わる",
+          "furigana": "おわる",
+          "arti": "berakhir"
+        },
+        {
+          "contoh": "終点",
+          "furigana": "しゅうてん",
+          "arti": "pemberhentian terakhir"
+        },
+        {
+          "contoh": "最終",
+          "furigana": "さいしゅう",
+          "arti": "terakhir"
+        }
+      ]
+    },
+    {
+      "id": 122,
+      "kanji": "習",
+      "onyomi": "シュウ",
+      "kunyomi": "なら-う",
+      "meaning": "belajar, berlatih",
+      "contoh_kalimat": [
+        {
+          "contoh": "習う",
+          "furigana": "ならう",
+          "arti": "belajar dari guru"
+        },
+        {
+          "contoh": "練習",
+          "furigana": "れんしゅう",
+          "arti": "latihan"
+        },
+        {
+          "contoh": "習慣",
+          "furigana": "しゅうかん",
+          "arti": "kebiasaan"
+        }
+      ]
+    },
+    {
+      "id": 123,
+      "kanji": "考",
+      "onyomi": "コウ",
+      "kunyomi": "かんが-える",
+      "meaning": "memikirkan",
+      "contoh_kalimat": [
+        {
+          "contoh": "考える",
+          "furigana": "かんがえる",
+          "arti": "berpikir"
+        },
+        {
+          "contoh": "参考",
+          "furigana": "さんこう",
+          "arti": "referensi"
+        },
+        {
+          "contoh": "考え方",
+          "furigana": "かんがえかた",
+          "arti": "cara berpikir"
+        }
+      ]
+    },
+    {
+      "id": 124,
+      "kanji": "者",
+      "onyomi": "シャ",
+      "kunyomi": "もの",
+      "meaning": "orang (dengan kualifikasi)",
+      "contoh_kalimat": [
+        {
+          "contoh": "医者",
+          "furigana": "いしゃ",
+          "arti": "dokter"
+        },
+        {
+          "contoh": "作者",
+          "furigana": "さくしゃ",
+          "arti": "pengarang"
+        },
+        {
+          "contoh": "若者",
+          "furigana": "わかもの",
+          "arti": "anak muda"
+        }
+      ]
+    },
+    {
+      "id": 125,
+      "kanji": "肉",
+      "onyomi": "ニク",
+      "kunyomi": "",
+      "meaning": "daging",
+      "contoh_kalimat": [
+        {
+          "contoh": "肉",
+          "furigana": "にく",
+          "arti": "daging"
+        },
+        {
+          "contoh": "牛肉",
+          "furigana": "ぎゅうにく",
+          "arti": "daging sapi"
+        },
+        {
+          "contoh": "鶏肉",
+          "furigana": "とりにく",
+          "arti": "daging ayam"
+        }
+      ]
+    },
+    {
+      "id": 126,
+      "kanji": "自",
+      "onyomi": "ジ、シ",
+      "kunyomi": "みずか-ら",
+      "meaning": "sendiri, diri sendiri",
+      "contoh_kalimat": [
+        {
+          "contoh": "自分",
+          "furigana": "じぶん",
+          "arti": "diri sendiri"
+        },
+        {
+          "contoh": "自動",
+          "furigana": "じどう",
+          "arti": "otomatis"
+        },
+        {
+          "contoh": "自由",
+          "furigana": "じゆう",
+          "arti": "kebebasan"
+        }
+      ]
+    },
+    {
+      "id": 127,
+      "kanji": "色",
+      "onyomi": "ショク、シキ",
+      "kunyomi": "いろ",
+      "meaning": "warna",
+      "contoh_kalimat": [
+        {
+          "contoh": "色",
+          "furigana": "いろ",
+          "arti": "warna"
+        },
+        {
+          "contoh": "色々",
+          "furigana": "いろいろ",
+          "arti": "bermacam-macam"
+        },
+        {
+          "contoh": "景色",
+          "furigana": "けしき",
+          "arti": "pemandangan"
+        }
+      ]
+    },
+    {
+      "id": 128,
+      "kanji": "花",
+      "onyomi": "カ",
+      "kunyomi": "はな",
+      "meaning": "bunga",
+      "contoh_kalimat": [
+        {
+          "contoh": "花見",
+          "furigana": "はなみ",
+          "arti": "melihat bunga sakura"
+        },
+        {
+          "contoh": "花火",
+          "furigana": "はなび",
+          "arti": "kembang api"
+        },
+        {
+          "contoh": "花瓶",
+          "furigana": "かびん",
+          "arti": "vas bunga"
+        }
+      ]
+    },
+    {
+      "id": 129,
+      "kanji": "英",
+      "onyomi": "エイ",
+      "kunyomi": "",
+      "meaning": "Inggris, brilian",
+      "contoh_kalimat": [
+        {
+          "contoh": "英語",
+          "furigana": "えいご",
+          "arti": "bahasa Inggris"
+        },
+        {
+          "contoh": "英会話",
+          "furigana": "えいかいわ",
+          "arti": "percakapan bahasa Inggris"
+        },
+        {
+          "contoh": "英雄",
+          "furigana": "えいゆう",
+          "arti": "pahlawan"
+        }
+      ]
+    },
+    {
+      "id": 130,
+      "kanji": "茶",
+      "onyomi": "チャ、サ",
+      "kunyomi": "",
+      "meaning": "teh",
+      "contoh_kalimat": [
+        {
+          "contoh": "お茶",
+          "furigana": "おちゃ",
+          "arti": "teh"
+        },
+        {
+          "contoh": "喫茶店",
+          "furigana": "きっさてん",
+          "arti": "kafe"
+        },
+        {
+          "contoh": "茶色",
+          "furigana": "ちゃいろ",
+          "arti": "warna cokelat"
+        }
+      ]
+    },
+    {
+      "id": 131,
+      "kanji": "親",
+      "onyomi": "シン",
+      "kunyomi": "おや、した-しい",
+      "meaning": "orang tua, akrab",
+      "contoh_kalimat": [
+        {
+          "contoh": "親",
+          "furigana": "おや",
+          "arti": "orang tua"
+        },
+        {
+          "contoh": "両親",
+          "furigana": "りょうしん",
+          "arti": "kedua orang tua"
+        },
+        {
+          "contoh": "親友",
+          "furigana": "しんゆう",
+          "arti": "sahabat dekat"
+        }
+      ]
+    },
+    {
+      "id": 132,
+      "kanji": "言",
+      "onyomi": "ゲン、ゴン",
+      "kunyomi": "い-う",
+      "meaning": "berkata",
+      "contoh_kalimat": [
+        {
+          "contoh": "言葉",
+          "furigana": "ことば",
+          "arti": "kata/bahasa"
+        },
+        {
+          "contoh": "発言",
+          "furigana": "はつげん",
+          "arti": "pernyataan"
+        },
+        {
+          "contoh": "宣言",
+          "furigana": "せんげん",
+          "arti": "deklarasi"
+        }
+      ]
+    },
+    {
+      "id": 133,
+      "kanji": "計",
+      "onyomi": "ケイ",
+      "kunyomi": "はか-る",
+      "meaning": "mengukur, rencana",
+      "contoh_kalimat": [
+        {
+          "contoh": "時計",
+          "furigana": "とけい",
+          "arti": "jam/arloji"
+        },
+        {
+          "contoh": "計画",
+          "furigana": "けいかく",
+          "arti": "rencana"
+        },
+        {
+          "contoh": "合計",
+          "furigana": "ごうけい",
+          "arti": "total"
+        }
+      ]
+    },
+    {
+      "id": 134,
+      "kanji": "試",
+      "onyomi": "シ",
+      "kunyomi": "ため-す",
+      "meaning": "mencoba, ujian",
+      "contoh_kalimat": [
+        {
+          "contoh": "試験",
+          "furigana": "しけん",
+          "arti": "ujian"
+        },
+        {
+          "contoh": "試す",
+          "furigana": "ためす",
+          "arti": "mencoba"
+        },
+        {
+          "contoh": "試合",
+          "furigana": "しあい",
+          "arti": "pertandingan"
+        }
+      ]
+    },
+    {
+      "id": 135,
+      "kanji": "買",
+      "onyomi": "バイ",
+      "kunyomi": "か-う",
+      "meaning": "membeli",
+      "contoh_kalimat": [
+        {
+          "contoh": "買い物",
+          "furigana": "かいもの",
+          "arti": "belanja"
+        },
+        {
+          "contoh": "売買",
+          "furigana": "ばいばい",
+          "arti": "jual beli"
+        },
+        {
+          "contoh": "買い手",
+          "furigana": "かいて",
+          "arti": "pembeli"
+        }
+      ]
+    },
+    {
+      "id": 136,
+      "kanji": "貸",
+      "onyomi": "タイ",
+      "kunyomi": "か-す",
+      "meaning": "meminjamkan",
+      "contoh_kalimat": [
+        {
+          "contoh": "貸す",
+          "furigana": "かす",
+          "arti": "meminjamkan"
+        },
+        {
+          "contoh": "貸し出し",
+          "furigana": "かしだし",
+          "arti": "peminjaman"
+        },
+        {
+          "contoh": "賃貸",
+          "furigana": "ちんたい",
+          "arti": "sewa"
+        }
+      ]
+    },
+    {
+      "id": 137,
+      "kanji": "質",
+      "onyomi": "シツ、シチ",
+      "kunyomi": "",
+      "meaning": "kualitas, bertanya",
+      "contoh_kalimat": [
+        {
+          "contoh": "質問",
+          "furigana": "しつもん",
+          "arti": "pertanyaan"
+        },
+        {
+          "contoh": "品質",
+          "furigana": "ひんしつ",
+          "arti": "kualitas produk"
+        },
+        {
+          "contoh": "性質",
+          "furigana": "せいしつ",
+          "arti": "sifat/karakter"
+        }
+      ]
+    },
+    {
+      "id": 138,
+      "kanji": "赤",
+      "onyomi": "セキ、シャク",
+      "kunyomi": "あか",
+      "meaning": "merah",
+      "contoh_kalimat": [
+        {
+          "contoh": "赤い",
+          "furigana": "あかい",
+          "arti": "merah"
+        },
+        {
+          "contoh": "赤ちゃん",
+          "furigana": "あかちゃん",
+          "arti": "bayi"
+        },
+        {
+          "contoh": "赤字",
+          "furigana": "あかじ",
+          "arti": "defisit"
+        }
+      ]
+    },
+    {
+      "id": 139,
+      "kanji": "走",
+      "onyomi": "ソウ",
+      "kunyomi": "はし-る",
+      "meaning": "berlari",
+      "contoh_kalimat": [
+        {
+          "contoh": "走る",
+          "furigana": "はしる",
+          "arti": "berlari"
+        },
+        {
+          "contoh": "走行",
+          "furigana": "そうこう",
+          "arti": "perjalanan"
+        },
+        {
+          "contoh": "競走",
+          "furigana": "きょうそう",
+          "arti": "lomba lari"
+        }
+      ]
+    },
+    {
+      "id": 140,
+      "kanji": "起",
+      "onyomi": "キ",
+      "kunyomi": "お-きる",
+      "meaning": "bangun, bangkit",
+      "contoh_kalimat": [
+        {
+          "contoh": "起きる",
+          "furigana": "おきる",
+          "arti": "bangun"
+        },
+        {
+          "contoh": "起こす",
+          "furigana": "おこす",
+          "arti": "membangunkan"
+        },
+        {
+          "contoh": "起床",
+          "furigana": "きしょう",
+          "arti": "bangun tidur"
+        }
+      ]
+    },
+    {
+      "id": 141,
+      "kanji": "足",
+      "onyomi": "ソク",
+      "kunyomi": "あし、た-りる",
+      "meaning": "kaki, cukup",
+      "contoh_kalimat": [
+        {
+          "contoh": "不足",
+          "furigana": "ふそく",
+          "arti": "kekurangan"
+        },
+        {
+          "contoh": "遠足",
+          "furigana": "えんそく",
+          "arti": "karyawisata"
+        },
+        {
+          "contoh": "足音",
+          "furigana": "あしおと",
+          "arti": "suara langkah kaki"
+        }
+      ]
+    },
+    {
+      "id": 142,
+      "kanji": "転",
+      "onyomi": "テン",
+      "kunyomi": "ころ-がる",
+      "meaning": "berputar, jatuh, pindah",
+      "contoh_kalimat": [
+        {
+          "contoh": "自転車",
+          "furigana": "じてんしゃ",
+          "arti": "sepeda"
+        },
+        {
+          "contoh": "運転",
+          "furigana": "うんてん",
+          "arti": "mengemudi"
+        },
+        {
+          "contoh": "転ぶ",
+          "furigana": "ころぶ",
+          "arti": "jatuh"
+        }
+      ]
+    },
+    {
+      "id": 143,
+      "kanji": "近",
+      "onyomi": "キン",
+      "kunyomi": "ちか-い",
+      "meaning": "dekat",
+      "contoh_kalimat": [
+        {
+          "contoh": "近い",
+          "furigana": "ちかい",
+          "arti": "dekat"
+        },
+        {
+          "contoh": "近所",
+          "furigana": "きんじょ",
+          "arti": "lingkungan sekitar"
+        },
+        {
+          "contoh": "最近",
+          "furigana": "さいきん",
+          "arti": "baru-baru ini"
+        }
+      ]
+    },
+    {
+      "id": 144,
+      "kanji": "送",
+      "onyomi": "ソウ",
+      "kunyomi": "おく-る",
+      "meaning": "mengirim",
+      "contoh_kalimat": [
+        {
+          "contoh": "送る",
+          "furigana": "おくる",
+          "arti": "mengirim"
+        },
+        {
+          "contoh": "放送",
+          "furigana": "ほうそう",
+          "arti": "siaran"
+        },
+        {
+          "contoh": "送別会",
+          "furigana": "そうべつかい",
+          "arti": "pesta perpisahan"
+        }
+      ]
+    },
+    {
+      "id": 145,
+      "kanji": "通",
+      "onyomi": "ツウ",
+      "kunyomi": "とお-る",
+      "meaning": "lewat, mengerti",
+      "contoh_kalimat": [
+        {
+          "contoh": "通る",
+          "furigana": "とおる",
+          "arti": "lewat"
+        },
+        {
+          "contoh": "交通",
+          "furigana": "こうつう",
+          "arti": "lalu lintas"
+        },
+        {
+          "contoh": "通学",
+          "furigana": "つうがく",
+          "arti": "berangkat sekolah"
+        }
+      ]
+    },
+    {
+      "id": 146,
+      "kanji": "週",
+      "onyomi": "シュウ",
+      "kunyomi": "",
+      "meaning": "minggu",
+      "contoh_kalimat": [
+        {
+          "contoh": "週末",
+          "furigana": "しゅうまつ",
+          "arti": "akhir pekan"
+        },
+        {
+          "contoh": "今週",
+          "furigana": "こんしゅう",
+          "arti": "minggu ini"
+        },
+        {
+          "contoh": "一週間",
+          "furigana": "いっしゅうかん",
+          "arti": "satu minggu"
+        }
+      ]
+    },
+    {
+      "id": 147,
+      "kanji": "運",
+      "onyomi": "ウン",
+      "kunyomi": "はこ-ぶ",
+      "meaning": "mengangkut, nasib",
+      "contoh_kalimat": [
+        {
+          "contoh": "運転",
+          "furigana": "うんてん",
+          "arti": "mengemudi"
+        },
+        {
+          "contoh": "運動",
+          "furigana": "うんどう",
+          "arti": "olahraga"
+        },
+        {
+          "contoh": "運命",
+          "furigana": "うんめい",
+          "arti": "nasib"
+        }
+      ]
+    },
+    {
+      "id": 148,
+      "kanji": "道",
+      "onyomi": "ドウ",
+      "kunyomi": "みち",
+      "meaning": "jalan, cara",
+      "contoh_kalimat": [
+        {
+          "contoh": "道路",
+          "furigana": "どうろ",
+          "arti": "jalan raya"
+        },
+        {
+          "contoh": "歩道",
+          "furigana": "ほどう",
+          "arti": "trotoar"
+        },
+        {
+          "contoh": "柔道",
+          "furigana": "じゅうどう",
+          "arti": "judo"
+        }
+      ]
+    },
+    {
+      "id": 149,
+      "kanji": "重",
+      "onyomi": "ジュウ、チョウ",
+      "kunyomi": "おも-い",
+      "meaning": "berat, penting",
+      "contoh_kalimat": [
+        {
+          "contoh": "重い",
+          "furigana": "おもい",
+          "arti": "berat"
+        },
+        {
+          "contoh": "重要",
+          "furigana": "じゅうよう",
+          "arti": "penting"
+        },
+        {
+          "contoh": "体重",
+          "furigana": "たいじゅう",
+          "arti": "berat badan"
+        }
+      ]
+    },
+    {
+      "id": 150,
+      "kanji": "野",
+      "onyomi": "ヤ",
+      "kunyomi": "の",
+      "meaning": "ladang, liar",
+      "contoh_kalimat": [
+        {
+          "contoh": "野菜",
+          "furigana": "やさい",
+          "arti": "sayuran"
+        },
+        {
+          "contoh": "野球",
+          "furigana": "やきゅう",
+          "arti": "bisbol"
+        },
+        {
+          "contoh": "分野",
+          "furigana": "ぶんや",
+          "arti": "bidang"
+        }
+      ]
+    },
+    {
+      "id": 151,
+      "kanji": "銀",
+      "onyomi": "ギン",
+      "kunyomi": "",
+      "meaning": "perak",
+      "contoh_kalimat": [
+        {
+          "contoh": "銀行",
+          "furigana": "ぎんこう",
+          "arti": "bank"
+        },
+        {
+          "contoh": "銀色",
+          "furigana": "ぎんいろ",
+          "arti": "warna perak"
+        },
+        {
+          "contoh": "銀座",
+          "furigana": "ぎんざ",
+          "arti": "Ginza"
+        }
+      ]
+    },
+    {
+      "id": 152,
+      "kanji": "開",
+      "onyomi": "カイ",
+      "kunyomi": "ひら-く、あ-ける",
+      "meaning": "membuka",
+      "contoh_kalimat": [
+        {
+          "contoh": "開く",
+          "furigana": "あく",
+          "arti": "terbuka"
+        },
+        {
+          "contoh": "開始",
+          "furigana": "かいし",
+          "arti": "mulai"
+        },
+        {
+          "contoh": "公開",
+          "furigana": "こうかい",
+          "arti": "publikasi"
+        }
+      ]
+    },
+    {
+      "id": 153,
+      "kanji": "院",
+      "onyomi": "イン",
+      "kunyomi": "",
+      "meaning": "institusi, rumah sakit",
+      "contoh_kalimat": [
+        {
+          "contoh": "病院",
+          "furigana": "びょういん",
+          "arti": "rumah sakit"
+        },
+        {
+          "contoh": "大学院",
+          "furigana": "だいがくいん",
+          "arti": "pascasarjana"
+        },
+        {
+          "contoh": "入院",
+          "furigana": "にゅういん",
+          "arti": "rawat inap"
+        }
+      ]
+    },
+    {
+      "id": 154,
+      "kanji": "集",
+      "onyomi": "シュウ",
+      "kunyomi": "あつ-まる",
+      "meaning": "berkumpul",
+      "contoh_kalimat": [
+        {
+          "contoh": "集まる",
+          "furigana": "あつまる",
+          "arti": "berkumpul"
+        },
+        {
+          "contoh": "集中",
+          "furigana": "しゅうちゅう",
+          "arti": "konsentrasi"
+        },
+        {
+          "contoh": "募集",
+          "furigana": "ぼしゅう",
+          "arti": "rekrutmen"
+        }
+      ]
+    },
+    {
+      "id": 155,
+      "kanji": "青",
+      "onyomi": "セイ",
+      "kunyomi": "あお",
+      "meaning": "biru, hijau (lama)",
+      "contoh_kalimat": [
+        {
+          "contoh": "青い",
+          "furigana": "あおい",
+          "arti": "biru"
+        },
+        {
+          "contoh": "青春",
+          "furigana": "せいしゅん",
+          "arti": "masa muda"
+        },
+        {
+          "contoh": "青信号",
+          "furigana": "あおしんごう",
+          "arti": "lampu hijau"
+        }
+      ]
+    },
+    {
+      "id": 156,
+      "kanji": "音",
+      "onyomi": "オン、イン",
+      "kunyomi": "おと",
+      "meaning": "bunyi, suara",
+      "contoh_kalimat": [
+        {
+          "contoh": "音楽",
+          "furigana": "おんがく",
+          "arti": "musik"
+        },
+        {
+          "contoh": "発音",
+          "furigana": "はつおん",
+          "arti": "pengucapan"
+        },
+        {
+          "contoh": "足音",
+          "furigana": "あしおと",
+          "arti": "suara langkah kaki"
+        }
+      ]
+    },
+    {
+      "id": 157,
+      "kanji": "題",
+      "onyomi": "ダイ",
+      "kunyomi": "",
+      "meaning": "judul, topik, soal",
+      "contoh_kalimat": [
+        {
+          "contoh": "問題",
+          "furigana": "もんだい",
+          "arti": "masalah/soal"
+        },
+        {
+          "contoh": "宿題",
+          "furigana": "しゅくだい",
+          "arti": "PR"
+        },
+        {
+          "contoh": "題名",
+          "furigana": "だいめい",
+          "arti": "judul"
+        }
+      ]
+    },
+    {
+      "id": 158,
+      "kanji": "風",
+      "onyomi": "フウ",
+      "kunyomi": "かぜ",
+      "meaning": "angin, gaya",
+      "contoh_kalimat": [
+        {
+          "contoh": "風",
+          "furigana": "かぜ",
+          "arti": "angin"
+        },
+        {
+          "contoh": "台風",
+          "furigana": "たいふう",
+          "arti": "topan"
+        },
+        {
+          "contoh": "風邪",
+          "furigana": "かぜ",
+          "arti": "flu/masuk angin"
+        }
+      ]
+    },
+    {
+      "id": 159,
+      "kanji": "飯",
+      "onyomi": "ハン",
+      "kunyomi": "めし",
+      "meaning": "nasi, makanan",
+      "contoh_kalimat": [
+        {
+          "contoh": "ご飯",
+          "furigana": "ごはん",
+          "arti": "nasi/makanan"
+        },
+        {
+          "contoh": "朝飯",
+          "furigana": "あさめし",
+          "arti": "sarapan"
+        },
+        {
+          "contoh": "晩ご飯",
+          "furigana": "ばんごはん",
+          "arti": "makan malam"
+        }
+      ]
+    },
+    {
+      "id": 160,
+      "kanji": "飲",
+      "onyomi": "イン",
+      "kunyomi": "の-む",
+      "meaning": "minum",
+      "contoh_kalimat": [
+        {
+          "contoh": "飲み物",
+          "furigana": "のみもの",
+          "arti": "minuman"
+        },
+        {
+          "contoh": "飲酒",
+          "furigana": "いんしゅ",
+          "arti": "minum alkohol"
+        },
+        {
+          "contoh": "飲食店",
+          "furigana": "いんしょくてん",
+          "arti": "restoran"
+        }
+      ]
+    },
+    {
+      "id": 161,
+      "kanji": "館",
+      "onyomi": "カン",
+      "kunyomi": "やかた",
+      "meaning": "gedung fasilitas publik",
+      "contoh_kalimat": [
+        {
+          "contoh": "図書館",
+          "furigana": "としょかん",
+          "arti": "perpustakaan"
+        },
+        {
+          "contoh": "博物館",
+          "furigana": "はくぶつかん",
+          "arti": "museum"
+        },
+        {
+          "contoh": "旅館",
+          "furigana": "りょかん",
+          "arti": "penginapan Jepang"
+        }
+      ]
+    },
+    {
+      "id": 162,
+      "kanji": "駅",
+      "onyomi": "エキ",
+      "kunyomi": "",
+      "meaning": "stasiun",
+      "contoh_kalimat": [
+        {
+          "contoh": "駅前",
+          "furigana": "えきまえ",
+          "arti": "depan stasiun"
+        },
+        {
+          "contoh": "駅員",
+          "furigana": "えきいん",
+          "arti": "petugas stasiun"
+        },
+        {
+          "contoh": "終点駅",
+          "furigana": "しゅうてんえき",
+          "arti": "stasiun terminal"
+        }
+      ]
+    },
+    {
+      "id": 163,
+      "kanji": "験",
+      "onyomi": "ケン、ゲン",
+      "kunyomi": "",
+      "meaning": "pengalaman, ujian",
+      "contoh_kalimat": [
+        {
+          "contoh": "試験",
+          "furigana": "しけん",
+          "arti": "ujian"
+        },
+        {
+          "contoh": "経験",
+          "furigana": "けいけん",
+          "arti": "pengalaman"
+        },
+        {
+          "contoh": "受験",
+          "furigana": "じゅけん",
+          "arti": "ujian masuk"
+        }
+      ]
+    },
+    {
+      "id": 164,
+      "kanji": "魚",
+      "onyomi": "ギョ",
+      "kunyomi": "さかな",
+      "meaning": "ikan",
+      "contoh_kalimat": [
+        {
+          "contoh": "魚屋",
+          "furigana": "さかなや",
+          "arti": "toko ikan"
+        },
+        {
+          "contoh": "金魚",
+          "furigana": "きんぎょ",
+          "arti": "ikan mas"
+        },
+        {
+          "contoh": "焼き魚",
+          "furigana": "やきざかな",
+          "arti": "ikan bakar"
+        }
+      ]
+    },
+    {
+      "id": 165,
+      "kanji": "鳥",
+      "onyomi": "チョウ",
+      "kunyomi": "とり",
+      "meaning": "burung",
+      "contoh_kalimat": [
+        {
+          "contoh": "鳥",
+          "furigana": "とり",
+          "arti": "burung"
+        },
+        {
+          "contoh": "焼き鳥",
+          "furigana": "やきとり",
+          "arti": "sate ayam Jepang"
+        },
+        {
+          "contoh": "白鳥",
+          "furigana": "はくちょう",
+          "arti": "angsa"
+        }
+      ]
+    },
+    {
+      "id": 166,
+      "kanji": "黒",
+      "onyomi": "コク",
+      "kunyomi": "くろ",
+      "meaning": "hitam",
+      "contoh_kalimat": [
+        {
+          "contoh": "黒い",
+          "furigana": "くろい",
+          "arti": "hitam"
+        },
+        {
+          "contoh": "黒板",
+          "furigana": "こくばん",
+          "arti": "papan tulis"
+        },
+        {
+          "contoh": "暗黒",
+          "furigana": "あんこく",
+          "arti": "kegelapan"
+        }
+      ]
+    },
+    {
+      "id": 167,
+      "kanji": "手",
+      "onyomi": "シュ",
+      "kunyomi": "て",
+      "meaning": "tangan",
+      "contoh_kalimat": [
+        {
+          "contoh": "手紙",
+          "furigana": "てがみ",
+          "arti": "surat"
+        },
+        {
+          "contoh": "上手",
+          "furigana": "じょうず",
+          "arti": "terampil"
+        },
+        {
+          "contoh": "選手",
+          "furigana": "せんしゅ",
+          "arti": "atlet"
+        }
+      ]
+    }
+  ]
+}

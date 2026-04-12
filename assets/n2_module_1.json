@@ -1,0 +1,572 @@
+[
+  {
+    "id": "question_n2_1_001",
+    "question": "「貢献」の意味として最も適切なものはどれですか。",
+    "furigana": "「貢献[こうけん]」の意味[いみ]として最[もっと]も適切[てきせつ]なものはどれですか。",
+    "romaji": "'Kouken' no imi toshite mottomo tekisetsu na mono wa dore desu ka.",
+    "level": "N2",
+    "category": "VOCABULARY",
+    "options": [
+      "社会や人のために力を尽くすこと",
+      "他人を批判すること",
+      "約束を守らないこと",
+      "競争に負けること"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Manakah arti yang paling tepat untuk '貢献'?",
+    "answerExplanation": "'貢献' (kouken) berarti kontribusi, yaitu memberikan tenaga atau usaha demi kepentingan masyarakat atau orang lain. Contoh: 「彼は地域社会に大きく貢献した」(Dia memberikan kontribusi besar kepada masyarakat setempat). Pilihan lain salah karena: 批判する = mengkritik, 約束を守らない = tidak menepati janji, 競争に負ける = kalah dalam persaingan.",
+    "hint": "Kata ini berkaitan dengan memberikan sumbangsih yang bermanfaat bagi orang lain atau masyarakat.",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_1_002",
+    "question": "彼は金銭を要求し、相手を___した。",
+    "furigana": "彼[かれ]は金銭[きんせん]を要求[ようきゅう]し、相手[あいて]を___した。",
+    "romaji": "Kare wa kinsen wo youkyuu shi, aite wo ___ shita.",
+    "level": "N2",
+    "category": "VOCABULARY",
+    "options": [
+      "奉仕",
+      "脅迫",
+      "賛成",
+      "妥協"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Dia menuntut uang dan ___ lawan bicaranya.",
+    "answerExplanation": "'脅迫' (kyouhaku) berarti mengancam atau mengintimidasi seseorang. Dalam konteks kalimat ini, seseorang menuntut uang dengan cara mengancam pihak lain. Pilihan lain tidak sesuai: 奉仕 = pelayanan/pengabdian, 賛成 = persetujuan, 妥協 = kompromi.",
+    "hint": "Kata ini berarti memaksa seseorang dengan cara menakut-nakuti.",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_1_003",
+    "question": "事故で記憶を___してしまった。",
+    "furigana": "事故[じこ]で記憶[きおく]を___してしまった。",
+    "romaji": "Jiko de kioku wo ___ shite shimatta.",
+    "level": "N2",
+    "category": "VOCABULARY",
+    "options": [
+      "獲得",
+      "喪失",
+      "発揮",
+      "維持"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Karena kecelakaan, dia ___ ingatannya.",
+    "answerExplanation": "'喪失' (soushitsu) berarti kehilangan sesuatu yang penting atau berharga. Dalam kalimat ini, seseorang kehilangan ingatannya akibat kecelakaan. Pilihan lain: 獲得 = memperoleh, 発揮 = menunjukkan (kemampuan), 維持 = mempertahankan. Semua berlawanan makna dengan konteks kalimat.",
+    "hint": "Kata ini menunjukkan hilangnya sesuatu yang sangat berharga secara tidak diinginkan.",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_1_004",
+    "question": "双方が___して、やっと契約がまとまった。",
+    "furigana": "双方[そうほう]が___して、やっと契約[けいやく]がまとまった。",
+    "romaji": "Souhou ga ___ shite, yatto keiyaku ga matomatta.",
+    "level": "N2",
+    "category": "VOCABULARY",
+    "options": [
+      "対立",
+      "拒否",
+      "妥協",
+      "独占"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Kedua belah pihak ___, dan akhirnya kontrak berhasil disepakati.",
+    "answerExplanation": "'妥協' (dakyou) berarti kompromi atau saling mengalah untuk mencapai kesepakatan. Konteks kalimat ini menunjukkan bahwa kedua belah pihak harus saling mengalah agar kontrak bisa disepakati. Pilihan lain: 対立 = bertentangan, 拒否 = menolak, 独占 = monopoli — semuanya justru akan menghalangi tercapainya kesepakatan.",
+    "hint": "Kata ini berarti saling mengalah demi mencapai titik tengah.",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_1_005",
+    "question": "彼女は研究に___して、食事も忘れてしまった。",
+    "furigana": "彼女[かのじょ]は研究[けんきゅう]に___して、食事[しょくじ]も忘[わす]れてしまった。",
+    "romaji": "Kanojo wa kenkyuu ni ___ shite, shokuji mo wasurete shimatta.",
+    "level": "N2",
+    "category": "VOCABULARY",
+    "options": [
+      "反発",
+      "没頭",
+      "放棄",
+      "依存"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Dia (perempuan) ___ dalam penelitian hingga lupa makan.",
+    "answerExplanation": "'没頭' (bottou) berarti sangat fokus atau tenggelam dalam suatu kegiatan sehingga melupakan hal lain. Kalimat ini menggambarkan seseorang yang begitu asyik meneliti sampai lupa makan. Pilihan lain: 反発 = perlawanan, 放棄 = meninggalkan/menyerah, 依存 = ketergantungan.",
+    "hint": "Kata ini menggambarkan keadaan sangat asyik sampai lupa segalanya.",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_1_006",
+    "question": "「孤立」の読み方はどれですか。",
+    "furigana": "「孤立[こりつ]」の読[よ]み方[かた]はどれですか。",
+    "romaji": "'Koritsu' no yomikata wa dore desu ka.",
+    "level": "N2",
+    "category": "KANJI",
+    "options": [
+      "こりつ",
+      "こだち",
+      "こりゅう",
+      "ころつ"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Bagaimana cara membaca '孤立'?",
+    "answerExplanation": "'孤立' dibaca 'こりつ' (koritsu) yang berarti terisolasi atau terpencil. Kanji '孤' (ko) berarti sendirian/yatim, dan '立' (ritsu) berarti berdiri. Jadi secara harfiah berarti 'berdiri sendirian'. Pilihan lain bukan cara baca yang benar: こだち bukan kata yang lazim, こりゅう = 交流 (pertukaran), ころつ bukan bacaan valid.",
+    "hint": "Kanji pertama dibaca 'ko' dan kanji kedua dibaca 'ritsu'.",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_1_007",
+    "question": "「合併」の読み方はどれですか。",
+    "furigana": "「合併[がっぺい]」の読[よ]み方[かた]はどれですか。",
+    "romaji": "'Gappei' no yomikata wa dore desu ka.",
+    "level": "N2",
+    "category": "KANJI",
+    "options": [
+      "ごうへい",
+      "がっぺい",
+      "かっぺい",
+      "がっべい"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Bagaimana cara membaca '合併'?",
+    "answerExplanation": "'合併' dibaca 'がっぺい' (gappei) yang berarti penggabungan atau merger. Kanji '合' bisa dibaca 'gou/gatsu/ga' dan '併' dibaca 'hei/pei'. Karena ada sokuon (っ), maka '合' menjadi 'ga' + っ, dan '併' menjadi 'pei' (dengan perubahan bunyi h→p). Perhatikan bahwa pilihan がっべい salah karena konsonan 'b' seharusnya 'p'.",
+    "hint": "Perhatikan sokuon (っ) dan perubahan bunyi 'h' menjadi 'p'.",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_1_008",
+    "question": "「繁栄」の読み方はどれですか。",
+    "furigana": "「繁栄[はんえい]」の読[よ]み方[かた]はどれですか。",
+    "romaji": "'Han'ei' no yomikata wa dore desu ka.",
+    "level": "N2",
+    "category": "KANJI",
+    "options": [
+      "はんよう",
+      "ばんえい",
+      "はんえい",
+      "はんかく"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Bagaimana cara membaca '繁栄'?",
+    "answerExplanation": "'繁栄' dibaca 'はんえい' (han'ei) yang berarti kemakmuran atau kejayaan. Kanji '繁' (han) berarti ramai/banyak, dan '栄' (ei) berarti kemakmuran/kejayaan. Pilihan はんよう salah karena ようbukan bacaan untuk 栄, ばんえい salah karena 繁 dibaca はん bukan ばん dalam kata ini, はんかく tidak relevan.",
+    "hint": "Kanji pertama dibaca 'han' dan kanji kedua dibaca 'ei'.",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_1_009",
+    "question": "「挫折」の読み方はどれですか。",
+    "furigana": "「挫折[ざせつ]」の読[よ]み方[かた]はどれですか。",
+    "romaji": "'Zasetsu' no yomikata wa dore desu ka.",
+    "level": "N2",
+    "category": "KANJI",
+    "options": [
+      "させつ",
+      "ざぜつ",
+      "ざせつ",
+      "さぜつ"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Bagaimana cara membaca '挫折'?",
+    "answerExplanation": "'挫折' dibaca 'ざせつ' (zasetsu) yang berarti kegagalan, patah semangat, atau kekalahan di tengah jalan. Kanji '挫' dibaca 'za' dan '折' dibaca 'setsu'. Perhatikan bahwa '挫' menggunakan dakuten (ざ bukan さ), sedangkan '折' tetap 'setsu' tanpa dakuten. Pilihan ざぜつ salah karena 折 tidak dibaca 'zetsu'.",
+    "hint": "Kanji pertama memiliki dakuten (za), sedangkan kanji kedua tidak (setsu).",
+    "difficultyScore": 6
+  },
+  {
+    "id": "question_n2_1_010",
+    "question": "「手配」の読み方はどれですか。",
+    "furigana": "「手配[てはい]」の読[よ]み方[かた]はどれですか。",
+    "romaji": "'Tehai' no yomikata wa dore desu ka.",
+    "level": "N2",
+    "category": "KANJI",
+    "options": [
+      "しゅはい",
+      "てぱい",
+      "てはい",
+      "てばい"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Bagaimana cara membaca '手配'?",
+    "answerExplanation": "'手配' dibaca 'てはい' (tehai) yang berarti pengaturan atau persiapan (seperti menyiapkan tiket, hotel, dsb). Kanji '手' di sini dibaca 'te' (kun'yomi), bukan 'shu' (on'yomi). '配' dibaca 'hai'. Pilihan しゅはい salah karena menggunakan on'yomi untuk 手, てぱい dan てばい salah karena 配 dibaca 'hai' bukan 'pai' atau 'bai'.",
+    "hint": "Kanji pertama menggunakan bacaan kun'yomi yang sangat umum.",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_1_011",
+    "question": "荷物が届き___、すぐにご連絡いたします。",
+    "furigana": "荷物[にもつ]が届[とど]き___、すぐにご連絡[れんらく]いたします。",
+    "romaji": "Nimotsu ga todoki ___, sugu ni go-renraku itashimasu.",
+    "level": "N2",
+    "category": "GRAMMAR",
+    "options": [
+      "次第",
+      "たとたん",
+      "がてら",
+      "ながら"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Segera setelah barang tiba, saya akan langsung menghubungi Anda.",
+    "answerExplanation": "'〜次第' (shidai) yang disambungkan dengan bentuk masu-stem kata kerja berarti 'segera setelah'. Pola ini sering digunakan dalam bahasa formal/bisnis untuk menyatakan bahwa tindakan akan segera dilakukan begitu suatu kondisi terpenuhi. Contoh: 届き次第 = segera setelah tiba. Pilihan たとたん tidak bisa digabung langsung dengan masu-stem, がてら berarti 'sambil', ながら berarti 'sambil/meskipun'.",
+    "hint": "Pola tata bahasa ini digunakan dalam konteks formal untuk menyatakan 'segera setelah sesuatu terjadi'.",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_1_012",
+    "question": "最近、日本語を忘れる___なので、毎日復習している。",
+    "furigana": "最近[さいきん]、日本語[にほんご]を忘[わす]れる___なので、毎日[まいにち]復習[ふくしゅう]している。",
+    "romaji": "Saikin, nihongo wo wasureru ___ na node, mainichi fukushuu shite iru.",
+    "level": "N2",
+    "category": "GRAMMAR",
+    "options": [
+      "ばかりだ",
+      "一方だ",
+      "ほどだ",
+      "くらいだ"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Akhir-akhir ini saya terus-menerus lupa bahasa Jepang, jadi saya mengulang setiap hari.",
+    "answerExplanation": "'〜一方だ' (ippou da) digunakan untuk menyatakan perubahan yang terus berlanjut ke satu arah, biasanya ke arah negatif. Pola: kata kerja bentuk kamus + 一方だ. Dalam kalimat ini, kemampuan bahasa Jepang terus menurun (terus lupa). Pilihan ばかりだ juga bisa menyatakan kecenderungan negatif tetapi biasanya tidak disambung dengan 'な node', ほどだ dan くらいだ menyatakan derajat/tingkat.",
+    "hint": "Pola ini menggambarkan situasi yang terus berubah ke satu arah tanpa berhenti.",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_1_013",
+    "question": "環境問題に対する意識は少しずつ高まり___。",
+    "furigana": "環境問題[かんきょうもんだい]に対[たい]する意識[いしき]は少[すこ]しずつ高[たか]まり___。",
+    "romaji": "Kankyou mondai ni taisuru ishiki wa sukoshi zutsu takamari ___.",
+    "level": "N2",
+    "category": "GRAMMAR",
+    "options": [
+      "かけている",
+      "つつある",
+      "っぱなしだ",
+      "きっている"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Kesadaran terhadap masalah lingkungan sedang dalam proses meningkat sedikit demi sedikit.",
+    "answerExplanation": "'〜つつある' (tsutsu aru) digunakan untuk menyatakan bahwa suatu perubahan sedang berlangsung secara bertahap. Pola: masu-stem + つつある. Kalimat ini menggambarkan kesadaran lingkungan yang sedang dalam proses meningkat. Pilihan かけている berarti 'hampir/setengah jalan', っぱなしだ berarti 'dibiarkan begitu saja', きっている berarti 'sepenuhnya/sudah benar-benar'.",
+    "hint": "Pola ini menyatakan proses perubahan yang sedang berlangsung secara gradual.",
+    "difficultyScore": 6
+  },
+  {
+    "id": "question_n2_1_014",
+    "question": "卒業___、お世話になった先生方に感謝の言葉を述べたいと思います。",
+    "furigana": "卒業[そつぎょう]___、お世話[せわ]になった先生方[せんせいがた]に感謝[かんしゃ]の言葉[ことば]を述[の]べたいと思[おも]います。",
+    "romaji": "Sotsugyou ___, osewa ni natta sensei-gata ni kansha no kotoba wo nobetai to omoimasu.",
+    "level": "N2",
+    "category": "GRAMMAR",
+    "options": [
+      "に関して",
+      "に対して",
+      "に際して",
+      "について"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Pada kesempatan kelulusan ini, saya ingin menyampaikan kata-kata terima kasih kepada para guru yang telah membimbing saya.",
+    "answerExplanation": "'〜に際して' (ni saishite) berarti 'pada kesempatan' atau 'pada saat' suatu peristiwa penting terjadi. Pola ini digunakan dalam konteks formal. Pilihan に関して berarti 'mengenai/berkaitan dengan', に対して berarti 'terhadap', について berarti 'tentang'. Hanya に際して yang cocok untuk menyatakan 'pada saat/kesempatan kelulusan'.",
+    "hint": "Pola ini digunakan untuk momen atau peristiwa penting dalam konteks formal.",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_1_015",
+    "question": "証拠がこれだけある以上、事実を認め___。",
+    "furigana": "証拠[しょうこ]がこれだけある以上[いじょう]、事実[じじつ]を認[みと]め___。",
+    "romaji": "Shouko ga kore dake aru ijou, jijitsu wo mitome ___.",
+    "level": "N2",
+    "category": "GRAMMAR",
+    "options": [
+      "てはいけない",
+      "なくてもいい",
+      "ざるを得ない",
+      "ないでほしい"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Dengan bukti sebanyak ini, mau tidak mau harus mengakui faktanya.",
+    "answerExplanation": "'〜ざるを得ない' (zaru wo enai) berarti 'terpaksa harus' atau 'tidak bisa tidak melakukan'. Pola: ない-stem (tanpa ない) + ざるを得ない. Untuk kata kerja する menjadi せざるを得ない. Dalam kalimat ini, karena bukti sudah cukup banyak, tidak ada pilihan lain selain mengakui fakta. Pilihan てはいけない = tidak boleh, なくてもいい = tidak perlu, ないでほしい = mohon jangan.",
+    "hint": "Pola ini menyatakan keterpaksaan — tidak ada pilihan lain selain melakukan sesuatu.",
+    "difficultyScore": 7
+  },
+  {
+    "id": "question_n2_1_016",
+    "question": "何度も話し合いを重ねた___、ようやく全員が納得する結論に達した。",
+    "furigana": "何度[なんど]も話[はな]し合[あ]いを重[かさ]ねた___、ようやく全員[ぜんいん]が納得[なっとく]する結論[けつろん]に達[たっ]した。",
+    "romaji": "Nando mo hanashiai wo kasaneta ___, youyaku zen'in ga nattoku suru ketsuron ni tasshita.",
+    "level": "N2",
+    "category": "GRAMMAR",
+    "options": [
+      "ところで",
+      "ついでに",
+      "末に",
+      "最中に"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Setelah melalui banyak diskusi berulang kali, akhirnya tercapai kesimpulan yang memuaskan semua orang.",
+    "answerExplanation": "'〜末に' (sue ni) berarti 'pada akhirnya setelah melalui proses yang panjang'. Pola: kata kerja bentuk た/名詞の + 末に. Nuansa pola ini menekankan bahwa proses sebelumnya panjang dan penuh usaha. Pilihan ところで = omong-omong/by the way, ついでに = sekalian/sambil, 最中に = di tengah-tengah (sedang berlangsung).",
+    "hint": "Pola ini menekankan hasil akhir setelah melalui proses panjang yang melelahkan.",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_1_017",
+    "question": "台風___、本日の午後のフライトはすべて欠航となりました。",
+    "furigana": "台風[たいふう]___、本日[ほんじつ]の午後[ごご]のフライトはすべて欠航[けっこう]となりました。",
+    "romaji": "Taifuu ___, honjitsu no gogo no furaito wa subete kekkou to narimashita.",
+    "level": "N2",
+    "category": "GRAMMAR",
+    "options": [
+      "のおかげで",
+      "のせいで",
+      "の影響で",
+      "のもとで"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Akibat pengaruh topan, semua penerbangan sore ini dibatalkan.",
+    "answerExplanation": "'〜の影響で' (no eikyou de) berarti 'karena pengaruh/dampak dari'. Pola ini digunakan secara netral untuk menyatakan sebab-akibat, terutama dalam berita atau pengumuman resmi. Pilihan のおかげで digunakan untuk dampak positif (berkat), のせいで digunakan untuk menyalahkan (gara-gara) — keduanya lebih subjektif. のもとで berarti 'di bawah (bimbingan/pimpinan)'. の影響で lebih netral dan cocok untuk konteks pengumuman resmi.",
+    "hint": "Ungkapan netral yang sering digunakan dalam berita untuk menyatakan dampak suatu peristiwa.",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_1_018",
+    "question": "（読解）次の文章を読んで、質問に答えてください。\n\n近年、日本では少子化が急速に進んでおり、社会全体に深刻な影響を与えている。出生率の低下により、将来の労働力が不足することが懸念されている。政府は子育て支援策を強化し、育児休暇の拡充や保育施設の増設を進めているが、効果はまだ限定的である。経済学者の中には、少子化の最大の問題は年金制度の維持が困難になることだと指摘する声もある。若い世代の負担が増加し、社会保障制度全体の見直しが求められている。\n\n質問：この文章で少子化の最大の懸念として挙げられているのは何か。",
+    "furigana": "（読解[どっかい]）次[つぎ]の文章[ぶんしょう]を読[よ]んで、質問[しつもん]に答[こた]えてください。\n\n近年[きんねん]、日本[にほん]では少子化[しょうしか]が急速[きゅうそく]に進[すす]んでおり、社会全体[しゃかいぜんたい]に深刻[しんこく]な影響[えいきょう]を与[あた]えている。出生率[しゅっしょうりつ]の低下[ていか]により、将来[しょうらい]の労働力[ろうどうりょく]が不足[ふそく]することが懸念[けねん]されている。政府[せいふ]は子育[こそだ]て支援策[しえんさく]を強化[きょうか]し、育児休暇[いくじきゅうか]の拡充[かくじゅう]や保育施設[ほいくしせつ]の増設[ぞうせつ]を進[すす]めているが、効果[こうか]はまだ限定的[げんていてき]である。経済学者[けいざいがくしゃ]の中[なか]には、少子化[しょうしか]の最大[さいだい]の問題[もんだい]は年金制度[ねんきんせいど]の維持[いじ]が困難[こんなん]になることだと指摘[してき]する声[こえ]もある。若[わか]い世代[せだい]の負担[ふたん]が増加[ぞうか]し、社会保障制度[しゃかいほしょうせいど]全体[ぜんたい]の見直[みなお]しが求[もと]められている。\n\n質問[しつもん]：この文章[ぶんしょう]で少子化[しょうしか]の最大[さいだい]の懸念[けねん]として挙[あ]げられているのは何[なに]か。",
+    "romaji": "(Dokkai) Tsugi no bunshou wo yonde, shitsumon ni kotaete kudasai.\n\nKinnen, Nihon dewa shoushika ga kyuusoku ni susunde ori, shakai zentai ni shinkoku na eikyou wo ataete iru. Shusshouritsu no teika ni yori, shourai no roudouryoku ga fusoku suru koto ga kenen sarete iru. Seifu wa kosodate shien-saku wo kyouka shi, ikuji kyuuka no kakujuu ya hoiku shisetsu no zousetsu wo susumete iru ga, kouka wa mada genteiteki de aru. Keizai gakusha no naka ni wa, shoushika no saidai no mondai wa nenkin seido no iji ga konnan ni naru koto da to shiteki suru koe mo aru. Wakai sedai no futan ga zouka shi, shakai hoshou seido zentai no minaoshi ga motomerarete iru.\n\nShitsumon: Kono bunshou de shoushika no saidai no kenen toshite agerarete iru no wa nani ka.",
+    "level": "N2",
+    "category": "READING",
+    "options": [
+      "保育施設が足りないこと",
+      "若者が結婚しなくなったこと",
+      "年金制度の維持が困難になること",
+      "外国人労働者が増えていること"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "(Membaca) Bacalah teks berikut dan jawab pertanyaannya.\n\nBelakangan ini, penurunan angka kelahiran (shoushika) di Jepang berkembang pesat dan memberikan dampak serius bagi seluruh masyarakat. Penurunan angka kelahiran menimbulkan kekhawatiran akan kekurangan tenaga kerja di masa depan. Pemerintah memperkuat kebijakan dukungan pengasuhan anak, memperluas cuti melahirkan, dan menambah fasilitas penitipan anak, tetapi efeknya masih terbatas. Ada sebagian ekonom yang menunjukkan bahwa masalah terbesar dari shoushika adalah sulitnya mempertahankan sistem pensiun. Beban generasi muda meningkat, dan peninjauan ulang seluruh sistem jaminan sosial dituntut.\n\nPertanyaan: Apa kekhawatiran terbesar terkait shoushika yang disebutkan dalam teks ini?",
+    "answerExplanation": "Teks menyebutkan bahwa ekonom menunjukkan masalah terbesar (最大の問題) dari shoushika adalah sulitnya mempertahankan sistem pensiun (年金制度の維持が困難になること). Pilihan 保育施設が足りない disebutkan sebagai salah satu upaya pemerintah, bukan sebagai kekhawatiran terbesar. Pilihan tentang pernikahan dan pekerja asing tidak disebutkan dalam teks.",
+    "hint": "Cari frasa '最大の問題は' dalam teks untuk menemukan jawabannya.",
+    "difficultyScore": 6
+  },
+  {
+    "id": "question_n2_1_019",
+    "question": "（読解）次のメールを読んで、質問に答えてください。\n\n社員各位\n\n人事部よりお知らせいたします。来月より、当社の福利厚生制度が一部変更されます。これまで年間5日間だった有給のボランティア休暇が、10日間に拡充されます。また、新たにリモートワーク手当として月額5,000円が支給されることになりました。なお、従来の通勤手当については、リモートワークを主とする社員は実費精算に変更となります。詳細は社内ポータルをご確認ください。\n\n人事部　山田\n\n質問：このメールによると、新しく導入される制度は何か。",
+    "furigana": "（読解[どっかい]）次[つぎ]のメールを読[よ]んで、質問[しつもん]に答[こた]えてください。\n\n社員各位[しゃいんかくい]\n\n人事部[じんじぶ]よりお知[し]らせいたします。来月[らいげつ]より、当社[とうしゃ]の福利厚生制度[ふくりこうせいせいど]が一部変更[いちぶへんこう]されます。これまで年間[ねんかん]5日間[いつかかん]だった有給[ゆうきゅう]のボランティア休暇[きゅうか]が、10日間[とおかかん]に拡充[かくじゅう]されます。また、新[あら]たにリモートワーク手当[てあて]として月額[げつがく]5,000円[えん]が支給[しきゅう]されることになりました。なお、従来[じゅうらい]の通勤手当[つうきんてあて]については、リモートワークを主[しゅ]とする社員[しゃいん]は実費精算[じっぴせいさん]に変更[へんこう]となります。詳細[しょうさい]は社内[しゃない]ポータルをご確認[かくにん]ください。\n\n人事部[じんじぶ]　山田[やまだ]\n\n質問[しつもん]：このメールによると、新[あたら]しく導入[どうにゅう]される制度[せいど]は何[なに]か。",
+    "romaji": "(Dokkai) Tsugi no meeru wo yonde, shitsumon ni kotaete kudasai.\n\nShain kakui\n\nJinjibu yori oshirase itashimasu. Raigetsu yori, tousha no fukuri kousei seido ga ichibu henkou saremasu. Kore made nenkan itsuka-kan datta yuukyuu no borantia kyuuka ga, tooka-kan ni kakujuu saremasu. Mata, arata ni rimooto waaku teate toshite getsugaku go-sen en ga shikyuu sareru koto ni narimashita. Nao, juurai no tsuukin teate ni tsuite wa, rimooto waaku wo shu to suru shain wa jippi seisan ni henkou to narimasu. Shousai wa shanai pootaru wo go-kakunin kudasai.\n\nJinjibu Yamada\n\nShitsumon: Kono meeru ni yoru to, atarashiku dounyuu sareru seido wa nani ka.",
+    "level": "N2",
+    "category": "READING",
+    "options": [
+      "通勤手当の廃止",
+      "ボランティア休暇の廃止",
+      "リモートワーク手当の支給",
+      "有給休暇の削減"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "(Membaca) Bacalah email berikut dan jawab pertanyaannya.\n\nKepada seluruh karyawan,\n\nDengan ini bagian HRD memberitahukan bahwa mulai bulan depan, sebagian sistem tunjangan perusahaan akan diubah. Cuti sukarelawan berbayar yang sebelumnya 5 hari per tahun akan diperluas menjadi 10 hari. Selain itu, tunjangan kerja jarak jauh (remote work) sebesar 5.000 yen per bulan akan mulai diberikan. Adapun tunjangan transportasi yang sudah ada, bagi karyawan yang utamanya bekerja jarak jauh, akan diubah menjadi penggantian biaya aktual. Silakan cek portal internal untuk detail lebih lanjut.\n\nBagian HRD, Yamada\n\nPertanyaan: Menurut email ini, sistem apa yang baru diperkenalkan?",
+    "answerExplanation": "Email menyebutkan '新たにリモートワーク手当として月額5,000円が支給されることになりました' yang berarti tunjangan remote work sebesar 5.000 yen per bulan adalah hal yang BARU diperkenalkan. Cuti sukarelawan diperluas (bukan dihapus), tunjangan transportasi diubah (bukan dihapus), dan tidak ada pengurangan cuti berbayar. Kata kunci '新たに' (arata ni = secara baru) menunjukkan ini adalah kebijakan baru.",
+    "hint": "Perhatikan kata '新たに' (baru) dalam email untuk menemukan kebijakan yang benar-benar baru.",
+    "difficultyScore": 6
+  },
+  {
+    "id": "question_n2_1_020",
+    "question": "（読解）次の文章を読んで、質問に答えてください。\n\n現代社会において、ボランティア活動の重要性がますます高まっている。ボランティアは単に困っている人を助けるだけでなく、参加者自身にも大きな成長をもたらすものである。異なる背景を持つ人々と協力することで、視野が広がり、コミュニケーション能力も向上する。しかし、日本では欧米に比べてボランティア参加率がまだ低いのが現状だ。筆者は、ボランティア活動の本当の価値は、社会を変える力ではなく、自分自身の価値観を見つめ直す機会にあると考えている。他者のために行動することで、自分が本当に大切にしたいものが見えてくるのである。\n\n質問：筆者が考えるボランティア活動の本当の価値は何か。",
+    "furigana": "（読解[どっかい]）次[つぎ]の文章[ぶんしょう]を読[よ]んで、質問[しつもん]に答[こた]えてください。\n\n現代社会[げんだいしゃかい]において、ボランティア活動[かつどう]の重要性[じゅうようせい]がますます高[たか]まっている。ボランティアは単[たん]に困[こま]っている人[ひと]を助[たす]けるだけでなく、参加者自身[さんかしゃじしん]にも大[おお]きな成長[せいちょう]をもたらすものである。異[こと]なる背景[はいけい]を持[も]つ人々[ひとびと]と協力[きょうりょく]することで、視野[しや]が広[ひろ]がり、コミュニケーション能力[のうりょく]も向上[こうじょう]する。しかし、日本[にほん]では欧米[おうべい]に比[くら]べてボランティア参加率[さんかりつ]がまだ低[ひく]いのが現状[げんじょう]だ。筆者[ひっしゃ]は、ボランティア活動[かつどう]の本当[ほんとう]の価値[かち]は、社会[しゃかい]を変[か]える力[ちから]ではなく、自分自身[じぶんじしん]の価値観[かちかん]を見[み]つめ直[なお]す機会[きかい]にあると考[かんが]えている。他者[たしゃ]のために行動[こうどう]することで、自分[じぶん]が本当[ほんとう]に大切[たいせつ]にしたいものが見[み]えてくるのである。\n\n質問[しつもん]：筆者[ひっしゃ]が考[かんが]えるボランティア活動[かつどう]の本当[ほんとう]の価値[かち]は何[なに]か。",
+    "romaji": "(Dokkai) Tsugi no bunshou wo yonde, shitsumon ni kotaete kudasai.\n\nGendai shakai ni oite, borantia katsudou no juuyousei ga masumasu takamatte iru. Borantia wa tan ni komatte iru hito wo tasukeru dake de naku, sankasha jishin ni mo ookina seichou wo motarasu mono de aru. Kotonaru haikei wo motsu hitobito to kyouryoku suru koto de, shiya ga hirogari, komyunikeeshon nouryoku mo koujou suru. Shikashi, Nihon dewa oubei ni kurabete borantia sanka-ritsu ga mada hikui no ga genjou da. Hissha wa, borantia katsudou no hontou no kachi wa, shakai wo kaeru chikara de wa naku, jibun jishin no kachikan wo mitsumeNaosu kikai ni aru to kangaete iru. Tasha no tame ni koudou suru koto de, jibun ga hontou ni taisetsu ni shitai mono ga miete kuru no de aru.\n\nShitsumon: Hissha ga kangaeru borantia katsudou no hontou no kachi wa nani ka.",
+    "level": "N2",
+    "category": "READING",
+    "options": [
+      "困っている人を直接助けること",
+      "コミュニケーション能力が向上すること",
+      "自分自身の価値観を見つめ直す機会になること",
+      "社会全体を大きく変える力があること"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "(Membaca) Bacalah teks berikut dan jawab pertanyaannya.\n\nDalam masyarakat modern, pentingnya kegiatan sukarelawan semakin meningkat. Kesukarelawanan bukan hanya sekadar membantu orang yang kesulitan, tetapi juga memberikan pertumbuhan besar bagi peserta itu sendiri. Dengan bekerja sama dengan orang-orang dari latar belakang berbeda, wawasan menjadi luas dan kemampuan komunikasi juga meningkat. Namun, di Jepang, tingkat partisipasi sukarelawan masih rendah dibandingkan negara Barat. Penulis berpendapat bahwa nilai sejati kegiatan sukarelawan bukanlah kekuatan untuk mengubah masyarakat, melainkan kesempatan untuk merenungkan kembali nilai-nilai diri sendiri. Dengan bertindak demi orang lain, kita bisa melihat apa yang benar-benar ingin kita hargai.\n\nPertanyaan: Menurut penulis, apa nilai sejati dari kegiatan sukarelawan?",
+    "answerExplanation": "Penulis secara eksplisit menyatakan bahwa nilai sejati kegiatan sukarelawan adalah '自分自身の価値観を見つめ直す機会' (kesempatan untuk merenungkan kembali nilai-nilai diri sendiri). Penulis bahkan menegaskan bahwa nilainya BUKAN pada kekuatan mengubah masyarakat ('社会を変える力ではなく'). Pilihan tentang membantu orang dan meningkatkan kemampuan komunikasi disebutkan dalam teks, tetapi bukan sebagai 'nilai sejati' menurut penulis.",
+    "hint": "Cari kalimat yang dimulai dengan '筆者は' untuk menemukan pendapat penulis tentang nilai sejati.",
+    "difficultyScore": 7
+  },
+  {
+    "id": "question_n2_1_021",
+    "question": "この問題___、専門家の意見を聞く必要がある。",
+    "furigana": "この問題[もんだい]___、専門家[せんもんか]の意見[いけん]を聞[き]く必要[ひつよう]がある。",
+    "romaji": "Kono mondai ___, senmonka no iken wo kiku hitsuyou ga aru.",
+    "level": "N2",
+    "category": "GRAMMAR",
+    "options": [
+      "に関して",
+      "にとって",
+      "について",
+      "に応じて"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Berkaitan dengan masalah ini, perlu mendengar pendapat para ahli.",
+    "answerExplanation": "「～に関して」(ni kanshite) berarti 'berkaitan dengan' atau 'mengenai', digunakan dalam konteks formal untuk menunjukkan topik yang dibahas. Berbeda dengan 「について」yang lebih umum, 「に関して」lebih formal dan sering digunakan dalam tulisan resmi. 「にとって」berarti 'bagi', 「に応じて」berarti 'sesuai dengan'.",
+    "hint": "Kata sambung formal yang berarti 'berkaitan dengan' atau 'mengenai' suatu topik.",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_1_022",
+    "question": "努力した___、結果は思わしくなかった。",
+    "furigana": "努力[どりょく]した___、結果[けっか]は思[おも]わしくなかった。",
+    "romaji": "Doryoku shita ___, kekka wa omowashiku nakatta.",
+    "level": "N2",
+    "category": "GRAMMAR",
+    "options": [
+      "にもかかわらず",
+      "に関して",
+      "において",
+      "にしたがって"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "___ sudah berusaha, hasilnya tidak memuaskan.",
+    "answerExplanation": "「～にもかかわらず」(nimo kakawarazu) berarti 'meskipun' atau 'walaupun', menunjukkan bahwa hasil berbeda dari yang diharapkan berdasarkan kondisi sebelumnya. Pola ini lebih formal daripada 「のに」. 「に関して」berarti 'mengenai', 「において」berarti 'di/dalam', 「にしたがって」berarti 'sesuai dengan'.",
+    "hint": "Pola tata bahasa formal yang menunjukkan kontras antara usaha dan hasil yang tidak sesuai harapan.",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_1_023",
+    "question": "地球温暖化の影響で、氷河は縮小し___。",
+    "furigana": "地球[ちきゅう]温暖化[おんだんか]の影響[えいきょう]で、氷河[ひょうが]は縮小[しゅくしょう]し___。",
+    "romaji": "Chikyuu ondanka no eikyou de, hyouga wa shukushou shi ___.",
+    "level": "N2",
+    "category": "GRAMMAR",
+    "options": [
+      "がちだ",
+      "つつある",
+      "っぽい",
+      "かねない"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Akibat pemanasan global, gletser ___ menyusut.",
+    "answerExplanation": "「～つつある」(tsutsu aru) berarti 'sedang dalam proses' atau 'secara bertahap', menunjukkan perubahan yang sedang berlangsung secara perlahan. Cocok untuk menggambarkan fenomena alam yang berubah secara gradual. 「がちだ」berarti 'cenderung', 「っぽい」berarti 'terkesan seperti', 「かねない」berarti 'mungkin saja (negatif)'.",
+    "hint": "Pola yang menggambarkan perubahan bertahap yang sedang berlangsung.",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_1_024",
+    "question": "この研究は社会の___に大きく貢献するものと期待されている。",
+    "furigana": "この研究[けんきゅう]は社会[しゃかい]の___に大[おお]きく貢献[こうけん]するものと期待[きたい]されている。",
+    "romaji": "Kono kenkyuu wa shakai no ___ ni ookiku kouken suru mono to kitai sarete iru.",
+    "level": "N2",
+    "category": "VOCABULARY",
+    "options": [
+      "発展",
+      "反省",
+      "撤退",
+      "崩壊"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Penelitian ini diharapkan dapat berkontribusi besar terhadap ___ masyarakat.",
+    "answerExplanation": "「発展」(hatten) berarti perkembangan atau kemajuan. Dalam konteks ini, penelitian diharapkan berkontribusi pada perkembangan masyarakat. 「反省」berarti introspeksi, 「撤退」berarti mundur/menarik diri, 「崩壊」berarti keruntuhan — semuanya tidak sesuai dengan konteks positif kalimat.",
+    "hint": "Kata yang berarti kemajuan atau perkembangan ke arah yang lebih baik.",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_1_025",
+    "question": "会議で様々な案を___した結果、最善の方法が見つかった。",
+    "furigana": "会議[かいぎ]で様々[さまざま]な案[あん]を___した結果[けっか]、最善[さいぜん]の方法[ほうほう]が見[み]つかった。",
+    "romaji": "Kaigi de samazama na an wo ___ shita kekka, saizen no houhou ga mitsukatta.",
+    "level": "N2",
+    "category": "VOCABULARY",
+    "options": [
+      "検討",
+      "中断",
+      "放棄",
+      "延期"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Setelah ___ berbagai rencana dalam rapat, metode terbaik ditemukan.",
+    "answerExplanation": "「検討」(kentou) berarti pertimbangan atau pembahasan secara mendalam. Dalam konteks rapat, berbagai rencana dipertimbangkan secara matang sehingga ditemukan metode terbaik. 「中断」berarti terputus, 「放棄」berarti menyerah/meninggalkan, 「延期」berarti menunda.",
+    "hint": "Kata yang berarti mempertimbangkan atau mengkaji sesuatu secara mendalam.",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_1_026",
+    "question": "両国間の関係___のために、首脳会談が行われた。",
+    "furigana": "両国間[りょうこくかん]の関係[かんけい]___のために、首脳[しゅのう]会談[かいだん]が行[おこな]われた。",
+    "romaji": "Ryoukokukan no kankei ___ no tame ni, shunou kaidan ga okonawareta.",
+    "level": "N2",
+    "category": "VOCABULARY",
+    "options": [
+      "悪化",
+      "改善",
+      "破綻",
+      "停止"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Pertemuan puncak diadakan untuk ___ hubungan antara kedua negara.",
+    "answerExplanation": "「改善」(kaizen) berarti perbaikan atau peningkatan kualitas. Pertemuan puncak diadakan untuk memperbaiki hubungan kedua negara. 「悪化」berarti memburuk, 「破綻」berarti kehancuran, 「停止」berarti penghentian — semuanya negatif dan tidak sesuai dengan tujuan diadakannya pertemuan puncak.",
+    "hint": "Kata yang berarti membuat sesuatu menjadi lebih baik dari kondisi sebelumnya.",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_1_027",
+    "question": "「環境保護」の正しい読み方はどれですか。",
+    "furigana": "「環境保護[かんきょうほご]」の正[ただ]しい読[よ]み方[かた]はどれですか。",
+    "romaji": "'Kankyou hogo' no tadashii yomikata wa dore desu ka.",
+    "level": "N2",
+    "category": "KANJI",
+    "options": [
+      "かんきょうほご",
+      "かんけいほご",
+      "かんきょうほしゅ",
+      "げんきょうほご"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Manakah cara baca yang benar untuk '環境保護'?",
+    "answerExplanation": "「環境保護」dibaca 'かんきょうほご' (kankyou hogo), berarti perlindungan lingkungan. 「環境」(kankyou) = lingkungan, 「保護」(hogo) = perlindungan. Pilihan lain salah: 「かんけい」adalah bacaan untuk 関係 (hubungan), 「ほしゅ」adalah bacaan untuk 保守 (konservatif), 「げんきょう」adalah bacaan untuk 現況 (kondisi saat ini).",
+    "hint": "Gabungan dua kata kanji: lingkungan + perlindungan.",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_1_028",
+    "question": "「経済発展」の正しい読み方はどれですか。",
+    "furigana": "「経済発展[けいざいはってん]」の正[ただ]しい読[よ]み方[かた]はどれですか。",
+    "romaji": "'Keizai hatten' no tadashii yomikata wa dore desu ka.",
+    "level": "N2",
+    "category": "KANJI",
+    "options": [
+      "けいざいはつてん",
+      "けいざいはってん",
+      "けいさいはってん",
+      "きざいはってん"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Manakah cara baca yang benar untuk '経済発展'?",
+    "answerExplanation": "「経済発展」dibaca 'けいざいはってん' (keizai hatten), berarti perkembangan ekonomi. Perhatikan bahwa 「発展」dibaca 'はってん' dengan konsonan ganda (促音), bukan 'はつてん'. 「経済」dibaca 'けいざい', bukan 'けいさい' (yang merupakan bacaan untuk 掲載 = publikasi) atau 'きざい' (yang tidak umum).",
+    "hint": "Perhatikan konsonan ganda (促音) pada kata kedua.",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_1_029",
+    "question": "（読解）次の文章を読んで、質問に答えてください。\n\n近年、企業における働き方改革が急速に進んでいる。特に注目されているのは、フレックスタイム制度の導入である。この制度に関して、ある調査によると、導入企業の約70％が「従業員の満足度が向上した」と回答している。にもかかわらず、導入に慎重な企業も少なくない。その理由として、チーム間のコミュニケーション不足や、勤務時間の管理が難しくなることが挙げられている。専門家は、制度の成功には、明確なルール設定と定期的な見直しが不可欠だと指摘している。\n\n質問：フレックスタイム制度の導入に慎重な企業が懸念していることは何か。",
+    "furigana": "（読解[どっかい]）次[つぎ]の文章[ぶんしょう]を読[よ]んで、質問[しつもん]に答[こた]えてください。\n\n近年[きんねん]、企業[きぎょう]における働[はたら]き方[かた]改革[かいかく]が急速[きゅうそく]に進[すす]んでいる。特[とく]に注目[ちゅうもく]されているのは、フレックスタイム制度[せいど]の導入[どうにゅう]である。この制度[せいど]に関[かん]して、ある調査[ちょうさ]によると、導入[どうにゅう]企業[きぎょう]の約[やく]70％が「従業員[じゅうぎょういん]の満足度[まんぞくど]が向上[こうじょう]した」と回答[かいとう]している。にもかかわらず、導入[どうにゅう]に慎重[しんちょう]な企業[きぎょう]も少[すく]なくない。その理由[りゆう]として、チーム間[かん]のコミュニケーション不足[ぶそく]や、勤務[きんむ]時間[じかん]の管理[かんり]が難[むずか]しくなることが挙[あ]げられている。専門家[せんもんか]は、制度[せいど]の成功[せいこう]には、明確[めいかく]なルール設定[せってい]と定期的[ていきてき]な見直[みなお]しが不可欠[ふかけつ]だと指摘[してき]している。\n\n質問[しつもん]：フレックスタイム制度[せいど]の導入[どうにゅう]に慎重[しんちょう]な企業[きぎょう]が懸念[けねん]していることは何[なに]か。",
+    "romaji": "(Dokkai) Tsugi no bunshou wo yonde, shitsumon ni kotaete kudasai.\n\nKinnen, kigyou ni okeru hatarakikata kaikaku ga kyuusoku ni susunde iru. Toku ni chuumoku sarete iru no wa, furekkusu taimu seido no dounyuu de aru. Kono seido ni kanshite, aru chousa ni yoru to, dounyuu kigyou no yaku 70% ga 'juugyouin no manzokudo ga koujou shita' to kaitou shite iru. Nimo kakawarazu, dounyuu ni shinchou na kigyou mo sukunaku nai. Sono riyuu to shite, chiimu kan no komyunikeeshon busoku ya, kinmu jikan no kanri ga muzukashiku naru koto ga agerarete iru. Senmonka wa, seido no seikou ni wa, meikaku na ruuru settei to teikiteki na minaoshi ga fukaketsu da to shiteki shite iru.\n\nShitsumon: Furekkusu taimu seido no dounyuu ni shinchou na kigyou ga kenen shite iru koto wa nani ka.",
+    "level": "N2",
+    "category": "READING",
+    "options": [
+      "従業員の満足度が低下すること",
+      "コミュニケーション不足と勤務時間管理の困難さ",
+      "導入コストが高すぎること",
+      "従業員の離職率が上がること"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "(Membaca) Bacalah teks berikut dan jawab pertanyaannya.\n\nBelakangan ini, reformasi cara kerja di perusahaan berkembang pesat. Yang paling diperhatikan adalah pengenalan sistem waktu kerja fleksibel. Mengenai sistem ini, menurut survei, sekitar 70% perusahaan yang menerapkannya menjawab bahwa 'kepuasan karyawan meningkat'. Meskipun demikian, tidak sedikit perusahaan yang masih berhati-hati dalam menerapkannya. Alasannya, disebutkan adanya kekurangan komunikasi antar tim dan sulitnya pengelolaan jam kerja. Para ahli menunjukkan bahwa penetapan aturan yang jelas dan peninjauan berkala sangat penting untuk keberhasilan sistem ini.\n\nPertanyaan: Apa yang dikhawatirkan oleh perusahaan yang berhati-hati terhadap pengenalan sistem waktu kerja fleksibel?",
+    "answerExplanation": "Teks menyebutkan dua alasan perusahaan berhati-hati: 'チーム間のコミュニケーション不足' (kekurangan komunikasi antar tim) dan '勤務時間の管理が難しくなること' (sulitnya pengelolaan jam kerja). Pilihan tentang penurunan kepuasan karyawan bertentangan dengan data survei 70%. Biaya pengenalan dan tingkat pengunduran diri tidak disebutkan dalam teks.",
+    "hint": "Cari kalimat setelah 'その理由として' untuk menemukan kekhawatiran yang disebutkan.",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_1_030",
+    "question": "（読解）次のお知らせを読んで、質問に答えてください。\n\n市民の皆様へ\n\n来月より、市立図書館の利用規則が一部変更されます。これまで貸出期間は2週間でしたが、新制度では3週間に延長されます。ただし、新刊書籍に関しては、多くの方にご利用いただくため、従来通り2週間とします。また、予約制度に関して、これまで一度に5冊まで予約可能でしたが、3冊に変更されます。にもかかわらず、貸出冊数の上限は10冊のまま変更ありません。なお、延滞料金については、1日あたり10円から20円に引き上げられますのでご注意ください。\n\n質問：新しい規則で変更されないものはどれですか。",
+    "furigana": "（読解[どっかい]）次[つぎ]のお知[し]らせを読[よ]んで、質問[しつもん]に答[こた]えてください。\n\n市民[しみん]の皆様[みなさま]へ\n\n来月[らいげつ]より、市立[しりつ]図書館[としょかん]の利用[りよう]規則[きそく]が一部[いちぶ]変更[へんこう]されます。これまで貸出[かしだし]期間[きかん]は2週間[しゅうかん]でしたが、新[しん]制度[せいど]では3週間[しゅうかん]に延長[えんちょう]されます。ただし、新刊[しんかん]書籍[しょせき]に関[かん]しては、多[おお]くの方[かた]にご利用[りよう]いただくため、従来[じゅうらい]通[どお]り2週間[しゅうかん]とします。また、予約[よやく]制度[せいど]に関[かん]して、これまで一度[いちど]に5冊[さつ]まで予約[よやく]可能[かのう]でしたが、3冊[さつ]に変更[へんこう]されます。にもかかわらず、貸出[かしだし]冊数[さっすう]の上限[じょうげん]は10冊[さつ]のまま変更[へんこう]ありません。なお、延滞[えんたい]料金[りょうきん]については、1日[にち]あたり10円[えん]から20円[えん]に引[ひ]き上[あ]げられますのでご注意[ちゅうい]ください。\n\n質問[しつもん]：新[あたら]しい規則[きそく]で変更[へんこう]されないものはどれですか。",
+    "romaji": "(Dokkai) Tsugi no oshirase wo yonde, shitsumon ni kotaete kudasai.\n\nShimin no minasama e\n\nRaigetsu yori, shiritsu toshokan no riyou kisoku ga ichibu henkou saremasu. Kore made kashidashi kikan wa 2 shuukan deshita ga, shin seido dewa 3 shuukan ni enchou saremasu. Tadashi, shinkan shoseki ni kanshite wa, ooku no kata ni goriyou itadaku tame, juurai doori 2 shuukan to shimasu. Mata, yoyaku seido ni kanshite, kore made ichido ni 5 satsu made yoyaku kanou deshita ga, 3 satsu ni henkou saremasu. Nimo kakawarazu, kashidashi sassuu no jougen wa 10 satsu no mama henkou arimasen. Nao, entai ryoukin ni tsuite wa, 1 nichi atari 10 en kara 20 en ni hikiageraremasu node gochuui kudasai.\n\nShitsumon: Atarashii kisoku de henkou sarenai mono wa dore desu ka.",
+    "level": "N2",
+    "category": "READING",
+    "options": [
+      "一般書籍の貸出期間",
+      "予約可能冊数",
+      "貸出冊数の上限",
+      "延滞料金"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "(Membaca) Bacalah pengumuman berikut dan jawab pertanyaannya.\n\nKepada warga kota,\n\nMulai bulan depan, sebagian aturan penggunaan perpustakaan kota akan diubah. Masa peminjaman yang sebelumnya 2 minggu akan diperpanjang menjadi 3 minggu. Namun, untuk buku terbitan baru, agar dapat dimanfaatkan oleh banyak orang, tetap 2 minggu seperti sebelumnya. Selain itu, mengenai sistem reservasi, yang sebelumnya bisa mereservasi hingga 5 buku sekaligus, akan diubah menjadi 3 buku. Meskipun demikian, batas maksimal jumlah buku yang dipinjam tetap 10 buku tanpa perubahan. Adapun denda keterlambatan, akan dinaikkan dari 10 yen menjadi 20 yen per hari, mohon diperhatikan.\n\nPertanyaan: Apa yang TIDAK berubah dalam aturan baru?",
+    "answerExplanation": "Teks secara eksplisit menyatakan '貸出冊数の上限は10冊のまま変更ありません' (batas maksimal jumlah pinjaman tetap 10 buku tanpa perubahan). Masa peminjaman umum berubah dari 2 menjadi 3 minggu, jumlah reservasi berubah dari 5 menjadi 3 buku, dan denda keterlambatan naik dari 10 menjadi 20 yen.",
+    "hint": "Cari kalimat yang mengandung '変更ありません' (tidak ada perubahan).",
+    "difficultyScore": 4
+  }
+]

@@ -1,0 +1,382 @@
+[
+  {
+    "id": "question_n4_5_001",
+    "question": "「退院する」はどういう意味ですか？",
+    "furigana": "「退院[たいいん]する」はどういう意味[いみ]ですか？",
+    "romaji": "'Taiin suru' wa dou iu imi desu ka?",
+    "level": "N4",
+    "category": "VOCABULARY",
+    "options": [
+      "Masuk ke rumah sakit untuk menjalani perawatan",
+      "Keluar dari rumah sakit setelah sembuh",
+      "Mengunjungi seseorang yang sedang dirawat di rumah sakit",
+      "Memindahkan pasien ke rumah sakit lain"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Apa arti dari '退院する'?",
+    "answerExplanation": "'退院する' (taiin suru) berarti keluar dari rumah sakit setelah perawatan selesai atau setelah sembuh. Kanji '退' (tai) = mundur/keluar, '院' (in) = institusi/rumah sakit. Lawannya adalah '入院する' (nyuuin suru = masuk rumah sakit). Contoh: '来週退院できるそうです' (Katanya minggu depan bisa keluar dari rumah sakit). Pilihan A salah karena itu '入院する'. Pilihan C salah karena itu 'お見舞いに行く'. Pilihan D salah karena itu '転院する'.",
+    "hint": "Kanji '退' berarti mundur atau keluar, dan '院' merujuk pada rumah sakit. Ini adalah kebalikan dari '入院する'.",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_5_002",
+    "question": "「届ける」はどういう意味ですか？",
+    "furigana": "「届[とど]ける」はどういう意味[いみ]ですか？",
+    "romaji": "'Todokeru' wa dou iu imi desu ka?",
+    "level": "N4",
+    "category": "VOCABULARY",
+    "options": [
+      "Menerima barang dari orang lain",
+      "Menyimpan barang di tempat yang aman",
+      "Mengantarkan atau menyampaikan sesuatu kepada seseorang",
+      "Mengembalikan barang yang dipinjam"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Apa arti dari '届ける'?",
+    "answerExplanation": "'届ける' (todokeru) berarti mengantarkan atau menyampaikan sesuatu kepada orang lain. Ini adalah bentuk transitif (他動詞). Bentuk intransitifnya adalah '届く' (todoku = sampai/tiba). Contoh: '友達に荷物を届けました' (Saya mengantarkan paket kepada teman). Pilihan A salah karena itu '受け取る'. Pilihan B salah karena itu 'しまう'. Pilihan D salah karena itu '返す'.",
+    "hint": "Kata kerja ini berhubungan dengan membawa sesuatu ke tempat tujuan atau kepada seseorang. Pikirkan tentang pengiriman barang.",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_5_003",
+    "question": "「遠慮する」はどういう意味ですか？",
+    "furigana": "「遠慮[えんりょ]する」はどういう意味[いみ]ですか？",
+    "romaji": "'Enryo suru' wa dou iu imi desu ka?",
+    "level": "N4",
+    "category": "VOCABULARY",
+    "options": [
+      "Menahan diri atau bersikap sungkan terhadap sesuatu",
+      "Merasa sangat marah terhadap seseorang",
+      "Mempersiapkan diri untuk acara penting",
+      "Menyetujui pendapat orang lain dengan senang hati"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Apa arti dari '遠慮する'?",
+    "answerExplanation": "'遠慮する' (enryo suru) berarti menahan diri, bersikap sungkan, atau tidak melakukan sesuatu karena sopan santun. Kanji '遠' (en) = jauh, '慮' (ryo) = pertimbangan. Contoh: 'どうぞ遠慮しないでください' (Silakan jangan sungkan). Pilihan B salah karena itu '怒る'. Pilihan C salah karena itu '準備する'. Pilihan D salah karena itu '賛成する'.",
+    "hint": "Ini adalah sikap yang sering dilakukan orang Jepang karena sopan santun, misalnya menolak tawaran makan dengan halus meskipun sebenarnya lapar.",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n4_5_004",
+    "question": "「相談する」はどういう意味ですか？",
+    "furigana": "「相談[そうだん]する」はどういう意味[いみ]ですか？",
+    "romaji": "'Soudan suru' wa dou iu imi desu ka?",
+    "level": "N4",
+    "category": "VOCABULARY",
+    "options": [
+      "Memberitahukan informasi penting kepada banyak orang",
+      "Membicarakan masalah dengan seseorang untuk meminta saran",
+      "Berdebat tentang suatu topik dengan penuh emosi",
+      "Menceritakan pengalaman menarik kepada teman"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Apa arti dari '相談する'?",
+    "answerExplanation": "'相談する' (soudan suru) berarti berkonsultasi atau membicarakan masalah dengan seseorang untuk mendapatkan pendapat atau saran. Kanji '相' (sou) = saling, '談' (dan) = berbicara. Contoh: '先生に進路について相談しました' (Saya berkonsultasi dengan guru mengenai arah masa depan). Pilihan A salah karena itu '知らせる'. Pilihan C salah karena itu '議論する/喧嘩する'. Pilihan D salah karena itu '話す'.",
+    "hint": "Kata ini terdiri dari '相' (saling) dan '談' (bicara). Biasanya dilakukan ketika seseorang memiliki masalah dan butuh pendapat orang lain.",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_5_005",
+    "question": "「間に合う」はどういう意味ですか？",
+    "furigana": "「間[ま]に合[あ]う」はどういう意味[いみ]ですか？",
+    "romaji": "'Ma ni au' wa dou iu imi desu ka?",
+    "level": "N4",
+    "category": "VOCABULARY",
+    "options": [
+      "Bertemu dengan seseorang secara kebetulan di jalan",
+      "Tepat waktu atau sempat sebelum batas waktu",
+      "Menghabiskan waktu bersama teman dengan menyenangkan",
+      "Menunggu seseorang dalam waktu yang sangat lama"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Apa arti dari '間に合う'?",
+    "answerExplanation": "'間に合う' (ma ni au) berarti tepat waktu, sempat, atau berhasil sebelum batas waktu. Contoh: '走ったので、電車に間に合いました' (Karena berlari, saya sempat naik kereta). Arti lainnya bisa juga 'cukup/memadai'. Pilihan A salah karena itu '偶然会う'. Pilihan C salah karena itu '一緒に過ごす'. Pilihan D salah karena itu 'ずっと待つ'.",
+    "hint": "Ungkapan ini sering digunakan saat berbicara tentang mengejar kereta atau tenggat waktu. '間' berarti waktu/interval, dan 'に合う' berarti cocok/pas.",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n4_5_006",
+    "question": "「経験」の読み方は？",
+    "furigana": "「経験[けいけん]」の読[よ]み方[かた]は？",
+    "romaji": "'Keiken' no yomikata wa?",
+    "level": "N4",
+    "category": "KANJI",
+    "options": [
+      "けいけん",
+      "けんけい",
+      "きょうけん",
+      "けいげん"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Bagaimana cara membaca '経験'?",
+    "answerExplanation": "'経験' dibaca 'けいけん' (keiken) dan berarti pengalaman. Kanji '経' (けい) sering muncul dalam kata '経済' (keizai = ekonomi) dan '経つ' (tatsu = berlalu). Kanji '験' (けん) juga digunakan dalam '試験' (shiken = ujian) dan '実験' (jikken = eksperimen). Contoh kalimat: '日本で働いた経験があります' (Saya punya pengalaman bekerja di Jepang).",
+    "hint": "Kanji pertama '経' dibaca 'けい' seperti dalam '経済' (ekonomi). Kanji kedua '験' dibaca 'けん' seperti dalam '試験' (ujian).",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_5_007",
+    "question": "「交通」の読み方は？",
+    "furigana": "「交通[こうつう]」の読[よ]み方[かた]は？",
+    "romaji": "'Koutsuu' no yomikata wa?",
+    "level": "N4",
+    "category": "KANJI",
+    "options": [
+      "こうとう",
+      "きょうつう",
+      "こうつう",
+      "かいつう"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Bagaimana cara membaca '交通'?",
+    "answerExplanation": "'交通' dibaca 'こうつう' (koutsuu) dan berarti lalu lintas atau transportasi. Kanji '交' (こう) juga digunakan dalam '交差点' (kousaten = perempatan) dan '交換' (koukan = pertukaran). Kanji '通' (つう) juga muncul dalam '通り' (toori = jalan) dan '通う' (kayou = bolak-balik). Contoh: '交通が便利な場所に住みたいです' (Saya ingin tinggal di tempat yang transportasinya nyaman).",
+    "hint": "Kanji '交' dibaca 'こう' (bukan 'きょう'), dan '通' dibaca 'つう'. Kata ini berhubungan dengan kendaraan dan jalan raya.",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_5_008",
+    "question": "「受付」の読み方は？",
+    "furigana": "「受付[うけつけ]」の読[よ]み方[かた]は？",
+    "romaji": "'Uketsuke' no yomikata wa?",
+    "level": "N4",
+    "category": "KANJI",
+    "options": [
+      "じゅふ",
+      "うけつけ",
+      "じゅつき",
+      "うけづけ"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Bagaimana cara membaca '受付'?",
+    "answerExplanation": "'受付' dibaca 'うけつけ' (uketsuke) dan berarti resepsionis atau meja penerima tamu. Ini berasal dari kata kerja '受け付ける' (uketsukeru = menerima/menangani). Kanji '受' (う-ける) = menerima, '付' (つ-ける) = menempelkan/memasang. Contoh: '受付で名前を書いてください' (Silakan tulis nama di resepsionis). Perhatikan bahwa bacaannya menggunakan kunyomi, bukan onyomi.",
+    "hint": "Kedua kanji ini menggunakan bacaan kunyomi (bacaan Jepang asli). '受' dibaca 'うけ' dan '付' dibaca 'つけ'. Kata ini sering terlihat di lobi gedung atau rumah sakit.",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n4_5_009",
+    "question": "「予約」の読み方は？",
+    "furigana": "「予約[よやく]」の読[よ]み方[かた]は？",
+    "romaji": "'Yoyaku' no yomikata wa?",
+    "level": "N4",
+    "category": "KANJI",
+    "options": [
+      "よやく",
+      "よさく",
+      "ちやく",
+      "よきゃく"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Bagaimana cara membaca '予約'?",
+    "answerExplanation": "'予約' dibaca 'よやく' (yoyaku) dan berarti reservasi atau pemesanan. Kanji '予' (よ) berarti 'sebelumnya' dan juga digunakan dalam '予定' (yotei = rencana) dan '予習' (yoshuu = belajar terlebih dahulu). Kanji '約' (やく) berarti 'janji' dan juga digunakan dalam '約束' (yakusoku = janji). Contoh: 'レストランを予約しました' (Saya sudah memesan tempat di restoran).",
+    "hint": "Kanji '予' dibaca 'よ' seperti dalam '予定' (rencana), dan '約' dibaca 'やく' seperti dalam '約束' (janji).",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_5_010",
+    "question": "「規則」の読み方は？",
+    "furigana": "「規則[きそく]」の読[よ]み方[かた]は？",
+    "romaji": "'Kisoku' no yomikata wa?",
+    "level": "N4",
+    "category": "KANJI",
+    "options": [
+      "きぞく",
+      "きそく",
+      "ぎそく",
+      "きのり"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Bagaimana cara membaca '規則'?",
+    "answerExplanation": "'規則' dibaca 'きそく' (kisoku) dan berarti peraturan atau aturan. Kanji '規' (き) juga digunakan dalam '規模' (kibo = skala) dan '正規' (seiki = resmi/reguler). Kanji '則' (そく) juga muncul dalam '原則' (gensoku = prinsip). Contoh: '学校の規則を守ってください' (Tolong patuhi peraturan sekolah). Perhatikan bacaannya 'きそく' bukan 'きぞく' (yang berarti bangsawan/貴族).",
+    "hint": "Hati-hati dengan bacaan yang mirip. '規則' (peraturan) dibaca 'きそく' dengan 'そ' tanpa tanda dakuten, sedangkan '貴族' (bangsawan) dibaca 'きぞく' dengan 'ぞ'.",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n4_5_011",
+    "question": "もっと早く起き___、電車に間に合ったのに。",
+    "furigana": "もっと早[はや]く起[お]き___、電車[でんしゃ]に間[ま]に合[あ]ったのに。",
+    "romaji": "Motto hayaku oki___, densha ni ma ni atta noni.",
+    "level": "N4",
+    "category": "GRAMMAR",
+    "options": [
+      "れば",
+      "たら",
+      "ると",
+      "ので"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Kalau saja bangun lebih pagi, padahal bisa sempat naik kereta.",
+    "answerExplanation": "Jawaban yang benar adalah 'れば' (bentuk kondisional ～ば). '起きれば' berarti 'kalau bangun'. Pola ～ば digunakan untuk menyatakan kondisi 'kalau/jika'. Untuk kata kerja golongan 2 seperti '起きる', bentuk ～ば adalah: buang 'る' lalu tambah 'れば' → '起きれば'. Kalimat ini menggunakan '～ば...のに' yang menyatakan penyesalan: 'Kalau saja bangun lebih pagi, padahal bisa sempat'. Pilihan B 'たら' secara arti mirip tapi pertanyaan ini fokus pada pola ～ば. Pilihan C 'ると' kurang tepat dalam konteks penyesalan. Pilihan D 'ので' menyatakan alasan, bukan kondisi.",
+    "hint": "Pola ～ば adalah bentuk kondisional. Untuk kata kerja golongan 2 (ichidan), buang akhiran 'る' dan tambahkan 'れば'. Kalimat ini menyatakan penyesalan dengan '～のに' di akhir.",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n4_5_012",
+    "question": "雨が降っ___、サッカーの試合は行われます。",
+    "furigana": "雨[あめ]が降[ふ]っ___、サッカーの試合[しあい]は行[おこな]われます。",
+    "romaji": "Ame ga fut___, sakkaa no shiai wa okonawaremasu.",
+    "level": "N4",
+    "category": "GRAMMAR",
+    "options": [
+      "たら",
+      "ても",
+      "から",
+      "ので"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Meskipun hujan turun, pertandingan sepak bola tetap akan dilaksanakan.",
+    "answerExplanation": "Jawaban yang benar adalah 'ても' (meskipun/bahkan jika). '降っても' berarti 'meskipun turun (hujan)'. Pola ～ても digunakan untuk menyatakan bahwa meskipun kondisi tertentu terjadi, hasilnya tetap sama atau tidak terpengaruh. Contoh lain: '高くても買います' (Meskipun mahal, saya tetap beli). Pilihan A 'たら' menyatakan 'kalau' (kondisional). Pilihan C 'から' dan D 'ので' menyatakan alasan.",
+    "hint": "Pola ini menyatakan 'meskipun/bahkan jika'. Pertandingan tetap dilaksanakan TERLEPAS dari kondisi cuaca. Pikirkan kata sambung yang menyatakan konsesi.",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_5_013",
+    "question": "天気予報によると、明日は雪が降る___。",
+    "furigana": "天気予報[てんきよほう]によると、明日[あした]は雪[ゆき]が降[ふ]る___。",
+    "romaji": "Tenki yohou ni yoru to, ashita wa yuki ga furu ___.",
+    "level": "N4",
+    "category": "GRAMMAR",
+    "options": [
+      "ようです",
+      "らしいです",
+      "そうです",
+      "みたいです"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Menurut ramalan cuaca, katanya besok akan turun salju.",
+    "answerExplanation": "Jawaban yang benar adalah 'そうです' (bentuk kabar angin/hearsay ～そうだ). '降るそうです' berarti 'katanya akan turun (salju)'. Pola ～そうだ (hearsay) digunakan untuk menyampaikan informasi yang didengar dari sumber lain. Perhatikan bahwa ini berbeda dari ～そうだ (tampilan) yang menyatakan kesan visual. Pada bentuk hearsay, kata kerja/adjektiva dalam bentuk biasa + そうです. Tanda 'によると' (menurut...) adalah petunjuk kuat bahwa ini kabar angin. Pilihan A 'ようです' dan D 'みたいです' menyatakan dugaan. Pilihan B 'らしいです' juga bisa dipakai tapi 'そうです' lebih tepat setelah 'によると'.",
+    "hint": "Perhatikan kata 'によると' (menurut...) di awal kalimat. Ini menunjukkan bahwa informasi berasal dari sumber lain (ramalan cuaca), bukan dari pengamatan sendiri.",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n4_5_014",
+    "question": "健康のために、毎日野菜を食べる___しています。",
+    "furigana": "健康[けんこう]のために、毎日[まいにち]野菜[やさい]を食[た]べる___しています。",
+    "romaji": "Kenkou no tame ni, mainichi yasai wo taberu ___ shite imasu.",
+    "level": "N4",
+    "category": "GRAMMAR",
+    "options": [
+      "ことに",
+      "ように",
+      "ために",
+      "はずに"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Demi kesehatan, saya berusaha makan sayuran setiap hari.",
+    "answerExplanation": "Jawaban yang benar adalah 'ように' (pola ～ようにする). '食べるようにしています' berarti 'berusaha untuk makan' atau 'membiasakan diri untuk makan'. Pola ～ようにする menyatakan usaha atau upaya untuk membuat sesuatu menjadi kebiasaan. Bentuk ～ようにしています (dengan ～ている) menunjukkan usaha yang berkelanjutan. Pilihan A 'ことに' digunakan dalam ～ことにする yang berarti 'memutuskan untuk' (keputusan satu kali). Pilihan C 'ために' menyatakan tujuan. Pilihan D 'はずに' tidak ada dalam tata bahasa Jepang.",
+    "hint": "Pola ini menyatakan usaha atau upaya untuk melakukan sesuatu secara terus-menerus. Orang ini tidak hanya memutuskan sekali, tapi terus berusaha setiap hari.",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n4_5_015",
+    "question": "来月から毎朝ジョギングする___しました。",
+    "furigana": "来月[らいげつ]から毎朝[まいあさ]ジョギングする___しました。",
+    "romaji": "Raigetsu kara maiasa jogingu suru ___ shimashita.",
+    "level": "N4",
+    "category": "GRAMMAR",
+    "options": [
+      "ように",
+      "ために",
+      "ことに",
+      "つもりに"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Saya memutuskan untuk jogging setiap pagi mulai bulan depan.",
+    "answerExplanation": "Jawaban yang benar adalah 'ことに' (pola ～ことにする). 'ジョギングすることにしました' berarti 'memutuskan untuk jogging'. Pola ～ことにする menyatakan keputusan yang dibuat oleh pembicara sendiri. Bentuk lampau '～ことにしました' menunjukkan keputusan sudah diambil. Pilihan A 'ように' digunakan dalam ～ようにする yang berarti 'berusaha' (bukan keputusan tegas). Pilihan B 'ために' menyatakan tujuan. Pilihan D 'つもりに' tidak ada dalam tata bahasa Jepang ('つもり' dipakai tanpa 'に' sebelum 'する').",
+    "hint": "Pola ini menyatakan keputusan pribadi. Perhatikan bahwa orang ini sudah menetapkan keputusan tegas (mulai bulan depan), bukan sekadar berusaha.",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n4_5_016",
+    "question": "母は弟に毎日ピアノを練習___。",
+    "furigana": "母[はは]は弟[おとうと]に毎日[まいにち]ピアノを練習[れんしゅう]___。",
+    "romaji": "Haha wa otouto ni mainichi piano wo renshuu ___.",
+    "level": "N4",
+    "category": "GRAMMAR",
+    "options": [
+      "させます",
+      "されます",
+      "できます",
+      "なります"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Ibu menyuruh adik laki-laki berlatih piano setiap hari.",
+    "answerExplanation": "Jawaban yang benar adalah 'させます' (bentuk kausatif ～させる). '練習させます' berarti 'menyuruh berlatih'. Pola kausatif ～させる digunakan ketika seseorang menyuruh atau mengizinkan orang lain melakukan sesuatu. Dalam kalimat ini, ibu (subjek) menyuruh adik (objek dengan partikel に) berlatih piano. Untuk kata kerja golongan 3 (する), bentuk kausatifnya adalah 'させる'. Pilihan B 'されます' adalah bentuk pasif. Pilihan C 'できます' berarti 'bisa'. Pilihan D 'なります' berarti 'menjadi'.",
+    "hint": "Ibu adalah orang yang menyuruh, dan adik adalah orang yang disuruh. Pola ini menyatakan bahwa seseorang MEMBUAT orang lain melakukan sesuatu.",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n4_5_017",
+    "question": "私は電車の中で知らない人に足を___。",
+    "furigana": "私[わたし]は電車[でんしゃ]の中[なか]で知[し]らない人[ひと]に足[あし]を___。",
+    "romaji": "Watashi wa densha no naka de shiranai hito ni ashi wo ___.",
+    "level": "N4",
+    "category": "GRAMMAR",
+    "options": [
+      "踏みました",
+      "踏まれました",
+      "踏ませました",
+      "踏めました"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Saya diinjak kakinya oleh orang yang tidak dikenal di dalam kereta.",
+    "answerExplanation": "Jawaban yang benar adalah '踏まれました' (bentuk pasif ～られる dari '踏む'). '足を踏まれました' berarti 'kakinya diinjak'. Pola pasif ～られる digunakan ketika subjek menerima atau mengalami tindakan dari orang lain, sering kali dengan nuansa negatif (迷惑の受身 = passive of inconvenience). Untuk kata kerja golongan 1 '踏む' (fumu), bentuk pasifnya: buang 'む' → 'ふ' + 'まれる' → '踏まれる'. Pilihan A '踏みました' adalah bentuk aktif (saya menginjak). Pilihan C '踏ませました' adalah kausatif (menyuruh menginjak). Pilihan D '踏めました' adalah bentuk potensial (bisa menginjak).",
+    "hint": "Dalam kalimat ini, 'saya' adalah korban yang mengalami sesuatu yang tidak menyenangkan. Orang asing melakukan tindakan kepada saya. Pola mana yang menyatakan 'mengalami/menerima tindakan'?",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n4_5_018",
+    "question": "次の文を読んでください。\n\n「料理教室のお知らせ\n毎週土曜日 午前10時～12時\n場所：3階の調理室\n※来週の土曜日は祝日のため、お休みです。再来週からまた始めます。持ち物：エプロン」\n\n料理教室について正しいものはどれですか？",
+    "furigana": "次[つぎ]の文[ぶん]を読[よ]んでください。\n\n「料理[りょうり]教室[きょうしつ]のお知[し]らせ\n毎週[まいしゅう]土曜日[どようび] 午前[ごぜん]10時[じ]～12時[じ]\n場所[ばしょ]：3階[かい]の調理室[ちょうりしつ]\n※来週[らいしゅう]の土曜日[どようび]は祝日[しゅくじつ]のため、お休[やす]みです。再来週[さらいしゅう]からまた始[はじ]めます。持[も]ち物[もの]：エプロン」\n\n料理[りょうり]教室[きょうしつ]について正[ただ]しいものはどれですか？",
+    "romaji": "Tsugi no bun wo yonde kudasai. 'Ryouri kyoushitsu no oshirase. Maishuu doyoubi gozen 10-ji kara 12-ji. Basho: 3-kai no chourishitsu. Raishuu no doyoubi wa shukujitsu no tame, oyasumi desu. Saraishuu kara mata hajimemasu. Mochimono: epuron.' Ryouri kyoushitsu ni tsuite tadashii mono wa dore desu ka?",
+    "level": "N4",
+    "category": "READING",
+    "options": [
+      "Kelas memasak diadakan setiap hari Minggu pagi",
+      "Kelas memasak minggu depan libur karena hari libur nasional",
+      "Peserta harus membawa bahan makanan sendiri",
+      "Kelas memasak berlangsung selama 3 jam"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Silakan baca teks berikut. [Pengumuman Kelas Memasak...] Manakah pernyataan yang benar tentang kelas memasak?",
+    "answerExplanation": "Jawaban yang benar adalah B: 'Kelas memasak minggu depan libur karena hari libur nasional'. Dalam teks tertulis '来週の土曜日は祝日のため、お休みです' (Sabtu minggu depan libur karena hari libur nasional). Pilihan A salah karena kelas diadakan hari Sabtu (土曜日), bukan Minggu. Pilihan C salah karena yang harus dibawa adalah celemek (エプロン), bukan bahan makanan. Pilihan D salah karena kelas berlangsung 2 jam (10:00-12:00), bukan 3 jam.",
+    "hint": "Baca pengumuman dengan teliti. Perhatikan hari pelaksanaan, alasan libur, barang yang harus dibawa, dan durasi kelas.",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_5_019",
+    "question": "次のメッセージを読んでください。\n\n「ゆきちゃん、土曜日ひま？新しくできたカフェに行かない？駅の東口を出て右に曲がったところにあるよ。ケーキがおいしいって聞いたの。午後2時はどう？だめだったら日曜日でもいいよ。　　みか」\n\nみかさんはゆきさんに何を伝えていますか？",
+    "furigana": "次[つぎ]のメッセージを読[よ]んでください。\n\n「ゆきちゃん、土曜日[どようび]ひま？新[あたら]しくできたカフェに行[い]かない？駅[えき]の東口[ひがしぐち]を出[で]て右[みぎ]に曲[ま]がったところにあるよ。ケーキがおいしいって聞[き]いたの。午後[ごご]2時[じ]はどう？だめだったら日曜日[にちようび]でもいいよ。　　みか」\n\nみかさんはゆきさんに何[なに]を伝[つた]えていますか？",
+    "romaji": "Tsugi no messeeji wo yonde kudasai. 'Yuki-chan, doyoubi hima? Atarashiku dekita kafe ni ikanai? Eki no higashiguchi wo dete migi ni magatta tokoro ni aru yo. Keeki ga oishii tte kiita no. Gogo 2-ji wa dou? Dame dattara nichiyoubi demo ii yo. Mika.' Mika-san wa Yuki-san ni nani wo tsutaete imasu ka?",
+    "level": "N4",
+    "category": "READING",
+    "options": [
+      "Mika mengajak Yuki ke kafe baru di dekat stasiun",
+      "Mika memberitahu Yuki bahwa kafe favorit mereka sudah tutup",
+      "Mika meminta Yuki membuatkan kue untuk hari Sabtu",
+      "Mika menyuruh Yuki bertemu di pintu barat stasiun"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Silakan baca pesan berikut. [Pesan dari Mika ke Yuki...] Apa yang Mika sampaikan kepada Yuki?",
+    "answerExplanation": "Jawaban yang benar adalah A: 'Mika mengajak Yuki ke kafe baru di dekat stasiun'. Mika menulis '新しくできたカフェに行かない？' (Mau ke kafe yang baru buka?). Kafe tersebut berada di dekat stasiun (keluar dari pintu timur, belok kanan). Pilihan B salah karena kafe tersebut baru buka, bukan tutup. Pilihan C salah karena Mika mengajak ke kafe, bukan meminta dibuatkan kue. Pilihan D salah karena tempatnya ada di pintu timur (東口), bukan pintu barat (西口).",
+    "hint": "Perhatikan kata '新しくできた' (baru dibuat/baru buka) dan '行かない？' (mau pergi?). Juga perhatikan arah dari stasiun: '東口' berarti pintu timur.",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n4_5_020",
+    "question": "次のお知らせを読んでください。\n\n「春のセールのお知らせ\nさくらデパート　3月20日（金）～3月25日（水）\n全品20%オフ！食料品は10%オフです。\n※最終日は午後5時に閉店します。\n（通常は午後8時まで）\nポイントカードをお持ちのお客様は、さらに5%引きになります。」\n\nこのお知らせについて正しいものはどれですか？",
+    "furigana": "次[つぎ]のお知[し]らせを読[よ]んでください。\n\n「春[はる]のセールのお知[し]らせ\nさくらデパート　3月[がつ]20日[にち]（金[きん]）～3月[がつ]25日[にち]（水[すい]）\n全品[ぜんぴん]20%オフ！食料品[しょくりょうひん]は10%オフです。\n※最終日[さいしゅうび]は午後[ごご]5時[じ]に閉店[へいてん]します。\n（通常[つうじょう]は午後[ごご]8時[じ]まで）\nポイントカードをお持[も]ちのお客様[きゃくさま]は、さらに5%引[び]きになります。」\n\nこのお知[し]らせについて正[ただ]しいものはどれですか？",
+    "romaji": "Tsugi no oshirase wo yonde kudasai. 'Haru no seeru no oshirase. Sakura depaato. 3-gatsu 20-nichi (kin) kara 3-gatsu 25-nichi (sui). Zenpin 20% ofu! Shokuryouhin wa 10% ofu desu. Saishuu-bi wa gogo 5-ji ni heiten shimasu. (Tsujou wa gogo 8-ji made.) Pointo kaado wo omochi no okyakusama wa, sarani 5% biki ni narimasu.' Kono oshirase ni tsuite tadashii mono wa dore desu ka?",
+    "level": "N4",
+    "category": "READING",
+    "options": [
+      "Semua barang termasuk makanan mendapat diskon 20%",
+      "Hari terakhir sale toko tutup 3 jam lebih awal dari biasanya",
+      "Sale berlangsung selama satu minggu penuh",
+      "Pemilik kartu poin mendapat tambahan diskon 10%"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Silakan baca pengumuman berikut. [Pengumuman Sale Musim Semi...] Manakah pernyataan yang benar tentang pengumuman ini?",
+    "answerExplanation": "Jawaban yang benar adalah B: 'Hari terakhir sale toko tutup 3 jam lebih awal dari biasanya'. Dalam pengumuman tertulis bahwa hari terakhir toko tutup pukul 17:00 (午後5時), padahal biasanya tutup pukul 20:00 (午後8時), jadi 3 jam lebih awal. Pilihan A salah karena makanan (食料品) hanya mendapat diskon 10%, bukan 20%. Pilihan C salah karena sale berlangsung dari 20 Maret sampai 25 Maret (6 hari, bukan satu minggu penuh). Pilihan D salah karena pemilik kartu poin mendapat tambahan diskon 5% (5%引き), bukan 10%.",
+    "hint": "Bandingkan jam tutup biasa (通常 = biasanya) dengan jam tutup di hari terakhir (最終日). Juga perhatikan diskon untuk makanan berbeda dari barang lain.",
+    "difficultyScore": 3
+  }
+]

@@ -1,0 +1,572 @@
+[
+  {
+    "id": "question_n2_3_001",
+    "question": "「矛盾」の意味は？",
+    "furigana": "「矛盾[むじゅん]」の意味[いみ]は？",
+    "romaji": "'Mujun' no imi wa?",
+    "level": "N2",
+    "category": "VOCABULARY",
+    "options": [
+      "Hài hòa",
+      "Mâu thuẫn",
+      "Lo lắng",
+      "Nhất quán"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "'矛盾' có nghĩa là gì?",
+    "answerExplanation": "'矛盾' (mujun) co nghia la mau thuan hoac doi lap, tuc la tinh huong ma hai dieu trai nguoc nhau va khong the dung dong thoi. Kanji 矛 co nghia la ngon thuong va 盾 co nghia la cai khien, xuat phat tu cau chuyen Trung Quoc co ve nguoi ban hang tuyen bo ngon thuong co the dam thung moi thu va cai khien co the chan moi thu.",
+    "hint": "Hai dieu trai nguoc nhau va khong the dung dong thoi",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_3_002",
+    "question": "新しい制度は経済成長を___する効果がある。",
+    "furigana": "新[あたら]しい制度[せいど]は経済[けいざい]成長[せいちょう]を___する効果[こうか]がある。",
+    "romaji": "Atarashii seido wa keizai seichou wo ___ suru kouka ga aru.",
+    "level": "N2",
+    "category": "VOCABULARY",
+    "options": [
+      "妨害",
+      "促進",
+      "抑制",
+      "停滞"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "He thong moi nay co tac dung ___ tang truong kinh te.",
+    "answerExplanation": "'促進' (sokushin) có nghĩa là thuc day, khuyen khich, hoac xuc tien. Trong ngu canh nay, he thong moi co tac dung thuc day/khuyen khich tang truong kinh te. '妨害' co nghia la can tro, '抑制' co nghia la uc che, va '停滞' co nghia la tru tre.",
+    "hint": "Thuc day dieu gi do phat trien nhanh hon",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_3_003",
+    "question": "状況を正確に___することが重要だ。",
+    "furigana": "状況[じょうきょう]を正確[せいかく]に___することが重要[じゅうよう]だ。",
+    "romaji": "Joukyou wo seikaku ni ___ suru koto ga juuyou da.",
+    "level": "N2",
+    "category": "VOCABULARY",
+    "options": [
+      "処理",
+      "把握",
+      "展開",
+      "設定"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Quan trong de ___ tinh huong mot cach chinh xac.",
+    "answerExplanation": "'把握' (haaku) có nghĩa là nam bat, thau hieu, hoac hieu mot cach toan dien. Trong ngu canh nay, quan trong de hieu/nam bat tinh huong mot cach chinh xac. '処理' co nghia la xu ly, '展開' co nghia la trien khai, '設定' co nghia la thiet lap.",
+    "hint": "Hieu va nam bat dieu gi do mot cach toan dien",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_3_004",
+    "question": "最近、地球温暖化の影響が___になっている。",
+    "furigana": "最近[さいきん]、地球[ちきゅう]温暖化[おんだんか]の影響[えいきょう]が___になっている。",
+    "romaji": "Saikin, chikyuu ondanka no eikyou ga ___ ni natte iru.",
+    "level": "N2",
+    "category": "VOCABULARY",
+    "options": [
+      "明瞭",
+      "顕著",
+      "微妙",
+      "曖昧"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Gan day, tac dong cua su nong len toan cau tro nen ___.",
+    "answerExplanation": "'顕著' (kencho) co nghia la noi bat, ro rang, hoac rat hien nhien. Trong ngu canh nay, tac dong cua su nong len toan cau tro nen ngay cang noi bat/ro rang. '明瞭' co nghia la ro rang, '微妙' co nghia la tinh te/mo ho, '曖昧' co nghia la mo ho.",
+    "hint": "Nhin thay rat ro rang va noi bat",
+    "difficultyScore": 6
+  },
+  {
+    "id": "question_n2_3_005",
+    "question": "___を持たずに相手の話を聞くべきだ。",
+    "furigana": "___を持[も]たずに相手[あいて]の話[はなし]を聞[き]くべきだ。",
+    "romaji": "___ wo motazu ni aite no hanashi wo kiku beki da.",
+    "level": "N2",
+    "category": "VOCABULARY",
+    "options": [
+      "偏見",
+      "信念",
+      "感想",
+      "意欲"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Chung ta nen lang nghe cau chuyen cua doi phuong ma khong co ___.",
+    "answerExplanation": "'偏見' (henken) co nghia la thanh kien hoac cach nhin thien lech. Cau nay dien ta rang chung ta phai lang nghe nguoi khac ma khong co thanh kien. '信念' co nghia la niem tin, '感想' co nghia la cam tuong, '意欲' co nghia la dong luc.",
+    "hint": "Cach nhin tieu cuc da hinh thanh truoc khi biet su that",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_3_006",
+    "question": "「承認」の読み方は？",
+    "furigana": "「承認[しょうにん]」の読[よ]み方[かた]は？",
+    "romaji": "'Shounin' no yomikata wa?",
+    "level": "N2",
+    "category": "KANJI",
+    "options": [
+      "じょうにん",
+      "しょうにん",
+      "せいにん",
+      "しょうみん"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Doc '承認' nhu the nao?",
+    "answerExplanation": "'承認' duoc doc la 'しょうにん' (shounin) co nghia la su chap thuan, phe duyet, hoac cong nhan chinh thuc. Kanji 承 (shou) co nghia la tiep nhan/thua ke, va 認 (nin) co nghia la thua nhan.",
+    "hint": "Shou + nin",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_3_007",
+    "question": "「慎重」の読み方は？",
+    "furigana": "「慎重[しんちょう]」の読[よ]み方[かた]は？",
+    "romaji": "'Shinchou' no yomikata wa?",
+    "level": "N2",
+    "category": "KANJI",
+    "options": [
+      "しんちょう",
+      "しんじゅう",
+      "ちんちょう",
+      "じんちょう"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Doc '慎重' nhu the nao?",
+    "answerExplanation": "'慎重' duoc doc la 'しんちょう' (shinchou) co nghia la can than, than trong trong hanh dong. Kanji 慎 (shin) co nghia la can than, va 重 (chou) co nghia la nang/quan trong.",
+    "hint": "Shin + chou",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_3_008",
+    "question": "「需要」の読み方は？",
+    "furigana": "「需要[じゅよう]」の読[よ]み方[かた]は？",
+    "romaji": "'Juyou' no yomikata wa?",
+    "level": "N2",
+    "category": "KANJI",
+    "options": [
+      "しゅよう",
+      "じゅよう",
+      "すよう",
+      "じゅうよう"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Doc '需要' nhu the nao?",
+    "answerExplanation": "'需要' duoc doc la 'じゅよう' (juyou) co nghia la nhu cau (trong boi canh kinh te), nhu cau thi truong. Kanji 需 (ju) co nghia la can, va 要 (you) co nghia la quan trong/can thiet. Dung nham voi '重要' (juuyou) co nghia la quan trong.",
+    "hint": "Ju + you (không phải juu + you)",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_3_009",
+    "question": "「頻繁」の読み方は？",
+    "furigana": "「頻繁[ひんぱん]」の読[よ]み方[かた]は？",
+    "romaji": "'Hinpan' no yomikata wa?",
+    "level": "N2",
+    "category": "KANJI",
+    "options": [
+      "ひんぱん",
+      "ひんはん",
+      "びんぱん",
+      "ひんばん"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Doc '頻繁' nhu the nao?",
+    "answerExplanation": "'頻繁' duoc doc la 'ひんぱん' (hinpan) co nghia la thuong xuyen, lien tuc, hoac lap di lap lai. Kanji 頻 (hin) co nghia la thuong xuyen/tan suat, va 繁 (pan) co nghia la nhieu/phon thinh. Luu y rang 繁 duoc doc la 'ぱん' (voi handakuten) khong phai 'はん'.",
+    "hint": "Hin + pan (p, không phải h)",
+    "difficultyScore": 6
+  },
+  {
+    "id": "question_n2_3_010",
+    "question": "「膨大」の読み方は？",
+    "furigana": "「膨大[ぼうだい]」の読[よ]み方[かた]は？",
+    "romaji": "'Boudai' no yomikata wa?",
+    "level": "N2",
+    "category": "KANJI",
+    "options": [
+      "ほうだい",
+      "ぼうだい",
+      "ぼうたい",
+      "ふくだい"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Doc '膨大' nhu the nao?",
+    "answerExplanation": "'膨大' duoc doc la 'ぼうだい' (boudai) co nghia la khong lo, rat lon, hoac phong to. Kanji 膨 (bou) co nghia la phong to/phinh ra, va 大 (dai) co nghia la lon. Tu nay thuong duoc su dung de mo ta luong du lieu, chi phi, hoac thong tin rat lon.",
+    "hint": "Bou + dai",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_3_011",
+    "question": "上司の意見___、反対意見を述べた。",
+    "furigana": "上司[じょうし]の意見[いけん]___、反対[はんたい]意見[いけん]を述[の]べた。",
+    "romaji": "Joushi no iken ___, hantai iken wo nobeta.",
+    "level": "N2",
+    "category": "GRAMMAR",
+    "options": [
+      "に関して",
+      "に対して",
+      "について",
+      "によって"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Toi trinh bay y kien trai nguoc doi voi y kien cap tren.",
+    "answerExplanation": "'〜に対して' (ni taishite) có nghĩa là 'doi voi' hoac 'huong toi', duoc dung de cho thay muc tieu cua mot hanh dong hoac thai do. Trong ngu canh nay, y kien trai nguoc nham vao 'doi voi' y kien cap tren. '〜に関して' co nghia la 've/lien quan', '〜について' co nghia la 've', '〜によって' co nghia la 'boi/tuy thuoc vao'.",
+    "hint": "cho thay muc tieu cua mot hanh dong hoac thai do trai nguoc",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_3_012",
+    "question": "約束した___、必ず守るべきだ。",
+    "furigana": "約束[やくそく]した___、必[かなら]ず守[まも]るべきだ。",
+    "romaji": "Yakusoku shita ___, kanarazu mamoru beki da.",
+    "level": "N2",
+    "category": "GRAMMAR",
+    "options": [
+      "ものだから",
+      "ばかりか",
+      "からには",
+      "としても"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Vi da hua, le ra phai giu loi.",
+    "answerExplanation": "'〜からには' (kara ni wa) co nghia la 'vi da.../mot khi da...' va mang sac thai quyet tam hoac trach nhiem. Mau cau nay duoc dung khi ai do da quyet dinh hoac lam dieu gi do, thi phai chiu trach nhiem. Khac voi '〜ものだから' duoc dung de ly do/bien minh, '〜からには' nhan manh nghia vu sau khi quyet dinh da dua ra.",
+    "hint": "Mot khi da lam dieu gi do, thi phai chiu trach nhiem",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_3_013",
+    "question": "彼女は日本語___、英語も中国語も話せる。",
+    "furigana": "彼女[かのじょ]は日本語[にほんご]___、英語[えいご]も中国語[ちゅうごくご]も話[はな]せる。",
+    "romaji": "Kanojo wa nihongo ___, eigo mo chuugokugo mo hanaseru.",
+    "level": "N2",
+    "category": "GRAMMAR",
+    "options": [
+      "はもとより",
+      "にしたら",
+      "としたら",
+      "にしても"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Anh ay/Co ay co the noi tieng Nhat, va khong chi vay, tieng Anh va tieng Trung cung.",
+    "answerExplanation": "'〜はもとより' (wa motoyori) có nghĩa là 'khong chi... ma con' hoac 'di nhien..., va con...'. Mau cau nay cho thay rang dieu dau tien da ro rang/chac chan, va dieu thu hai cung dung. Trong ngu canh nay, tieng Nhat da chac chan biet, them vao do tieng Anh va tieng Trung cung.",
+    "hint": "Dieu dau tien da ro rang, them vao do dieu khac cung dung",
+    "difficultyScore": 6
+  },
+  {
+    "id": "question_n2_3_014",
+    "question": "電車が遅れた___、遅刻してしまった。",
+    "furigana": "電車[でんしゃ]が遅[おく]れた___、遅刻[ちこく]してしまった。",
+    "romaji": "Densha ga okureta ___, chikoku shite shimatta.",
+    "level": "N2",
+    "category": "GRAMMAR",
+    "options": [
+      "からには",
+      "ばかりか",
+      "ものだから",
+      "に対して"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Vi tau dien tre, toi da bi tre.",
+    "answerExplanation": "'〜ものだから' (mono dakara) duoc dung de dua ra ly do hoac bien minh, thuong mang sac thai bao chua. Mau cau nay cho thay rang ket qua khong co chu dich va xay ra vi nguyen nhan ngoai tam kiem soat. Trong ngu canh nay, nguoi noi dua ra ly do di tre vi tau dien bi tre.",
+    "hint": "Dua ra ly do hoac bien minh cho dieu gi do xay ra",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_3_015",
+    "question": "成績が下がる___、友達との関係も悪くなった。",
+    "furigana": "成績[せいせき]が下[さ]がる___、友達[ともだち]との関係[かんけい]も悪[わる]くなった。",
+    "romaji": "Seiseki ga sagaru ___, tomodachi to no kankei mo waruku natta.",
+    "level": "N2",
+    "category": "GRAMMAR",
+    "options": [
+      "はもとより",
+      "ばかりか",
+      "ものだから",
+      "からには"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Khong chi diem so giam, moi quan he voi ban be cung xau di.",
+    "answerExplanation": "'〜ばかりか' (bakari ka) co nghia la 'khong chi... ma con...' voi sac thai tieu cuc, cho thay rang tinh huong xau tro nen tram trong hon. Mau cau nay duoc dung khi dieu xau dau tien da du, nhung lai them dieu xau khac. Khac voi '〜はもとより' trung lap hon, '〜ばかりか' thuong duoc dung trong ngu canh tieu cuc.",
+    "hint": "Khong chi mot dieu xau, ma con them dieu xau khac",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_3_016",
+    "question": "この問題___、詳しく調査する必要がある。",
+    "furigana": "この問題[もんだい]___、詳[くわ]しく調査[ちょうさ]する必要[ひつよう]がある。",
+    "romaji": "Kono mondai ___, kuwashiku chousa suru hitsuyou ga aru.",
+    "level": "N2",
+    "category": "GRAMMAR",
+    "options": [
+      "に対して",
+      "を通じて",
+      "に関して",
+      "からには"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Ve van de nay, can phai tien hanh dieu tra chi tiet.",
+    "answerExplanation": "'〜に関して' (ni kanshite) có nghĩa là 've', 'lien quan den', hoac 'nhan dip'. Mau cau nay duoc dung de cho thay chu de hoac dieu tro thanh trong tam thao luan. Trong ngu canh nay, dieu tra duoc tien hanh 've/lien quan den' van de do. Trang trong hon so voi '〜について'.",
+    "hint": "cho thay chu de tro thanh trong tam thao luan (trang trong)",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_3_017",
+    "question": "ボランティア活動___、多くのことを学んだ。",
+    "furigana": "ボランティア活動[かつどう]___、多[おお]くのことを学[まな]んだ。",
+    "romaji": "Borantia katsudou ___, ooku no koto wo mananda.",
+    "level": "N2",
+    "category": "GRAMMAR",
+    "options": [
+      "に関して",
+      "に対して",
+      "を通じて",
+      "はもとより"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Thong qua hoat dong tinh nguyen, toi hoc duoc nhieu dieu.",
+    "answerExplanation": "'〜を通じて' (wo tsuujite) hoặc '〜を通して' (wo tooshite) có nghĩa là 'thong qua' hoac 'qua'. Mau cau nay cho thay phuong tien, kenh, hoac qua trinh duoc dung de dat duoc dieu gi do. Trong ngu canh nay, hoat dong tinh nguyen tro thanh 'phuong tien/kenh' de hoc duoc nhieu dieu.",
+    "hint": "cho thay phuong tien hoac cach de dat duoc mot ket qua",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_3_018",
+    "question": "次の文章を読んで、質問に答えてください。\n\n最近の研究によると、睡眠の質と仕事の生産性には密接な関係があることが明らかになった。特に、深い睡眠の時間が短い人は、集中力が低下し、ミスが増える傾向がある。また、睡眠不足が続くと、創造的な思考力も著しく低下することがわかった。研究チームは、一日7〜8時間の睡眠を確保し、就寝前のスマートフォンの使用を控えることを推奨している。さらに、定期的な運動が睡眠の質を向上させる効果があることも報告された。\n\n研究で明らかになったことは何ですか。",
+    "furigana": "次[つぎ]の文章[ぶんしょう]を読[よ]んで、質問[しつもん]に答[こた]えてください。\n\n最近[さいきん]の研究[けんきゅう]によると、睡眠[すいみん]の質[しつ]と仕事[しごと]の生産性[せいさんせい]には密接[みっせつ]な関係[かんけい]があることが明[あき]らかになった。特[とく]に、深[ふか]い睡眠[すいみん]の時間[じかん]が短[みじか]い人[ひと]は、集中力[しゅうちゅうりょく]が低下[ていか]し、ミスが増[ふ]える傾向[けいこう]がある。また、睡眠[すいみん]不足[ぶそく]が続[つづ]くと、創造的[そうぞうてき]な思考力[しこうりょく]も著[いちじる]しく低下[ていか]することがわかった。研究[けんきゅう]チームは、一日[いちにち]7〜8時間[じかん]の睡眠[すいみん]を確保[かくほ]し、就寝前[しゅうしんまえ]のスマートフォンの使用[しよう]を控[ひか]えることを推奨[すいしょう]している。さらに、定期的[ていきてき]な運動[うんどう]が睡眠[すいみん]の質[しつ]を向上[こうじょう]させる効果[こうか]があることも報告[ほうこく]された。\n\n研究[けんきゅう]で明[あき]らかになったことは何[なん]ですか。",
+    "romaji": "Tsugi no bunshou wo yonde, shitsumon ni kotaete kudasai.\n\nSaikin no kenkyuu ni yoru to, suimin no shitsu to shigoto no seisansei ni wa missetsu na kankei ga aru koto ga akiraka ni natta. Toku ni, fukai suimin no jikan ga mijikai hito wa, shuuchuuryoku ga teika shi, misu ga fueru keikou ga aru. Mata, suimin busoku ga tsuzuku to, souzouteki na shikouryoku mo ichijirushiku teika suru koto ga wakatta. Kenkyuu chiimu wa, ichinichi 7-8 jikan no suimin wo kakuho shi, shuushin mae no sumaatofon no shiyou wo hikaeru koto wo suishou shite iru. Sarani, teikiteki na undou ga suimin no shitsu wo koujou saseru kouka ga aru koto mo houkoku sareta.\n\nKenkyuu de akiraka ni natta koto wa nan desu ka.",
+    "level": "N2",
+    "category": "READING",
+    "options": [
+      "睡眠時間は短くても生産性に影響しない",
+      "睡眠の質と仕事の生産性には密接な関係がある",
+      "スマートフォンの使用は睡眠に影響しない",
+      "運動は睡眠の質を低下させる"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Doc van ban sau day va tra loi cau hoi.\n\nTheo nghien cuu moi nhat, da phat hien rang co moi quan he chat che giua chat luong giac ngu va nang suat lam viec. Dac biet, nguoi co thoi gian ngu sau ngan co xu huong giam tap trung va tang sai sot. Ngoai ra, neu thieu ngu keo dai, kha nang tu duy sang tao cung giam dang ke. Nhom nghien cuu khuyen nghi dam bao ngu 7-8 tieng moi ngay va giam su dung dien thoai thong minh truoc khi ngu. Ngoai ra, cung duoc bao cao rang tap the duc thuong xuyen co tac dung tang chat luong giac ngu.\n\nDieu gi da duoc phat hien tu nghien cuu do?",
+    "answerExplanation": "Cau tra loi dung la 'Chat luong giac ngu va nang suat lam viec co moi quan he chat che'. Cau dau tien cua van ban truc tiep dien ta '睡眠の質と仕事の生産性には密接な関係がある' (co moi quan he chat che giua chat luong giac ngu va nang suat lam viec). Cac lua chon khac trai nguoc voi noi dung van ban.",
+    "hint": "Luu y cau dau tien cua van ban ve phat hien chinh cua nghien cuu",
+    "difficultyScore": 6
+  },
+  {
+    "id": "question_n2_3_019",
+    "question": "次の文章を読んで、質問に答えてください。\n\nお知らせ：奨学金申請手続きの変更について\n\n来年度より、奨学金の申請手続きが以下の通り変更されます。従来は書類の郵送のみで受け付けていましたが、今後はオンラインでの申請が必須となります。また、申請に必要な書類として、成績証明書に加え、指導教授からの推薦状が新たに必要になります。申請期間は4月1日から4月30日までで、締め切り後の申請は一切受け付けません。なお、経済的に困難な状況にある学生を優先的に選考する方針に変わりはありません。詳細は学生課窓口またはウェブサイトでご確認ください。\n\n新しい申請手続きで追加された要件は何ですか。",
+    "furigana": "次[つぎ]の文章[ぶんしょう]を読[よ]んで、質問[しつもん]に答[こた]えてください。\n\nお知[し]らせ：奨学金[しょうがくきん]申請[しんせい]手続[てつづ]きの変更[へんこう]について\n\n来年度[らいねんど]より、奨学金[しょうがくきん]の申請[しんせい]手続[てつづ]きが以下[いか]の通[とお]り変更[へんこう]されます。従来[じゅうらい]は書類[しょるい]の郵送[ゆうそう]のみで受[う]け付[つ]けていましたが、今後[こんご]はオンラインでの申請[しんせい]が必須[ひっす]となります。また、申請[しんせい]に必要[ひつよう]な書類[しょるい]として、成績[せいせき]証明書[しょうめいしょ]に加[くわ]え、指導[しどう]教授[きょうじゅ]からの推薦状[すいせんじょう]が新[あら]たに必要[ひつよう]になります。申請[しんせい]期間[きかん]は4月[がつ]1日[ついたち]から4月[がつ]30日[にち]までで、締[し]め切[き]り後[ご]の申請[しんせい]は一切[いっさい]受[う]け付[つ]けません。なお、経済的[けいざいてき]に困難[こんなん]な状況[じょうきょう]にある学生[がくせい]を優先的[ゆうせんてき]に選考[せんこう]する方針[ほうしん]に変[か]わりはありません。詳細[しょうさい]は学生課[がくせいか]窓口[まどぐち]またはウェブサイトでご確認[かくにん]ください。\n\n新[あたら]しい申請[しんせい]手続[てつづ]きで追加[ついか]された要件[ようけん]は何[なん]ですか。",
+    "romaji": "Tsugi no bunshou wo yonde, shitsumon ni kotaete kudasai.\n\nOshirase: Shougakukin shinsei tetsuzuki no henkou ni tsuite\n\nRainendo yori, shougakukin no shinsei tetsuzuki ga ika no toori henkou saremasu. Juurai wa shorui no yuusou nomi de uketsukete imashita ga, kongo wa onrain de no shinsei ga hissu to narimasu. Mata, shinsei ni hitsuyou na shorui to shite, seiseki shoumeisho ni kuwae, shidou kyouju kara no suisenjou ga arata ni hitsuyou ni narimasu. Shinsei kikan wa shigatsu tsuitachi kara shigatsu sanjuunichi made de, shimekiri go no shinsei wa issai uketsukemasen. Nao, keizaiteki ni konnan na joukyou ni aru gakusei wo yuusenteki ni senkou suru houshin ni kawari wa arimasen. Shousai wa gakuseika madoguchi matawa webusaito de go kakunin kudasai.\n\nAtarashii shinsei tetsuzuki de tsuika sareta youken wa nan desu ka.",
+    "level": "N2",
+    "category": "READING",
+    "options": [
+      "成績証明書の提出",
+      "指導教授からの推薦状",
+      "経済状況の証明書",
+      "郵送での書類提出"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Doc van ban sau day va tra loi cau hoi.\n\nThong bao: Ve Thay doi Thu tuc Dang ky Hoc bong\n\nTu nam hoc toi, thu tuc dang ky hoc bong se duoc thay doi nhu sau. Truoc day chi tiep nhan qua gui tai lieu buu dien, tuy nhien tu nay dang ky truc tuyen tro thanh bat buoc. Ngoai ra, nhu la tai lieu can thiet de dang ky, ngoai bang diem, thu gioi thieu tu giao su huong dan cung tro thanh yeu cau moi. Thoi gian dang ky tu 1 thang 4 den 30 thang 4, va dang ky sau han chot hoan toan khong duoc chap nhan. Chinh sach uu tien sinh vien trong hoan canh kinh te kho khan khong thay doi. De biet chi tiet, vui long kiem tra tai quay phong sinh vien hoac trang web.\n\nYeu cau nao duoc them vao trong thu tuc dang ky moi?",
+    "answerExplanation": "Cau tra loi dung la 'Thu gioi thieu tu giao su huong dan'. Van ban de cap '指導教授からの推薦状が新たに必要になります' (thu gioi thieu tu giao su huong dan tro thanh yeu cau moi). Tu khoa '新たに' (moi) cho thay rang la yeu cau bo sung. Bang diem da co tu truoc (成績証明書に加え = ngoai bang diem).",
+    "hint": "Tim tu '新たに' (moi) cho thay yeu cau bo sung",
+    "difficultyScore": 6
+  },
+  {
+    "id": "question_n2_3_020",
+    "question": "次の文章を読んで、質問に答えてください。\n\n『二つの故郷』という小説の書評が新聞に掲載された。この小説は、日本で育ったブラジル人の青年が、自分のアイデンティティに悩みながらも、両方の文化を受け入れていく過程を描いている。評者は、「作者の繊細な筆致によって、文化の間で揺れ動く主人公の心情が見事に表現されている。特に、二つの文化を対立ではなく共存として捉える結末は、現代の多文化社会に重要なメッセージを投げかけている」と述べている。ただし、「中盤の展開がやや冗長で、読者の集中力が途切れる恐れがある」とも指摘している。\n\n評者のこの小説に対する全体的な評価はどれですか。",
+    "furigana": "次[つぎ]の文章[ぶんしょう]を読[よ]んで、質問[しつもん]に答[こた]えてください。\n\n『二[ふた]つの故郷[こきょう]』という小説[しょうせつ]の書評[しょひょう]が新聞[しんぶん]に掲載[けいさい]された。この小説[しょうせつ]は、日本[にほん]で育[そだ]ったブラジル人[じん]の青年[せいねん]が、自分[じぶん]のアイデンティティに悩[なや]みながらも、両方[りょうほう]の文化[ぶんか]を受[う]け入[い]れていく過程[かてい]を描[えが]いている。評者[ひょうしゃ]は、「作者[さくしゃ]の繊細[せんさい]な筆致[ひっち]によって、文化[ぶんか]の間[あいだ]で揺[ゆ]れ動[うご]く主人公[しゅじんこう]の心情[しんじょう]が見事[みごと]に表現[ひょうげん]されている。特[とく]に、二[ふた]つの文化[ぶんか]を対立[たいりつ]ではなく共存[きょうぞん]として捉[とら]える結末[けつまつ]は、現代[げんだい]の多文化[たぶんか]社会[しゃかい]に重要[じゅうよう]なメッセージを投[な]げかけている」と述[の]べている。ただし、「中盤[ちゅうばん]の展開[てんかい]がやや冗長[じょうちょう]で、読者[どくしゃ]の集中力[しゅうちゅうりょく]が途切[とぎ]れる恐[おそ]れがある」とも指摘[してき]している。\n\n評者[ひょうしゃ]のこの小説[しょうせつ]に対[たい]する全体的[ぜんたいてき]な評価[ひょうか]はどれですか。",
+    "romaji": "Tsugi no bunshou wo yonde, shitsumon ni kotaete kudasai.\n\n'Futatsu no Kokyou' to iu shousetsu no shohyou ga shinbun ni keisai sareta. Kono shousetsu wa, nihon de sodatta burajirujin no seinen ga, jibun no aidentiti ni nayami nagara mo, ryouhou no bunka wo ukeirete iku katei wo egaite iru. Hyousha wa, 'sakusha no sensai na hitchi ni yotte, bunka no aida de yure ugoku shujinkou no shinjou ga migoto ni hyougen sarete iru. Toku ni, futatsu no bunka wo tairitsu de wa naku kyouzon to shite toraeru ketsumatsu wa, gendai no tabunka shakai ni juuyou na messeeji wo nagekakete iru' to nobete iru. Tadashi, 'chuuban no tenkai ga yaya jouchou de, dokusha no shuuchuuryoku ga togireru osore ga aru' to mo shiteki shite iru.\n\nHyousha no kono shousetsu ni taisuru zentaiteki na hyouka wa dore desu ka.",
+    "level": "N2",
+    "category": "READING",
+    "options": [
+      "全体的に否定的で、読む価値がないと評価している",
+      "一部に課題はあるが、全体的に高く評価している",
+      "文化に関するテーマに興味がないと述べている",
+      "結末が期待外れだと批判している"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Doc van ban sau day va tra loi cau hoi.\n\nMot bai phe binh tieu thuyet co ten 'Hai Que Huong' duoc dang tren bao. Tieu thuyet nay mo ta qua trinh mot chang trai Brasil lon len o Nhat Ban, du dau tranh voi ban sac, cuoi cung chap nhan ca hai nen van hoa do. Nguoi phe binh dien ta, 'Qua but phap tinh te cua tac gia, tam trang nhan vat chinh dao dong giua hai nen van hoa duoc the hien tuyet dep. Dac biet, ket thuc truyen nhin hai nen van hoa khong phai la doi dau ma la cung ton tai, mang thong diep quan trong cho xa hoi da van hoa hien dai.' Tuy nhien, nguoi phe binh cung chi ra rang 'phan giua cau chuyen hoi dai dong va co kha nang doc gia mat tap trung.'\n\nDanh gia tong the cua nguoi phe binh doi voi tieu thuyet nay nhu the nao?",
+    "answerExplanation": "Cau tra loi dung la 'Co mot so diem yeu, nhung nhin chung duoc danh gia cao'. Nguoi phe binh khen ngoi but phap tinh te, su the hien tam trang nhan vat chinh, va thong diep quan trong o cuoi truyen. Tuy nhien, nguoi do cung chi ra diem yeu o phan giua hoi dai dong. Dieu nay cho thay danh gia phan lon tich cuc voi mot chut phe binh. Tu '見事に' (tuyet dep) va '重要なメッセージ' (thong diep quan trong) cho thay su danh gia cao.",
+    "hint": "Luu y su can bang giua loi khen va phe binh tu nguoi danh gia",
+    "difficultyScore": 7
+  },
+  {
+    "id": "question_n2_3_021",
+    "question": "この法律は憲法の理念___制定されたものである。",
+    "furigana": "この法律[ほうりつ]は憲法[けんぽう]の理念[りねん]___制定[せいてい]されたものである。",
+    "romaji": "Kono houritsu wa kenpou no rinen ___ seitei sareta mono de aru.",
+    "level": "N2",
+    "category": "GRAMMAR",
+    "options": [
+      "に基づいて",
+      "に関して",
+      "に対して",
+      "によると"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Luật này được ban hành dựa trên nguyên tắc của hiến pháp.",
+    "answerExplanation": "'～に基づいて' (ni motozuite) có nghĩa là 'dựa trên' hoặc 'căn cứ vào', được sử dụng để chỉ cơ sở hoặc nền tảng của một hành động. Luật được ban hành dựa trên nguyên tắc hiến pháp. 'に関して' có nghĩa là 'về', 'に対して' có nghĩa là 'đối với', 'によると' có nghĩa là 'theo' — không phù hợp với ngữ cảnh nền tảng pháp lý.",
+    "hint": "Mẫu trang trọng chỉ ra rằng một hành động được thực hiện trên một cơ sở hoặc nền tảng nhất định.",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_3_022",
+    "question": "留学___、彼女は国際的な視野を持つようになった。",
+    "furigana": "留学[りゅうがく]___、彼女[かのじょ]は国際的[こくさいてき]な視野[しや]を持[も]つようになった。",
+    "romaji": "Ryuugaku ___, kanojo wa kokusaiteki na shiya wo motsu you ni natta.",
+    "level": "N2",
+    "category": "GRAMMAR",
+    "options": [
+      "をきっかけに",
+      "をもとに",
+      "を問わず",
+      "を通じて"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Nhân cơ hội du học, cô ấy đã có được tầm nhìn quốc tế.",
+    "answerExplanation": "'～をきっかけに' (wo kikkake ni) có nghĩa là 'nhân cơ hội' hoặc 'được khởi phát bởi', chỉ ra rằng một sự kiện trở thành bước ngoặt hoặc yếu tố kích hoạt sự thay đổi. Trải nghiệm du học đã kích hoạt sự thay đổi trong tầm nhìn của cô ấy. 'をもとに' có nghĩa là 'dựa trên', 'を問わず' có nghĩa là 'bất kể', 'を通じて' có nghĩa là 'thông qua'.",
+    "hint": "Mẫu câu chỉ ra một sự kiện trở thành điểm khởi đầu hoặc yếu tố kích hoạt cho sự thay đổi lớn.",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_3_023",
+    "question": "あの事故の原因は、整備不良___。",
+    "furigana": "あの事故[じこ]の原因[げんいん]は、整備[せいび]不良[ふりょう]___。",
+    "romaji": "Ano jiko no gen'in wa, seibi furyou ___.",
+    "level": "N2",
+    "category": "GRAMMAR",
+    "options": [
+      "にすぎない",
+      "に違いない",
+      "にほかならない",
+      "に決まっている"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Nguyên nhân của vụ tai nạn đó chắc chắn là do bảo trì kém.",
+    "answerExplanation": "'～に違いない' (ni chigai nai) có nghĩa là 'chắc chắn là' hoặc 'không nghi ngờ gì', thể hiện niềm tin mạnh mẽ của người nói dựa trên bằng chứng hoặc lý luận. 'にすぎない' có nghĩa là 'chỉ là', 'にほかならない' có nghĩa là 'không gì khác ngoài' (nhấn mạnh), 'に決まっている' cũng có nghĩa là 'chắc chắn' nhưng ít trang trọng hơn.",
+    "hint": "Mẫu trang trọng thể hiện niềm tin mạnh mẽ của người nói về điều gì đó.",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_3_024",
+    "question": "困難な状況でも冷静な___ができる人材を求めている。",
+    "furigana": "困難[こんなん]な状況[じょうきょう]でも冷静[れいせい]な___ができる人材[じんざい]を求[もと]めている。",
+    "romaji": "Konnan na joukyou demo reisei na ___ ga dekiru jinzai wo motomete iru.",
+    "level": "N2",
+    "category": "VOCABULARY",
+    "options": [
+      "選択",
+      "判断",
+      "促進",
+      "把握"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Chúng tôi đang tìm kiếm nhân tài có thể đưa ra ___ bình tĩnh ngay cả trong tình huống khó khăn.",
+    "answerExplanation": "'判断' (handan) có nghĩa là phán đoán hoặc quyết định. Trong bối cảnh tuyển dụng, khả năng đưa ra quyết định bình tĩnh trong tình huống khó khăn được đánh giá cao. '選択' có nghĩa là lựa chọn (thiên về chọn từ các tùy chọn), '促進' có nghĩa là thúc đẩy, '把握' có nghĩa là nắm bắt.",
+    "hint": "Từ có nghĩa là khả năng đưa ra quyết định hoặc đánh giá tình huống.",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_3_025",
+    "question": "この政策は地域経済の___を目的としている。",
+    "furigana": "この政策[せいさく]は地域[ちいき]経済[けいざい]の___を目的[もくてき]としている。",
+    "romaji": "Kono seisaku wa chiiki keizai no ___ wo mokuteki to shite iru.",
+    "level": "N2",
+    "category": "VOCABULARY",
+    "options": [
+      "促進",
+      "喪失",
+      "妨害",
+      "撤退"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Chính sách này nhằm mục đích ___ kinh tế khu vực.",
+    "answerExplanation": "'促進' (sokushin) có nghĩa là thúc đẩy hoặc đẩy nhanh. Chính sách nhằm thúc đẩy kinh tế khu vực phát triển tốt hơn. '喪失' có nghĩa là mất mát, '妨害' có nghĩa là cản trở, '撤退' có nghĩa là rút lui — tất cả đều tiêu cực và không phù hợp với mục đích chính sách.",
+    "hint": "Từ có nghĩa là thúc đẩy hoặc đẩy nhanh sự phát triển của điều gì đó.",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_3_026",
+    "question": "健康を___するためには、バランスの良い食事と運動が必要だ。",
+    "furigana": "健康[けんこう]を___するためには、バランスの良[よ]い食事[しょくじ]と運動[うんどう]が必要[ひつよう]だ。",
+    "romaji": "Kenkou wo ___ suru tame ni wa, baransu no yoi shokuji to undou ga hitsuyou da.",
+    "level": "N2",
+    "category": "VOCABULARY",
+    "options": [
+      "喪失",
+      "解決",
+      "維持",
+      "発揮"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Để ___ sức khỏe, cần có chế độ ăn uống cân bằng và tập thể dục.",
+    "answerExplanation": "'維持' (iji) có nghĩa là duy trì hoặc giữ ở cùng tình trạng. Ngữ cảnh câu nói về việc duy trì sức khỏe thông qua chế độ ăn uống và tập thể dục. '喪失' có nghĩa là mất mát, '解決' có nghĩa là giải quyết (vấn đề), '発揮' có nghĩa là phát huy (khả năng).",
+    "hint": "Từ có nghĩa là giữ cho điều gì đó ở tình trạng tốt mà không thay đổi.",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_3_027",
+    "question": "「人権侵害」の正しい読み方はどれですか。",
+    "furigana": "「人権侵害[じんけんしんがい]」の正[ただ]しい読[よ]み方[かた]はどれですか。",
+    "romaji": "'Jinken shingai' no tadashii yomikata wa dore desu ka.",
+    "level": "N2",
+    "category": "KANJI",
+    "options": [
+      "じんけんしんがい",
+      "にんけんしんがい",
+      "じんけんしんかい",
+      "じんげんしんがい"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Cách đọc đúng của '人権侵害' là gì?",
+    "answerExplanation": "'人権侵害' được đọc là 'じんけんしんがい' (jinken shingai), có nghĩa là vi phạm nhân quyền. '人権' (jinken) = nhân quyền, '侵害' (shingai) = xâm phạm. Các lựa chọn khác sai: 'にんけん' không phải cách đọc đúng của 人権 (trong từ ghép đọc là 'じんけん'), 'しんかい' không phải cách đọc đúng của 侵害 ('害' đọc là 'がい' có dakuten), 'じんげん' không phải cách đọc của 人権.",
+    "hint": "Sự kết hợp của hai từ: nhân quyền + xâm phạm. Chú ý cách đọc onyomi.",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_3_028",
+    "question": "「自然災害」の正しい読み方はどれですか。",
+    "furigana": "「自然災害[しぜんさいがい]」の正[ただ]しい読[よ]み方[かた]はどれですか。",
+    "romaji": "'Shizen saigai' no tadashii yomikata wa dore desu ka.",
+    "level": "N2",
+    "category": "KANJI",
+    "options": [
+      "じねんさいがい",
+      "しぜんさいかい",
+      "しぜんさいがい",
+      "しぜんわざがい"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Cách đọc đúng của '自然災害' là gì?",
+    "answerExplanation": "'自然災害' được đọc là 'しぜんさいがい' (shizen saigai), có nghĩa là thảm họa tự nhiên. '自然' (shizen) = tự nhiên, '災害' (saigai) = thảm họa. Các lựa chọn khác sai: 'じねん' là cách đọc cổ của 自然 ít dùng trong tiếng Nhật hiện đại, 'さいかい' không phải cách đọc đúng của 災害 ('害' đọc là 'がい'), 'わざがい' là cách đọc kunyomi của 災い không dùng trong từ ghép này.",
+    "hint": "Từ này gồm 'tự nhiên' + 'thảm họa'. Chú ý cách đọc onyomi tiêu chuẩn.",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_3_029",
+    "question": "（読解）次の文章を読んで、質問に答えてください。\n\n近年、テレワークの普及に基づいて、オフィスの在り方が根本的に見直されつつある。従来のオフィスは全社員が毎日出社することを前提に設計されていた。しかし、テレワークをきっかけに、多くの企業がオフィス面積の縮小を検討し始めている。ある不動産調査会社の報告によると、大企業の約40％がオフィス面積の削減を実施または検討中であるという。一方で、完全にオフィスを廃止した企業は全体の5％に過ぎない。専門家は、今後のオフィスは「毎日働く場所」から「集まって協働する場所」へと役割が変化するに違いないと分析している。\n\n質問：専門家はオフィスの将来についてどのように分析しているか。",
+    "furigana": "（読解[どっかい]）次[つぎ]の文章[ぶんしょう]を読[よ]んで、質問[しつもん]に答[こた]えてください。\n\n近年[きんねん]、テレワークの普及[ふきゅう]に基[もと]づいて、オフィスの在[あ]り方[かた]が根本的[こんぽんてき]に見直[みなお]されつつある。従来[じゅうらい]のオフィスは全社員[ぜんしゃいん]が毎日[まいにち]出社[しゅっしゃ]することを前提[ぜんてい]に設計[せっけい]されていた。しかし、テレワークをきっかけに、多[おお]くの企業[きぎょう]がオフィス面積[めんせき]の縮小[しゅくしょう]を検討[けんとう]し始[はじ]めている。ある不動産[ふどうさん]調査[ちょうさ]会社[かいしゃ]の報告[ほうこく]によると、大企業[だいきぎょう]の約[やく]40％がオフィス面積[めんせき]の削減[さくげん]を実施[じっし]または検討中[けんとうちゅう]であるという。一方[いっぽう]で、完全[かんぜん]にオフィスを廃止[はいし]した企業[きぎょう]は全体[ぜんたい]の5％に過[す]ぎない。専門家[せんもんか]は、今後[こんご]のオフィスは「毎日[まいにち]働[はたら]く場所[ばしょ]」から「集[あつ]まって協働[きょうどう]する場所[ばしょ]」へと役割[やくわり]が変化[へんか]するに違[ちが]いないと分析[ぶんせき]している。\n\n質問[しつもん]：専門家[せんもんか]はオフィスの将来[しょうらい]についてどのように分析[ぶんせき]しているか。",
+    "romaji": "(Dokkai) Tsugi no bunshou wo yonde, shitsumon ni kotaete kudasai.\n\nKinnen, terewaaku no fukyuu ni motozuite, ofisu no arikata ga konponteki ni minaosare tsutsu aru. Juurai no ofisu wa zen shain ga mainichi shussha suru koto wo zentei ni sekkei sarete ita. Shikashi, terewaaku wo kikkake ni, ooku no kigyou ga ofisu menseki no shukushou wo kentou shi hajimete iru. Aru fudousan chousa kaisha no houkoku ni yoru to, daikigyou no yaku 40% ga ofisu menseki no sakugen wo jisshi matawa kentouchuu de aru to iu. Ippou de, kanzen ni ofisu wo haishi shita kigyou wa zentai no 5% ni suginai. Senmonka wa, kongo no ofisu wa 'mainichi hataraku basho' kara 'atsumatte kyoudou suru basho' e to yakuwari ga henka suru ni chigai nai to bunseki shite iru.\n\nShitsumon: Senmonka wa ofisu no shourai ni tsuite dono you ni bunseki shite iru ka.",
+    "level": "N2",
+    "category": "READING",
+    "options": [
+      "すべての企業がオフィスを廃止するだろう",
+      "オフィスは毎日出社する場所から協働の場に変わるだろう",
+      "オフィスの面積は今後も変わらないだろう",
+      "テレワークは一時的な流行に過ぎないだろう"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "(Đọc hiểu) Hãy đọc đoạn văn sau và trả lời câu hỏi.\n\nTrong những năm gần đây, dựa trên sự phổ biến của làm việc từ xa, bản chất của văn phòng đang được xem xét lại một cách căn bản. Văn phòng truyền thống được thiết kế với giả định tất cả nhân viên đến làm việc mỗi ngày. Tuy nhiên, nhân cơ hội làm việc từ xa, nhiều doanh nghiệp đã bắt đầu xem xét việc giảm diện tích văn phòng. Theo báo cáo của công ty khảo sát bất động sản, khoảng 40% doanh nghiệp lớn đã thực hiện hoặc đang xem xét giảm diện tích văn phòng. Mặt khác, các doanh nghiệp hoàn toàn bỏ văn phòng chỉ chiếm 5%. Các chuyên gia phân tích rằng vai trò của văn phòng trong tương lai chắc chắn sẽ thay đổi từ 'nơi làm việc hàng ngày' sang 'nơi tập hợp và cộng tác'.\n\nCâu hỏi: Các chuyên gia phân tích như thế nào về tương lai của văn phòng?",
+    "answerExplanation": "Văn bản đề cập đến phân tích của các chuyên gia: vai trò văn phòng chắc chắn sẽ thay đổi từ 'nơi làm việc hàng ngày' sang 'nơi tập hợp và cộng tác'. Lựa chọn về tất cả doanh nghiệp bỏ văn phòng sai vì dữ liệu cho thấy chỉ 5%. Lựa chọn về diện tích văn phòng không thay đổi mâu thuẫn với dữ liệu 40%.",
+    "hint": "Tìm câu bắt đầu bằng '専門家は' để tìm phân tích của chuyên gia.",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_3_030",
+    "question": "（読解）次の案内文を読んで、質問に答えてください。\n\n市民講座のお知らせ\n\n本市では、市民の生涯学習を促進するため、以下の講座を開催いたします。\n\n①「初めてのプログラミング」全8回・水曜夜間・定員30名\n②「健康料理教室」全6回・土曜午前・定員20名\n③「ビジネス英会話」全10回・火曜夜間・定員25名\n\n申込方法：市のウェブサイトまたは生涯学習センター窓口にて受付。先着順。\n受講料：各講座3,000円（教材費別途）\n注意事項：定員に達した講座は、キャンセル待ちの登録が可能です。一人につき同時に申し込めるのは2講座までとなっております。全講座の半数以上を欠席した場合、修了証は発行されません。\n\n質問：この案内について正しいものはどれか。",
+    "furigana": "（読解[どっかい]）次[つぎ]の案内文[あんないぶん]を読[よ]んで、質問[しつもん]に答[こた]えてください。\n\n市民[しみん]講座[こうざ]のお知[し]らせ\n\n本市[ほんし]では、市民[しみん]の生涯[しょうがい]学習[がくしゅう]を促進[そくしん]するため、以下[いか]の講座[こうざ]を開催[かいさい]いたします。\n\n①「初[はじ]めてのプログラミング」全[ぜん]8回[かい]・水曜[すいよう]夜間[やかん]・定員[ていいん]30名[めい]\n②「健康[けんこう]料理[りょうり]教室[きょうしつ]」全[ぜん]6回[かい]・土曜[どよう]午前[ごぜん]・定員[ていいん]20名[めい]\n③「ビジネス英会話[えいかいわ]」全[ぜん]10回[かい]・火曜[かよう]夜間[やかん]・定員[ていいん]25名[めい]\n\n申込[もうしこみ]方法[ほうほう]：市[し]のウェブサイトまたは生涯[しょうがい]学習[がくしゅう]センター窓口[まどぐち]にて受付[うけつけ]。先着順[せんちゃくじゅん]。\n受講料[じゅこうりょう]：各[かく]講座[こうざ]3,000円[えん]（教材費[きょうざいひ]別途[べっと]）\n注意[ちゅうい]事項[じこう]：定員[ていいん]に達[たっ]した講座[こうざ]は、キャンセル待[ま]ちの登録[とうろく]が可能[かのう]です。一人[ひとり]につき同時[どうじ]に申[もう]し込[こ]めるのは2講座[こうざ]までとなっております。全[ぜん]講座[こうざ]の半数[はんすう]以上[いじょう]を欠席[けっせき]した場合[ばあい]、修了証[しゅうりょうしょう]は発行[はっこう]されません。\n\n質問[しつもん]：この案内[あんない]について正[ただ]しいものはどれか。",
+    "romaji": "(Dokkai) Tsugi no annaibun wo yonde, shitsumon ni kotaete kudasai.\n\nShimin kouza no oshirase\n\nHonshi dewa, shimin no shougai gakushuu wo sokushin suru tame, ika no kouza wo kaisai itashimasu.\n\n1. 'Hajimete no puroguramingu' zen 8 kai, suiyou yakan, teiin 30 mei\n2. 'Kenkou ryouri kyoushitsu' zen 6 kai, doyou gozen, teiin 20 mei\n3. 'Bijinesu eikaiwa' zen 10 kai, kayou yakan, teiin 25 mei\n\nMoushikomi houhou: Shi no uebusaito matawa shougai gakushuu sentaa madoguchi nite uketsuke. Senchaku jun.\nJukouryou: Kaku kouza 3,000 en (kyouzaihi betto)\nChuui jikou: Teiin ni tasshita kouza wa, kyanseru machi no touroku ga kanou desu. Hitori ni tsuki douji ni moushikomeru no wa 2 kouza made to natte orimasu. Zen kouza no hansuu ijou wo kesseki shita baai, shuuryoushou wa hakkou saremasen.\n\nShitsumon: Kono annai ni tsuite tadashii mono wa dore ka.",
+    "level": "N2",
+    "category": "READING",
+    "options": [
+      "3つの講座すべてに同時に申し込むことができる",
+      "受講料には教材費が含まれている",
+      "定員を超えた場合はキャンセル待ちができる",
+      "1回でも欠席すると修了証がもらえない"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "(Đọc hiểu) Hãy đọc thông báo sau và trả lời câu hỏi.\n\nThông báo khóa học công dân\n\nThành phố tổ chức các khóa học sau để thúc đẩy học tập suốt đời cho công dân:\n\n1. 'Lập trình cho người mới' - 8 buổi, tối thứ Tư, sức chứa 30 người\n2. 'Lớp nấu ăn lành mạnh' - 6 buổi, sáng thứ Bảy, sức chứa 20 người\n3. 'Hội thoại tiếng Anh thương mại' - 10 buổi, tối thứ Ba, sức chứa 25 người\n\nĐăng ký: Qua website thành phố hoặc quầy trung tâm học tập suốt đời. Theo thứ tự đăng ký.\nPhí: 3.000 yên mỗi khóa (phí tài liệu riêng)\nLưu ý: Các khóa đã đủ người cho phép đăng ký danh sách chờ. Mỗi người có thể đăng ký tối đa 2 khóa cùng lúc. Nếu vắng mặt hơn một nửa số buổi, chứng chỉ hoàn thành sẽ không được cấp.\n\nCâu hỏi: Phát biểu nào về thông báo này là đúng?",
+    "answerExplanation": "Văn bản nêu rằng các khóa đã đủ người cho phép đăng ký danh sách chờ, nên lựa chọn C đúng. Lựa chọn A sai vì giới hạn là 2 khóa (không phải 3). Lựa chọn B sai vì phí tài liệu riêng. Lựa chọn D sai vì điều kiện là vắng mặt hơn một nửa, không phải chỉ 1 lần.",
+    "hint": "Đọc từng phát biểu và so sánh với thông tin trong thông báo. Chú ý đến các con số và điều kiện.",
+    "difficultyScore": 4
+  }
+]

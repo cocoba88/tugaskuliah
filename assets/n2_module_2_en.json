@@ -1,0 +1,572 @@
+[
+  {
+    "id": "question_n2_2_001",
+    "question": "「維持」の意味は？",
+    "furigana": "「維持[いじ]」の意味[いみ]は？",
+    "romaji": "'Iji' no imi wa?",
+    "level": "N2",
+    "category": "VOCABULARY",
+    "options": [
+      "Deletion",
+      "Maintenance, to maintain",
+      "Total change",
+      "Drastic increase"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "What is the meaning of '維持'?",
+    "answerExplanation": "'維持' (iji) means maintenance or to maintain something so that it stays in the same condition. Example: '健康を維持する' (to maintain one's health). Kanji '維' means to bind/preserve, and '持' means to hold.",
+    "hint": "To keep something the same, without change",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_2_002",
+    "question": "「破綻」の意味は？",
+    "furigana": "「破綻[はたん]」の意味[いみ]は？",
+    "romaji": "'Hatan' no imi wa?",
+    "level": "N2",
+    "category": "VOCABULARY",
+    "options": [
+      "Great success",
+      "Good beginning",
+      "Bankruptcy, collapse",
+      "Complete overhaul"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "What is the meaning of '破綻'?",
+    "answerExplanation": "'破綻' (hatan) means bankruptcy, failure, or collapse. It can be used for finances ('経営破綻' = business bankruptcy), relationships ('関係が破綻する' = a relationship falls apart), as well as plans. Kanji '破' means break/destroy and '綻' means tear/unravel.",
+    "hint": "A situation where something can no longer function and falls apart",
+    "difficultyScore": 6
+  },
+  {
+    "id": "question_n2_2_003",
+    "question": "「模倣」の意味は？",
+    "furigana": "「模倣[もほう]」の意味[いみ]は？",
+    "romaji": "'Mohou' no imi wa?",
+    "level": "N2",
+    "category": "VOCABULARY",
+    "options": [
+      "Strong rejection",
+      "Original new discovery",
+      "Radical change",
+      "Imitation, copying"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "What is the meaning of '模倣'?",
+    "answerExplanation": "'模倣' (mohou) means imitation or copying something that already exists. Example: '他社の製品を模倣する' (to imitate another company's products). Kanji '模' means model/pattern and '倣' means to imitate/follow.",
+    "hint": "Doing the same thing that others have done",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_2_004",
+    "question": "「配慮」の意味は？",
+    "furigana": "「配慮[はいりょ]」の意味[いみ]は？",
+    "romaji": "'Hairyo' no imi wa?",
+    "level": "N2",
+    "category": "VOCABULARY",
+    "options": [
+      "Absolute victory",
+      "Consideration, care for others",
+      "Financial profit",
+      "Total neglect"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "What is the meaning of '配慮'?",
+    "answerExplanation": "'配慮' (hairyo) means consideration or thoughtfulness toward others and certain situations. Example: '環境への配慮' (consideration for the environment). Kanji '配' means to distribute/arrange and '慮' means to think/consider.",
+    "hint": "Thinking about the feelings or circumstances of others with great care",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_2_005",
+    "question": "「体裁」の意味は？",
+    "furigana": "「体裁[ていさい]」の意味[いみ]は？",
+    "romaji": "'Teisai' no imi wa?",
+    "level": "N2",
+    "category": "VOCABULARY",
+    "options": [
+      "Content or substance",
+      "Outward appearance, form, propriety",
+      "Physical strength",
+      "Inner feelings"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "What is the meaning of '体裁'?",
+    "answerExplanation": "「体裁」(ていさい/teisai) means outward appearance, form, or propriety. This word is often used to describe how something looks from the outside or to maintain one's image in front of others. Example: '体裁を整える' (to tidy up the appearance/format), '体裁が悪い' (embarrassing/not presentable). Kanji '体' means body/form and '裁' means to cut/arrange.",
+    "hint": "Related to how something looks from the outside, not its content",
+    "difficultyScore": 6
+  },
+  {
+    "id": "question_n2_2_006",
+    "question": "「行使」の読み方は？",
+    "furigana": "「行使[こうし]」の読[よ]み方[かた]は？",
+    "romaji": "'Koushi' no yomikata wa?",
+    "level": "N2",
+    "category": "KANJI",
+    "options": [
+      "こうし",
+      "こし",
+      "きょうし",
+      "ごうし"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "How do you read '行使'?",
+    "answerExplanation": "'行使' is read 'こうし' (koushi) which means the exercise of rights or authority. Example: '権利を行使する' (to exercise one's rights). '行' is read 'こう' (on'yomi) and '使' is read 'し' (on'yomi).",
+    "hint": "Kou + shi = exercise of rights/authority",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_2_007",
+    "question": "「偏見」の読み方は？",
+    "furigana": "「偏見[へんけん]」の読[よ]み方[かた]は？",
+    "romaji": "'Henken' no yomikata wa?",
+    "level": "N2",
+    "category": "KANJI",
+    "options": [
+      "へんみ",
+      "へんけん",
+      "かたみ",
+      "へんげん"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "How do you read '偏見'?",
+    "answerExplanation": "'偏見' is read 'へんけん' (henken) which means prejudice or a biased viewpoint. Example: '偏見を持つ' (to have prejudice). '偏' means biased/one-sided and '見' means view/opinion.",
+    "hint": "Hen + ken = a one-sided/biased viewpoint",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_2_008",
+    "question": "「壊滅」の読み方は？",
+    "furigana": "「壊滅[かいめつ]」の読[よ]み方[かた]は？",
+    "romaji": "'Kaimetsu' no yomikata wa?",
+    "level": "N2",
+    "category": "KANJI",
+    "options": [
+      "かいめつ",
+      "こわめつ",
+      "かいばつ",
+      "がいめつ"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "How do you read '壊滅'?",
+    "answerExplanation": "'壊滅' is read 'かいめつ' (kaimetsu) which means annihilation or total destruction. Example: '壊滅的な被害' (devastating/catastrophic damage). '壊' is read 'かい' (destroy) and '滅' is read 'めつ' (perish).",
+    "hint": "Kai + metsu = total destruction, annihilation",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_2_009",
+    "question": "「主張」の読み方は？",
+    "furigana": "「主張[しゅちょう]」の読[よ]み方[かた]は？",
+    "romaji": "'Shuchou' no yomikata wa?",
+    "level": "N2",
+    "category": "KANJI",
+    "options": [
+      "しゅちょう",
+      "しゅうちょう",
+      "ぬちょう",
+      "しゅうじょう"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "How do you read '主張'?",
+    "answerExplanation": "「主張」is read 'しゅちょう' (shuchou) which means an assertion, claim, or firmly held opinion. Example: '自分の意見を主張する' (to assert one's own opinion firmly). Kanji '主' (しゅ) means main/principal and '張' (ちょう) means to stretch/assert. This word is often used in discussions, debates, and argumentative passages.",
+    "hint": "Shu + chou = to express an opinion firmly",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_2_010",
+    "question": "「設備」の読み方は？",
+    "furigana": "「設備[せつび]」の読[よ]み方[かた]は？",
+    "romaji": "'Setsubi' no yomikata wa?",
+    "level": "N2",
+    "category": "KANJI",
+    "options": [
+      "せつび",
+      "せつぴ",
+      "もうび",
+      "せっぴ"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "How do you read '設備'?",
+    "answerExplanation": "'設備' is read 'せつび' (setsubi) which means facilities or equipment. Example: '設備が整っている' (the facilities are well-equipped). '設' is read 'せつ' (set up/install) and '備' is read 'び' (prepare).",
+    "hint": "Setsu + bi = facilities, equipment",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_2_011",
+    "question": "学生___、社会人もこの講座に参加できます。",
+    "furigana": "学生[がくせい]___、社会人[しゃかいじん]もこの講座[こうざ]に参加[さんか]できます。",
+    "romaji": "Gakusei ___, shakaijin mo kono kouza ni sanka dekimasu.",
+    "level": "N2",
+    "category": "GRAMMAR",
+    "options": [
+      "にもかかわらず",
+      "に限らず",
+      "に伴って",
+      "からといって"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Not only students, but working professionals can also take this course.",
+    "answerExplanation": "'〜に限らず' (ni kagirazu) means 'not limited to...' or 'not only...'. This pattern is used to express that something does not apply to just one thing, but also to others. Structure: [noun] + に限らず + [other things as well].",
+    "hint": "Not limited to... (but also applies to others)",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_2_012",
+    "question": "雨___、試合は予定通り行われた。",
+    "furigana": "雨[あめ]___、試合[しあい]は予定通[よていどお]り行[おこな]われた。",
+    "romaji": "Ame ___, shiai wa yotei doori okonawareta.",
+    "level": "N2",
+    "category": "GRAMMAR",
+    "options": [
+      "に限らず",
+      "に伴って",
+      "にもかかわらず",
+      "からといって"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Despite the rain, the match was held as scheduled.",
+    "answerExplanation": "'〜にもかかわらず' (ni mo kakawarazu) means 'despite/although'. It is used when the result or action contradicts the stated condition. Structure: [noun/plain form] + にもかかわらず + [contradicting result].",
+    "hint": "Despite an unfavorable condition, the result is the opposite of what you'd expect",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_2_013",
+    "question": "経済の発展___、環境問題も深刻になってきた。",
+    "furigana": "経済[けいざい]の発展[はってん]___、環境問題[かんきょうもんだい]も深刻[しんこく]になってきた。",
+    "romaji": "Keizai no hatten ___, kankyou mondai mo shinkoku ni natte kita.",
+    "level": "N2",
+    "category": "GRAMMAR",
+    "options": [
+      "からといって",
+      "ない限り",
+      "ものの",
+      "に伴って"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "Along with economic development, environmental problems have also become more serious.",
+    "answerExplanation": "'〜に伴って' (ni tomonatte) means 'along with' or 'accompanying'. It is used when two changes occur simultaneously, where one change causes or accompanies the other. Structure: [noun] + に伴って + [accompanying change].",
+    "hint": "Along with one change, another change also occurs",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_2_014",
+    "question": "安い___、品質が悪いとは限らない。",
+    "furigana": "安[やす]い___、品質[ひんしつ]が悪[わる]いとは限[かぎ]らない。",
+    "romaji": "Yasui ___, hinshitsu ga warui to wa kagiranai.",
+    "level": "N2",
+    "category": "GRAMMAR",
+    "options": [
+      "ものの",
+      "において",
+      "からといって",
+      "ない限り"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Just because it's cheap doesn't mean the quality is necessarily bad.",
+    "answerExplanation": "'〜からといって' (kara to itte) means 'just because...' or 'even though it may be true that...'. It is used to deny the common assumption that a certain reason automatically leads to a particular conclusion. Often followed by '〜とは限らない' (not necessarily). Structure: [plain form] + からといって + [denial].",
+    "hint": "Just because of that reason, the result is not necessarily so",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_2_015",
+    "question": "努力し___限り、成功はあり得ない。",
+    "furigana": "努力[どりょく]し___限[かぎ]り、成功[せいこう]はあり得[え]ない。",
+    "romaji": "Doryoku shi ___ kagiri, seikou wa arienai.",
+    "level": "N2",
+    "category": "GRAMMAR",
+    "options": [
+      "ない",
+      "なくて",
+      "ないで",
+      "ず"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Unless you make an effort, success is impossible.",
+    "answerExplanation": "'〜ない限り' (nai kagiri) means 'unless...' or 'as long as... not'. It is used to express that something will not happen unless a certain condition is met. Form: [verb ない form] + 限り. In this sentence, 'しない限り' means 'unless you do it'.",
+    "hint": "Unless you do X, then Y will not happen",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_2_016",
+    "question": "新しいパソコンを買った___、一度も使っていない。",
+    "furigana": "新[あたら]しいパソコンを買[か]った___、一度[いちど]も使[つか]っていない。",
+    "romaji": "Atarashii pasokon wo katta ___, ichido mo tsukatte inai.",
+    "level": "N2",
+    "category": "GRAMMAR",
+    "options": [
+      "に限らず",
+      "にもかかわらず",
+      "ものの",
+      "に伴って"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Although I bought a new computer, I haven't used it even once.",
+    "answerExplanation": "'〜ものの' (mono no) means 'although' or 'even though'. It is used when the reality in the second part of the sentence contradicts the expectation or logical assumption from the first part. Its nuance is lighter and more personal than 'にもかかわらず'. Structure: [plain form/た form] + ものの + [contradicting reality].",
+    "hint": "Already did something, but the reality is the opposite",
+    "difficultyScore": 6
+  },
+  {
+    "id": "question_n2_2_017",
+    "question": "この分野___、彼は第一人者として知られている。",
+    "furigana": "この分野[ぶんや]___、彼[かれ]は第一人者[だいいちにんしゃ]として知[し]られている。",
+    "romaji": "Kono bun'ya ___, kare wa daiichininsha toshite shirarete iru.",
+    "level": "N2",
+    "category": "GRAMMAR",
+    "options": [
+      "からといって",
+      "において",
+      "ない限り",
+      "ものの"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "In this field, he is regarded as the number one expert.",
+    "answerExplanation": "'〜において' (ni oite) means 'at' or 'in' (formal context). Used to indicate place, field, situation, or time in a formal manner. Equivalent to '〜で' but more formal. Structure: [noun (place/field/situation)] + において + [description]. Modifying form: '〜における' + noun.",
+    "hint": "In/at a certain field (formal expression)",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_2_018",
+    "question": "（Reading）\n\n【お知らせ】道路工事に伴う公共交通機関の運行変更について\n\n市民の皆様へ\n\n4月1日から5月31日までの期間、中央通りの道路改修工事のため、以下の通りバス路線の一部を変更いたします。\n\n・第3系統（市役所前～東公園）：中央通り経由を廃止し、北大路経由に変更\n・第7系統（駅前～南病院）：平日のみ迂回運行、土日祝日は通常通り\n・運行間隔：第3系統は工事期間中、10分間隔から15分間隔に変更\n\nご利用の皆様にはご不便をおかけいたしますが、ご理解とご協力をお願いいたします。詳細は市交通局ホームページをご確認ください。\n\n質問：第7系統のバスについて正しいものはどれか。",
+    "furigana": "（Reading）\n\n【お知[し]らせ】道路工事[どうろこうじ]に伴[ともな]う公共交通機関[こうきょうこうつうきかん]の運行変更[うんこうへんこう]について\n\n市民[しみん]の皆様[みなさま]へ\n\n4月[がつ]1日[ついたち]から5月[がつ]31日[にち]までの期間[きかん]、中央通[ちゅうおうどお]りの道路改修工事[どうろかいしゅうこうじ]のため、以下[いか]の通[とお]りバス路線[ろせん]の一部[いちぶ]を変更[へんこう]いたします。\n\n・第[だい]3系統[けいとう]（市役所前[しやくしょまえ]～東公園[ひがしこうえん]）：中央通[ちゅうおうどお]り経由[けいゆ]を廃止[はいし]し、北大路[きたおおじ]経由[けいゆ]に変更[へんこう]\n・第[だい]7系統[けいとう]（駅前[えきまえ]～南病院[みなみびょういん]）：平日[へいじつ]のみ迂回[うかい]運行[うんこう]、土日祝日[どにちしゅくじつ]は通常通[つうじょうどお]り\n・運行間隔[うんこうかんかく]：第[だい]3系統[けいとう]は工事期間中[こうじきかんちゅう]、10分間隔[ぷんかんかく]から15分間隔[ふんかんかく]に変更[へんこう]\n\nご利用[りよう]の皆様[みなさま]にはご不便[ふべん]をおかけいたしますが、ご理解[りかい]とご協力[きょうりょく]をお願[ねが]いいたします。詳細[しょうさい]は市交通局[しこうつうきょく]ホームページをご確認[かくにん]ください。\n\n質問[しつもん]：第[だい]7系統[けいとう]のバスについて正[ただ]しいものはどれか。",
+    "romaji": "(Reading)\n\n[Oshirase] Douro kouji ni tomonau koukyou koutsuu kikan no unkou henkou ni tsuite\n\nShimin no minasama e\n\n4-gatsu tsuitachi kara 5-gatsu 31-nichi made no kikan, Chuuou doori no douro kaishuu kouji no tame, ika no toori basu rosen no ichibu wo henkou itashimasu.\n\n- Dai 3 keitou (shiyakusho mae ~ higashi kouen): Chuuou doori keiyu wo haishi shi, Kita Ooji keiyu ni henkou\n- Dai 7 keitou (ekimae ~ minami byouin): Heijitsu nomi ukai unkou, donichi shukujitsu wa tsuujou doori\n- Unkou kankaku: Dai 3 keitou wa kouji kikan chuu, 10-pun kankaku kara 15-fun kankaku ni henkou\n\nGoriyou no minasama ni wa gofuben wo okake itashimasu ga, gorikai to gokyouryoku wo onegai itashimasu. Shousai wa shi koutsuukyoku hoomupeji wo gokakunin kudasai.\n\nShitsumon: Dai 7 keitou no basu ni tsuite tadashii mono wa dore ka.",
+    "level": "N2",
+    "category": "READING",
+    "options": [
+      "毎日迂回運行する",
+      "土日祝日のみ迂回運行する",
+      "平日のみ迂回運行し、土日祝日は通常通り",
+      "工事期間中は全面運休する"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "An announcement about changes to public transportation operations related to road construction. From April 1 to May 31, due to road work on Chuuou Doori, several bus routes will change. Route 3 will be rerouted via Kita Ooji. Route 7 will operate on a detour only on weekdays, with holiday service running normally. Route 3's interval changes from 10 minutes to 15 minutes.\n\nQuestion: Which statement is correct about Route 7 buses?",
+    "answerExplanation": "The announcement clearly states: '第7系統（駅前～南病院）：平日のみ迂回運行、土日祝日は通常通り'. This means Route 7 operates on a detour only on weekdays (Monday-Friday), while on Saturdays, Sundays, and national holidays it continues to operate as usual.",
+    "hint": "Pay attention to '平日のみ' (weekdays only) and '土日祝日は通常通り' (holidays as usual)",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_2_019",
+    "question": "（Reading）\n\n近年、教育現場におけるSNSの活用が注目を集めている。SNSを使えば、生徒同士や教師との情報共有が容易になり、学習効率が向上するという意見がある。しかし、筆者はSNSの教育利用には慎重であるべきだと考える。なぜなら、SNSには個人情報の流出やいじめの温床になるリスクがあるからだ。また、画面に長時間向き合うことで、対面でのコミュニケーション能力が低下する恐れもある。SNSの利便性を認めつつも、導入にあたっては十分なルール整備と教員の指導体制が不可欠である。\n\n質問：筆者のSNS教育利用に対する立場はどれか。",
+    "furigana": "近年[きんねん]、教育現場[きょういくげんば]におけるSNSの活用[かつよう]が注目[ちゅうもく]を集[あつ]めている。SNSを使[つか]えば、生徒同士[せいとどうし]や教師[きょうし]との情報共有[じょうほうきょうゆう]が容易[ようい]になり、学習効率[がくしゅうこうりつ]が向上[こうじょう]するという意見[いけん]がある。しかし、筆者[ひっしゃ]はSNSの教育利用[きょういくりよう]には慎重[しんちょう]であるべきだと考[かんが]える。なぜなら、SNSには個人情報[こじんじょうほう]の流出[りゅうしゅつ]やいじめの温床[おんしょう]になるリスクがあるからだ。また、画面[がめん]に長時間[ちょうじかん]向[む]き合[あ]うことで、対面[たいめん]でのコミュニケーション能力[のうりょく]が低下[ていか]する恐[おそ]れもある。SNSの利便性[りべんせい]を認[みと]めつつも、導入[どうにゅう]にあたっては十分[じゅうぶん]なルール整備[せいび]と教員[きょういん]の指導体制[しどうたいせい]が不可欠[ふかけつ]である。\n\n質問[しつもん]：筆者[ひっしゃ]のSNS教育利用[きょういくりよう]に対[たい]する立場[たちば]はどれか。",
+    "romaji": "Kinnen, kyouiku genba ni okeru SNS no katsuyou ga chuumoku wo atsumete iru. SNS wo tsukaeba, seito doushi ya kyoushi to no jouhou kyouyuu ga youi ni nari, gakushuu kouritsu ga koujou suru to iu iken ga aru. Shikashi, hissha wa SNS no kyouiku riyou ni wa shinchou de aru beki da to kangaeru. Nazenara, SNS ni wa kojin jouhou no ryuushutsu ya ijime no onshou ni naru risuku ga aru kara da. Mata, gamen ni choujikan mukiau koto de, taimen de no komyunikeeshon nouryoku ga teika suru osore mo aru. SNS no ribensei wo mitome tsutsu mo, dounyuu ni atatte wa juubun na ruuru seibi to kyouin no shidou taisei ga fukaketsu de aru.\n\nShitsumon: Hissha no SNS kyouiku riyou ni taisuru tachiba wa dore ka.",
+    "level": "N2",
+    "category": "READING",
+    "options": [
+      "SNSの教育利用に全面的に賛成している",
+      "SNSの教育利用に全面的に反対している",
+      "SNSの利便性を認めつつも、慎重な導入が必要だと考えている",
+      "SNSは教育現場では一切使うべきではないと主張している"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "In recent years, the use of SNS in education has been attracting attention. There is an opinion that SNS makes information sharing easier and improves learning efficiency. However, the author believes that the use of SNS in education should be approached cautiously, because there are risks of personal information leaks and it becoming a breeding ground for bullying. Additionally, spending too much time staring at screens may reduce face-to-face communication skills. While acknowledging the convenience of SNS, the author emphasizes the need for adequate rules and a teacher guidance system.\n\nQuestion: What is the author's stance on using SNS in education?",
+    "answerExplanation": "The author does not completely reject or accept SNS in education. The key sentence: 'SNSの利便性を認めつつも、導入にあたっては十分なルール整備と教員の指導体制が不可欠である' shows that the author acknowledges the benefits but emphasizes the need for caution, clear rules, and a teacher guidance system before implementation.",
+    "hint": "Note the word '認めつつも' (while acknowledging) and '慎重' (cautious) - the author neither fully agrees nor fully rejects",
+    "difficultyScore": 6
+  },
+  {
+    "id": "question_n2_2_020",
+    "question": "（Reading）\n\n日本のお寺を訪れる際には、いくつかのマナーを守ることが大切です。まず、山門をくぐる前に一礼しましょう。境内では大声で話したり、走り回ったりすることは避けてください。本堂に入る際は靴を脱ぎ、指定された場所に揃えて置きましょう。また、仏像や文化財に直接触れることは禁じられています。写真撮影については、寺院によって規則が異なりますので、事前に確認することをお勧めします。特に、仏像の撮影が禁止されている場所では、カメラやスマートフォンを出さないようにしましょう。\n\n質問：この文章によると、訪問者が避けるべきことはどれか。",
+    "furigana": "日本[にほん]のお寺[てら]を訪[おとず]れる際[さい]には、いくつかのマナーを守[まも]ることが大切[たいせつ]です。まず、山門[さんもん]をくぐる前[まえ]に一礼[いちれい]しましょう。境内[けいだい]では大声[おおごえ]で話[はな]したり、走[はし]り回[まわ]ったりすることは避[さ]けてください。本堂[ほんどう]に入[はい]る際[さい]は靴[くつ]を脱[ぬ]ぎ、指定[してい]された場所[ばしょ]に揃[そろ]えて置[お]きましょう。また、仏像[ぶつぞう]や文化財[ぶんかざい]に直接[ちょくせつ]触[ふ]れることは禁[きん]じられています。写真撮影[しゃしんさつえい]については、寺院[じいん]によって規則[きそく]が異[こと]なりますので、事前[じぜん]に確認[かくにん]することをお勧[すす]めします。特[とく]に、仏像[ぶつぞう]の撮影[さつえい]が禁止[きんし]されている場所[ばしょ]では、カメラやスマートフォンを出[だ]さないようにしましょう。\n\n質問[しつもん]：この文章[ぶんしょう]によると、訪問者[ほうもんしゃ]が避[さ]けるべきことはどれか。",
+    "romaji": "Nihon no otera wo otozureru sai ni wa, ikutsuka no manaa wo mamoru koto ga taisetsu desu. Mazu, sanmon wo kuguru mae ni ichirei shimashou. Keidai dewa oogoe de hanashitari, hashiri mawattari suru koto wa sakete kudasai. Hondou ni hairu sai wa kutsu wo nugi, shitei sareta basho ni soroete okimashou. Mata, butsuzou ya bunkazai ni chokusetsu fureru koto wa kinjirarete imasu. Shashin satsuei ni tsuite wa, jiin ni yotte kisoku ga kotonarimasu node, jizen ni kakunin suru koto wo osusume shimasu. Toku ni, butsuzou no satsuei ga kinshi sarete iru basho dewa, kamera ya sumaatofon wo dasanai you ni shimashou.\n\nShitsumon: Kono bunshou ni yoru to, houmonsha ga sakeru beki koto wa dore ka.",
+    "level": "N2",
+    "category": "READING",
+    "options": [
+      "山門の前で一礼すること",
+      "靴を脱いで本堂に入ること",
+      "仏像や文化財に直接触れること",
+      "事前に写真撮影の規則を確認すること"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "When visiting a Japanese temple, it is important to observe certain etiquette. First, bow before passing through the main gate. In the temple grounds, avoid speaking loudly or running around. When entering the main hall, remove your shoes and place them neatly in the designated area. Additionally, directly touching Buddhist statues or cultural properties is prohibited. Regarding photography, rules differ by temple, so it is recommended to check in advance. Especially in places where photographing Buddhist statues is prohibited, do not take out cameras or smartphones.\n\nQuestion: According to this passage, what should visitors avoid?",
+    "answerExplanation": "The text clearly states '仏像や文化財に直接触れることは禁じられています' (directly touching Buddhist statues or cultural properties is prohibited). Option A (bowing at the gate), B (removing shoes), and D (checking photography rules) are actually things that are RECOMMENDED to do, not to avoid.",
+    "hint": "Look for the word '禁じられています' (is prohibited) or '避けてください' (please avoid) in the text",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_2_021",
+    "question": "彼は経験豊富である___、実際の成果は少ない。",
+    "furigana": "彼[かれ]は経験[けいけん]豊富[ほうふ]である___、実際[じっさい]の成果[せいか]は少[すく]ない。",
+    "romaji": "Kare wa keiken houfu de aru ___, jissai no seika wa sukunai.",
+    "level": "N2",
+    "category": "GRAMMAR",
+    "options": [
+      "ものの",
+      "ものだから",
+      "ものなら",
+      "ものか"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Although he is experienced, his actual results are few.",
+    "answerExplanation": "'～ものの' (mono no) means 'although' or 'even though', used to show contrast between reality and expectation. More formal than 'けど'. 'ものだから' means 'because', 'ものなら' means 'if one could', 'ものか' means 'no way' (strong denial).",
+    "hint": "A formal grammar pattern showing contrast: 'although A, but B'.",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_2_022",
+    "question": "人口が減少している___、高齢者の割合は増え続けている。",
+    "furigana": "人口[じんこう]が減少[げんしょう]している___、高齢者[こうれいしゃ]の割合[わりあい]は増[ふ]え続[つづ]けている。",
+    "romaji": "Jinkou ga genshou shite iru ___, koureisha no wariai wa fue tsuzukete iru.",
+    "level": "N2",
+    "category": "GRAMMAR",
+    "options": [
+      "一方で",
+      "一方だ",
+      "反面",
+      "ことから"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "While the population is declining, the proportion of elderly people continues to increase.",
+    "answerExplanation": "'～一方で' (ippou de) means 'on the other hand' or 'while', used to show two contrasting situations occurring simultaneously. '一方だ' means 'keep doing' (one direction), '反面' means 'on the other hand' but follows adjectives/nouns, 'ことから' means 'from the fact that'. The sentence context requires a connector for two contrasting clauses.",
+    "hint": "A pattern connecting two contrasting situations occurring simultaneously.",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_2_023",
+    "question": "名前がユニークである___、この店は若者の間で人気を集めている。",
+    "furigana": "名前[なまえ]がユニークである___、この店[みせ]は若者[わかもの]の間[あいだ]で人気[にんき]を集[あつ]めている。",
+    "romaji": "Namae ga yuniiku de aru ___, kono mise wa wakamono no aida de ninki wo atsumete iru.",
+    "level": "N2",
+    "category": "GRAMMAR",
+    "options": [
+      "ものの",
+      "ことから",
+      "以上",
+      "わりに"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "From the fact that the name is unique, this store has become popular among young people.",
+    "answerExplanation": "'～ことから' (koto kara) means 'from the fact that' or 'because of the reason', used to indicate the reason or basis for a situation. The unique name is the reason for the store's popularity. 'ものの' means 'although', '以上' means 'since/now that', 'わりに' means 'considering'.",
+    "hint": "A pattern indicating the reason or basis for why something happens.",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_2_024",
+    "question": "データを___することで、問題の原因が明らかになった。",
+    "furigana": "データを___することで、問題[もんだい]の原因[げんいん]が明[あき]らかになった。",
+    "romaji": "Deeta wo ___ suru koto de, mondai no gen'in ga akiraka ni natta.",
+    "level": "N2",
+    "category": "VOCABULARY",
+    "options": [
+      "分析",
+      "維持",
+      "促進",
+      "選択"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "By ___ the data, the cause of the problem became clear.",
+    "answerExplanation": "'分析' (bunseki) means analysis, i.e., breaking down data to find patterns or causes. In this context, analyzing data revealed the cause of the problem. '維持' means maintenance, '促進' means promotion, '選択' means selection — none fit the context of finding a cause.",
+    "hint": "A word meaning to break down and examine data in detail to find something.",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_2_025",
+    "question": "二つの製品の性能を___した結果、A社の方が優れていた。",
+    "furigana": "二[ふた]つの製品[せいひん]の性能[せいのう]を___した結果[けっか]、A社[しゃ]の方[ほう]が優[すぐ]れていた。",
+    "romaji": "Futatsu no seihin no seinou wo ___ shita kekka, A sha no hou ga sugurete ita.",
+    "level": "N2",
+    "category": "VOCABULARY",
+    "options": [
+      "判断",
+      "解決",
+      "比較",
+      "貢献"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "As a result of ___ the performance of the two products, Company A was found to be superior.",
+    "answerExplanation": "'比較' (hikaku) means comparison. In this context, the performance of two products was compared and Company A's was found superior. '判断' means judgment/decision, '解決' means resolution, '貢献' means contribution — none fit the context of comparing two things.",
+    "hint": "A word meaning to look at the differences and similarities between two things.",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_2_026",
+    "question": "上司の適切な___のおかげで、プロジェクトは成功した。",
+    "furigana": "上司[じょうし]の適切[てきせつ]な___のおかげで、プロジェクトは成功[せいこう]した。",
+    "romaji": "Joushi no tekisetsu na ___ no okage de, purojekuto wa seikou shita.",
+    "level": "N2",
+    "category": "VOCABULARY",
+    "options": [
+      "混乱",
+      "放棄",
+      "判断",
+      "違反"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Thanks to the supervisor's appropriate ___, the project succeeded.",
+    "answerExplanation": "'判断' (handan) means judgment or decision. In this context, the supervisor's appropriate judgment was key to the project's success. '混乱' means confusion, '放棄' means abandonment, '違反' means violation — all negative and incompatible with 'おかげで' (thanks to).",
+    "hint": "A word meaning to make a decision or assessment about a situation.",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_2_027",
+    "question": "「国際関係」の正しい読み方はどれですか。",
+    "furigana": "「国際関係[こくさいかんけい]」の正[ただ]しい読[よ]み方[かた]はどれですか。",
+    "romaji": "'Kokusai kankei' no tadashii yomikata wa dore desu ka.",
+    "level": "N2",
+    "category": "KANJI",
+    "options": [
+      "こくさいかんけい",
+      "くにぎわかんけい",
+      "こくさいかんかい",
+      "こくせいかんけい"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Which is the correct reading of '国際関係'?",
+    "answerExplanation": "'国際関係' is read 'こくさいかんけい' (kokusai kankei), meaning international relations. '国際' (kokusai) = international, '関係' (kankei) = relationship/relation. Other options are wrong: 'くにぎわ' is an incorrect kunyomi reading, 'かんかい' is not the correct reading for 関係, 'こくせい' is the reading for 国勢 (national census).",
+    "hint": "A combination of two kanji words: international + relations.",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_2_028",
+    "question": "「社会問題」の正しい読み方はどれですか。",
+    "furigana": "「社会問題[しゃかいもんだい]」の正[ただ]しい読[よ]み方[かた]はどれですか。",
+    "romaji": "'Shakai mondai' no tadashii yomikata wa dore desu ka.",
+    "level": "N2",
+    "category": "KANJI",
+    "options": [
+      "しゃかいもんたい",
+      "しゃかいもんだい",
+      "しゃっかいもんだい",
+      "じゃかいもんだい"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Which is the correct reading of '社会問題'?",
+    "answerExplanation": "'社会問題' is read 'しゃかいもんだい' (shakai mondai), meaning social issues/problems. '社会' (shakai) = society/social, '問題' (mondai) = problem. Note that '題' is read 'だい' (with dakuten), not 'たい'. 'しゃっかい' and 'じゃかい' are not correct readings for 社会.",
+    "hint": "Pay attention to whether the kanji 題 is read with a voiced sound (dakuten) or not.",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_2_029",
+    "question": "（読解）次の文章を読んで、質問に答えてください。\n\n最近の調査によると、日本の若者の読書離れが進んでいるという。ある調査では、月に1冊も本を読まない大学生が約半数に上るとのことだ。その背景には、スマートフォンやSNSの普及がある。しかし、読書離れの原因をデジタル機器だけに求めるのは適切ではないだろう。そもそも、幼少期の読書習慣が十分に形成されていないことが根本的な問題である。読書の楽しさを知らないまま成長した若者にとって、本を手に取ることは自然な行為ではないのだ。\n\n質問：筆者が考える読書離れの根本的な原因は何か。",
+    "furigana": "（読解[どっかい]）次[つぎ]の文章[ぶんしょう]を読[よ]んで、質問[しつもん]に答[こた]えてください。\n\n最近[さいきん]の調査[ちょうさ]によると、日本[にほん]の若者[わかもの]の読書離[どくしょばな]れが進[すす]んでいるという。ある調査[ちょうさ]では、月[つき]に1冊[さつ]も本[ほん]を読[よ]まない大学生[だいがくせい]が約[やく]半数[はんすう]に上[のぼ]るとのことだ。その背景[はいけい]には、スマートフォンやSNSの普及[ふきゅう]がある。しかし、読書離[どくしょばな]れの原因[げんいん]をデジタル機器[きき]だけに求[もと]めるのは適切[てきせつ]ではないだろう。そもそも、幼少期[ようしょうき]の読書[どくしょ]習慣[しゅうかん]が十分[じゅうぶん]に形成[けいせい]されていないことが根本的[こんぽんてき]な問題[もんだい]である。読書[どくしょ]の楽[たの]しさを知[し]らないまま成長[せいちょう]した若者[わかもの]にとって、本[ほん]を手[て]に取[と]ることは自然[しぜん]な行為[こうい]ではないのだ。\n\n質問[しつもん]：筆者[ひっしゃ]が考[かんが]える読書離[どくしょばな]れの根本的[こんぽんてき]な原因[げんいん]は何[なに]か。",
+    "romaji": "(Dokkai) Tsugi no bunshou wo yonde, shitsumon ni kotaete kudasai.\n\nSaikin no chousa ni yoru to, Nihon no wakamono no dokusho banare ga susunde iru to iu. Aru chousa dewa, tsuki ni 1 satsu mo hon wo yomanai daigakusei ga yaku hansuu ni noboru to no koto da. Sono haikei ni wa, sumaatofon ya SNS no fukyuu ga aru. Shikashi, dokusho banare no gen'in wo dejitaru kiki dake ni motomeru no wa tekisetsu dewa nai darou. Somosomo, youshoki no dokusho shuukan ga juubun ni keisei sarete inai koto ga konponteki na mondai de aru. Dokusho no tanoshisa wo shiranai mama seichou shita wakamono ni totte, hon wo te ni toru koto wa shizen na koui dewa nai no da.\n\nShitsumon: Hissha ga kangaeru dokusho banare no konponteki na gen'in wa nani ka.",
+    "level": "N2",
+    "category": "READING",
+    "options": [
+      "スマートフォンやSNSの普及",
+      "大学の教育カリキュラムの問題",
+      "幼少期の読書習慣が十分に形成されていないこと",
+      "書籍の価格が高すぎること"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "(Reading) Read the following passage and answer the question.\n\nAccording to recent surveys, young people in Japan are increasingly moving away from reading. One survey found that about half of university students do not read a single book per month. Behind this lies the spread of smartphones and SNS. However, it would not be appropriate to attribute the cause solely to digital devices. Fundamentally, the root problem is that reading habits in early childhood have not been sufficiently developed. For young people who grew up without knowing the joy of reading, picking up a book is not a natural act.\n\nQuestion: According to the author, what is the fundamental cause of the decline in reading?",
+    "answerExplanation": "The author explicitly states that the fundamental problem is 'reading habits in early childhood not being sufficiently developed'. The author even emphasizes that blaming smartphones/SNS alone is 'not appropriate'. Options about university curriculum and book prices are not mentioned at all.",
+    "hint": "Look for the phrase '根本的な問題' (fundamental problem) to find the correct answer.",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_2_030",
+    "question": "（読解）次のメールを読んで、質問に答えてください。\n\n田中様\n\n先日はお忙しい中、弊社にお越しいただきありがとうございました。ご提案いただいたマーケティング戦略について社内で検討いたしました。ご提案の方向性は非常に魅力的であるものの、現時点での予算では全面的な導入は困難であるとの結論に至りました。つきましては、まず第一段階として、オンライン広告のみを先行して実施し、効果を測定した上で、段階的に範囲を拡大していくことを提案させていただきたく存じます。詳細については、来週改めてお打ち合わせの機会をいただけますでしょうか。\n\n佐藤\n\n質問：佐藤氏の提案はどのようなものか。",
+    "furigana": "（読解[どっかい]）次[つぎ]のメールを読[よ]んで、質問[しつもん]に答[こた]えてください。\n\n田中[たなか]様[さま]\n\n先日[せんじつ]はお忙[いそが]しい中[なか]、弊社[へいしゃ]にお越[こ]しいただきありがとうございました。ご提案[ていあん]いただいたマーケティング戦略[せんりゃく]について社内[しゃない]で検討[けんとう]いたしました。ご提案[ていあん]の方向性[ほうこうせい]は非常[ひじょう]に魅力的[みりょくてき]である___、現時点[げんじてん]での予算[よさん]では全面的[ぜんめんてき]な導入[どうにゅう]は困難[こんなん]であるとの結論[けつろん]に至[いた]りました。つきましては、まず第一段階[だいいちだんかい]として、オンライン広告[こうこく]のみを先行[せんこう]して実施[じっし]し、効果[こうか]を測定[そくてい]した上[うえ]で、段階的[だんかいてき]に範囲[はんい]を拡大[かくだい]していくことを提案[ていあん]させていただきたく存[ぞん]じます。詳細[しょうさい]については、来週[らいしゅう]改[あらた]めてお打[う]ち合[あ]わせの機会[きかい]をいただけますでしょうか。\n\n佐藤[さとう]\n\n質問[しつもん]：佐藤氏[し]の提案[ていあん]はどのようなものか。",
+    "romaji": "(Dokkai) Tsugi no meeru wo yonde, shitsumon ni kotaete kudasai.\n\nTanaka sama\n\nSenjitsu wa oisogashii naka, heisha ni okoshi itadaki arigatou gozaimashita. Goteian itadaita maaketingu senryaku ni tsuite shanai de kentou itashimashita. Goteian no houkousei wa hijou ni miryokuteki de aru mono no, genjiten de no yosan dewa zenmenteki na dounyuu wa konnan de aru to no ketsuron ni itarimashita. Tsukimashite wa, mazu daiichi dankai to shite, onrain koukoku nomi wo senkou shite jisshi shi, kouka wo sokutei shita ue de, dankai teki ni han'i wo kakudai shite iku koto wo teian sasete itadakitaku zonjimasu. Shousai ni tsuite wa, raishuu aratamete ouchiawase no kikai wo itadakemasu deshou ka.\n\nSatou\n\nShitsumon: Satou shi no teian wa dono you na mono ka.",
+    "level": "N2",
+    "category": "READING",
+    "options": [
+      "マーケティング戦略を全面的に導入すること",
+      "提案を完全に却下し、別の戦略を検討すること",
+      "まずオンライン広告から始めて、段階的に拡大すること",
+      "予算が増えるまで計画をすべて保留すること"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "(Reading) Read the following email and answer the question.\n\nDear Tanaka,\n\nThank you for taking time to visit our company the other day. We have internally reviewed the marketing strategy you proposed. Although the direction of your proposal is very attractive, we concluded that full-scale implementation is difficult with the current budget. Therefore, as a first phase, we would like to propose starting with only online advertising, measuring its effectiveness, and then gradually expanding the scope. Regarding the details, could we arrange a meeting again next week?\n\nSato\n\nQuestion: What is Sato's proposal?",
+    "answerExplanation": "Sato proposes a phased approach: starting with online advertising only, measuring effectiveness, then gradually expanding scope. It is not full implementation (budget insufficient), not total rejection (the direction is considered attractive), and not postponing everything (there is a first-phase plan).",
+    "hint": "Look for the sentence after 'つきましては' to find Sato's concrete proposal.",
+    "difficultyScore": 4
+  }
+]

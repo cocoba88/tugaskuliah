@@ -1,0 +1,382 @@
+[
+  {
+    "id": "question_n5_4_001",
+    "question": "「水」が一つの単語として使われる時の読み方は？",
+    "furigana": "「水[みず]」が一[ひと]つの単語[たんご]として使[つか]われる時[とき]の読[よ]み方[かた]は？",
+    "romaji": "'Mizu' ga hitotsu no tango to shite tsukawareru toki no yomikata wa?",
+    "level": "N5",
+    "category": "KANJI",
+    "options": [
+      "すい",
+      "みず",
+      "みずうみ",
+      "みち"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Cách đọc '水' khi đứng một mình như một từ đơn là gì?",
+    "answerExplanation": "'水' khi đứng một mình đọc là 'みず (mizu)' dùng âm kun, nghĩa là nước. 'すい (sui)' là âm on chỉ dùng trong từ ghép như 水曜日 (suiyoubi) hoặc 水泳 (suiei). 'みずうみ (mizuumi)' = 湖 hồ (từ khác), 'みち (michi)' = 道 đường (chữ Hán khác).",
+    "hint": "Khi chữ Hán đứng một mình thường dùng âm kun — hãy nghĩ đến từ gốc Nhật cho 'nước'",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_4_002",
+    "question": "ひるごはんは　いつも　12時___　食べます。",
+    "furigana": "昼[ひる]ごはんは　いつも　12時[じ]___　食[た]べます。",
+    "romaji": "Hirugohan wa itsumo 12-ji ___ tabemasu.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "で",
+      "を",
+      "に",
+      "が"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Bữa trưa luôn ăn lúc 12 giờ.",
+    "answerExplanation": "Trợ từ 'に' được dùng sau thời gian cụ thể (giờ, ngày, ngày tháng) để chỉ khi nào hành động được thực hiện. '12時に食べます' = ăn lúc 12 giờ. 'で' = nơi hoạt động hoặc công cụ, 'を' = tân ngữ trực tiếp, 'が' = trợ từ chỉ chủ ngữ. Lưu ý: に KHÔNG dùng sau từ chỉ thời gian tương đối như きのう, あした, いま.",
+    "hint": "Sau thời gian CỤ THỂ (giờ, ngày tháng), dùng trợ từ đánh dấu thời gian",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_4_003",
+    "question": "「学校」の「校」の読み方は？",
+    "furigana": "「学校[がっこう]」の「校」の読[よ]み方[かた]は？",
+    "romaji": "'Gakkou' no 'kou' no yomikata wa?",
+    "level": "N5",
+    "category": "KANJI",
+    "options": [
+      "がっ",
+      "がく",
+      "こう",
+      "かお"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Cách đọc chữ Hán '校' trong '学校' là gì?",
+    "answerExplanation": "'校' trong '学校 (がっこう)' đọc là 'こう'. Từ đầy đủ: 学 (がく → がっ do sokuon) + 校 (こう) = がっこう. 'がっ' và 'がく' là cách đọc của chữ Hán 学 (không phải 校), 'かお' = 顔 khuôn mặt (chữ Hán hoàn toàn khác). Chữ Hán 校 cũng xuất hiện trong 高校 (こうこう = trường cấp 3).",
+    "hint": "Nghĩ đến từ đầy đủ: がっ＿＿ — âm sau がっ là cách đọc của chữ Hán 校",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n5_4_004",
+    "question": "あした、友だち___　映画を見ます。",
+    "furigana": "あした、友[とも]だち___　映画[えいが]を見[み]ます。",
+    "romaji": "Ashita, tomodachi ___ eiga o mimasu.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "と",
+      "に",
+      "で",
+      "が"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Ngày mai tôi sẽ xem phim cùng bạn.",
+    "answerExplanation": "Trợ từ 'と' chỉ 'cùng với' ai đó khi thực hiện hoạt động. Mẫu câu: [người] + と + [hoạt động]. 'に' = trợ từ chỉ đích đến/người nhận (友だちに会う = gặp bạn), 'で' = nơi hoạt động hoặc công cụ, 'が' = trợ từ chỉ chủ ngữ. Ở đây, bạn là đối tác cùng xem phim.",
+    "hint": "Trợ từ chỉ ĐỐI TÁC — người thực hiện hoạt động CÙNG VỚI bạn",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_4_005",
+    "question": "「本屋」の正しい読み方はどれですか。",
+    "furigana": "「本屋[ほんや]」の正[ただ]しい読[よ]み方[かた]はどれですか。",
+    "romaji": "'Honya' no tadashii yomikata wa dore desu ka.",
+    "level": "N5",
+    "category": "KANJI",
+    "options": [
+      "ほんいえ",
+      "もとや",
+      "ほんや",
+      "ほんおく"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Cách đọc đúng của '本屋' là gì?",
+    "answerExplanation": "'本屋' đọc là 'ほんや (honya)' và có nghĩa là hiệu sách. '本' = ほん (sách), '屋' = や (cửa hàng/tiệm). Mẫu ～屋 cho cửa hàng: パン屋 (panya = tiệm bánh mì), 花屋 (hanaya = tiệm hoa). 'ほんいえ' sai vì いえ (家) = nhà ở (khác với 屋), 'もとや' dùng sai cách đọc của 本, 'ほんおく' không tồn tại.",
+    "hint": "Chữ Hán 屋 thường đọc là 'や' và nghĩa là cửa hàng — cùng mẫu với パン屋, 花屋",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n5_4_006",
+    "question": "きのう、図書館___　勉強しました。",
+    "furigana": "きのう、図書館[としょかん]___　勉強[べんきょう]しました。",
+    "romaji": "Kinou, toshokan ___ benkyou shimashita.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "に",
+      "で",
+      "を",
+      "へ"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Hôm qua tôi đã học ở thư viện.",
+    "answerExplanation": "Trợ từ 'で' chỉ nơi mà một hoạt động được thực hiện. Ở đây, thư viện là nơi hoạt động học tập diễn ra. 'に' = vị trí tồn tại tĩnh (với います/あります) hoặc đích đến, 'を' = tân ngữ trực tiếp, 'へ' = hướng di chuyển. Phân biệt: 図書館に います (ở tại thư viện) vs 図書館で 勉強します (học ở thư viện).",
+    "hint": "Thư viện là ĐỊA ĐIỂM thực hiện HOẠT ĐỘNG học — không phải nơi tồn tại tĩnh",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_4_007",
+    "question": "「日本」の「日」の読み方は？",
+    "furigana": "「日本[にほん]」の「日」の読[よ]み方[かた]は？",
+    "romaji": "'Nihon' no 'ni' no yomikata wa?",
+    "level": "N5",
+    "category": "KANJI",
+    "options": [
+      "ひ",
+      "にち",
+      "か",
+      "に"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "Cách đọc chữ Hán '日' trong '日本' là gì?",
+    "answerExplanation": "'日' trong '日本 (にほん)' đọc là 'に'. Chữ Hán 日 có nhiều cách đọc tùy ngữ cảnh: 'に' trong 日本, 'にち' trong 日曜日 (にちようび), 'ひ' trong 今日の日 (きょうのひ = ngày hôm nay), 'か' trong 二日 (ふつか = ngày 2). Ở đây chỉ hỏi cách đọc trong từ 日本.",
+    "hint": "Nghĩ đến từ đầy đủ: ＿ほん — âm trước ほん là cách đọc của chữ Hán này",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n5_4_008",
+    "question": "「飼う」の意味は？",
+    "furigana": "「飼[か]う」の意味[いみ]は？",
+    "romaji": "'Kau' no imi wa?",
+    "level": "N5",
+    "category": "VOCABULARY",
+    "options": [
+      "Mua",
+      "Bán",
+      "Nuôi",
+      "Cầm"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Nghĩa của '飼う (かう)' là gì?",
+    "answerExplanation": "'飼う (kau)' có nghĩa là nuôi động vật. CHÚ Ý: phát âm giống với '買う (kau)' = mua, nhưng chữ Hán khác nhau! Chữ Hán '飼' chứa yếu tố 食 (thức ăn) gợi ý hành động cho ăn/chăm sóc động vật. '売る (uru)' = bán, '持つ (motsu)' = cầm/mang. Ví dụ: 猫を飼う = nuôi mèo.",
+    "hint": "Chữ Hán này chứa yếu tố 食 (thức ăn) — hành động này liên quan đến chăm sóc và cho sinh vật sống ăn",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n5_4_009",
+    "question": "（Reading）\nわたしは まいあさ 6じに おきます。かおを あらって、ごはんを たべます。7じに いえを でて、がっこうへ いきます。がっこうは 8じから 3じまでです。\n\nしつもん：がっこうは なんじまでですか。",
+    "furigana": "わたしは まいあさ 6じに おきます。かおを あらって、ごはんを たべます。7じに いえを でて、がっこうへ いきます。がっこうは 8じから 3じまでです。\n\nしつもん：がっこうは なんじまでですか。",
+    "romaji": "Watashi wa maiasa 6-ji ni okimasu. Kao o aratte, gohan o tabemasu. 7-ji ni ie o dete, gakkou e ikimasu. Gakkou wa 8-ji kara 3-ji made desu.\n\nShitsumon: Gakkou wa nan-ji made desu ka.",
+    "level": "N5",
+    "category": "READING",
+    "options": [
+      "6じ",
+      "7じ",
+      "8じ",
+      "3じ"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "Tôi thức dậy lúc 6 giờ mỗi sáng. Rửa mặt rồi ăn cơm. 7 giờ ra khỏi nhà, đi đến trường. Trường học từ 8 giờ đến 3 giờ.\n\nCâu hỏi: Trường học đến mấy giờ?",
+    "answerExplanation": "Bài văn nói: 'がっこうは 8じから 3じまでです' = trường học từ 8 giờ đến 3 giờ. Từ 'まで' = đến. Câu hỏi hỏi thời gian kết thúc (まで), đó là 3じ. Đừng nhầm: 6じ = thức dậy, 7じ = ra khỏi nhà, 8じ = trường bắt đầu (から).",
+    "hint": "Chú ý từ 'まで' (đến) trong câu hỏi — tìm số trước 'まで' trong bài văn",
+    "difficultyScore": 1
+  },
+  {
+    "id": "question_n5_4_010",
+    "question": "「大きい」の反対は？",
+    "furigana": "「大[おお]きい」の反対[はんたい]は？",
+    "romaji": "'Ookii' no hantai wa?",
+    "level": "N5",
+    "category": "VOCABULARY",
+    "options": [
+      "ながい",
+      "ちいさい",
+      "みじかい",
+      "ひくい"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Từ trái nghĩa của '大きい (to/lớn)' là gì?",
+    "answerExplanation": "'大きい (ookii)' = to/lớn. Từ trái nghĩa là 'ちいさい (chiisai)' = nhỏ. Các từ khác: 'ながい (nagai)' = dài (trái nghĩa: みじかい), 'みじかい (mijikai)' = ngắn (kích thước), 'ひくい (hikui)' = thấp (trái nghĩa: たかい). Tất cả đều là tính từ kích thước/chiều, nhưng chỉ ちいさい là trái nghĩa của 大きい.",
+    "hint": "Trái nghĩa của 'to/lớn' — hãy nghĩ đến tính từ mô tả kích thước ngược lại",
+    "difficultyScore": 1
+  },
+  {
+    "id": "question_n5_4_011",
+    "question": "このリンゴは___です。",
+    "furigana": "このリンゴは___です。",
+    "romaji": "Kono ringo wa ___ desu.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "あまくて",
+      "あまい",
+      "あまく",
+      "あまいの"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Quả táo này ngọt.",
+    "answerExplanation": "Tính từ đuôi i ở thể cơ bản có thể được theo sau trực tiếp bởi 'です' để tạo câu mô tả lịch sự. あまい + です = ngọt. 'あまくて' = thể te (để nối: ngọt VÀ ~), 'あまく' = dạng trạng từ (bổ nghĩa cho động từ), 'あまいの' = danh từ hóa (cái ngọt). Chỉ có thể cơ bản あまい đúng trước です cho câu đơn giản.",
+    "hint": "Trước です, tính từ đuôi i giữ nguyên thể CƠ BẢN (không cần đổi sang dạng khác)",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_4_012",
+    "question": "「長い」の反対語は？",
+    "furigana": "「長[なが]い」の反対語[はんたいご]は？",
+    "romaji": "'Nagai' no hantaigo wa?",
+    "level": "N5",
+    "category": "VOCABULARY",
+    "options": [
+      "高い",
+      "低い",
+      "小さい",
+      "短い"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "Từ trái nghĩa của '長い (dài)' là gì?",
+    "answerExplanation": "'長い (nagai)' = dài. Từ trái nghĩa là '短い (mijikai)' = ngắn (cho chiều dài/thời lượng). Các cặp trái nghĩa khác: '高い (takai)' = cao/đắt ↔ '低い (hikui)' = thấp, '大きい (ookii)' = to ↔ '小さい (chiisai)' = nhỏ. Tất cả mô tả chiều/kích thước, nhưng chỉ 短い là trái nghĩa của 長い.",
+    "hint": "Hãy nghĩ đến sợi dây không dài — tính từ cho kích thước ngược lại với 'dài'",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_4_013",
+    "question": "「花見」の正しい読み方はどれですか。",
+    "furigana": "「花見[はなみ]」の正[ただ]しい読[よ]み方[かた]はどれですか。",
+    "romaji": "'Hanami' no tadashii yomikata wa dore desu ka.",
+    "level": "N5",
+    "category": "KANJI",
+    "options": [
+      "かけん",
+      "はなけん",
+      "かみ",
+      "はなみ"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "Cách đọc đúng của '花見' là gì?",
+    "answerExplanation": "'花見' đọc là 'はなみ (hanami)' và có nghĩa là hoạt động ngắm/thưởng thức hoa (đặc biệt là hoa anh đào). '花' = はな (hoa, âm kun), '見' = み (từ 見る miru = nhìn, âm kun). Cả hai chữ Hán dùng âm kun vì đây là từ gốc Nhật. 'かけん' và 'はなけん' dùng sai âm on, 'かみ' = 紙 (giấy) hoặc 髪 (tóc) — từ khác.",
+    "hint": "Truyền thống Nhật Bản ngắm hoa anh đào vào mùa xuân — cả hai chữ Hán đọc bằng âm kun",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n5_4_014",
+    "question": "テストが　ありますから、たくさん___たいです。",
+    "furigana": "テストが　ありますから、たくさん___たいです。",
+    "romaji": "Tesuto ga arimasu kara, takusan ___ tai desu.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "べんきょうする",
+      "べんきょうし",
+      "べんきょうして",
+      "べんきょうした"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Vì có bài kiểm tra, tôi muốn học thật nhiều.",
+    "answerExplanation": "Mẫu câu mong muốn 'muốn làm ~' = Gốc masu + たいです. べんきょうします → gốc masu = べんきょうし → べんきょうしたいです = muốn học. 'べんきょうする' = thể từ điển (không thể trực tiếp + たい), 'べんきょうして' = thể te, 'べんきょうした' = thể quá khứ. Chỉ có gốc masu được dùng trước たいです.",
+    "hint": "Trước たいです, dùng gốc masu — dạng ます không có đuôi ます",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_4_015",
+    "question": "「月曜日」の「月」の読み方は？",
+    "furigana": "「月曜日[げつようび]」の「月」の読[よ]み方[かた]は？",
+    "romaji": "'Getsuyoubi' no 'getsu' no yomikata wa?",
+    "level": "N5",
+    "category": "KANJI",
+    "options": [
+      "がつ",
+      "つき",
+      "げつ",
+      "げつよう"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Cách đọc chữ Hán '月' trong '月曜日' là gì?",
+    "answerExplanation": "'月' trong '月曜日 (げつようび)' đọc là 'げつ'. Chữ Hán 月 có vài cách đọc: 'げつ' trong 月曜日 (thứ Hai), 'がつ' trong 一月 (いちがつ = tháng Một), 'つき' khi đứng một mình (mặt trăng). 'げつよう' = 月曜 tổng thể (không chỉ cách đọc của chữ Hán 月).",
+    "hint": "Nghĩ đến từ đầy đủ: ＿＿ようび — âm trước ようび là cách đọc của chữ Hán này",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n5_4_016",
+    "question": "「高い」の意味は？",
+    "furigana": "「高[たか]い」の意味[いみ]は？",
+    "romaji": "'Takai' no imi wa?",
+    "level": "N5",
+    "category": "VOCABULARY",
+    "options": [
+      "Thấp",
+      "Rẻ",
+      "Cao / Đắt",
+      "Lùn"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Nghĩa của '高い (たかい)' là gì?",
+    "answerExplanation": "'高い (takai)' có hai nghĩa: 'cao' (cho chiều cao của vật/tòa nhà) VÀ 'đắt' (cho giá cả). Ví dụ: この山は高い = ngọn núi này cao, この服は高い = bộ quần áo này đắt. Từ trái nghĩa: '低い (hikui)' = thấp, '安い (yasui)' = rẻ. '短い (mijikai)' = ngắn (chiều dài, không phải chiều cao).",
+    "hint": "Tính từ này có HAI nghĩa liên quan đến kích thước theo chiều dọc VÀ giá cả",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_4_017",
+    "question": "この　へやは　あかるい___、ひろいです。",
+    "furigana": "この　部屋[へや]は　明[あか]るい___、広[ひろ]いです。",
+    "romaji": "Kono heya wa akarui ___, hiroi desu.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "で",
+      "し",
+      "くて",
+      "から"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Căn phòng này sáng và rộng rãi.",
+    "answerExplanation": "Để nối hai tính từ đuôi i (sáng VÀ rộng), dùng thể te của tính từ đuôi i: bỏ い rồi thêm くて. あかるい → あかるくて + ひろいです = sáng VÀ rộng. 'で' = thể te cho tính từ đuôi na (không phải đuôi i), 'し' = liệt kê lý do (cấp N4 hơn), 'から' = vì (quan hệ nhân quả, không phải kết hợp tính chất).",
+    "hint": "Nối hai tính từ đuôi i: đổi đuôi い thành dạng nối phù hợp",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_4_018",
+    "question": "（Reading）\nわたしの かぞくは 4にんです。ちちと ははと あねと わたしです。ちちは かいしゃいんで、ははは せんせいです。あねは だいがくせいです。わたしは こうこうせいです。\n\nしつもん：おかあさんの しごとは なんですか。",
+    "furigana": "わたしの 家族[かぞく]は 4人[にん]です。父[ちち]と 母[はは]と 姉[あね]と わたしです。父[ちち]は 会社員[かいしゃいん]で、母[はは]は 先生[せんせい]です。姉[あね]は 大学生[だいがくせい]です。わたしは 高校生[こうこうせい]です。\n\nしつもん：おかあさんの 仕事[しごと]は なんですか。",
+    "romaji": "Watashi no kazoku wa 4-nin desu. Chichi to haha to ane to watashi desu. Chichi wa kaishain de, haha wa sensei desu. Ane wa daigakusei desu. Watashi wa koukousei desu.\n\nShitsumon: Okaasan no shigoto wa nan desu ka.",
+    "level": "N5",
+    "category": "READING",
+    "options": [
+      "かいしゃいん",
+      "せんせい",
+      "だいがくせい",
+      "こうこうせい"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Gia đình tôi có 4 người: bố, mẹ, chị gái và tôi. Bố là nhân viên công ty, mẹ là giáo viên. Chị là sinh viên đại học. Tôi là học sinh cấp 3.\n\nCâu hỏi: Công việc của mẹ là gì?",
+    "answerExplanation": "Bài văn nói: 'ははは せんせいです' = mẹ là giáo viên. LƯU Ý: câu hỏi dùng 'おかあさん' (cách gọi lịch sự cho mẹ), tương đương với 'はは' (cách gọi khiêm nhường cho mẹ mình) trong bài. 'かいしゃいん' = công việc của bố, 'だいがくせい' = tình trạng của chị, 'こうこうせい' = tình trạng của người viết.",
+    "hint": "Tìm câu về はは (mẹ) trong bài văn — nhớ おかあさん = はは (cả hai đều nghĩa là mẹ)",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_4_019",
+    "question": "「水色」はどんな色ですか。",
+    "furigana": "「水色[みずいろ]」はどんな色[いろ]ですか。",
+    "romaji": "'Mizuiro' wa donna iro desu ka.",
+    "level": "N5",
+    "category": "VOCABULARY",
+    "options": [
+      "Màu xanh nhạt",
+      "Màu đỏ",
+      "Màu xanh lá",
+      "Màu vàng"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "'水色 (みずいろ)' là màu gì?",
+    "answerExplanation": "'水色 (mizuiro)' nghĩa đen là 'màu nước' — tức là xanh nhạt/xanh da trời, giống màu nước trong. '水 (mizu)' = nước, '色 (iro)' = màu. Các màu khác trong tiếng Nhật: '赤 (aka)' = đỏ, '緑 (midori)' = xanh lá, '黄色 (kiiro)' = vàng.",
+    "hint": "Hãy nghĩ đến màu của nước trong ở hồ hoặc biển nông — 水 = nước, 色 = màu",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n5_4_020",
+    "question": "「飲む」の意味は？",
+    "furigana": "「飲[の]む」の意味[いみ]は？",
+    "romaji": "'Nomu' no imi wa?",
+    "level": "N5",
+    "category": "VOCABULARY",
+    "options": [
+      "Ăn",
+      "Nấu",
+      "Rửa",
+      "Uống"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "Nghĩa của '飲む (のむ)' là gì?",
+    "answerExplanation": "'飲む (nomu)' có nghĩa là uống — đưa chất lỏng vào cơ thể qua miệng. Chữ Hán '飲' chứa yếu tố 食 (thức ăn/tiêu thụ) và 欠 (mở miệng). Các từ khác: '食べる (taberu)' = ăn, '料理する (ryouri suru)' = nấu ăn, '洗う (arau)' = rửa. Tất cả liên quan đến hoạt động hàng ngày nhưng nghĩa khác nhau.",
+    "hint": "Hành động thực hiện với nước, trà, cà phê hoặc nước ép — đưa chất lỏng vào miệng",
+    "difficultyScore": 1
+  }
+]

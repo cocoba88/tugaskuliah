@@ -1,0 +1,572 @@
+[
+  {
+    "id": "question_n2_3_001",
+    "question": "「矛盾」の意味は？",
+    "furigana": "「矛盾[むじゅん]」の意味[いみ]は？",
+    "romaji": "'Mujun' no imi wa?",
+    "level": "N2",
+    "category": "VOCABULARY",
+    "options": [
+      "Harmony",
+      "Contradiction",
+      "Anxiety",
+      "Consistency"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "What is the meaning of '矛盾'?",
+    "answerExplanation": "'矛盾' (mujun) means contradiction or conflict, a situation where two things oppose each other and cannot both be true simultaneously. Kanji 矛 means spear and 盾 means shield, originating from an ancient Chinese story about a merchant who claimed his spear could pierce anything and his shield could block anything.",
+    "hint": "Two things that contradict each other and cannot both be true at the same time",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_3_002",
+    "question": "新しい制度は経済成長を___する効果がある。",
+    "furigana": "新[あたら]しい制度[せいど]は経済[けいざい]成長[せいちょう]を___する効果[こうか]がある。",
+    "romaji": "Atarashii seido wa keizai seichou wo ___ suru kouka ga aru.",
+    "level": "N2",
+    "category": "VOCABULARY",
+    "options": [
+      "妨害",
+      "促進",
+      "抑制",
+      "停滞"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "This new system has the effect of ___ economic growth.",
+    "answerExplanation": "'促進' (sokushin) means to promote, accelerate, or encourage. In this context, the new system helps speed up economic growth. '妨害' means to obstruct, '抑制' means to suppress, and '停滞' means stagnation.",
+    "hint": "Pushing something forward so it grows faster",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_3_003",
+    "question": "状況を正確に___することが重要だ。",
+    "furigana": "状況[じょうきょう]を正確[せいかく]に___することが重要[じゅうよう]だ。",
+    "romaji": "Joukyou wo seikaku ni ___ suru koto ga juuyou da.",
+    "level": "N2",
+    "category": "VOCABULARY",
+    "options": [
+      "処理",
+      "把握",
+      "展開",
+      "設定"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "It is important to ___ the situation accurately.",
+    "answerExplanation": "'把握' (haaku) means to grasp, understand, or get a full picture of something. In this context, it is important to accurately understand the situation. '処理' means to process, '展開' means to develop, '設定' means to set up.",
+    "hint": "Fully understanding and getting a grip on something",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_3_004",
+    "question": "最近、地球温暖化の影響が___になっている。",
+    "furigana": "最近[さいきん]、地球[ちきゅう]温暖化[おんだんか]の影響[えいきょう]が___になっている。",
+    "romaji": "Saikin, chikyuu ondanka no eikyou ga ___ ni natte iru.",
+    "level": "N2",
+    "category": "VOCABULARY",
+    "options": [
+      "明瞭",
+      "顕著",
+      "微妙",
+      "曖昧"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Recently, the effects of global warming have become ___.",
+    "answerExplanation": "'顕著' (kencho) means prominent, clearly visible, or very noticeable. In this context, the effects of global warming have become increasingly prominent/apparent. '明瞭' means clear, '微妙' means subtle/delicate, '曖昧' means ambiguous.",
+    "hint": "Very clearly visible and noticeable",
+    "difficultyScore": 6
+  },
+  {
+    "id": "question_n2_3_005",
+    "question": "___を持たずに相手の話を聞くべきだ。",
+    "furigana": "___を持[も]たずに相手[あいて]の話[はなし]を聞[き]くべきだ。",
+    "romaji": "___ wo motazu ni aite no hanashi wo kiku beki da.",
+    "level": "N2",
+    "category": "VOCABULARY",
+    "options": [
+      "偏見",
+      "信念",
+      "感想",
+      "意欲"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "We should listen to the other person's story without having ___.",
+    "answerExplanation": "'偏見' (henken) means prejudice or a biased viewpoint. This sentence expresses that we should listen to others without prejudice. '信念' means conviction, '感想' means impression, '意欲' means motivation.",
+    "hint": "A negative view that's already formed before you know the facts",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_3_006",
+    "question": "「承認」の読み方は？",
+    "furigana": "「承認[しょうにん]」の読[よ]み方[かた]は？",
+    "romaji": "'Shounin' no yomikata wa?",
+    "level": "N2",
+    "category": "KANJI",
+    "options": [
+      "じょうにん",
+      "しょうにん",
+      "せいにん",
+      "しょうみん"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "How do you read '承認'?",
+    "answerExplanation": "'承認' is read 'しょうにん' (shounin) which means approval, authorization, or official recognition. Kanji 承 (shou) means to accept/inherit, and 認 (nin) means to acknowledge.",
+    "hint": "Shou + nin",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_3_007",
+    "question": "「慎重」の読み方は？",
+    "furigana": "「慎重[しんちょう]」の読[よ]み方[かた]は？",
+    "romaji": "'Shinchou' no yomikata wa?",
+    "level": "N2",
+    "category": "KANJI",
+    "options": [
+      "しんちょう",
+      "しんじゅう",
+      "ちんちょう",
+      "じんちょう"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "How do you read '慎重'?",
+    "answerExplanation": "'慎重' is read 'しんちょう' (shinchou) which means cautious, careful, or prudent in one's actions. Kanji 慎 (shin) means to be careful, and 重 (chou) means heavy/important.",
+    "hint": "Shin + chou",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_3_008",
+    "question": "「需要」の読み方は？",
+    "furigana": "「需要[じゅよう]」の読[よ]み方[かた]は？",
+    "romaji": "'Juyou' no yomikata wa?",
+    "level": "N2",
+    "category": "KANJI",
+    "options": [
+      "しゅよう",
+      "じゅよう",
+      "すよう",
+      "じゅうよう"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "How do you read '需要'?",
+    "answerExplanation": "'需要' is read 'じゅよう' (juyou) which means demand (in an economic context), or market demand. Kanji 需 (ju) means to require, and 要 (you) means important/necessary. Don't confuse with '重要' (juuyou) which means important.",
+    "hint": "Ju + you (not juu + you)",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_3_009",
+    "question": "「頻繁」の読み方は？",
+    "furigana": "「頻繁[ひんぱん]」の読[よ]み方[かた]は？",
+    "romaji": "'Hinpan' no yomikata wa?",
+    "level": "N2",
+    "category": "KANJI",
+    "options": [
+      "ひんぱん",
+      "ひんはん",
+      "びんぱん",
+      "ひんばん"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "How do you read '頻繁'?",
+    "answerExplanation": "'頻繁' is read 'ひんぱん' (hinpan) which means frequent or recurring. Kanji 頻 (hin) means frequent, and 繁 (pan) means plentiful/numerous. Note that 繁 is read 'ぱん' (with handakuten) not 'はん'.",
+    "hint": "Hin + pan (p, not h)",
+    "difficultyScore": 6
+  },
+  {
+    "id": "question_n2_3_010",
+    "question": "「膨大」の読み方は？",
+    "furigana": "「膨大[ぼうだい]」の読[よ]み方[かた]は？",
+    "romaji": "'Boudai' no yomikata wa?",
+    "level": "N2",
+    "category": "KANJI",
+    "options": [
+      "ほうだい",
+      "ぼうだい",
+      "ぼうたい",
+      "ふくだい"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "How do you read '膨大'?",
+    "answerExplanation": "'膨大' is read 'ぼうだい' (boudai) which means enormous, vast, or swollen. Kanji 膨 (bou) means to swell/expand, and 大 (dai) means large. This word is often used to describe an enormous amount of data, costs, or information.",
+    "hint": "Bou + dai",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_3_011",
+    "question": "上司の意見___、反対意見を述べた。",
+    "furigana": "上司[じょうし]の意見[いけん]___、反対[はんたい]意見[いけん]を述[の]べた。",
+    "romaji": "Joushi no iken ___, hantai iken wo nobeta.",
+    "level": "N2",
+    "category": "GRAMMAR",
+    "options": [
+      "に関して",
+      "に対して",
+      "について",
+      "によって"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "I expressed an opinion that was opposed to my supervisor's opinion.",
+    "answerExplanation": "'〜に対して' (ni taishite) means 'toward' or 'against', used to indicate the target of an action or attitude. In this context, the opposing opinion is directed 'toward' the supervisor's opinion. '〜に関して' means 'regarding', '〜について' means 'about', '〜によって' means 'by/depending on'.",
+    "hint": "Indicates the target of an action or opposing attitude",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_3_012",
+    "question": "約束した___、必ず守るべきだ。",
+    "furigana": "約束[やくそく]した___、必[かなら]ず守[まも]るべきだ。",
+    "romaji": "Yakusoku shita ___, kanarazu mamoru beki da.",
+    "level": "N2",
+    "category": "GRAMMAR",
+    "options": [
+      "ものだから",
+      "ばかりか",
+      "からには",
+      "としても"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Since you already made a promise, you should definitely keep it.",
+    "answerExplanation": "'〜からには' (kara ni wa) means 'since.../now that...' and carries a nuance of determination or responsibility. This pattern is used when someone has already decided or done something and must then take responsibility. Unlike '〜ものだから' which is used for giving reasons/justification, '〜からには' emphasizes the obligation after a decision is made.",
+    "hint": "Once you have done something, you must take responsibility",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_3_013",
+    "question": "彼女は日本語___、英語も中国語も話せる。",
+    "furigana": "彼女[かのじょ]は日本語[にほんご]___、英語[えいご]も中国語[ちゅうごくご]も話[はな]せる。",
+    "romaji": "Kanojo wa nihongo ___, eigo mo chuugokugo mo hanaseru.",
+    "level": "N2",
+    "category": "GRAMMAR",
+    "options": [
+      "はもとより",
+      "にしたら",
+      "としたら",
+      "にしても"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "He/She can speak Japanese, and not only that, English and Chinese as well.",
+    "answerExplanation": "'〜はもとより' (wa motoyori) means 'not only... but also' or 'of course..., and also...'. This pattern shows that the first thing is already obvious/certain, and the second thing also applies. In this context, being able to speak Japanese is already a given, plus English and Chinese as well.",
+    "hint": "The first thing is already obvious, plus other things that also apply",
+    "difficultyScore": 6
+  },
+  {
+    "id": "question_n2_3_014",
+    "question": "電車が遅れた___、遅刻してしまった。",
+    "furigana": "電車[でんしゃ]が遅[おく]れた___、遅刻[ちこく]してしまった。",
+    "romaji": "Densha ga okureta ___, chikoku shite shimatta.",
+    "level": "N2",
+    "category": "GRAMMAR",
+    "options": [
+      "からには",
+      "ばかりか",
+      "ものだから",
+      "に対して"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Because the train was late, I was also late.",
+    "answerExplanation": "'〜ものだから' (mono dakara) is used to give a reason or justification, often with a nuance of making an excuse. This pattern shows that the result was unintentional and occurred due to a cause beyond one's control. In this context, the speaker justifies their lateness because the train was delayed.",
+    "hint": "Giving a reason or justification for something that happened",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_3_015",
+    "question": "成績が下がる___、友達との関係も悪くなった。",
+    "furigana": "成績[せいせき]が下[さ]がる___、友達[ともだち]との関係[かんけい]も悪[わる]くなった。",
+    "romaji": "Seiseki ga sagaru ___, tomodachi to no kankei mo waruku natta.",
+    "level": "N2",
+    "category": "GRAMMAR",
+    "options": [
+      "はもとより",
+      "ばかりか",
+      "ものだから",
+      "からには"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Not only did his grades drop, but his relationships with friends also worsened.",
+    "answerExplanation": "'〜ばかりか' (bakari ka) means 'not only... but also...' with a negative nuance, showing that a bad situation is getting even worse. This pattern is used when the first bad thing is already enough, but then another bad thing is added on top. Unlike '〜はもとより' which is more neutral, '〜ばかりか' tends to be used in negative contexts.",
+    "hint": "Not only one bad thing, but another bad thing is added on top",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_3_016",
+    "question": "この問題___、詳しく調査する必要がある。",
+    "furigana": "この問題[もんだい]___、詳[くわ]しく調査[ちょうさ]する必要[ひつよう]がある。",
+    "romaji": "Kono mondai ___, kuwashiku chousa suru hitsuyou ga aru.",
+    "level": "N2",
+    "category": "GRAMMAR",
+    "options": [
+      "に対して",
+      "を通じて",
+      "に関して",
+      "からには"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Regarding this problem, a detailed investigation needs to be conducted.",
+    "answerExplanation": "'〜に関して' (ni kanshite) means 'regarding', 'related to', or 'concerning'. This pattern is used to indicate the topic or subject of discussion. In this context, the investigation is conducted 'regarding/concerning' the aforementioned problem. It is more formal than '〜について'.",
+    "hint": "Indicates the topic that is the subject of discussion (formal)",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_3_017",
+    "question": "ボランティア活動___、多くのことを学んだ。",
+    "furigana": "ボランティア活動[かつどう]___、多[おお]くのことを学[まな]んだ。",
+    "romaji": "Borantia katsudou ___, ooku no koto wo mananda.",
+    "level": "N2",
+    "category": "GRAMMAR",
+    "options": [
+      "に関して",
+      "に対して",
+      "を通じて",
+      "はもとより"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Through volunteer activities, I learned many things.",
+    "answerExplanation": "'〜を通じて' (wo tsuujite) or '〜を通して' (wo tooshite) means 'through' or 'by means of'. This pattern indicates the means, method, or process used to achieve something. In this context, volunteer activities serve as the 'means/method' for learning many things.",
+    "hint": "Indicates the means or method to achieve a result",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_3_018",
+    "question": "次の文章を読んで、質問に答えてください。\n\n最近の研究によると、睡眠の質と仕事の生産性には密接な関係があることが明らかになった。特に、深い睡眠の時間が短い人は、集中力が低下し、ミスが増える傾向がある。また、睡眠不足が続くと、創造的な思考力も著しく低下することがわかった。研究チームは、一日7〜8時間の睡眠を確保し、就寝前のスマートフォンの使用を控えることを推奨している。さらに、定期的な運動が睡眠の質を向上させる効果があることも報告された。\n\n研究で明らかになったことは何ですか。",
+    "furigana": "次[つぎ]の文章[ぶんしょう]を読[よ]んで、質問[しつもん]に答[こた]えてください。\n\n最近[さいきん]の研究[けんきゅう]によると、睡眠[すいみん]の質[しつ]と仕事[しごと]の生産性[せいさんせい]には密接[みっせつ]な関係[かんけい]があることが明[あき]らかになった。特[とく]に、深[ふか]い睡眠[すいみん]の時間[じかん]が短[みじか]い人[ひと]は、集中力[しゅうちゅうりょく]が低下[ていか]し、ミスが増[ふ]える傾向[けいこう]がある。また、睡眠[すいみん]不足[ぶそく]が続[つづ]くと、創造的[そうぞうてき]な思考力[しこうりょく]も著[いちじる]しく低下[ていか]することがわかった。研究[けんきゅう]チームは、一日[いちにち]7〜8時間[じかん]の睡眠[すいみん]を確保[かくほ]し、就寝前[しゅうしんまえ]のスマートフォンの使用[しよう]を控[ひか]えることを推奨[すいしょう]している。さらに、定期的[ていきてき]な運動[うんどう]が睡眠[すいみん]の質[しつ]を向上[こうじょう]させる効果[こうか]があることも報告[ほうこく]された。\n\n研究[けんきゅう]で明[あき]らかになったことは何[なん]ですか。",
+    "romaji": "Tsugi no bunshou wo yonde, shitsumon ni kotaete kudasai.\n\nSaikin no kenkyuu ni yoru to, suimin no shitsu to shigoto no seisansei ni wa missetsu na kankei ga aru koto ga akiraka ni natta. Toku ni, fukai suimin no jikan ga mijikai hito wa, shuuchuuryoku ga teika shi, misu ga fueru keikou ga aru. Mata, suimin busoku ga tsuzuku to, souzouteki na shikouryoku mo ichijirushiku teika suru koto ga wakatta. Kenkyuu chiimu wa, ichinichi 7-8 jikan no suimin wo kakuho shi, shuushin mae no sumaatofon no shiyou wo hikaeru koto wo suishou shite iru. Sarani, teikiteki na undou ga suimin no shitsu wo koujou saseru kouka ga aru koto mo houkoku sareta.\n\nKenkyuu de akiraka ni natta koto wa nan desu ka.",
+    "level": "N2",
+    "category": "READING",
+    "options": [
+      "睡眠時間は短くても生産性に影響しない",
+      "睡眠の質と仕事の生産性には密接な関係がある",
+      "スマートフォンの使用は睡眠に影響しない",
+      "運動は睡眠の質を低下させる"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Read the following passage and answer the question.\n\nAccording to the latest research, it has been revealed that there is a close relationship between sleep quality and work productivity. In particular, people with short periods of deep sleep tend to experience decreased concentration and increased mistakes. Furthermore, if sleep deprivation continues, creative thinking ability also declines significantly. The research team recommends ensuring 7-8 hours of sleep per day and reducing smartphone use before bed. Additionally, they reported that regular exercise has the effect of improving sleep quality.\n\nWhat was revealed by this research?",
+    "answerExplanation": "The correct answer is 'Sleep quality and work productivity have a close relationship'. The first sentence of the text directly states '睡眠の質と仕事の生産性には密接な関係がある' (there is a close relationship between sleep quality and work productivity). The other options contradict the content of the text.",
+    "hint": "Pay attention to the first sentence of the text about the main findings of the research",
+    "difficultyScore": 6
+  },
+  {
+    "id": "question_n2_3_019",
+    "question": "次の文章を読んで、質問に答えてください。\n\nお知らせ：奨学金申請手続きの変更について\n\n来年度より、奨学金の申請手続きが以下の通り変更されます。従来は書類の郵送のみで受け付けていましたが、今後はオンラインでの申請が必須となります。また、申請に必要な書類として、成績証明書に加え、指導教授からの推薦状が新たに必要になります。申請期間は4月1日から4月30日までで、締め切り後の申請は一切受け付けません。なお、経済的に困難な状況にある学生を優先的に選考する方針に変わりはありません。詳細は学生課窓口またはウェブサイトでご確認ください。\n\n新しい申請手続きで追加された要件は何ですか。",
+    "furigana": "次[つぎ]の文章[ぶんしょう]を読[よ]んで、質問[しつもん]に答[こた]えてください。\n\nお知[し]らせ：奨学金[しょうがくきん]申請[しんせい]手続[てつづ]きの変更[へんこう]について\n\n来年度[らいねんど]より、奨学金[しょうがくきん]の申請[しんせい]手続[てつづ]きが以下[いか]の通[とお]り変更[へんこう]されます。従来[じゅうらい]は書類[しょるい]の郵送[ゆうそう]のみで受[う]け付[つ]けていましたが、今後[こんご]はオンラインでの申請[しんせい]が必須[ひっす]となります。また、申請[しんせい]に必要[ひつよう]な書類[しょるい]として、成績[せいせき]証明書[しょうめいしょ]に加[くわ]え、指導[しどう]教授[きょうじゅ]からの推薦状[すいせんじょう]が新[あら]たに必要[ひつよう]になります。申請[しんせい]期間[きかん]は4月[がつ]1日[ついたち]から4月[がつ]30日[にち]までで、締[し]め切[き]り後[ご]の申請[しんせい]は一切[いっさい]受[う]け付[つ]けません。なお、経済的[けいざいてき]に困難[こんなん]な状況[じょうきょう]にある学生[がくせい]を優先的[ゆうせんてき]に選考[せんこう]する方針[ほうしん]に変[か]わりはありません。詳細[しょうさい]は学生課[がくせいか]窓口[まどぐち]またはウェブサイトでご確認[かくにん]ください。\n\n新[あたら]しい申請[しんせい]手続[てつづ]きで追加[ついか]された要件[ようけん]は何[なん]ですか。",
+    "romaji": "Tsugi no bunshou wo yonde, shitsumon ni kotaete kudasai.\n\nOshirase: Shougakukin shinsei tetsuzuki no henkou ni tsuite\n\nRainendo yori, shougakukin no shinsei tetsuzuki ga ika no toori henkou saremasu. Juurai wa shorui no yuusou nomi de uketsukete imashita ga, kongo wa onrain de no shinsei ga hissu to narimasu. Mata, shinsei ni hitsuyou na shorui to shite, seiseki shoumeisho ni kuwae, shidou kyouju kara no suisenjou ga arata ni hitsuyou ni narimasu. Shinsei kikan wa shigatsu tsuitachi kara shigatsu sanjuunichi made de, shimekiri go no shinsei wa issai uketsukemasen. Nao, keizaiteki ni konnan na joukyou ni aru gakusei wo yuusenteki ni senkou suru houshin ni kawari wa arimasen. Shousai wa gakuseika madoguchi matawa webusaito de go kakunin kudasai.\n\nAtarashii shinsei tetsuzuki de tsuika sareta youken wa nan desu ka.",
+    "level": "N2",
+    "category": "READING",
+    "options": [
+      "成績証明書の提出",
+      "指導教授からの推薦状",
+      "経済状況の証明書",
+      "郵送での書類提出"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Read the following passage and answer the question.\n\nNotice: Regarding Changes to Scholarship Application Procedures\n\nStarting next academic year, the scholarship application procedures will change as follows. Previously, applications were accepted only by mailing documents, but from now on online application will be mandatory. Additionally, as required documents for the application, in addition to the academic transcript, a recommendation letter from the supervising professor will be newly required. The application period is from April 1 to April 30, and applications after the deadline will not be accepted at all. The policy of prioritizing students in financially difficult situations remains unchanged. For details, please check the student affairs office or the website.\n\nWhat requirement was added in the new application procedure?",
+    "answerExplanation": "The correct answer is 'A recommendation letter from the supervising professor'. The text mentions '指導教授からの推薦状が新たに必要になります' (a recommendation letter from the supervising professor is newly required). The keyword '新たに' (newly) shows that this is an added requirement. The academic transcript already existed from before (成績証明書に加え = in addition to the academic transcript).",
+    "hint": "Look for the word '新たに' (newly) that indicates an added requirement",
+    "difficultyScore": 6
+  },
+  {
+    "id": "question_n2_3_020",
+    "question": "次の文章を読んで、質問に答えてください。\n\n『二つの故郷』という小説の書評が新聞に掲載された。この小説は、日本で育ったブラジル人の青年が、自分のアイデンティティに悩みながらも、両方の文化を受け入れていく過程を描いている。評者は、「作者の繊細な筆致によって、文化の間で揺れ動く主人公の心情が見事に表現されている。特に、二つの文化を対立ではなく共存として捉える結末は、現代の多文化社会に重要なメッセージを投げかけている」と述べている。ただし、「中盤の展開がやや冗長で、読者の集中力が途切れる恐れがある」とも指摘している。\n\n評者のこの小説に対する全体的な評価はどれですか。",
+    "furigana": "次[つぎ]の文章[ぶんしょう]を読[よ]んで、質問[しつもん]に答[こた]えてください。\n\n『二[ふた]つの故郷[こきょう]』という小説[しょうせつ]の書評[しょひょう]が新聞[しんぶん]に掲載[けいさい]された。この小説[しょうせつ]は、日本[にほん]で育[そだ]ったブラジル人[じん]の青年[せいねん]が、自分[じぶん]のアイデンティティに悩[なや]みながらも、両方[りょうほう]の文化[ぶんか]を受[う]け入[い]れていく過程[かてい]を描[えが]いている。評者[ひょうしゃ]は、「作者[さくしゃ]の繊細[せんさい]な筆致[ひっち]によって、文化[ぶんか]の間[あいだ]で揺[ゆ]れ動[うご]く主人公[しゅじんこう]の心情[しんじょう]が見事[みごと]に表現[ひょうげん]されている。特[とく]に、二[ふた]つの文化[ぶんか]を対立[たいりつ]ではなく共存[きょうぞん]として捉[とら]える結末[けつまつ]は、現代[げんだい]の多文化[たぶんか]社会[しゃかい]に重要[じゅうよう]なメッセージを投[な]げかけている」と述[の]べている。ただし、「中盤[ちゅうばん]の展開[てんかい]がやや冗長[じょうちょう]で、読者[どくしゃ]の集中力[しゅうちゅうりょく]が途切[とぎ]れる恐[おそ]れがある」とも指摘[してき]している。\n\n評者[ひょうしゃ]のこの小説[しょうせつ]に対[たい]する全体的[ぜんたいてき]な評価[ひょうか]はどれですか。",
+    "romaji": "Tsugi no bunshou wo yonde, shitsumon ni kotaete kudasai.\n\n'Futatsu no Kokyou' to iu shousetsu no shohyou ga shinbun ni keisai sareta. Kono shousetsu wa, nihon de sodatta burajirujin no seinen ga, jibun no aidentiti ni nayami nagara mo, ryouhou no bunka wo ukeirete iku katei wo egaite iru. Hyousha wa, 'sakusha no sensai na hitchi ni yotte, bunka no aida de yure ugoku shujinkou no shinjou ga migoto ni hyougen sarete iru. Toku ni, futatsu no bunka wo tairitsu de wa naku kyouzon to shite toraeru ketsumatsu wa, gendai no tabunka shakai ni juuyou na messeeji wo nagekakete iru' to nobete iru. Tadashi, 'chuuban no tenkai ga yaya jouchou de, dokusha no shuuchuuryoku ga togireru osore ga aru' to mo shiteki shite iru.\n\nHyousha no kono shousetsu ni taisuru zentaiteki na hyouka wa dore desu ka.",
+    "level": "N2",
+    "category": "READING",
+    "options": [
+      "全体的に否定的で、読む価値がないと評価している",
+      "一部に課題はあるが、全体的に高く評価している",
+      "文化に関するテーマに興味がないと述べている",
+      "結末が期待外れだと批判している"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Read the following passage and answer the question.\n\nA review of a novel titled 'Two Homelands' was published in a newspaper. This novel depicts the journey of a young Brazilian man raised in Japan who, despite struggling with his identity, eventually comes to accept both cultures. The reviewer states, 'Through the author's delicate writing style, the emotions of the protagonist who is torn between two cultures are beautifully expressed. In particular, the ending that captures both cultures not as conflict but as coexistence delivers an important message for modern multicultural society.' However, the reviewer also points out that 'the development in the middle section is somewhat drawn out and there is a risk of losing the reader's focus.'\n\nWhat is the reviewer's overall assessment of this novel?",
+    "answerExplanation": "The correct answer is 'There are some shortcomings, but overall it is highly rated'. The reviewer praises the author's delicate writing style, the expression of the protagonist's emotions, and the important message in the ending. However, the reviewer also points out a weakness in the drawn-out middle section. This shows an assessment that is largely positive with some criticism. The words '見事に' (beautifully) and '重要なメッセージ' (important message) indicate high appreciation.",
+    "hint": "Note the balance between praise and criticism from the reviewer",
+    "difficultyScore": 7
+  },
+  {
+    "id": "question_n2_3_021",
+    "question": "この法律は憲法の理念___制定されたものである。",
+    "furigana": "この法律[ほうりつ]は憲法[けんぽう]の理念[りねん]___制定[せいてい]されたものである。",
+    "romaji": "Kono houritsu wa kenpou no rinen ___ seitei sareta mono de aru.",
+    "level": "N2",
+    "category": "GRAMMAR",
+    "options": [
+      "に基づいて",
+      "に関して",
+      "に対して",
+      "によると"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "This law was enacted based on the principles of the constitution.",
+    "answerExplanation": "'～に基づいて' (ni motozuite) means 'based on' or 'grounded in', used to indicate the basis or foundation of an action. The law was enacted based on constitutional principles. 'に関して' means 'regarding', 'に対して' means 'toward', 'によると' means 'according to' — none fit the context of a legal foundation.",
+    "hint": "A formal pattern indicating that an action is performed on a certain basis or foundation.",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_3_022",
+    "question": "留学___、彼女は国際的な視野を持つようになった。",
+    "furigana": "留学[りゅうがく]___、彼女[かのじょ]は国際的[こくさいてき]な視野[しや]を持[も]つようになった。",
+    "romaji": "Ryuugaku ___, kanojo wa kokusaiteki na shiya wo motsu you ni natta.",
+    "level": "N2",
+    "category": "GRAMMAR",
+    "options": [
+      "をきっかけに",
+      "をもとに",
+      "を問わず",
+      "を通じて"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Taking the study abroad experience as a turning point, she came to have an international perspective.",
+    "answerExplanation": "'～をきっかけに' (wo kikkake ni) means 'taking the opportunity of' or 'triggered by', indicating that an event became a turning point or trigger for change. The study abroad experience triggered a change in her perspective. 'をもとに' means 'based on', 'を問わず' means 'regardless of', 'を通じて' means 'through'.",
+    "hint": "A pattern indicating an event became a starting point or trigger for a major change.",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_3_023",
+    "question": "あの事故の原因は、整備不良___。",
+    "furigana": "あの事故[じこ]の原因[げんいん]は、整備[せいび]不良[ふりょう]___。",
+    "romaji": "Ano jiko no gen'in wa, seibi furyou ___.",
+    "level": "N2",
+    "category": "GRAMMAR",
+    "options": [
+      "にすぎない",
+      "に違いない",
+      "にほかならない",
+      "に決まっている"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "The cause of that accident must be poor maintenance.",
+    "answerExplanation": "'～に違いない' (ni chigai nai) means 'must be' or 'undoubtedly', showing the speaker's strong conviction based on evidence or reasoning. 'にすぎない' means 'is merely', 'にほかならない' means 'is none other than' (emphasis), 'に決まっている' also means 'must be' but is more casual. In the formal context of accident investigation, 'に違いない' is most appropriate.",
+    "hint": "A formal pattern showing the speaker's strong conviction about something.",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_3_024",
+    "question": "困難な状況でも冷静な___ができる人材を求めている。",
+    "furigana": "困難[こんなん]な状況[じょうきょう]でも冷静[れいせい]な___ができる人材[じんざい]を求[もと]めている。",
+    "romaji": "Konnan na joukyou demo reisei na ___ ga dekiru jinzai wo motomete iru.",
+    "level": "N2",
+    "category": "VOCABULARY",
+    "options": [
+      "選択",
+      "判断",
+      "促進",
+      "把握"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "We are seeking talent who can make calm ___ even in difficult situations.",
+    "answerExplanation": "'判断' (handan) means judgment or decision. In a recruitment context, the ability to make calm decisions in difficult situations is highly valued. '選択' means choice (more about choosing from options), '促進' means promotion/acceleration, '把握' means understanding — none fit the context of 'making calm decisions'.",
+    "hint": "A word meaning the ability to make decisions or assess situations.",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_3_025",
+    "question": "この政策は地域経済の___を目的としている。",
+    "furigana": "この政策[せいさく]は地域[ちいき]経済[けいざい]の___を目的[もくてき]としている。",
+    "romaji": "Kono seisaku wa chiiki keizai no ___ wo mokuteki to shite iru.",
+    "level": "N2",
+    "category": "VOCABULARY",
+    "options": [
+      "促進",
+      "喪失",
+      "妨害",
+      "撤退"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "This policy aims at the ___ of the regional economy.",
+    "answerExplanation": "'促進' (sokushin) means promotion or acceleration. The policy aims to promote the regional economy to develop better. '喪失' means loss, '妨害' means obstruction, '撤退' means withdrawal — all negative and inconsistent with a policy's purpose.",
+    "hint": "A word meaning to promote or accelerate the development of something.",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_3_026",
+    "question": "健康を___するためには、バランスの良い食事と運動が必要だ。",
+    "furigana": "健康[けんこう]を___するためには、バランスの良[よ]い食事[しょくじ]と運動[うんどう]が必要[ひつよう]だ。",
+    "romaji": "Kenkou wo ___ suru tame ni wa, baransu no yoi shokuji to undou ga hitsuyou da.",
+    "level": "N2",
+    "category": "VOCABULARY",
+    "options": [
+      "喪失",
+      "解決",
+      "維持",
+      "発揮"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "In order to ___ health, a balanced diet and exercise are necessary.",
+    "answerExplanation": "'維持' (iji) means to maintain or keep in the same condition. The sentence context is about maintaining health through diet and exercise. '喪失' means loss, '解決' means solving (a problem), '発揮' means demonstrating (ability) — none fit the context of maintaining health.",
+    "hint": "A word meaning to keep something in good condition without change.",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_3_027",
+    "question": "「人権侵害」の正しい読み方はどれですか。",
+    "furigana": "「人権侵害[じんけんしんがい]」の正[ただ]しい読[よ]み方[かた]はどれですか。",
+    "romaji": "'Jinken shingai' no tadashii yomikata wa dore desu ka.",
+    "level": "N2",
+    "category": "KANJI",
+    "options": [
+      "じんけんしんがい",
+      "にんけんしんがい",
+      "じんけんしんかい",
+      "じんげんしんがい"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Which is the correct reading of '人権侵害'?",
+    "answerExplanation": "'人権侵害' is read 'じんけんしんがい' (jinken shingai), meaning human rights violation. '人権' (jinken) = human rights, '侵害' (shingai) = violation/infringement. Other options are wrong: 'にんけん' is not the correct reading for 人権 (in compounds it's read 'じんけん'), 'しんかい' is not the correct reading for 侵害 ('害' is read 'がい' with dakuten), 'じんげん' is not a reading for 人権.",
+    "hint": "A combination of two words: human rights + violation. Pay attention to the onyomi reading.",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_3_028",
+    "question": "「自然災害」の正しい読み方はどれですか。",
+    "furigana": "「自然災害[しぜんさいがい]」の正[ただ]しい読[よ]み方[かた]はどれですか。",
+    "romaji": "'Shizen saigai' no tadashii yomikata wa dore desu ka.",
+    "level": "N2",
+    "category": "KANJI",
+    "options": [
+      "じねんさいがい",
+      "しぜんさいかい",
+      "しぜんさいがい",
+      "しぜんわざがい"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Which is the correct reading of '自然災害'?",
+    "answerExplanation": "'自然災害' is read 'しぜんさいがい' (shizen saigai), meaning natural disaster. '自然' (shizen) = nature/natural, '災害' (saigai) = disaster. Other options are wrong: 'じねん' is an archaic reading of 自然 rarely used in modern Japanese, 'さいかい' is not the correct reading for 災害 ('害' is read 'がい'), 'わざがい' is the kunyomi reading of 災い not used in this compound.",
+    "hint": "This word consists of 'nature' + 'disaster'. Pay attention to the standardd onyomi reading.",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_3_029",
+    "question": "（読解）次の文章を読んで、質問に答えてください。\n\n近年、テレワークの普及に基づいて、オフィスの在り方が根本的に見直されつつある。従来のオフィスは全社員が毎日出社することを前提に設計されていた。しかし、テレワークをきっかけに、多くの企業がオフィス面積の縮小を検討し始めている。ある不動産調査会社の報告によると、大企業の約40％がオフィス面積の削減を実施または検討中であるという。一方で、完全にオフィスを廃止した企業は全体の5％に過ぎない。専門家は、今後のオフィスは「毎日働く場所」から「集まって協働する場所」へと役割が変化するに違いないと分析している。\n\n質問：専門家はオフィスの将来についてどのように分析しているか。",
+    "furigana": "（読解[どっかい]）次[つぎ]の文章[ぶんしょう]を読[よ]んで、質問[しつもん]に答[こた]えてください。\n\n近年[きんねん]、テレワークの普及[ふきゅう]に基[もと]づいて、オフィスの在[あ]り方[かた]が根本的[こんぽんてき]に見直[みなお]されつつある。従来[じゅうらい]のオフィスは全社員[ぜんしゃいん]が毎日[まいにち]出社[しゅっしゃ]することを前提[ぜんてい]に設計[せっけい]されていた。しかし、テレワークをきっかけに、多[おお]くの企業[きぎょう]がオフィス面積[めんせき]の縮小[しゅくしょう]を検討[けんとう]し始[はじ]めている。ある不動産[ふどうさん]調査[ちょうさ]会社[かいしゃ]の報告[ほうこく]によると、大企業[だいきぎょう]の約[やく]40％がオフィス面積[めんせき]の削減[さくげん]を実施[じっし]または検討中[けんとうちゅう]であるという。一方[いっぽう]で、完全[かんぜん]にオフィスを廃止[はいし]した企業[きぎょう]は全体[ぜんたい]の5％に過[す]ぎない。専門家[せんもんか]は、今後[こんご]のオフィスは「毎日[まいにち]働[はたら]く場所[ばしょ]」から「集[あつ]まって協働[きょうどう]する場所[ばしょ]」へと役割[やくわり]が変化[へんか]するに違[ちが]いないと分析[ぶんせき]している。\n\n質問[しつもん]：専門家[せんもんか]はオフィスの将来[しょうらい]についてどのように分析[ぶんせき]しているか。",
+    "romaji": "(Dokkai) Tsugi no bunshou wo yonde, shitsumon ni kotaete kudasai.\n\nKinnen, terewaaku no fukyuu ni motozuite, ofisu no arikata ga konponteki ni minaosare tsutsu aru. Juurai no ofisu wa zen shain ga mainichi shussha suru koto wo zentei ni sekkei sarete ita. Shikashi, terewaaku wo kikkake ni, ooku no kigyou ga ofisu menseki no shukushou wo kentou shi hajimete iru. Aru fudousan chousa kaisha no houkoku ni yoru to, daikigyou no yaku 40% ga ofisu menseki no sakugen wo jisshi matawa kentouchuu de aru to iu. Ippou de, kanzen ni ofisu wo haishi shita kigyou wa zentai no 5% ni suginai. Senmonka wa, kongo no ofisu wa 'mainichi hataraku basho' kara 'atsumatte kyoudou suru basho' e to yakuwari ga henka suru ni chigai nai to bunseki shite iru.\n\nShitsumon: Senmonka wa ofisu no shourai ni tsuite dono you ni bunseki shite iru ka.",
+    "level": "N2",
+    "category": "READING",
+    "options": [
+      "すべての企業がオフィスを廃止するだろう",
+      "オフィスは毎日出社する場所から協働の場に変わるだろう",
+      "オフィスの面積は今後も変わらないだろう",
+      "テレワークは一時的な流行に過ぎないだろう"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "(Reading) Read the following passage and answer the question.\n\nIn recent years, based on the spread of telework, the nature of offices is being fundamentally reconsidered. Traditional offices were designed on the premise that all employees come to work every day. However, triggered by telework, many companies have begun considering reducing office space. According to a real estate survey company report, about 40% of large companies have implemented or are considering office space reduction. On the other hand, companies that completely abolished offices account for only 5%. Experts analyze that the role of offices in the future will undoubtedly change from 'a place to work every day' to 'a place to gather and collaborate'.\n\nQuestion: How do experts analyze the future of offices?",
+    "answerExplanation": "The text mentions the experts' analysis: offices will undoubtedly change from 'a place to work every day' to 'a place to gather and collaborate'. The option about all companies abolishing offices is wrong since data shows only 5%. The option about office space not changing contradicts the 40% data.",
+    "hint": "Look for the sentence starting with '専門家は' to find the expert analysis.",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_3_030",
+    "question": "（読解）次の案内文を読んで、質問に答えてください。\n\n市民講座のお知らせ\n\n本市では、市民の生涯学習を促進するため、以下の講座を開催いたします。\n\n①「初めてのプログラミング」全8回・水曜夜間・定員30名\n②「健康料理教室」全6回・土曜午前・定員20名\n③「ビジネス英会話」全10回・火曜夜間・定員25名\n\n申込方法：市のウェブサイトまたは生涯学習センター窓口にて受付。先着順。\n受講料：各講座3,000円（教材費別途）\n注意事項：定員に達した講座は、キャンセル待ちの登録が可能です。一人につき同時に申し込めるのは2講座までとなっております。全講座の半数以上を欠席した場合、修了証は発行されません。\n\n質問：この案内について正しいものはどれか。",
+    "furigana": "（読解[どっかい]）次[つぎ]の案内文[あんないぶん]を読[よ]んで、質問[しつもん]に答[こた]えてください。\n\n市民[しみん]講座[こうざ]のお知[し]らせ\n\n本市[ほんし]では、市民[しみん]の生涯[しょうがい]学習[がくしゅう]を促進[そくしん]するため、以下[いか]の講座[こうざ]を開催[かいさい]いたします。\n\n①「初[はじ]めてのプログラミング」全[ぜん]8回[かい]・水曜[すいよう]夜間[やかん]・定員[ていいん]30名[めい]\n②「健康[けんこう]料理[りょうり]教室[きょうしつ]」全[ぜん]6回[かい]・土曜[どよう]午前[ごぜん]・定員[ていいん]20名[めい]\n③「ビジネス英会話[えいかいわ]」全[ぜん]10回[かい]・火曜[かよう]夜間[やかん]・定員[ていいん]25名[めい]\n\n申込[もうしこみ]方法[ほうほう]：市[し]のウェブサイトまたは生涯[しょうがい]学習[がくしゅう]センター窓口[まどぐち]にて受付[うけつけ]。先着順[せんちゃくじゅん]。\n受講料[じゅこうりょう]：各[かく]講座[こうざ]3,000円[えん]（教材費[きょうざいひ]別途[べっと]）\n注意[ちゅうい]事項[じこう]：定員[ていいん]に達[たっ]した講座[こうざ]は、キャンセル待[ま]ちの登録[とうろく]が可能[かのう]です。一人[ひとり]につき同時[どうじ]に申[もう]し込[こ]めるのは2講座[こうざ]までとなっております。全[ぜん]講座[こうざ]の半数[はんすう]以上[いじょう]を欠席[けっせき]した場合[ばあい]、修了証[しゅうりょうしょう]は発行[はっこう]されません。\n\n質問[しつもん]：この案内[あんない]について正[ただ]しいものはどれか。",
+    "romaji": "(Dokkai) Tsugi no annaibun wo yonde, shitsumon ni kotaete kudasai.\n\nShimin kouza no oshirase\n\nHonshi dewa, shimin no shougai gakushuu wo sokushin suru tame, ika no kouza wo kaisai itashimasu.\n\n1. 'Hajimete no puroguramingu' zen 8 kai, suiyou yakan, teiin 30 mei\n2. 'Kenkou ryouri kyoushitsu' zen 6 kai, doyou gozen, teiin 20 mei\n3. 'Bijinesu eikaiwa' zen 10 kai, kayou yakan, teiin 25 mei\n\nMoushikomi houhou: Shi no uebusaito matawa shougai gakushuu sentaa madoguchi nite uketsuke. Senchaku jun.\nJukouryou: Kaku kouza 3,000 en (kyouzaihi betto)\nChuui jikou: Teiin ni tasshita kouza wa, kyanseru machi no touroku ga kanou desu. Hitori ni tsuki douji ni moushikomeru no wa 2 kouza made to natte orimasu. Zen kouza no hansuu ijou wo kesseki shita baai, shuuryoushou wa hakkou saremasen.\n\nShitsumon: Kono annai ni tsuite tadashii mono wa dore ka.",
+    "level": "N2",
+    "category": "READING",
+    "options": [
+      "3つの講座すべてに同時に申し込むことができる",
+      "受講料には教材費が含まれている",
+      "定員を超えた場合はキャンセル待ちができる",
+      "1回でも欠席すると修了証がもらえない"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "(Reading) Read the following notice and answer the question.\n\nCitizen Course Notice\n\nThis city will hold the following courses to promote lifelong learning for citizens:\n\n1. 'First Programming' - 8 sessions, Wednesday evenings, capacity 30\n2. 'Healthy Cooking Class' - 6 sessions, Saturday mornings, capacity 20\n3. 'Business English Conversation' - 10 sessions, Tuesday evenings, capacity 25\n\nRegistration: Via city website or lifelong learning center counter. First-come, first-served.\nFee: 3,000 yen per course (material costs separate)\nNotes: Courses that reach capacity allow waitlist registration. One person may register for up to 2 courses simultaneously. If absent for more than half of all sessions, a completion certificate will not be issued.\n\nQuestion: Which statement about this notice is correct?",
+    "answerExplanation": "The text states that courses that reach capacity allow waitlist registration, so option C is correct. Option A is wrong because the limit is 2 courses (not 3). Option B is wrong because material costs are separate. Option D is wrong because the condition is absences exceeding half, not just 1 absence.",
+    "hint": "Read each statement and compare with the information in the notice. Pay attention to numbers and conditions.",
+    "difficultyScore": 4
+  }
+]

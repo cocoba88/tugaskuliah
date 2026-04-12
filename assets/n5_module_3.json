@@ -1,0 +1,382 @@
+[
+  {
+    "id": "question_n5_3_001",
+    "question": "日曜日は　どこ___　行きませんでした。",
+    "furigana": "日曜日[にちようび]は　どこ___　行[い]きませんでした。",
+    "romaji": "Nichiyoubi wa doko ___ ikimasen deshita.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "にも",
+      "でも",
+      "をも",
+      "かも"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Hari Minggu saya tidak pergi ke mana pun.",
+    "answerExplanation": "Pola 'どこにも + negatif' berarti 'tidak ke mana pun'. Partikel 'に' menunjukkan tujuan + 'も' memperkuat makna negatif = sama sekali tidak ke mana pun. 'でも' = tetapi/pun (konjungsi), 'をも' tidak lazim digunakan, 'かも' = mungkin (かもしれない). Pola sejenis: だれにも会わない = tidak bertemu siapa pun, なにも食べない = tidak makan apa pun.",
+    "hint": "Pola negatif total: どこ＿＿ + kata kerja negatif = tidak ke mana pun",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_3_002",
+    "question": "「先生」の読み方は？",
+    "furigana": "「先生」の読み方は？",
+    "romaji": "'Sensei' no yomikata wa?",
+    "level": "N5",
+    "category": "KANJI",
+    "options": [
+      "さきせい",
+      "せんせい",
+      "せいせん",
+      "さんせい"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Bagaimana cara membaca '先生'?",
+    "answerExplanation": "'先生' dibaca 'せんせい (sensei)' dan artinya guru (sebutan hormat untuk pengajar/ahli). '先' dibaca 'せん' (on-yomi), '生' dibaca 'せい' (on-yomi). Pilihan lain: 'さきせい' menggunakan kun-yomi 先 yang salah di sini, 'せいせん' membalik urutan, 'さんせい (賛成)' berarti setuju — kata yang berbeda.",
+    "hint": "Sebutan hormat untuk orang yang mengajar — kedua kanji menggunakan bacaan on-yomi",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_3_003",
+    "question": "「正しい」の意味は？",
+    "furigana": "「正[ただ]しい」の意味[いみ]は？",
+    "romaji": "'Tadashii' no imi wa?",
+    "level": "N5",
+    "category": "VOCABULARY",
+    "options": [
+      "Sulit",
+      "Benar",
+      "Mudah",
+      "Rapi"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Apa arti '正しい (ただしい)'?",
+    "answerExplanation": "'正しい (tadashii)' berarti benar, tepat, atau betul. Kanji '正' mengandung makna kebenaran/keadilan (juga muncul dalam 正月 = Tahun Baru, 正解 = jawaban benar). Lawan katanya: '間違い (machigai)' = salah. Kata lain: 'むずかしい' = sulit, 'かんたん' = mudah, 'きれい' = rapi — semuanya tidak berkaitan dengan kebenaran.",
+    "hint": "Kanji 正 mengandung makna kebenaran — kata sifat ini mendeskripsikan sesuatu yang tidak salah",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_3_004",
+    "question": "母は　今　台所で　料理を　___います。",
+    "furigana": "母[はは]は　今[いま]　台所[だいどころ]で　料理[りょうり]を　___います。",
+    "romaji": "Haha wa ima daidokoro de ryouri o ___ imasu.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "して",
+      "した",
+      "する",
+      "します"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Ibu sedang memasak di dapur sekarang.",
+    "answerExplanation": "Pola 'sedang melakukan' = て-form + います. 'する' → て-form = 'して' → して + います = しています (sedang melakukan). Kata '今 (いま = sekarang)' mengkonfirmasi bahwa aksi sedang berlangsung. 'した' = bentuk lampau (sudah selesai), 'する' = bentuk kamus, 'します' = bentuk sopan — ketiganya tidak cocok sebelum います.",
+    "hint": "Kata '今' menunjukkan aksi SEDANG berlangsung — gunakan pola て-form + います",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_3_005",
+    "question": "「入口」の読み方は？",
+    "furigana": "「入口」の読み方は？",
+    "romaji": "'Iriguchi' no yomikata wa?",
+    "level": "N5",
+    "category": "KANJI",
+    "options": [
+      "でぐち",
+      "にゅうこう",
+      "いりこう",
+      "いりぐち"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "Bagaimana cara membaca '入口'?",
+    "answerExplanation": "'入口' dibaca 'いりぐち (iriguchi)' dan artinya pintu masuk. '入' dibaca 'いり' (kun-yomi dari 入る = masuk), '口' berubah dari 'くち' menjadi 'ぐち' karena rendaku (perubahan suara saat digabung). 'でぐち (出口)' = pintu keluar (kata yang berbeda), 'にゅうこう' dan 'いりこう' menggunakan campuran bacaan yang salah.",
+    "hint": "Tanda yang sering terlihat di gedung — lawan dari 出口 (でぐち). Perhatikan rendaku: くち → ぐち",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_3_006",
+    "question": "「疲れた」の意味は？",
+    "furigana": "「疲[つか]れた」の意味[いみ]は？",
+    "romaji": "'Tsukareta' no imi wa?",
+    "level": "N5",
+    "category": "VOCABULARY",
+    "options": [
+      "Lapar",
+      "Mengantuk",
+      "Lelah",
+      "Sakit"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Apa arti '疲れた (つかれた)'?",
+    "answerExplanation": "'疲れた (tsukareta)' berarti lelah atau capek — bentuk lampau dari '疲れる (tsukareru)'. Diucapkan ketika tubuh atau pikiran sudah kehabisan energi setelah beraktivitas. Kata lain: 'おなかがすいた' = lapar, 'ねむい' = mengantuk (ingin tidur), 'びょうき' = sakit (kondisi kesehatan). Meskipun mirip, lelah ≠ mengantuk — orang bisa lelah tanpa mengantuk.",
+    "hint": "Kondisi tubuh setelah bekerja keras atau berolahraga lama — energi habis, butuh istirahat",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_3_007",
+    "question": "テーブルの うえ___　ほんが　あります。",
+    "furigana": "テーブルの うえ___　本[ほん]が　あります。",
+    "romaji": "Teeburu no ue ___ hon ga arimasu.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "で",
+      "に",
+      "を",
+      "へ"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Di atas meja ada buku.",
+    "answerExplanation": "Partikel 'に' digunakan bersama 'あります/います' untuk menunjukkan lokasi keberadaan. Pola: [tempat] + に + [benda] + が + あります = Di [tempat] ada [benda]. 'で' = tempat aktivitas (bukan keberadaan statis), 'を' = penanda objek langsung, 'へ' = arah tujuan pergerakan. Untuk menyatakan 'ada' di suatu tempat, selalu gunakan 'に'.",
+    "hint": "Dengan あります/います, lokasi keberadaan selalu ditandai partikel khusus — bukan で (tempat aktivitas)",
+    "difficultyScore": 1
+  },
+  {
+    "id": "question_n5_3_008",
+    "question": "「毎週」の読み方は？",
+    "furigana": "「毎週」の読み方は？",
+    "romaji": "'Maishuu' no yomikata wa?",
+    "level": "N5",
+    "category": "KANJI",
+    "options": [
+      "まいにち",
+      "まいつき",
+      "まいとし",
+      "まいしゅう"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "Bagaimana cara membaca '毎週'?",
+    "answerExplanation": "'毎週' dibaca 'まいしゅう (maishuu)' dan artinya setiap minggu. '毎' = まい (setiap), '週' = しゅう (minggu). Semua pilihan dimulai dengan まい karena kanji pertama sama, kuncinya ada di kanji kedua: 日 = にち (hari), 月 = つき (bulan), 年 = とし (tahun), 週 = しゅう (minggu).",
+    "hint": "Kanji kedua '週' berarti minggu — urutan waktu: hari → minggu → bulan → tahun",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_3_009",
+    "question": "「貸す」の意味は？",
+    "furigana": "「貸[か]す」の意味[いみ]は？",
+    "romaji": "'Kasu' no imi wa?",
+    "level": "N5",
+    "category": "VOCABULARY",
+    "options": [
+      "Meminjam",
+      "Membeli",
+      "Meminjamkan",
+      "Menjual"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Apa arti '貸す (かす)'?",
+    "answerExplanation": "'貸す (kasu)' berarti meminjamkan — memberikan benda milik sendiri kepada orang lain untuk digunakan sementara. HATI-HATI jangan terbalik: '貸す (kasu)' = meminjamKAN (Anda yang punya, orang lain yang pakai), '借りる (kariru)' = meminjam (orang lain yang punya, Anda yang pakai). '買う (kau)' = membeli, '売る (uru)' = menjual.",
+    "hint": "Anda punya buku → teman butuh buku itu → Anda memberikannya untuk sementara. Apa yang Anda lakukan?",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_3_010",
+    "question": "このへやには　まどが　___　あります。",
+    "furigana": "このへやには　まどが　___　あります。",
+    "romaji": "Kono heya ni wa mado ga ___ arimasu.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "三つ",
+      "三本",
+      "三枚",
+      "三冊"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Di kamar ini ada tiga jendela.",
+    "answerExplanation": "'つ (tsu)' adalah satuan hitung umum (universal counter) yang bisa digunakan untuk menghitung berbagai benda, termasuk jendela. '本 (hon)' untuk benda panjang/silindris, '枚 (mai)' untuk benda tipis dan datar (kertas, piring), '冊 (satsu)' untuk buku yang dijilid. Jendela sebagai objek utuh (bukan tipis seperti kertas) menggunakan つ.",
+    "hint": "Satuan hitung umum (universal) yang bisa digunakan untuk hampir semua benda",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_3_011",
+    "question": "「電車」の読み方は？",
+    "furigana": "「電車」の読み方は？",
+    "romaji": "'Densha' no yomikata wa?",
+    "level": "N5",
+    "category": "KANJI",
+    "options": [
+      "でんしゃ",
+      "でんち",
+      "てんしゃ",
+      "でんくるま"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Bagaimana cara membaca '電車'?",
+    "answerExplanation": "'電車' dibaca 'でんしゃ (densha)' dan artinya kereta (listrik). '電' = でん (listrik), '車' = しゃ (kendaraan/roda). Pilihan lain: 'でんち (電池)' = baterai (kata berbeda), 'てんしゃ' = salah bacaan 電 (bukan てん), 'でんくるま' = campuran on-yomi + kun-yomi yang salah (車 kun-yomi = くるま, tapi tidak dipakai di sini).",
+    "hint": "Kendaraan umum bertenaga listrik yang berjalan di atas rel — kedua kanji dibaca dengan on-yomi",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_3_012",
+    "question": "あした　ともだち___　あいます。",
+    "furigana": "あした　友達[ともだち]___　会[あ]います。",
+    "romaji": "Ashita tomodachi ___ aimasu.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "で",
+      "に",
+      "が",
+      "は"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Besok saya akan bertemu teman.",
+    "answerExplanation": "Kata kerja '会う (au)' = bertemu, menggunakan partikel 'に' untuk menandai orang yang ditemui. Pola: [orang] + に + 会う. 'で' = tempat aktivitas atau alat, 'が' = penanda subjek, 'は' = penanda topik. Hanya 'に' yang menandai target/orang yang ditemui.",
+    "hint": "Kata kerja 会う selalu berpasangan dengan partikel tertentu untuk menandai ORANG yang ditemui",
+    "difficultyScore": 1
+  },
+  {
+    "id": "question_n5_3_013",
+    "question": "「涼しい」の意味は？",
+    "furigana": "「涼[すず]しい」の意味[いみ]は？",
+    "romaji": "'Suzushii' no imi wa?",
+    "level": "N5",
+    "category": "VOCABULARY",
+    "options": [
+      "Dingin (benda)",
+      "Hangat",
+      "Sejuk",
+      "Panas (cuaca)"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Apa arti '涼しい (すずしい)'?",
+    "answerExplanation": "'涼しい (suzushii)' berarti sejuk — menggambarkan udara yang segar dan nyaman, tidak panas dan tidak terlalu dingin. Kanji '涼' mengandung elemen air (氵) yang mengisyaratkan kesegaran. Bandingkan kata cuaca/suhu lain: '冷たい (tsumetai)' = dingin untuk benda yang disentuh, '暖かい (atatakai)' = hangat, '暑い (atsui)' = panas (cuaca).",
+    "hint": "Udara yang segar dan nyaman — kanji ini mengandung radikal air (氵) yang memberi kesan kesegaran",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_3_014",
+    "question": "「今年」の読み方は？",
+    "furigana": "「今年」の読み方は？",
+    "romaji": "'Kotoshi' no yomikata wa?",
+    "level": "N5",
+    "category": "KANJI",
+    "options": [
+      "いまとし",
+      "こんねん",
+      "こんとし",
+      "ことし"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "Bagaimana cara membaca '今年'?",
+    "answerExplanation": "'今年' dibaca 'ことし (kotoshi)' dan artinya tahun ini. Ini adalah bacaan istimewa (熟字訓/jukujikun) — tidak bisa ditebak dari bacaan kanji masing-masing. 'こんねん' secara teknis ada tapi sangat jarang dipakai dalam percakapan. 'いまとし' dan 'こんとし' adalah bacaan yang salah. Bandingkan: 今日 = きょう, 今朝 = けさ — juga bacaan istimewa.",
+    "hint": "Kata ini punya bacaan istimewa — bandingkan: 今日 = きょう, 今朝 = けさ. Kata ini juga tidak mengikuti pola biasa",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_3_015",
+    "question": "わたしは　にほんご___　べんきょうします。",
+    "furigana": "わたしは　日本語[にほんご]___　勉強[べんきょう]します。",
+    "romaji": "Watashi wa nihongo ___ benkyou shimasu.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "に",
+      "で",
+      "を",
+      "が"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Saya belajar bahasa Jepang.",
+    "answerExplanation": "'勉強します (benkyou shimasu)' adalah kata kerja transitif yang membutuhkan objek. Bahasa Jepang (にほんご) adalah hal yang dipelajari = objek langsung → ditandai partikel 'を'. 'に' = tujuan/penerima, 'で' = tempat aktivitas atau alat, 'が' = penanda subjek. Pola: [hal yang dipelajari] + を + 勉強します.",
+    "hint": "Bahasa Jepang adalah HAL YANG dipelajari — partikel apa yang menandai objek langsung?",
+    "difficultyScore": 1
+  },
+  {
+    "id": "question_n5_3_016",
+    "question": "「返す」の意味は？",
+    "furigana": "「返[かえ]す」の意味[いみ]は？",
+    "romaji": "'Kaesu' no imi wa?",
+    "level": "N5",
+    "category": "VOCABULARY",
+    "options": [
+      "Pergi pulang",
+      "Meminjam",
+      "Membawa",
+      "Mengembalikan"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "Apa arti '返す (かえす)'?",
+    "answerExplanation": "'返す (kaesu)' berarti mengembalikan — aksi memberikan kembali benda yang dipinjam kepada pemilik aslinya. HATI-HATI: '返す (kaesu)' ≠ '帰る (kaeru)'. Meskipun bunyinya mirip, '帰る' = pulang (ke rumah), '返す' = mengembalikan (benda). '借りる (kariru)' = meminjam, '持つ (motsu)' = membawa/memegang.",
+    "hint": "Buku yang dipinjam dari perpustakaan harus di-___ sebelum batas waktu. Aksi apa itu?",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_3_017",
+    "question": "この　へやには　いす___　みっつ　あります。",
+    "furigana": "この　部屋[へや]には　いす___　みっつ　あります。",
+    "romaji": "Kono heya ni wa isu ___ mittsu arimasu.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "は",
+      "も",
+      "を",
+      "が"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "Di kamar ini ada tiga kursi.",
+    "answerExplanation": "Dalam pola keberadaan dengan あります/います, benda yang dinyatakan keberadaannya ditandai dengan 'が'. Pola: [tempat] + には + [benda] + が + [jumlah] + あります. 'は' = penanda topik (di sini sudah ada 'には' untuk tempat), 'も' = juga, 'を' = penanda objek langsung (tidak cocok dengan あります). Yang tepat adalah 'が'.",
+    "hint": "Dengan あります, benda yang dinyatakan ADA selalu ditandai partikel penanda subjek",
+    "difficultyScore": 1
+  },
+  {
+    "id": "question_n5_3_018",
+    "question": "（Reading）\nたなかさんは かいしゃいんです。まいあさ 7じに おきて、8じに いえを でます。えきまで あるいて 10ぷん、でんしゃで 30ぷんです。かいしゃは 9じからです。\n\nしつもん：たなかさんは まいあさ なんじに いえを でますか。",
+    "furigana": "たなかさんは かいしゃいんです。まいあさ 7じに おきて、8じに いえを でます。えきまで あるいて 10ぷん、でんしゃで 30ぷんです。かいしゃは 9じからです。\n\nしつもん：たなかさんは まいあさ なんじに いえを でますか。",
+    "romaji": "Tanaka-san wa kaishain desu. Maiasa 7-ji ni okite, 8-ji ni ie wo demasu. Eki made aruite 10-pun, densha de 30-pun desu. Kaisha wa 9-ji kara desu.\n\nShitsumon: Tanaka-san wa maiasa nan-ji ni ie wo demasu ka.",
+    "level": "N5",
+    "category": "READING",
+    "options": [
+      "7じ",
+      "8じ",
+      "9じ",
+      "10じ"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Tanaka adalah karyawan. Tiap pagi bangun jam 7, keluar rumah jam 8. 10 menit jalan kaki ke stasiun, 30 menit naik kereta. Kantor mulai jam 9.\n\nPertanyaan: Jam berapa Tanaka keluar rumah setiap pagi?",
+    "answerExplanation": "Teks menyebutkan '8じに いえを でます' = keluar rumah jam 8. Perlu dibedakan dari waktu bangun (7じ), waktu kantor mulai (9じ), dan durasi perjalanan (10ぷん/30ぷん). Yang ditanyakan adalah waktu KELUAR RUMAH, bukan bangun atau sampai kantor.",
+    "hint": "Perhatikan perbedaan antara おきる (bangun), いえをでる (keluar rumah), dan かいしゃ (kantor) — yang ditanyakan adalah keluar rumah",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_3_019",
+    "question": "（Reading）\nきのう スーパーへ いきました。やさいと くだものと にくを かいました。やさいは 200えん、くだものは 350えん、にくは 500えんでした。\n\nしつもん：いちばん たかいものは なんですか。",
+    "furigana": "きのう スーパーへ いきました。やさいと くだものと にくを かいました。やさいは 200えん、くだものは 350えん、にくは 500えんでした。\n\nしつもん：いちばん たかいものは なんですか。",
+    "romaji": "Kinou suupaa e ikimashita. Yasai to kudamono to niku wo kaimashita. Yasai wa 200 en, kudamono wa 350 en, niku wa 500 en deshita.\n\nShitsumon: Ichiban takai mono wa nan desu ka.",
+    "level": "N5",
+    "category": "READING",
+    "options": [
+      "やさい",
+      "くだもの",
+      "にく",
+      "さかな"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Kemarin pergi ke supermarket. Beli sayur (200 yen), buah (350 yen), daging (500 yen).\n\nPertanyaan: Apa yang paling mahal?",
+    "answerExplanation": "Dari tiga barang yang dibeli: やさい = 200 yen, くだもの = 350 yen, にく = 500 yen. Yang paling mahal (いちばんたかい) adalah にく (daging) seharga 500 yen. Kata kunci 'いちばん' = paling, 'たかい' = mahal/tinggi. 'さかな' tidak disebutkan dalam teks.",
+    "hint": "いちばんたかい = paling mahal. Bandingkan harga ketiga barang dan pilih yang tertinggi",
+    "difficultyScore": 1
+  },
+  {
+    "id": "question_n5_3_020",
+    "question": "（Reading）\nやまださんの いえには ねこが 2ひき います。しろい ねこは 「ゆき」で、くろい ねこは 「くも」です。「ゆき」は そとが すきですが、「くも」は いえの なかが すきです。\n\nしつもん：いえの なかが すきな ねこは どちらですか。",
+    "furigana": "やまださんの いえには ねこが 2ひき います。しろい ねこは 「ゆき」で、くろい ねこは 「くも」です。「ゆき」は そとが すきですが、「くも」は いえの なかが すきです。\n\nしつもん：いえの なかが すきな ねこは どちらですか。",
+    "romaji": "Yamada-san no ie ni wa neko ga 2-hiki imasu. Shiroi neko wa 'Yuki' de, kuroi neko wa 'Kumo' desu. 'Yuki' wa soto ga suki desu ga, 'Kumo' wa ie no naka ga suki desu.\n\nShitsumon: Ie no naka ga suki na neko wa dochira desu ka.",
+    "level": "N5",
+    "category": "READING",
+    "options": [
+      "ゆき",
+      "くも",
+      "しろいねこ",
+      "2ひきとも"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Yamada punya 2 kucing. Kucing putih namanya Yuki, kucing hitam namanya Kumo. Yuki suka luar rumah, Kumo suka dalam rumah.\n\nPertanyaan: Kucing mana yang suka di dalam rumah?",
+    "answerExplanation": "Teks: 「くも」は いえのなかが すきです = Kumo suka di dalam rumah. Perlu memahami bahwa Yuki (putih) suka luar, Kumo (hitam) suka dalam. 'しろいねこ' = kucing putih = Yuki (suka luar, bukan dalam). '2ひきとも' = keduanya (salah, karena preferensi mereka berbeda).",
+    "hint": "Baca dengan teliti siapa yang suka 'そと (luar)' dan siapa yang suka 'なか (dalam)' — jangan tertukar",
+    "difficultyScore": 2
+  }
+]

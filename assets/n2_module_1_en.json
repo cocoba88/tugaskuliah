@@ -1,0 +1,572 @@
+[
+  {
+    "id": "question_n2_1_001",
+    "question": "「貢献」の意味として最も適切なものはどれですか。",
+    "furigana": "「貢献[こうけん]」の意味[いみ]として最[もっと]も適切[てきせつ]なものはどれですか。",
+    "romaji": "'Kouken' no imi toshite mottomo tekisetsu na mono wa dore desu ka.",
+    "level": "N2",
+    "category": "VOCABULARY",
+    "options": [
+      "社会や人のために力を尽くすこと",
+      "他人を批判すること",
+      "約束を守らないこと",
+      "競争に負けること"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Which is the most accurate meaning of '貢献'?",
+    "answerExplanation": "'貢献' (kouken) means contribution, namely giving one's skill or effort for the benefit of society or others. Example: 「彼は地域社会に大きく貢献した」(He made a great contribution to the local community). Other options are wrong because: 批判する = to criticize, 約束を守らない = to not keep a promise, 競争に負ける = to lose in competition.",
+    "hint": "This word is about contributing or doing something helpful for others or society.",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_1_002",
+    "question": "彼は金銭を要求し、相手を___した。",
+    "furigana": "彼[かれ]は金銭[きんせん]を要求[ようきゅう]し、相手[あいて]を___した。",
+    "romaji": "Kare wa kinsen wo youkyuu shi, aite wo ___ shita.",
+    "level": "N2",
+    "category": "VOCABULARY",
+    "options": [
+      "奉仕",
+      "脅迫",
+      "賛成",
+      "妥協"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "He demanded money and ___ the other party.",
+    "answerExplanation": "'脅迫' (kyouhaku) means to threaten or intimidate someone. In this sentence, someone demands money by threatening the other party. The other options do not fit: 奉仕 = service/devotion, 賛成 = approval, 妥協 = compromise.",
+    "hint": "This word means to force someone through intimidation.",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_1_003",
+    "question": "事故で記憶を___してしまった。",
+    "furigana": "事故[じこ]で記憶[きおく]を___してしまった。",
+    "romaji": "Jiko de kioku wo ___ shite shimatta.",
+    "level": "N2",
+    "category": "VOCABULARY",
+    "options": [
+      "獲得",
+      "喪失",
+      "発揮",
+      "維持"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Because of an accident, I ___ my memory.",
+    "answerExplanation": "'喪失' (soushitsu) means the loss of something important or precious. In this sentence, someone lost their memory as a result of an accident. Other options: 獲得 = to acquire, 発揮 = to demonstrate (ability), 維持 = to maintain. All have opposite meanings to the context of this sentence.",
+    "hint": "This word indicates the unwanted loss of something very precious.",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_1_004",
+    "question": "双方が___して、やっと契約がまとまった。",
+    "furigana": "双方[そうほう]が___して、やっと契約[けいやく]がまとまった。",
+    "romaji": "Souhou ga ___ shite, yatto keiyaku ga matomatta.",
+    "level": "N2",
+    "category": "VOCABULARY",
+    "options": [
+      "対立",
+      "拒否",
+      "妥協",
+      "独占"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Both sides ___, and finally the contract was settled.",
+    "answerExplanation": "'妥協' (dakyou) means compromise or making concessions to reach an agreement. In this sentence, both sides had to give a little so the contract could be finalized. Other options: 対立 = conflict/opposition, 拒否 = refusal, 独占 = monopoly -- all of these would actually prevent an agreement from being reached.",
+    "hint": "This word means giving in a little from both sides to find a middle ground.",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_1_005",
+    "question": "彼女は研究に___して、食事も忘れてしまった。",
+    "furigana": "彼女[かのじょ]は研究[けんきゅう]に___して、食事[しょくじ]も忘[わす]れてしまった。",
+    "romaji": "Kanojo wa kenkyuu ni ___ shite, shokuji mo wasurete shimatta.",
+    "level": "N2",
+    "category": "VOCABULARY",
+    "options": [
+      "反発",
+      "没頭",
+      "放棄",
+      "依存"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "She ___ herself in research to the point of forgetting to eat.",
+    "answerExplanation": "'没頭' (bottou) means to be deeply absorbed or immersed in an activity to the point of forgetting everything else. This sentence describes someone so engrossed in research that they forgot to eat. Other options: 反発 = resistance, 放棄 = abandonment/giving up, 依存 = dependence.",
+    "hint": "This word describes being so absorbed in something that you forget everything else.",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_1_006",
+    "question": "「孤立」の読み方はどれですか。",
+    "furigana": "「孤立[こりつ]」の読[よ]み方[かた]はどれですか。",
+    "romaji": "'Koritsu' no yomikata wa dore desu ka.",
+    "level": "N2",
+    "category": "KANJI",
+    "options": [
+      "こりつ",
+      "こだち",
+      "こりゅう",
+      "ころつ"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "How do you read '孤立'?",
+    "answerExplanation": "'孤立' is read 'こりつ' (koritsu) and means isolated or secluded. Kanji '孤' (ko) means alone/orphaned, and '立' (ritsu) means standing. It literally means 'standing alone'. The other options are incorrect readings: こだち is not a common word, こりゅう = 交流 (exchange), ころつ is not a valid reading.",
+    "hint": "The first kanji is read 'ko' and the second kanji is read 'ritsu'.",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_1_007",
+    "question": "「合併」の読み方はどれですか。",
+    "furigana": "「合併[がっぺい]」の読[よ]み方[かた]はどれですか。",
+    "romaji": "'Gappei' no yomikata wa dore desu ka.",
+    "level": "N2",
+    "category": "KANJI",
+    "options": [
+      "ごうへい",
+      "がっぺい",
+      "かっぺい",
+      "がっべい"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "How do you read '合併'?",
+    "answerExplanation": "'合併' is read 'がっぺい' (gappei) which means merger or consolidation. Kanji '合' can be read 'gou/gatsu/ga' and '併' is read 'hei/pei'. Because of the sokuon (っ), '合' becomes 'ga' + っ, and '併' becomes 'pei' (with the sound change h to p). Note that the option がっべい is wrong because the consonant 'b' should be 'p'.",
+    "hint": "Note the sokuon (っ) and the sound change from 'h' to 'p'.",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_1_008",
+    "question": "「繁栄」の読み方はどれですか。",
+    "furigana": "「繁栄[はんえい]」の読[よ]み方[かた]はどれですか。",
+    "romaji": "'Han'ei' no yomikata wa dore desu ka.",
+    "level": "N2",
+    "category": "KANJI",
+    "options": [
+      "はんよう",
+      "ばんえい",
+      "はんえい",
+      "はんかく"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "How do you read '繁栄'?",
+    "answerExplanation": "'繁栄' is read 'はんえい' (han'ei) which means prosperity or flourishing. Kanji '繁' (han) means thriving/plentiful, and '栄' (ei) means prosperity/glory. The option はんよう is wrong because よう is not the reading for 栄, ばんえい is wrong because 繁 is read はん not ばん in this word, and はんかく is not relevant.",
+    "hint": "The first kanji is read 'han' and the second is read 'ei'.",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_1_009",
+    "question": "「挫折」の読み方はどれですか。",
+    "furigana": "「挫折[ざせつ]」の読[よ]み方[かた]はどれですか。",
+    "romaji": "'Zasetsu' no yomikata wa dore desu ka.",
+    "level": "N2",
+    "category": "KANJI",
+    "options": [
+      "させつ",
+      "ざぜつ",
+      "ざせつ",
+      "さぜつ"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "How do you read '挫折'?",
+    "answerExplanation": "'挫折' is read 'ざせつ' (zasetsu) which means failure, setback, or being discouraged midway. Kanji '挫' is read 'za' and '折' is read 'setsu'. Note that '挫' uses dakuten (ざ not さ), while '折' remains 'setsu' without dakuten. The option ざぜつ is wrong because 折 is not read 'zetsu'.",
+    "hint": "The first kanji has dakuten (za), while the second does not (setsu).",
+    "difficultyScore": 6
+  },
+  {
+    "id": "question_n2_1_010",
+    "question": "「手配」の読み方はどれですか。",
+    "furigana": "「手配[てはい]」の読[よ]み方[かた]はどれですか。",
+    "romaji": "'Tehai' no yomikata wa dore desu ka.",
+    "level": "N2",
+    "category": "KANJI",
+    "options": [
+      "しゅはい",
+      "てぱい",
+      "てはい",
+      "てばい"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "How do you read '手配'?",
+    "answerExplanation": "'手配' is read 'てはい' (tehai) which means arrangement or preparation (such as arranging tickets, hotels, etc.). Kanji '手' here is read 'te' (kun'yomi), not 'shu' (on'yomi). '配' is read 'hai'. The option しゅはい is wrong because it uses on'yomi for 手, while てぱい and てばい are wrong because 配 is read 'hai' not 'pai' or 'bai'.",
+    "hint": "The first kanji uses a very common kun'yomi reading.",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_1_011",
+    "question": "荷物が届き___、すぐにご連絡いたします。",
+    "furigana": "荷物[にもつ]が届[とど]き___、すぐにご連絡[れんらく]いたします。",
+    "romaji": "Nimotsu ga todoki ___, sugu ni go-renraku itashimasu.",
+    "level": "N2",
+    "category": "GRAMMAR",
+    "options": [
+      "次第",
+      "たとたん",
+      "がてら",
+      "ながら"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "As soon as the package arrives, I'll contact you right away.",
+    "answerExplanation": "'〜次第' (shidai) attached to the masu-stem of a verb means 'as soon as'. This pattern is often used in formal/business language to express that an action will be taken immediately once a condition is met. Example: 届き次第 = as soon as it arrives. The option たとたん cannot be directly attached to the masu-stem, がてら means 'while also doing', ながら means 'while/although'.",
+    "hint": "This grammar pattern used in formal context to express 'immediately after something occurs'.",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_1_012",
+    "question": "最近、日本語を忘れる___なので、毎日復習している。",
+    "furigana": "最近[さいきん]、日本語[にほんご]を忘[わす]れる___なので、毎日[まいにち]復習[ふくしゅう]している。",
+    "romaji": "Saikin, nihongo wo wasureru ___ na node, mainichi fukushuu shite iru.",
+    "level": "N2",
+    "category": "GRAMMAR",
+    "options": [
+      "ばかりだ",
+      "一方だ",
+      "ほどだ",
+      "くらいだ"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Lately I keep forgetting Japanese, so I review every day.",
+    "answerExplanation": "'〜一方だ' (ippou da) is used to express a change that continues in one direction, usually a negative one. Pattern: verb dictionary form + 一方だ. In this sentence, Japanese ability keeps declining (keeps forgetting). The option ばかりだ can also express a negative tendency but usually does not connect with 'なので', ほどだ and くらいだ express degree/extent.",
+    "hint": "This pattern describes a situation that keeps changing in one direction without stopping.",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_1_013",
+    "question": "環境問題に対する意識は少しずつ高まり___。",
+    "furigana": "環境問題[かんきょうもんだい]に対[たい]する意識[いしき]は少[すこ]しずつ高[たか]まり___。",
+    "romaji": "Kankyou mondai ni taisuru ishiki wa sukoshi zutsu takamari ___.",
+    "level": "N2",
+    "category": "GRAMMAR",
+    "options": [
+      "かけている",
+      "つつある",
+      "っぱなしだ",
+      "きっている"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Awareness of environmental issues is gradually increasing little by little.",
+    "answerExplanation": "'〜つつある' (tsutsu aru) is used to express that a change is progressing gradually. Pattern: masu-stem + つつある. This sentence describes environmental awareness that is in the process of increasing. The option かけている means 'almost/halfway', っぱなしだ means 'left as is', きっている means 'completely/already fully'.",
+    "hint": "This pattern expresses a change that is progressing gradually.",
+    "difficultyScore": 6
+  },
+  {
+    "id": "question_n2_1_014",
+    "question": "卒業___、お世話になった先生方に感謝の言葉を述べたいと思います。",
+    "furigana": "卒業[そつぎょう]___、お世話[せわ]になった先生方[せんせいがた]に感謝[かんしゃ]の言葉[ことば]を述[の]べたいと思[おも]います。",
+    "romaji": "Sotsugyou ___, osewa ni natta sensei-gata ni kansha no kotoba wo nobetai to omoimasu.",
+    "level": "N2",
+    "category": "GRAMMAR",
+    "options": [
+      "に関して",
+      "に対して",
+      "に際して",
+      "について"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "On the occasion of this graduation, I would like to express words of gratitude to the teachers who have guided me.",
+    "answerExplanation": "'〜に際して' (ni saishite) means 'on the occasion of' or 'at the time of' an important event. This pattern is used in formal contexts. The option に関して means 'regarding/related to', に対して means 'toward', について means 'about'. Only に際して is suitable to express 'on the occasion of graduation'.",
+    "hint": "This pattern is used for important moments or events in a formal context.",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_1_015",
+    "question": "証拠がこれだけある以上、事実を認め___。",
+    "furigana": "証拠[しょうこ]がこれだけある以上[いじょう]、事実[じじつ]を認[みと]め___。",
+    "romaji": "Shouko ga kore dake aru ijou, jijitsu wo mitome ___.",
+    "level": "N2",
+    "category": "GRAMMAR",
+    "options": [
+      "てはいけない",
+      "なくてもいい",
+      "ざるを得ない",
+      "ないでほしい"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "With this much evidence, one has no choice but to acknowledge the facts.",
+    "answerExplanation": "'〜ざるを得ない' (zaru wo enai) means 'to have no choice but to' or 'cannot help but do'. Pattern: ない-stem (without ない) + ざるを得ない. For the verb する, it becomes せざるを得ない. In this sentence, because there is already enough evidence, there is no option other than to acknowledge the facts. The option てはいけない = must not, なくてもいい = not necessary, ないでほしい = please don't.",
+    "hint": "This pattern expresses being compelled to do something -- there is no other option.",
+    "difficultyScore": 7
+  },
+  {
+    "id": "question_n2_1_016",
+    "question": "何度も話し合いを重ねた___、ようやく全員が納得する結論に達した。",
+    "furigana": "何度[なんど]も話[はな]し合[あ]いを重[かさ]ねた___、ようやく全員[ぜんいん]が納得[なっとく]する結論[けつろん]に達[たっ]した。",
+    "romaji": "Nando mo hanashiai wo kasaneta ___, youyaku zen'in ga nattoku suru ketsuron ni tasshita.",
+    "level": "N2",
+    "category": "GRAMMAR",
+    "options": [
+      "ところで",
+      "ついでに",
+      "末に",
+      "最中に"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "After going through many repeated discussions, a satisfactory conclusion was finally reached.",
+    "answerExplanation": "'〜末に' (sue ni) means 'finally after going through a long process'. Pattern: verb た form/noun の + 末に. The nuance of this pattern emphasizes that the preceding process was long and full of effort. Options: ところで = by the way, ついでに = while at it/incidentally, 最中に = in the middle of (while ongoing).",
+    "hint": "This pattern emphasizes the final result after going through a long and exhausting process.",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_1_017",
+    "question": "台風___、本日の午後のフライトはすべて欠航となりました。",
+    "furigana": "台風[たいふう]___、本日[ほんじつ]の午後[ごご]のフライトはすべて欠航[けっこう]となりました。",
+    "romaji": "Taifuu ___, honjitsu no gogo no furaito wa subete kekkou to narimashita.",
+    "level": "N2",
+    "category": "GRAMMAR",
+    "options": [
+      "のおかげで",
+      "のせいで",
+      "の影響で",
+      "のもとで"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Due to the influence of the typhoon, all afternoon flights were cancelled.",
+    "answerExplanation": "'〜の影響で' (no eikyou de) means 'due to the influence/impact of'. This pattern is used neutrally to express cause and effect, especially in news or official announcements. The option のおかげで is used for positive outcomes (thanks to), のせいで is used to assign blame (because of) -- both are more subjective. のもとで means 'under (guidance/leadership)'. の影響で is more neutral and suitable for official announcement contexts.",
+    "hint": "A neutral expression often used in news to describe the impact of an event.",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_1_018",
+    "question": "（読解）次の文章を読んで、質問に答えてください。\n\n近年、日本では少子化が急速に進んでおり、社会全体に深刻な影響を与えている。出生率の低下により、将来の労働力が不足することが懸念されている。政府は子育て支援策を強化し、育児休暇の拡充や保育施設の増設を進めているが、効果はまだ限定的である。経済学者の中には、少子化の最大の問題は年金制度の維持が困難になることだと指摘する声もある。若い世代の負担が増加し、社会保障制度全体の見直しが求められている。\n\n質問：この文章で少子化の最大の懸念として挙げられているのは何か。",
+    "furigana": "（読解[どっかい]）次[つぎ]の文章[ぶんしょう]を読[よ]んで、質問[しつもん]に答[こた]えてください。\n\n近年[きんねん]、日本[にほん]では少子化[しょうしか]が急速[きゅうそく]に進[すす]んでおり、社会全体[しゃかいぜんたい]に深刻[しんこく]な影響[えいきょう]を与[あた]えている。出生率[しゅっしょうりつ]の低下[ていか]により、将来[しょうらい]の労働力[ろうどうりょく]が不足[ふそく]することが懸念[けねん]されている。政府[せいふ]は子育[こそだ]て支援策[しえんさく]を強化[きょうか]し、育児休暇[いくじきゅうか]の拡充[かくじゅう]や保育施設[ほいくしせつ]の増設[ぞうせつ]を進[すす]めているが、効果[こうか]はまだ限定的[げんていてき]である。経済学者[けいざいがくしゃ]の中[なか]には、少子化[しょうしか]の最大[さいだい]の問題[もんだい]は年金制度[ねんきんせいど]の維持[いじ]が困難[こんなん]になることだと指摘[してき]する声[こえ]もある。若[わか]い世代[せだい]の負担[ふたん]が増加[ぞうか]し、社会保障制度[しゃかいほしょうせいど]全体[ぜんたい]の見直[みなお]しが求[もと]められている。\n\n質問[しつもん]：この文章[ぶんしょう]で少子化[しょうしか]の最大[さいだい]の懸念[けねん]として挙[あ]げられているのは何[なに]か。",
+    "romaji": "(Dokkai) Tsugi no bunshou wo yonde, shitsumon ni kotaete kudasai.\n\nKinnen, Nihon dewa shoushika ga kyuusoku ni susunde ori, shakai zentai ni shinkoku na eikyou wo ataete iru. Shusshouritsu no teika ni yori, shourai no roudouryoku ga fusoku suru koto ga kenen sarete iru. Seifu wa kosodate shien-saku wo kyouka shi, ikuji kyuuka no kakujuu ya hoiku shisetsu no zousetsu wo susumete iru ga, kouka wa mada genteiteki de aru. Keizai gakusha no naka ni wa, shoushika no saidai no mondai wa nenkin seido no iji ga konnan ni naru koto da to shiteki suru koe mo aru. Wakai sedai no futan ga zouka shi, shakai hoshou seido zentai no minaoshi ga motomerarete iru.\n\nShitsumon: Kono bunshou de shoushika no saidai no kenen toshite agerarete iru no wa nani ka.",
+    "level": "N2",
+    "category": "READING",
+    "options": [
+      "保育施設が足りないこと",
+      "若者が結婚しなくなったこと",
+      "年金制度の維持が困難になること",
+      "外国人労働者が増えていること"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "(Reading) Read the following passage and answer the question.\n\nIn recent years, the declining birthrate (shoushika) in Japan has been progressing rapidly and is having a serious impact on society as a whole. The decline in birthrate has raised concerns about a future labor shortage. The government has strengthened childcare support policies, expanded parental leave, and increased childcare facilities, but the effects remain limited. Some economists point out that the biggest problem of the declining birthrate is the difficulty of maintaining the pension system. The burden on the younger generation is increasing, and a review of the entire social security system is being demanded.\n\nQuestion: What is the greatest concern regarding the declining birthrate mentioned in this passage?",
+    "answerExplanation": "The text mentions that economists point out that the biggest problem (最大の問題) of the declining birthrate is the difficulty of maintaining the pension system (年金制度の維持が困難になること). The option 保育施設が足りない is mentioned as one of the government's efforts, not as the greatest concern. The options about marriage and foreign workers are not mentioned in the text.",
+    "hint": "Look for the phrase '最大の問題は' in the text to find the answer.",
+    "difficultyScore": 6
+  },
+  {
+    "id": "question_n2_1_019",
+    "question": "（読解）次のメールを読んで、質問に答えてください。\n\n社員各位\n\n人事部よりお知らせいたします。来月より、当社の福利厚生制度が一部変更されます。これまで年間5日間だった有給のボランティア休暇が、10日間に拡充されます。また、新たにリモートワーク手当として月額5,000円が支給されることになりました。なお、従来の通勤手当については、リモートワークを主とする社員は実費精算に変更となります。詳細は社内ポータルをご確認ください。\n\n人事部　山田\n\n質問：このメールによると、新しく導入される制度は何か。",
+    "furigana": "（読解[どっかい]）次[つぎ]のメールを読[よ]んで、質問[しつもん]に答[こた]えてください。\n\n社員各位[しゃいんかくい]\n\n人事部[じんじぶ]よりお知[し]らせいたします。来月[らいげつ]より、当社[とうしゃ]の福利厚生制度[ふくりこうせいせいど]が一部変更[いちぶへんこう]されます。これまで年間[ねんかん]5日間[いつかかん]だった有給[ゆうきゅう]のボランティア休暇[きゅうか]が、10日間[とおかかん]に拡充[かくじゅう]されます。また、新[あら]たにリモートワーク手当[てあて]として月額[げつがく]5,000円[えん]が支給[しきゅう]されることになりました。なお、従来[じゅうらい]の通勤手当[つうきんてあて]については、リモートワークを主[しゅ]とする社員[しゃいん]は実費精算[じっぴせいさん]に変更[へんこう]となります。詳細[しょうさい]は社内[しゃない]ポータルをご確認[かくにん]ください。\n\n人事部[じんじぶ]　山田[やまだ]\n\n質問[しつもん]：このメールによると、新[あたら]しく導入[どうにゅう]される制度[せいど]は何[なに]か。",
+    "romaji": "(Dokkai) Tsugi no meeru wo yonde, shitsumon ni kotaete kudasai.\n\nShain kakui\n\nJinjibu yori oshirase itashimasu. Raigetsu yori, tousha no fukuri kousei seido ga ichibu henkou saremasu. Kore made nenkan itsuka-kan datta yuukyuu no borantia kyuuka ga, tooka-kan ni kakujuu saremasu. Mata, arata ni rimooto waaku teate toshite getsugaku go-sen en ga shikyuu sareru koto ni narimashita. Nao, juurai no tsuukin teate ni tsuite wa, rimooto waaku wo shu to suru shain wa jippi seisan ni henkou to narimasu. Shousai wa shanai pootaru wo go-kakunin kudasai.\n\nJinjibu Yamada\n\nShitsumon: Kono meeru ni yoru to, atarashiku dounyuu sareru seido wa nani ka.",
+    "level": "N2",
+    "category": "READING",
+    "options": [
+      "通勤手当の廃止",
+      "ボランティア休暇の廃止",
+      "リモートワーク手当の支給",
+      "有給休暇の削減"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "(Reading) Read the following email and answer the question.\n\nTo all employees,\n\nThis is a notification from the HR Department. Starting next month, part of the company's benefits system will change. Paid volunteer leave, which was previously 5 days per year, will be expanded to 10 days. Additionally, a remote work allowance of 5,000 yen per month will be newly provided. As for the existing commuting allowance, employees who primarily work remotely will switch to actual expense reimbursement. Please check the internal portal for more details.\n\nHR Department, Yamada\n\nQuestion: According to this email, what system is newly introduced?",
+    "answerExplanation": "The email mentions '新たにリモートワーク手当として月額5,000円が支給されることになりました', which means the remote work allowance of 5,000 yen per month is something newly introduced. Volunteer leave is expanded (not abolished), the commuting allowance is changed (not abolished), and there is no reduction in paid leave. The keyword '新たに' (arata ni = newly) indicates this is a new policy.",
+    "hint": "Look for the word '新たに' (newly) in the email to find the truly new policy.",
+    "difficultyScore": 6
+  },
+  {
+    "id": "question_n2_1_020",
+    "question": "（読解）次の文章を読んで、質問に答えてください。\n\n現代社会において、ボランティア活動の重要性がますます高まっている。ボランティアは単に困っている人を助けるだけでなく、参加者自身にも大きな成長をもたらすものである。異なる背景を持つ人々と協力することで、視野が広がり、コミュニケーション能力も向上する。しかし、日本では欧米に比べてボランティア参加率がまだ低いのが現状だ。筆者は、ボランティア活動の本当の価値は、社会を変える力ではなく、自分自身の価値観を見つめ直す機会にあると考えている。他者のために行動することで、自分が本当に大切にしたいものが見えてくるのである。\n\n質問：筆者が考えるボランティア活動の本当の価値は何か。",
+    "furigana": "（読解[どっかい]）次[つぎ]の文章[ぶんしょう]を読[よ]んで、質問[しつもん]に答[こた]えてください。\n\n現代社会[げんだいしゃかい]において、ボランティア活動[かつどう]の重要性[じゅうようせい]がますます高[たか]まっている。ボランティアは単[たん]に困[こま]っている人[ひと]を助[たす]けるだけでなく、参加者自身[さんかしゃじしん]にも大[おお]きな成長[せいちょう]をもたらすものである。異[こと]なる背景[はいけい]を持[も]つ人々[ひとびと]と協力[きょうりょく]することで、視野[しや]が広[ひろ]がり、コミュニケーション能力[のうりょく]も向上[こうじょう]する。しかし、日本[にほん]では欧米[おうべい]に比[くら]べてボランティア参加率[さんかりつ]がまだ低[ひく]いのが現状[げんじょう]だ。筆者[ひっしゃ]は、ボランティア活動[かつどう]の本当[ほんとう]の価値[かち]は、社会[しゃかい]を変[か]える力[ちから]ではなく、自分自身[じぶんじしん]の価値観[かちかん]を見[み]つめ直[なお]す機会[きかい]にあると考[かんが]えている。他者[たしゃ]のために行動[こうどう]することで、自分[じぶん]が本当[ほんとう]に大切[たいせつ]にしたいものが見[み]えてくるのである。\n\n質問[しつもん]：筆者[ひっしゃ]が考[かんが]えるボランティア活動[かつどう]の本当[ほんとう]の価値[かち]は何[なに]か。",
+    "romaji": "(Dokkai) Tsugi no bunshou wo yonde, shitsumon ni kotaete kudasai.\n\nGendai shakai ni oite, borantia katsudou no juuyousei ga masumasu takamatte iru. Borantia wa tan ni komatte iru hito wo tasukeru dake de naku, sankasha jishin ni mo ookina seichou wo motarasu mono de aru. Kotonaru haikei wo motsu hitobito to kyouryoku suru koto de, shiya ga hirogari, komyunikeeshon nouryoku mo koujou suru. Shikashi, Nihon dewa oubei ni kurabete borantia sanka-ritsu ga mada hikui no ga genjou da. Hissha wa, borantia katsudou no hontou no kachi wa, shakai wo kaeru chikara de wa naku, jibun jishin no kachikan wo mitsumeNaosu kikai ni aru to kangaete iru. Tasha no tame ni koudou suru koto de, jibun ga hontou ni taisetsu ni shitai mono ga miete kuru no de aru.\n\nShitsumon: Hissha ga kangaeru borantia katsudou no hontou no kachi wa nani ka.",
+    "level": "N2",
+    "category": "READING",
+    "options": [
+      "困っている人を直接助けること",
+      "コミュニケーション能力が向上すること",
+      "自分自身の価値観を見つめ直す機会になること",
+      "社会全体を大きく変える力があること"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "(Reading) Read the following passage and answer the question.\n\nIn modern society, the importance of volunteer activities is increasingly growing. Volunteering not only helps people in need, but also brings significant personal growth for the participants themselves. By cooperating with people from different backgrounds, one's perspective broadens and communication skills also improve. However, in Japan, volunteer participation rates are still low compared to Western countries. The author believes that the true value of volunteer activities is not the power to change society, but rather the opportunity to reflect on one's own values. By acting for others, we can see what we truly want to cherish.\n\nQuestion: According to the author, what is the true value of volunteer activities?",
+    "answerExplanation": "The author explicitly states that the true value of volunteer activities is '自分自身の価値観を見つめ直す機会' (the opportunity to reflect on one's own values). The author even emphasizes that the value is NOT in the power to change society ('社会を変える力ではなく'). The options about helping people and improving communication skills are mentioned in the text, but not as the 'true value' according to the author.",
+    "hint": "Look for the sentence starting with '筆者は' to find the author's opinion about the true value.",
+    "difficultyScore": 7
+  },
+  {
+    "id": "question_n2_1_021",
+    "question": "この問題___、専門家の意見を聞く必要がある。",
+    "furigana": "この問題[もんだい]___、専門家[せんもんか]の意見[いけん]を聞[き]く必要[ひつよう]がある。",
+    "romaji": "Kono mondai ___, senmonka no iken wo kiku hitsuyou ga aru.",
+    "level": "N2",
+    "category": "GRAMMAR",
+    "options": [
+      "に関して",
+      "にとって",
+      "について",
+      "に応じて"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Regarding this issue, it is necessary to listen to the opinions of experts.",
+    "answerExplanation": "'～に関して' (ni kanshite) means 'regarding' or 'concerning', used in formal contexts to indicate the topic being discussed. Unlike 'について' which is more general, 'に関して' is more formal and often used in official writing. 'にとって' means 'for (someone)', 'に応じて' means 'according to'.",
+    "hint": "A formal conjunction meaning 'regarding' or 'concerning' a topic.",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_1_022",
+    "question": "努力した___、結果は思わしくなかった。",
+    "furigana": "努力[どりょく]した___、結果[けっか]は思[おも]わしくなかった。",
+    "romaji": "Doryoku shita ___, kekka wa omowashiku nakatta.",
+    "level": "N2",
+    "category": "GRAMMAR",
+    "options": [
+      "にもかかわらず",
+      "に関して",
+      "において",
+      "にしたがって"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Despite having made efforts, the results were not satisfactory.",
+    "answerExplanation": "'～にもかかわらず' (nimo kakawarazu) means 'despite' or 'in spite of', indicating that the result is different from what was expected based on the preceding condition. This pattern is more formal than 'のに'. 'に関して' means 'regarding', 'において' means 'in/at', 'にしたがって' means 'in accordance with'.",
+    "hint": "A formal grammar pattern showing contrast between effort and unexpected results.",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_1_023",
+    "question": "地球温暖化の影響で、氷河は縮小し___。",
+    "furigana": "地球[ちきゅう]温暖化[おんだんか]の影響[えいきょう]で、氷河[ひょうが]は縮小[しゅくしょう]し___。",
+    "romaji": "Chikyuu ondanka no eikyou de, hyouga wa shukushou shi ___.",
+    "level": "N2",
+    "category": "GRAMMAR",
+    "options": [
+      "がちだ",
+      "つつある",
+      "っぽい",
+      "かねない"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Due to global warming, glaciers are gradually shrinking.",
+    "answerExplanation": "'～つつある' (tsutsu aru) means 'is in the process of' or 'gradually', indicating a change that is progressing slowly. It is suitable for describing natural phenomena changing gradually. 'がちだ' means 'tend to', 'っぽい' means 'seems like', 'かねない' means 'might possibly (negative)'.",
+    "hint": "A pattern describing a gradual change that is currently in progress.",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_1_024",
+    "question": "この研究は社会の___に大きく貢献するものと期待されている。",
+    "furigana": "この研究[けんきゅう]は社会[しゃかい]の___に大[おお]きく貢献[こうけん]するものと期待[きたい]されている。",
+    "romaji": "Kono kenkyuu wa shakai no ___ ni ookiku kouken suru mono to kitai sarete iru.",
+    "level": "N2",
+    "category": "VOCABULARY",
+    "options": [
+      "発展",
+      "反省",
+      "撤退",
+      "崩壊"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "This research is expected to contribute greatly to the ___ of society.",
+    "answerExplanation": "'発展' (hatten) means development or progress. In this context, the research is expected to contribute to the development of society. '反省' means self-reflection, '撤退' means retreat/withdrawal, '崩壊' means collapse — none of which fit the positive context of the sentence.",
+    "hint": "A word meaning progress or development in a positive direction.",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_1_025",
+    "question": "会議で様々な案を___した結果、最善の方法が見つかった。",
+    "furigana": "会議[かいぎ]で様々[さまざま]な案[あん]を___した結果[けっか]、最善[さいぜん]の方法[ほうほう]が見[み]つかった。",
+    "romaji": "Kaigi de samazama na an wo ___ shita kekka, saizen no houhou ga mitsukatta.",
+    "level": "N2",
+    "category": "VOCABULARY",
+    "options": [
+      "検討",
+      "中断",
+      "放棄",
+      "延期"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "As a result of ___ various proposals at the meeting, the best method was found.",
+    "answerExplanation": "'検討' (kentou) means examination or thorough consideration. in the context of a meeting, various plans were carefully considered, leading to finding the best method. '中断' means interruption, '放棄' means abandonment, '延期' means postponement.",
+    "hint": "A word meaning to examine or consider something thoroughly.",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_1_026",
+    "question": "両国間の関係___のために、首脳会談が行われた。",
+    "furigana": "両国間[りょうこくかん]の関係[かんけい]___のために、首脳[しゅのう]会談[かいだん]が行[おこな]われた。",
+    "romaji": "Ryoukokukan no kankei ___ no tame ni, shunou kaidan ga okonawareta.",
+    "level": "N2",
+    "category": "VOCABULARY",
+    "options": [
+      "悪化",
+      "改善",
+      "破綻",
+      "停止"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "A summit meeting was held in order to ___ the relationship between the two countries.",
+    "answerExplanation": "'改善' (kaizen) means improvement or enhancement. The summit meeting was held to improve relations between the two countries. '悪化' means deterioration, '破綻' means collapse, '停止' means stoppage — all negative and inconsistent with the purpose of holding a summit.",
+    "hint": "A word meaning to make something better than its previous condition.",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_1_027",
+    "question": "「環境保護」の正しい読み方はどれですか。",
+    "furigana": "「環境保護[かんきょうほご]」の正[ただ]しい読[よ]み方[かた]はどれですか。",
+    "romaji": "'Kankyou hogo' no tadashii yomikata wa dore desu ka.",
+    "level": "N2",
+    "category": "KANJI",
+    "options": [
+      "かんきょうほご",
+      "かんけいほご",
+      "かんきょうほしゅ",
+      "げんきょうほご"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Which is the correct reading of '環境保護'?",
+    "answerExplanation": "'環境保護' is read 'かんきょうほご' (kankyou hogo), meaning environmental protection. '環境' (kankyou) = environment, '保護' (hogo) = protection. Other options are incorrect: 'かんけい' is the reading for 関係 (relationship), 'ほしゅ' is the reading for 保守 (conservative), 'げんきょう' is the reading for 現況 (current situation).",
+    "hint": "A combination of two kanji words: environment + protection.",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_1_028",
+    "question": "「経済発展」の正しい読み方はどれですか。",
+    "furigana": "「経済発展[けいざいはってん]」の正[ただ]しい読[よ]み方[かた]はどれですか。",
+    "romaji": "'Keizai hatten' no tadashii yomikata wa dore desu ka.",
+    "level": "N2",
+    "category": "KANJI",
+    "options": [
+      "けいざいはつてん",
+      "けいざいはってん",
+      "けいさいはってん",
+      "きざいはってん"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Which is the correct reading of '経済発展'?",
+    "answerExplanation": "'経済発展' is read 'けいざいはってん' (keizai hatten), meaning economic development. Note that '発展' is read 'はってん' with a double consonant (促音), not 'はつてん'. '経済' is read 'けいざい', not 'けいさい' (which is the reading for 掲載 = publication) or 'きざい' (uncommon).",
+    "hint": "Pay attention to the double consonant (促音) in the second word.",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_1_029",
+    "question": "（読解）次の文章を読んで、質問に答えてください。\n\n近年、企業における働き方改革が急速に進んでいる。特に注目されているのは、フレックスタイム制度の導入である。この制度に関して、ある調査によると、導入企業の約70％が「従業員の満足度が向上した」と回答している。にもかかわらず、導入に慎重な企業も少なくない。その理由として、チーム間のコミュニケーション不足や、勤務時間の管理が難しくなることが挙げられている。専門家は、制度の成功には、明確なルール設定と定期的な見直しが不可欠だと指摘している。\n\n質問：フレックスタイム制度の導入に慎重な企業が懸念していることは何か。",
+    "furigana": "（読解[どっかい]）次[つぎ]の文章[ぶんしょう]を読[よ]んで、質問[しつもん]に答[こた]えてください。\n\n近年[きんねん]、企業[きぎょう]における働[はたら]き方[かた]改革[かいかく]が急速[きゅうそく]に進[すす]んでいる。特[とく]に注目[ちゅうもく]されているのは、フレックスタイム制度[せいど]の導入[どうにゅう]である。この制度[せいど]に関[かん]して、ある調査[ちょうさ]によると、導入[どうにゅう]企業[きぎょう]の約[やく]70％が「従業員[じゅうぎょういん]の満足度[まんぞくど]が向上[こうじょう]した」と回答[かいとう]している。にもかかわらず、導入[どうにゅう]に慎重[しんちょう]な企業[きぎょう]も少[すく]なくない。その理由[りゆう]として、チーム間[かん]のコミュニケーション不足[ぶそく]や、勤務[きんむ]時間[じかん]の管理[かんり]が難[むずか]しくなることが挙[あ]げられている。専門家[せんもんか]は、制度[せいど]の成功[せいこう]には、明確[めいかく]なルール設定[せってい]と定期的[ていきてき]な見直[みなお]しが不可欠[ふかけつ]だと指摘[してき]している。\n\n質問[しつもん]：フレックスタイム制度[せいど]の導入[どうにゅう]に慎重[しんちょう]な企業[きぎょう]が懸念[けねん]していることは何[なに]か。",
+    "romaji": "(Dokkai) Tsugi no bunshou wo yonde, shitsumon ni kotaete kudasai.\n\nKinnen, kigyou ni okeru hatarakikata kaikaku ga kyuusoku ni susunde iru. Toku ni chuumoku sarete iru no wa, furekkusu taimu seido no dounyuu de aru. Kono seido ni kanshite, aru chousa ni yoru to, dounyuu kigyou no yaku 70% ga 'juugyouin no manzokudo ga koujou shita' to kaitou shite iru. Nimo kakawarazu, dounyuu ni shinchou na kigyou mo sukunaku nai. Sono riyuu to shite, chiimu kan no komyunikeeshon busoku ya, kinmu jikan no kanri ga muzukashiku naru koto ga agerarete iru. Senmonka wa, seido no seikou ni wa, meikaku na ruuru settei to teikiteki na minaoshi ga fukaketsu da to shiteki shite iru.\n\nShitsumon: Furekkusu taimu seido no dounyuu ni shinchou na kigyou ga kenen shite iru koto wa nani ka.",
+    "level": "N2",
+    "category": "READING",
+    "options": [
+      "従業員の満足度が低下すること",
+      "コミュニケーション不足と勤務時間管理の困難さ",
+      "導入コストが高すぎること",
+      "従業員の離職率が上がること"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "(Reading) Read the following passage and answer the question.\n\nIn recent years, work style reform in companies has been progressing rapidly. Pmeaningcularly noteworthy is the introduction of flextime systems. Regarding this system, according to a survey, about 70% of companies that adopted it responded that 'employee satisfaction improved'. Despite this, many companies remain cautious about adoption. The reasons cited include lack of inter-team communication and difficulty in managing work hours. Experts point out that clear rule-setting and regular reviews are essential for the success of the system.\n\nQuestion: What are the concerns of companies cautious about introducing flextime?",
+    "answerExplanation": "The text mentions two reasons companies are cautious: 'lack of inter-team communication' and 'difficulty in managing work hours'. The option about declining employee satisfaction contradicts the 70% survey data. Introduction costs and turnover rates are not mentioned in the text.",
+    "hint": "Look for the sentence after 'その理由として' to find the concerns mentioned.",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_1_030",
+    "question": "（読解）次のお知らせを読んで、質問に答えてください。\n\n市民の皆様へ\n\n来月より、市立図書館の利用規則が一部変更されます。これまで貸出期間は2週間でしたが、新制度では3週間に延長されます。ただし、新刊書籍に関しては、多くの方にご利用いただくため、従来通り2週間とします。また、予約制度に関して、これまで一度に5冊まで予約可能でしたが、3冊に変更されます。にもかかわらず、貸出冊数の上限は10冊のまま変更ありません。なお、延滞料金については、1日あたり10円から20円に引き上げられますのでご注意ください。\n\n質問：新しい規則で変更されないものはどれですか。",
+    "furigana": "（読解[どっかい]）次[つぎ]のお知[し]らせを読[よ]んで、質問[しつもん]に答[こた]えてください。\n\n市民[しみん]の皆様[みなさま]へ\n\n来月[らいげつ]より、市立[しりつ]図書館[としょかん]の利用[りよう]規則[きそく]が一部[いちぶ]変更[へんこう]されます。これまで貸出[かしだし]期間[きかん]は2週間[しゅうかん]でしたが、新[しん]制度[せいど]では3週間[しゅうかん]に延長[えんちょう]されます。ただし、新刊[しんかん]書籍[しょせき]に関[かん]しては、多[おお]くの方[かた]にご利用[りよう]いただくため、従来[じゅうらい]通[どお]り2週間[しゅうかん]とします。また、予約[よやく]制度[せいど]に関[かん]して、これまで一度[いちど]に5冊[さつ]まで予約[よやく]可能[かのう]でしたが、3冊[さつ]に変更[へんこう]されます。にもかかわらず、貸出[かしだし]冊数[さっすう]の上限[じょうげん]は10冊[さつ]のまま変更[へんこう]ありません。なお、延滞[えんたい]料金[りょうきん]については、1日[にち]あたり10円[えん]から20円[えん]に引[ひ]き上[あ]げられますのでご注意[ちゅうい]ください。\n\n質問[しつもん]：新[あたら]しい規則[きそく]で変更[へんこう]されないものはどれですか。",
+    "romaji": "(Dokkai) Tsugi no oshirase wo yonde, shitsumon ni kotaete kudasai.\n\nShimin no minasama e\n\nRaigetsu yori, shiritsu toshokan no riyou kisoku ga ichibu henkou saremasu. Kore made kashidashi kikan wa 2 shuukan deshita ga, shin seido dewa 3 shuukan ni enchou saremasu. Tadashi, shinkan shoseki ni kanshite wa, ooku no kata ni goriyou itadaku tame, juurai doori 2 shuukan to shimasu. Mata, yoyaku seido ni kanshite, kore made ichido ni 5 satsu made yoyaku kanou deshita ga, 3 satsu ni henkou saremasu. Nimo kakawarazu, kashidashi sassuu no jougen wa 10 satsu no mama henkou arimasen. Nao, entai ryoukin ni tsuite wa, 1 nichi atari 10 en kara 20 en ni hikiageraremasu node gochuui kudasai.\n\nShitsumon: Atarashii kisoku de henkou sarenai mono wa dore desu ka.",
+    "level": "N2",
+    "category": "READING",
+    "options": [
+      "一般書籍の貸出期間",
+      "予約可能冊数",
+      "貸出冊数の上限",
+      "延滞料金"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "(Reading) Read the following notice and answer the question.\n\nTo all citizens,\n\nStmeaningng next month, some of the municipal library's usage rules will be changed. The lending period, which was previously 2 weeks, will be extended to 3 weeks. However, for newly published books, to allow more people to use them, it will remain 2 weeks as before. Also, regarding the reservation system, which previously allowed up to 5 books at once, it will be changed to 3 books. Despite this, the maximum number of books that can be borrowed remains unchanged at 10. Please note that the late fee will be raised from 10 yen to 20 yen per day.\n\nQuestion: What remains unchanged under the new rules?",
+    "answerExplanation": "The text explicitly states 'the maximum number of books that can be borrowed remains unchanged at 10'. The general lending period changes from 2 to 3 weeks, the reservation limit changes from 5 to 3 books, and the late fee increases from 10 to 20 yen.",
+    "hint": "Look for a sentence containing '変更ありません' (no change).",
+    "difficultyScore": 4
+  }
+]

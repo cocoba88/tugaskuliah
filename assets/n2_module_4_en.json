@@ -1,0 +1,572 @@
+[
+  {
+    "id": "question_n2_4_001",
+    "question": "長期間の残業は社員の健康に様々な＿＿＿をもたらす。",
+    "furigana": "長期間[ちょうきかん]の残業[ざんぎょう]は社員[しゃいん]の健康[けんこう]に様々[さまざま]な＿＿＿をもたらす。",
+    "romaji": "Choukikan no zangyou wa shain no kenkou ni samazama na ___ wo motarasu.",
+    "level": "N2",
+    "category": "VOCABULARY",
+    "options": [
+      "弊害",
+      "障害",
+      "被害",
+      "損害"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Long-term overtime causes various ___ to employees' health.",
+    "answerExplanation": "「弊害」(へいがい/heigai) means harmful effect or negative consequence that arises from a system or practice. Unlike '障害' (obstacle/disturbance), '被害' (damage from disasters/crime), and '損害' (financial loss), '弊害' specifically refers to negative effects that emerge from an ongoing structure or practice. Example: 過度な競争の弊害 (harmful effects of excessive competition).",
+    "hint": "Negative effects from a system or ongoing practice",
+    "difficultyScore": 6
+  },
+  {
+    "id": "question_n2_4_002",
+    "question": "「融通」の意味は？",
+    "furigana": "「融通[ゆうずう]」の意味[いみ]は？",
+    "romaji": "'Yuuzuu' no imi wa?",
+    "level": "N2",
+    "category": "VOCABULARY",
+    "options": [
+      "Firmness",
+      "Violence",
+      "Flexibility",
+      "Indifference"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "What is the meaning of '融通'?",
+    "answerExplanation": "'融通' (yuuzuu) means flexibility or the ability to adapt. In daily conversation, it is often used in the form '融通が利く' (yuuzuu ga kiku) meaning 'flexible' or '融通が利かない' meaning 'rigid/inflexible'.",
+    "hint": "The ability to adapt oneself to a situation",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_4_003",
+    "question": "「概要」の意味は？",
+    "furigana": "「概要[がいよう]」の意味[いみ]は？",
+    "romaji": "'Gaiyou' no imi wa?",
+    "level": "N2",
+    "category": "VOCABULARY",
+    "options": [
+      "Complete details",
+      "Sharp criticism",
+      "Summary",
+      "Final conclusion"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "What is the meaning of '概要'?",
+    "answerExplanation": "'概要' (gaiyou) means summary or overview. This word is often used in business and academic contexts to describe the outline of a topic or document. It is composed of kanji '概' (general/approximate) and '要' (important/essential).",
+    "hint": "The outline of something, not the full details",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_4_004",
+    "question": "「依存」の意味は？",
+    "furigana": "「依存[いぞん]」の意味[いみ]は？",
+    "romaji": "'Izon' no imi wa?",
+    "level": "N2",
+    "category": "VOCABULARY",
+    "options": [
+      "Independence",
+      "Dependence",
+      "Freedom",
+      "Balance"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "What is the meaning of '依存'?",
+    "answerExplanation": "'依存' (izon) means dependence. It is often used in phrases such as 'スマホ依存' (smartphone dependence) or 'アルコール依存' (alcohol dependence). Kanji '依' means to rely on and '存' means to exist.",
+    "hint": "A condition where someone cannot break free from something",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_4_005",
+    "question": "「概況」の読み方は？",
+    "furigana": "「概況[がいきょう]」の読[よ]み方[かた]は？",
+    "romaji": "'Gaikyou' no yomikata wa?",
+    "level": "N2",
+    "category": "KANJI",
+    "options": [
+      "がいきょう",
+      "がいじょう",
+      "かいきょう",
+      "かいじょう"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "How do you read '概況'?",
+    "answerExplanation": "「概況」is read 'がいきょう' (gaikyou) which means a general overview of a situation or conditions in broad terms. Kanji '概' (がい) means general/broad and '況' (きょう) means conditions/situation. Example: '経済の概況を報告する' (to report on the general economic situation). This word is often used in business reports and news.",
+    "hint": "Gai + kyou",
+    "difficultyScore": 6
+  },
+  {
+    "id": "question_n2_4_006",
+    "question": "「誇張」の読み方は？",
+    "furigana": "「誇張[こちょう]」の読[よ]み方[かた]は？",
+    "romaji": "'Kochou' no yomikata wa?",
+    "level": "N2",
+    "category": "KANJI",
+    "options": [
+      "ごちょう",
+      "こちょう",
+      "きちょう",
+      "かちょう"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "How do you read '誇張'?",
+    "answerExplanation": "'誇張' is read 'こちょう' (kochou) which means exaggeration or hyperbole. '誇' (ko) means pride/to boast and '張' (chou) means to stretch. This word is used to describe something that is blown out of proportion.",
+    "hint": "Ko + Chou",
+    "difficultyScore": 6
+  },
+  {
+    "id": "question_n2_4_007",
+    "question": "「恩恵」の読み方は？",
+    "furigana": "「恩恵[おんけい]」の読[よ]み方[かた]は？",
+    "romaji": "'Onkei' no yomikata wa?",
+    "level": "N2",
+    "category": "KANJI",
+    "options": [
+      "おんけい",
+      "おんえ",
+      "えんけい",
+      "おんめぐみ"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "How do you read '恩恵'?",
+    "answerExplanation": "'恩恵' is read 'おんけい' (onkei) which means grace, blessing, or benefit. '恩' (on) means kindness/favor and '恵' (kei) means blessing/grace. Example: '自然の恩恵' (blessings of nature).",
+    "hint": "On + Kei",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_4_008",
+    "question": "「契機」の読み方は？",
+    "furigana": "「契機[けいき]」の読[よ]み方[かた]は？",
+    "romaji": "'Keiki' no yomikata wa?",
+    "level": "N2",
+    "category": "KANJI",
+    "options": [
+      "ちぎき",
+      "せいき",
+      "けいき",
+      "けっき"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "How do you read '契機'?",
+    "answerExplanation": "'契機' is read 'けいき' (keiki) which means opportunity or turning point. It is often used in the form '〜を契機に' meaning 'taking the opportunity of~'. Do not confuse with '景気' (keiki) which means economic conditions.",
+    "hint": "Kei + Ki",
+    "difficultyScore": 6
+  },
+  {
+    "id": "question_n2_4_009",
+    "question": "「遵守」の読み方は？",
+    "furigana": "「遵守[じゅんしゅ]」の読[よ]み方[かた]は？",
+    "romaji": "'Junshu' no yomikata wa?",
+    "level": "N2",
+    "category": "KANJI",
+    "options": [
+      "そんしゅ",
+      "じゅんしゅ",
+      "しゅんす",
+      "じゅんす"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "How do you read '遵守'?",
+    "answerExplanation": "'遵守' is read 'じゅんしゅ' (junshu) which means compliance or to obey/follow. This word is often used in the context of laws and regulations, for example '法律を遵守する' (to comply with the law) or 'ルールを遵守する' (to follow the rules).",
+    "hint": "Jun + Shu",
+    "difficultyScore": 7
+  },
+  {
+    "id": "question_n2_4_010",
+    "question": "「普及」の読み方は？",
+    "furigana": "「普及[ふきゅう]」の読[よ]み方[かた]は？",
+    "romaji": "'Fukyuu' no yomikata wa?",
+    "level": "N2",
+    "category": "KANJI",
+    "options": [
+      "ふきゅう",
+      "ふぎゅう",
+      "ほきゅう",
+      "ぶきゅう"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "How do you read '普及'?",
+    "answerExplanation": "「普及」is read 'ふきゅう' (fukyuu) which means spread, diffusion, or popularization. Example: 'スマートフォンの普及' (the spread of smartphones), 'インターネットが普及する' (the internet spreads widely). Kanji '普' (ふ) means general/wide and '及' (きゅう) means to reach/extend. Do not confuse with '補給' (ほきゅう/hokyuu) which means supply/replenishment.",
+    "hint": "Fu + kyuu = to spread widely throughout society",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_4_011",
+    "question": "天候___、イベントは開催されます。",
+    "furigana": "天候[てんこう]___、イベントは開催[かいさい]されます。",
+    "romaji": "Tenkou ___, ibento wa kaisai saremasu.",
+    "level": "N2",
+    "category": "GRAMMAR",
+    "options": [
+      "にかかわらず",
+      "にもとづいて",
+      "にしたがって",
+      "につれて"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Regardless of the weather, the event will still be held.",
+    "answerExplanation": "'〜にかかわらず' means 'regardless of~' or 'irrespective of~'. This pattern is used to express that something happens without being affected by the stated condition. Other examples: '年齢にかかわらず' (regardless of age).",
+    "hint": "A pattern that expresses 'no matter what the conditions are'",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_4_012",
+    "question": "散々迷った___、結局何も買わなかった。",
+    "furigana": "散々[さんざん]迷[まよ]った___、結局[けっきょく]何[なに]も買[か]わなかった。",
+    "romaji": "Sanzan mayotta ___, kekkyoku nani mo kawanakatta.",
+    "level": "N2",
+    "category": "GRAMMAR",
+    "options": [
+      "ついでに",
+      "あげく",
+      "ばかりに",
+      "くせに"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "After being indecisive for so long, I ended up not buying anything.",
+    "answerExplanation": "'〜あげく' (ageku) means 'in the end' or 'after all that~'. This pattern is used when the final result is usually negative or unexpected after a long process. Form: past tense verb + あげく.",
+    "hint": "A pattern showing the final result (usually negative) after a long effort or process",
+    "difficultyScore": 6
+  },
+  {
+    "id": "question_n2_4_013",
+    "question": "あんなに勉強して、落ちる___。",
+    "furigana": "あんなに勉強[べんきょう]して、落[お]ちる___。",
+    "romaji": "Anna ni benkyou shite, ochiru ___.",
+    "level": "N2",
+    "category": "GRAMMAR",
+    "options": [
+      "ものだ",
+      "ことだ",
+      "わけがない",
+      "はずだ"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Having studied that much, there is no way I would fail.",
+    "answerExplanation": "'〜わけがない' means 'there is no way~' or 'it is impossible that~'. This pattern is used to strongly deny a possibility based on logical reasoning. Unlike 'はずがない' which is more based on expectation, 'わけがない' places more emphasis on reason/logic.",
+    "hint": "A pattern that expresses impossibility based on logic",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_4_014",
+    "question": "予想___、売り上げが大幅に伸びた。",
+    "furigana": "予想[よそう]___、売[う]り上[あ]げが大幅[おおはば]に伸[の]びた。",
+    "romaji": "Yosou ___, uriage ga oohaba ni nobita.",
+    "level": "N2",
+    "category": "GRAMMAR",
+    "options": [
+      "に関して",
+      "に対して",
+      "に反して",
+      "について"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Contrary to expectations, sales increased significantly.",
+    "answerExplanation": "'〜に反して' (ni hanshite) means 'contrary to~' or 'against~'. This pattern is used when the actual result is different from or opposite to what was expected or predicted. Other examples: '期待に反して' (contrary to expectations).",
+    "hint": "A pattern that expresses something happening in the opposite way from what was expected",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_4_015",
+    "question": "実話___、この映画が作られた。",
+    "furigana": "実話[じつわ]___、この映画[えいが]が作[つく]られた。",
+    "romaji": "Jitsuwa ___, kono eiga ga tsukurareta.",
+    "level": "N2",
+    "category": "GRAMMAR",
+    "options": [
+      "をこめて",
+      "をもとに",
+      "をめぐって",
+      "をかねて"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Based on a true story, this film was made.",
+    "answerExplanation": "'〜をもとに' means 'based on~' or 'with ~ as the basis'. This pattern is used to express that something was made or done with reference to a certain source. Similar to '〜に基づいて' (ni motozuite), but 'をもとに' is more often used for creative works.",
+    "hint": "A pattern that expresses the source or basis of something",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_4_016",
+    "question": "経験___、給料が決まる。",
+    "furigana": "経験[けいけん]___、給料[きゅうりょう]が決[き]まる。",
+    "romaji": "Keiken ___, kyuuryou ga kimaru.",
+    "level": "N2",
+    "category": "GRAMMAR",
+    "options": [
+      "に応じて",
+      "に際して",
+      "に先立って",
+      "にわたって"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Salary is determined in accordance with experience.",
+    "answerExplanation": "'〜に応じて' (ni oujite) means 'in accordance with~' or 'depending on~'. This pattern is used to express that something changes or is adjusted based on a certain factor. Other examples: '能力に応じて' (in accordance with ability), '状況に応じて' (in accordance with the situation).",
+    "hint": "A pattern that expresses adjustment based on a certain factor",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_4_017",
+    "question": "引き受けた___、最後までやり遂げるべきだ。",
+    "furigana": "引[ひ]き受[う]けた___、最後[さいご]までやり遂[と]げるべきだ。",
+    "romaji": "Hikiuketa ___, saigo made yaritogeru beki da.",
+    "level": "N2",
+    "category": "GRAMMAR",
+    "options": [
+      "以上",
+      "上で",
+      "次第",
+      "限り"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Since you have already accepted that responsibility, you should see it through to the end.",
+    "answerExplanation": "'〜以上' (ijou) in a grammatical context means 'since~/now that~'. This pattern is used to express that because a decision or situation has already occurred, there are consequences or responsibilities that must be taken. It is usually followed by a sentence expressing obligation or determination.",
+    "hint": "A formal pattern that expresses 'since it has already come to this...'",
+    "difficultyScore": 6
+  },
+  {
+    "id": "question_n2_4_018",
+    "question": "次の社内メモを読んで、質問に答えてください。\n\n【社内メモ】\n件名：リモートワーク新規定について\n\n4月1日より、以下の新しいリモートワーク規定を実施いたします。\n\n1. リモートワークは週3日まで可能です。\n2. リモートワーク中は、必ず会社支給のパソコンを使用してください。\n3. 勤務時間中はチャットツールで連絡が取れる状態にしてください。\n4. 機密情報を扱う業務は、必ずオフィスで行ってください。\n5. カフェなど公共の場所での業務は禁止です。\n\nなお、チーム会議がある日は原則出社をお願いします。\n\nこの規定で許可されていないことはどれですか？",
+    "furigana": "次[つぎ]の社内[しゃない]メモを読[よ]んで、質問[しつもん]に答[こた]えてください。\n\n【社内[しゃない]メモ】\n件名[けんめい]：リモートワーク新[しん]規定[きてい]について\n\n4月[がつ]1日[にち]より、以下[いか]の新[あたら]しいリモートワーク規定[きてい]を実施[じっし]いたします。\n\n1. リモートワークは週[しゅう]3日[にち]まで可能[かのう]です。\n2. リモートワーク中[ちゅう]は、必[かなら]ず会社[かいしゃ]支給[しきゅう]のパソコンを使用[しよう]してください。\n3. 勤務[きんむ]時間中[じかんちゅう]はチャットツールで連絡[れんらく]が取[と]れる状態[じょうたい]にしてください。\n4. 機密[きみつ]情報[じょうほう]を扱[あつか]う業務[ぎょうむ]は、必[かなら]ずオフィスで行[おこな]ってください。\n5. カフェなど公共[こうきょう]の場所[ばしょ]での業務[ぎょうむ]は禁止[きんし]です。\n\nなお、チーム会議[かいぎ]がある日[ひ]は原則[げんそく]出社[しゅっしゃ]をお願[ねが]いします。\n\nこの規定[きてい]で許可[きょか]されていないことはどれですか？",
+    "romaji": "Tsugi no shanai memo wo yonde, shitsumon ni kotaete kudasai. [...] Kono kitei de kyoka sarete inai koto wa dore desu ka?",
+    "level": "N2",
+    "category": "READING",
+    "options": [
+      "週に2日リモートワークをすること",
+      "自分のパソコンでリモートワークをすること",
+      "チャットツールで連絡を取ること",
+      "オフィスで機密情報を扱うこと"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Read the following internal memo and answer the question.\n\n[Internal Memo]\nSubject: Regarding New Remote Work Rules\n\nStarting April 1, the following remote work rules will be enforced:\n1. Remote work is permitted up to 3 days per week.\n2. During remote work, you must use a company-provided computer.\n3. During working hours, you must be reachable via the chat tool.\n4. Work involving confidential information must be done at the office.\n5. Working in public places such as cafes is prohibited.\n\nAdditionally, on days with team meetings, you are in principle expected to come to the office.\n\nWhat is NOT allowed under these rules?",
+    "answerExplanation": "According to rule point 2, during remote work, employees MUST use a computer provided by the company (会社支給のパソコン). This means using a personal computer for remote work is NOT allowed. All other options are either permitted or required by the rules.",
+    "hint": "Pay attention to the rule about equipment that may be used when working from home",
+    "difficultyScore": 5
+  },
+  {
+    "id": "question_n2_4_019",
+    "question": "次の記事を読んで、質問に答えてください。\n\nキャッシュレス社会が急速に広がっている。クレジットカードやスマートフォン決済の普及により、現金を使わない生活が当たり前になりつつある。政府もキャッシュレス化を推進しており、多くの店舗がキャッシュレス決済に対応するようになった。\n\nしかし、課題も多い。特に高齢者の中には、新しい技術に慣れていない人が多く、キャッシュレス決済を使いこなせないケースがある。また、災害時に停電が起きた場合、電子決済が一切使えなくなるというリスクも指摘されている。さらに、個人情報の流出やセキュリティの問題も懸念されている。\n\nこの記事で述べられている主な課題はどれですか？",
+    "furigana": "次[つぎ]の記事[きじ]を読[よ]んで、質問[しつもん]に答[こた]えてください。\n\nキャッシュレス社会[しゃかい]が急速[きゅうそく]に広[ひろ]がっている。クレジットカードやスマートフォン決済[けっさい]の普及[ふきゅう]により、現金[げんきん]を使[つか]わない生活[せいかつ]が当[あ]たり前[まえ]になりつつある。政府[せいふ]もキャッシュレス化[か]を推進[すいしん]しており、多[おお]くの店舗[てんぽ]がキャッシュレス決済[けっさい]に対応[たいおう]するようになった。\n\nしかし、課題[かだい]も多[おお]い。特[とく]に高齢者[こうれいしゃ]の中[なか]には、新[あたら]しい技術[ぎじゅつ]に慣[な]れていない人[ひと]が多[おお]く、キャッシュレス決済[けっさい]を使[つか]いこなせないケースがある。また、災害[さいがい]時[じ]に停電[ていでん]が起[お]きた場合[ばあい]、電子[でんし]決済[けっさい]が一切[いっさい]使[つか]えなくなるというリスクも指摘[してき]されている。さらに、個人[こじん]情報[じょうほう]の流出[りゅうしゅつ]やセキュリティの問題[もんだい]も懸念[けねん]されている。\n\nこの記事[きじ]で述[の]べられている主[おも]な課題[かだい]はどれですか？",
+    "romaji": "Tsugi no kiji wo yonde, shitsumon ni kotaete kudasai. [...] Kono kiji de noberarete iru omo na kadai wa dore desu ka?",
+    "level": "N2",
+    "category": "READING",
+    "options": [
+      "キャッシュレス決済の手数料が高いこと",
+      "高齢者が新技術に対応できないこと",
+      "現金の製造コストが増加していること",
+      "店舗がキャッシュレスに対応しないこと"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Read the following article and answer the question.\n\nThe cashless society is expanding rapidly. With the spread of credit card and smartphone payments, living without cash is becoming commonplace. The government is also promoting cashless transactions, and many stores have started accepting cashless payments.\n\nHowever, there are many challenges. In particular, among the elderly, many are not accustomed to new technology and cannot use cashless payments effectively. Additionally, there is a risk that during disasters when power outages occur, electronic payments become completely unusable. Furthermore, personal information leaks and security issues are also a concern.\n\nWhat is the main challenge mentioned in this article?",
+    "answerExplanation": "This article mentions three main challenges of a cashless society: (1) elderly people who have difficulty using new technology, (2) risks during disasters/power outages, and (3) data security. The challenge that is mentioned first and most emphasized (with the word '特に'/in particular) is the issue of elderly people who are not accustomed to new technology. The other options are not mentioned in the article.",
+    "hint": "Pay attention to the word '特に' (in particular) that indicates emphasis on a certain challenge",
+    "difficultyScore": 6
+  },
+  {
+    "id": "question_n2_4_020",
+    "question": "次の文章を読んで、質問に答えてください。\n\n都市化が進む中で、伝統的な地域社会は大きな変化を経験している。若者が仕事を求めて都市に移住することで、地方では人口減少と高齢化が急速に進んでいる。かつては祭りや農作業を通じて強い絆で結ばれていたコミュニティも、人手不足により伝統行事の維持が困難になっている。\n\n一方で、近年ではテレワークの普及やUターン・Iターンの増加により、地方に新たな活力が生まれ始めている例もある。デジタル技術を活用して伝統文化を発信する取り組みも注目されている。ただし、こうした動きはまだ限定的であり、伝統的なコミュニティの本質的な再生には、経済的な基盤整備と文化的価値の再認識の両方が不可欠であると専門家は指摘している。\n\n筆者の結論として最も適切なものはどれですか？",
+    "furigana": "次[つぎ]の文章[ぶんしょう]を読[よ]んで、質問[しつもん]に答[こた]えてください。\n\n都市化[としか]が進[すす]む中[なか]で、伝統的[でんとうてき]な地域[ちいき]社会[しゃかい]は大[おお]きな変化[へんか]を経験[けいけん]している。若者[わかもの]が仕事[しごと]を求[もと]めて都市[とし]に移住[いじゅう]することで、地方[ちほう]では人口[じんこう]減少[げんしょう]と高齢化[こうれいか]が急速[きゅうそく]に進[すす]んでいる。かつては祭[まつ]りや農作業[のうさぎょう]を通[つう]じて強[つよ]い絆[きずな]で結[むす]ばれていたコミュニティも、人手[ひとで]不足[ぶそく]により伝統[でんとう]行事[ぎょうじ]の維持[いじ]が困難[こんなん]になっている。\n\n一方[いっぽう]で、近年[きんねん]ではテレワークの普及[ふきゅう]やUターン・Iターンの増加[ぞうか]により、地方[ちほう]に新[あら]たな活力[かつりょく]が生[う]まれ始[はじ]めている例[れい]もある。デジタル技術[ぎじゅつ]を活用[かつよう]して伝統[でんとう]文化[ぶんか]を発信[はっしん]する取[と]り組[く]みも注目[ちゅうもく]されている。ただし、こうした動[うご]きはまだ限定的[げんていてき]であり、伝統的[でんとうてき]なコミュニティの本質的[ほんしつてき]な再生[さいせい]には、経済的[けいざいてき]な基盤[きばん]整備[せいび]と文化的[ぶんかてき]価値[かち]の再[さい]認識[にんしき]の両方[りょうほう]が不可欠[ふかけつ]であると専門家[せんもんか]は指摘[してき]している。\n\n筆者[ひっしゃ]の結論[けつろん]として最[もっと]も適切[てきせつ]なものはどれですか？",
+    "romaji": "Tsugi no bunshou wo yonde, shitsumon ni kotaete kudasai. [...] Hissha no ketsuron toshite mottomo tekisetsu na mono wa dore desu ka?",
+    "level": "N2",
+    "category": "READING",
+    "options": [
+      "都市化は完全に止めるべきである",
+      "デジタル技術だけで伝統文化を守れる",
+      "伝統的コミュニティの再生には経済基盤と文化的価値の再認識の両方が必要である",
+      "地方の問題はテレワークの普及で完全に解決できる"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Read the following passage and answer the question.\n\nAmid ongoing urbanization, traditional local communities are experiencing significant changes. As young people move to cities seeking employment, population decline and aging are progressing rapidly in rural areas. Communities that were once tightly bound through festivals and farming activities are now having difficulty maintaining traditional practices due to labor shortages.\n\nOn the other hand, in recent years there are examples of new vitality emerging in rural areas through the spread of telework and an increase in U-turn/I-turn migration. Efforts to promote traditional culture using digital technology are also gaining attention. However, these movements are still limited, and experts point out that for a genuine revival of traditional communities, both the development of an economic foundation and the reappreciation of cultural values are essential.\n\nWhich is the most appropriate conclusion of the author?",
+    "answerExplanation": "The author's conclusion is stated in the final sentence: the revival of traditional communities requires TWO things simultaneously -- the development of an economic foundation (経済的な基盤整備) AND the reappreciation of cultural values (文化的価値の再認識). The author emphasizes that both aspects are '不可欠' (absolutely essential). The other options are either too extreme or only cover part of the author's argument.",
+    "hint": "Pay attention to the final sentence that uses the word '両方が不可欠' (both are absolutely essential)",
+    "difficultyScore": 7
+  },
+  {
+    "id": "question_n2_4_021",
+    "question": "証拠がある以上、彼の無実を認め___。",
+    "furigana": "証拠[しょうこ]がある以上[いじょう]、彼[かれ]の無実[むじつ]を認[みと]め___。",
+    "romaji": "Shouko ga aru ijou, kare no mujitsu wo mitome ___.",
+    "level": "N2",
+    "category": "GRAMMAR",
+    "options": [
+      "ざるを得ない",
+      "っぽい",
+      "がちだ",
+      "かねない"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Since there is evidence, we have no choice but to acknowledge his innocence.",
+    "answerExplanation": "'〜ざるを得ない' (~zaru wo enai) means 'cannot help but~' or 'have no choice but to~'. It expresses that one must do something despite not wanting to due to circumstances. Form: verb nai-stem + ざるを得ない. Exception: する → せざるを得ない.",
+    "hint": "A pattern expressing being forced to do something due to circumstances",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_4_022",
+    "question": "技術の発展___、新たな問題も生じてきた。",
+    "furigana": "技術[ぎじゅつ]の発展[はってん]___、新[あら]たな問題[もんだい]も生[しょう]じてきた。",
+    "romaji": "Gijutsu no hatten ___, arata na mondai mo shoujite kita.",
+    "level": "N2",
+    "category": "GRAMMAR",
+    "options": [
+      "に関して",
+      "に伴って",
+      "にかけて",
+      "に加えて"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Along with the development of technology, new problems have also emerged.",
+    "answerExplanation": "'〜に伴って' (~ni tomonatte) means 'along with~' or 'accompanying~'. It expresses that when one thing changes, another thing also changes simultaneously. Form: noun + に伴って / dictionary form verb + に伴って.",
+    "hint": "Two things changing simultaneously",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_4_023",
+    "question": "長時間の議論の___、ようやく合意に達した。",
+    "furigana": "長時間[ちょうじかん]の議論[ぎろん]の___、ようやく合意[ごうい]に達[たっ]した。",
+    "romaji": "Choujikan no giron no ___, youyaku goui ni tasshita.",
+    "level": "N2",
+    "category": "GRAMMAR",
+    "options": [
+      "末に",
+      "上で",
+      "際に",
+      "途中で"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "After prolonged discussion, an agreement was finally reached.",
+    "answerExplanation": "'〜の末に' (~no sue ni) means 'after much~' or 'at the end of a long process of~'. It emphasizes that a result was reached after a lengthy, exhausting process. Form: noun + の末に / past tense verb + 末に.",
+    "hint": "A result obtained after a long, difficult process",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_4_024",
+    "question": "環境の維持には、一人一人の努力が欠かせない。「維持」の意味は？",
+    "furigana": "環境[かんきょう]の維持[いじ]には、一人[ひとり]一人[ひとり]の努力[どりょく]が欠[か]かせない。「維持[いじ]」の意味[いみ]は？",
+    "romaji": "Kankyou no iji ni wa, hitori hitori no doryoku ga kakasenai. 'Iji' no imi wa?",
+    "level": "N2",
+    "category": "VOCABULARY",
+    "options": [
+      "To keep things the same",
+      "To change drastically",
+      "To destroy completely",
+      "To create from scratch"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Individual effort from each person is indispensable for maintaining the environment. What does '維持' mean?",
+    "answerExplanation": "'維持' (iji) means to maintain or preserve something in its current state. Kanji 維 (i) means to sustain and 持 (ji) means to hold. Examples: 健康を維持する (maintain health), 秩序を維持する (maintain order).",
+    "hint": "Keeping something from changing from its current state",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_4_025",
+    "question": "政府は経済成長の促進を目指している。「促進」の意味は？",
+    "furigana": "政府[せいふ]は経済[けいざい]成長[せいちょう]の促進[そくしん]を目指[めざ]している。「促進[そくしん]」の意味[いみ]は？",
+    "romaji": "Seifu wa keizai seichou no sokushin wo mezashite iru. 'Sokushin' no imi wa?",
+    "level": "N2",
+    "category": "VOCABULARY",
+    "options": [
+      "To hinder development",
+      "To encourage and accelerate",
+      "To stop completely",
+      "To observe from afar"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "The government aims to promote economic growth. What does '促進' mean?",
+    "answerExplanation": "'促進' (sokushin) means to promote, accelerate, or encourage something to develop. Kanji 促 (soku) means to urge/hasten and 進 (shin) means to advance. Often used formally: 健康促進 (health promotion), 販売促進 (sales promotion).",
+    "hint": "Making something go faster or develop",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_4_026",
+    "question": "不正な慣行を是正する必要がある。「是正」の意味は？",
+    "furigana": "不正[ふせい]な慣行[かんこう]を是正[ぜせい]する必要[ひつよう]がある。「是正[ぜせい]」の意味[いみ]は？",
+    "romaji": "Fusei na kankou wo zesei suru hitsuyou ga aru. 'Zesei' no imi wa?",
+    "level": "N2",
+    "category": "VOCABULARY",
+    "options": [
+      "To leave as is",
+      "To correct what is wrong",
+      "To add more problems",
+      "To hide from the public"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "It is necessary to correct improper practices. What does '是正' mean?",
+    "answerExplanation": "'是正' (zesei) means to correct or rectify something wrong. Kanji 是 (ze) means right/correct and 正 (sei) also means correct/rectify. Often used formally: 不平等を是正する (correct inequality), 問題を是正する (rectify a problem).",
+    "hint": "Changing something wrong to make it right",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_4_027",
+    "question": "「制度改革」の読み方は？",
+    "furigana": "「制度[せいど]改革[かいかく]」の読[よ]み方[かた]は？",
+    "romaji": "'Seido kaikaku' no yomikata wa?",
+    "level": "N2",
+    "category": "KANJI",
+    "options": [
+      "せいどかいかく",
+      "せいどかいがく",
+      "せいとかいかく",
+      "しどかいかく"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "How do you read '制度改革'?",
+    "answerExplanation": "'制度改革' is read 'seido kaikaku' meaning institutional/system reform. 制度 (seido) means system/institution and 改革 (kaikaku) means reform/renovation. Example: 教育制度改革 (educational system reform).",
+    "hint": "Sei + do + kai + kaku",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_4_028",
+    "question": "「医療制度」の読み方は？",
+    "furigana": "「医療[いりょう]制度[せいど]」の読[よ]み方[かた]は？",
+    "romaji": "'Iryou seido' no yomikata wa?",
+    "level": "N2",
+    "category": "KANJI",
+    "options": [
+      "いりょうせいど",
+      "いりょうせいと",
+      "いりゅうせいど",
+      "えりょうせいど"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "How do you read '医療制度'?",
+    "answerExplanation": "'医療制度' is read 'iryou seido' meaning medical/healthcare system. 医療 (iryou) means medical care and 制度 (seido) means system. Example: Japan's healthcare system is internationally recognized.",
+    "hint": "I + ryou + sei + do",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_4_029",
+    "question": "読解：次の文章を読んで、質問に答えなさい。\n\n「たとえ失敗しても、挑戦すること自体に価値がある」という考え方が注目されている。従来の日本社会では、失敗を避けることが重要視されてきた。就職活動においても、安定した大企業に入ることが最善とされ、起業やベンチャーへの挑戦は「危険な選択」とみなされがちであった。\n\nしかし、グローバル化が進む中で、この価値観は変わりつつある。イノベーションは失敗の積み重ねから生まれるものであり、失敗を恐れていては新しいものは何も生み出せない。近年の調査によると、20代の若者の約4割が「将来起業したい」と回答しており、挑戦を肯定的に捉える風潮が広がっている。\n\n質問：この文章の主張として最も適切なものはどれか。",
+    "furigana": "読解[どっかい]：次[つぎ]の文章[ぶんしょう]を読[よ]んで、質問[しつもん]に答[こた]えなさい。",
+    "romaji": "Dokkai: Tsugi no bunshou wo yonde, shitsumon ni kotaenasai.",
+    "level": "N2",
+    "category": "READING",
+    "options": [
+      "日本では起業する若者がほとんどいない",
+      "失敗を避けることが依然として最も重要だ",
+      "挑戦することの価値を認める考え方が広がっている",
+      "大企業への就職が最も正しい選択である"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Read the following passage and answer the question.\n\nThe idea that 'even if you fail, there is value in the challenge itself' is gaining attention. What is the main argument of this passage?",
+    "answerExplanation": "The text discusses the shift in Japanese society from 'avoiding failure' to 'valuing challenges'. The opening states this idea is gaining attention, and the second paragraph supports it with survey data showing 40% of young people want to start businesses. The correct answer is that the mindset recognizing the value of taking on challenges is spreading.",
+    "hint": "Look at the opening statement and the survey data in the second paragraph",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n2_4_030",
+    "question": "読解：次の文章を読んで、質問に答えなさい。\n\n会社の業績が悪化し、コスト削減が避けられない状況となった。経営陣は人件費の削減を検討せざるを得なかったが、大規模なリストラは社員の士気を著しく低下させる恐れがあった。\n\nそこで経営陣は、まず役員報酬の20%カットを実施し、次に全社員の残業を制限することで人件費を抑える方針を打ち出した。さらに、希望退職制度を設け、退職者には通常より手厚い退職金を支給することとした。この結果、強制的な解雇を行うことなく、目標としていたコスト削減を達成することができた。\n\n質問：経営陣が最初に行ったコスト削減策は何か。",
+    "furigana": "読解[どっかい]：次[つぎ]の文章[ぶんしょう]を読[よ]んで、質問[しつもん]に答[こた]えなさい。",
+    "romaji": "Dokkai: Tsugi no bunshou wo yonde, shitsumon ni kotaenasai.",
+    "level": "N2",
+    "category": "READING",
+    "options": [
+      "全社員の給料を一律にカットした",
+      "役員報酬を20%カットした",
+      "大規模なリストラを実施した",
+      "希望退職制度を設けた"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Read the following passage and answer the question.\n\nCompany performance deteriorated and cost cuts became unavoidable. What was the first cost-cutting measure taken by management?",
+    "answerExplanation": "The text states management first cut executive compensation by 20% ('まず役員報酬の20％カットを実施し'). The word 'まず' (first/firstly) indicates the order of actions. Subsequent measures were overtime restrictions and voluntary retirement.",
+    "hint": "Look for the word 'まず' which indicates the first action",
+    "difficultyScore": 4
+  }
+]

@@ -1,0 +1,622 @@
+{
+  "id": "kanji_n2_challenge",
+  "title": "Tantangan Kanji N2",
+  "timer": 15,
+  "description": "Susun bacaan Onyomi atau Kunyomi dari kanji yang ditampilkan!",
+  "totalQuestions": 30,
+  "questions": [
+    {
+      "id": 1,
+      "hiragana": "党",
+      "meaning": "Partai",
+      "readingType": "onyomi",
+      "answerParts": [
+        "tou"
+      ],
+      "distractors": [
+        "ka",
+        "mi",
+        "su",
+        "no",
+        "te",
+        "ra",
+        "ko",
+        "ma"
+      ]
+    },
+    {
+      "id": 2,
+      "hiragana": "協",
+      "meaning": "Kerja Sama",
+      "readingType": "onyomi",
+      "answerParts": [
+        "kyou"
+      ],
+      "distractors": [
+        "ha",
+        "mi",
+        "sa",
+        "no",
+        "te",
+        "ra",
+        "ko",
+        "zu"
+      ]
+    },
+    {
+      "id": 3,
+      "hiragana": "衆",
+      "meaning": "Massa / Khalayak",
+      "readingType": "onyomi",
+      "answerParts": [
+        "shuu"
+      ],
+      "distractors": [
+        "ka",
+        "mi",
+        "tou",
+        "no",
+        "te",
+        "ra",
+        "fu",
+        "ma"
+      ]
+    },
+    {
+      "id": 4,
+      "hiragana": "冊",
+      "meaning": "Jilid / Volume Buku",
+      "readingType": "onyomi",
+      "answerParts": [
+        "sa",
+        "tsu"
+      ],
+      "distractors": [
+        "ka",
+        "mi",
+        "no",
+        "te",
+        "ra",
+        "ko",
+        "zu",
+        "ho"
+      ]
+    },
+    {
+      "id": 5,
+      "hiragana": "巨",
+      "meaning": "Raksasa / Besar",
+      "readingType": "onyomi",
+      "answerParts": [
+        "kyo"
+      ],
+      "distractors": [
+        "ka",
+        "mi",
+        "su",
+        "no",
+        "te",
+        "ra",
+        "zu",
+        "ho"
+      ]
+    },
+    {
+      "id": 6,
+      "hiragana": "誕",
+      "meaning": "Lahir / Kelahiran",
+      "readingType": "onyomi",
+      "answerParts": [
+        "tan"
+      ],
+      "distractors": [
+        "ka",
+        "mi",
+        "su",
+        "no",
+        "te",
+        "ra",
+        "ko",
+        "zu"
+      ]
+    },
+    {
+      "id": 7,
+      "hiragana": "核",
+      "meaning": "Inti / Nuklir",
+      "readingType": "onyomi",
+      "answerParts": [
+        "ka",
+        "ku"
+      ],
+      "distractors": [
+        "mi",
+        "su",
+        "no",
+        "te",
+        "ra",
+        "ko",
+        "zu",
+        "ho"
+      ]
+    },
+    {
+      "id": 8,
+      "hiragana": "抗",
+      "meaning": "Melawan / Menentang",
+      "readingType": "onyomi",
+      "answerParts": [
+        "kou"
+      ],
+      "distractors": [
+        "ka",
+        "mi",
+        "su",
+        "no",
+        "te",
+        "ra",
+        "zu",
+        "ho"
+      ]
+    },
+    {
+      "id": 9,
+      "hiragana": "威",
+      "meaning": "Wibawa / Ancaman",
+      "readingType": "onyomi",
+      "answerParts": [
+        "i"
+      ],
+      "distractors": [
+        "ka",
+        "mi",
+        "su",
+        "no",
+        "te",
+        "ra",
+        "ko",
+        "ho"
+      ]
+    },
+    {
+      "id": 10,
+      "hiragana": "派",
+      "meaning": "Faksi / Aliran",
+      "readingType": "onyomi",
+      "answerParts": [
+        "ha"
+      ],
+      "distractors": [
+        "ka",
+        "mi",
+        "su",
+        "no",
+        "te",
+        "ra",
+        "ko",
+        "zu"
+      ]
+    },
+    {
+      "id": 11,
+      "hiragana": "婚",
+      "meaning": "Pernikahan",
+      "readingType": "onyomi",
+      "answerParts": [
+        "kon"
+      ],
+      "distractors": [
+        "ka",
+        "mi",
+        "su",
+        "no",
+        "te",
+        "ra",
+        "ko",
+        "zu"
+      ]
+    },
+    {
+      "id": 12,
+      "hiragana": "購",
+      "meaning": "Membeli / Berlangganan",
+      "readingType": "onyomi",
+      "answerParts": [
+        "kou"
+      ],
+      "distractors": [
+        "ka",
+        "mi",
+        "su",
+        "no",
+        "te",
+        "ra",
+        "zu",
+        "ho"
+      ]
+    },
+    {
+      "id": 13,
+      "hiragana": "烈",
+      "meaning": "Sengit / Dahsyat",
+      "readingType": "onyomi",
+      "answerParts": [
+        "re",
+        "tsu"
+      ],
+      "distractors": [
+        "ka",
+        "mi",
+        "su",
+        "no",
+        "te",
+        "ra",
+        "ko",
+        "ho"
+      ]
+    },
+    {
+      "id": 14,
+      "hiragana": "到",
+      "meaning": "Tiba / Sampai",
+      "readingType": "onyomi",
+      "answerParts": [
+        "tou"
+      ],
+      "distractors": [
+        "ka",
+        "mi",
+        "su",
+        "no",
+        "te",
+        "ra",
+        "ko",
+        "zu"
+      ]
+    },
+    {
+      "id": 15,
+      "hiragana": "揮",
+      "meaning": "Mengerahkan / Memimpin",
+      "readingType": "onyomi",
+      "answerParts": [
+        "ki"
+      ],
+      "distractors": [
+        "ka",
+        "mi",
+        "su",
+        "no",
+        "te",
+        "ra",
+        "ko",
+        "zu"
+      ]
+    },
+    {
+      "id": 16,
+      "hiragana": "崩",
+      "meaning": "Runtuh",
+      "readingType": "kunyomi",
+      "answerParts": [
+        "ku",
+        "zu",
+        "re",
+        "ru"
+      ],
+      "distractors": [
+        "ha",
+        "mi",
+        "sa",
+        "no",
+        "to",
+        "ra",
+        "ki",
+        "wa"
+      ]
+    },
+    {
+      "id": 17,
+      "hiragana": "敵",
+      "meaning": "Musuh",
+      "readingType": "kunyomi",
+      "answerParts": [
+        "ka",
+        "ta",
+        "ki"
+      ],
+      "distractors": [
+        "mi",
+        "su",
+        "no",
+        "te",
+        "ra",
+        "ko",
+        "zu",
+        "ho"
+      ]
+    },
+    {
+      "id": 18,
+      "hiragana": "脅",
+      "meaning": "Mengancam",
+      "readingType": "kunyomi",
+      "answerParts": [
+        "o",
+        "do",
+        "ka",
+        "su"
+      ],
+      "distractors": [
+        "mi",
+        "ra",
+        "te",
+        "ko",
+        "zu",
+        "ha",
+        "ki",
+        "mo"
+      ]
+    },
+    {
+      "id": 19,
+      "hiragana": "革",
+      "meaning": "Kulit / Revolusi",
+      "readingType": "kunyomi",
+      "answerParts": [
+        "ka",
+        "wa"
+      ],
+      "distractors": [
+        "mi",
+        "su",
+        "no",
+        "te",
+        "ra",
+        "ko",
+        "zu",
+        "ho"
+      ]
+    },
+    {
+      "id": 20,
+      "hiragana": "届",
+      "meaning": "Menyampaikan / Melapor",
+      "readingType": "kunyomi",
+      "answerParts": [
+        "to",
+        "do",
+        "ke",
+        "ru"
+      ],
+      "distractors": [
+        "mi",
+        "su",
+        "ha",
+        "te",
+        "ra",
+        "ko",
+        "zu",
+        "ki"
+      ]
+    },
+    {
+      "id": 21,
+      "hiragana": "頂",
+      "meaning": "Puncak",
+      "readingType": "kunyomi",
+      "answerParts": [
+        "i",
+        "ta",
+        "da",
+        "ki"
+      ],
+      "distractors": [
+        "mi",
+        "su",
+        "no",
+        "te",
+        "ra",
+        "ko",
+        "zu",
+        "ho"
+      ]
+    },
+    {
+      "id": 22,
+      "hiragana": "操",
+      "meaning": "Mengoperasikan",
+      "readingType": "kunyomi",
+      "answerParts": [
+        "a",
+        "ya",
+        "tsu",
+        "ru"
+      ],
+      "distractors": [
+        "mi",
+        "su",
+        "no",
+        "te",
+        "ra",
+        "ko",
+        "zu",
+        "ho"
+      ]
+    },
+    {
+      "id": 23,
+      "hiragana": "柱",
+      "meaning": "Tiang / Pilar",
+      "readingType": "kunyomi",
+      "answerParts": [
+        "ha",
+        "shi",
+        "ra"
+      ],
+      "distractors": [
+        "ka",
+        "mi",
+        "su",
+        "no",
+        "te",
+        "ko",
+        "zu",
+        "mo"
+      ]
+    },
+    {
+      "id": 24,
+      "hiragana": "蓄",
+      "meaning": "Menabung / Menimbun",
+      "readingType": "kunyomi",
+      "answerParts": [
+        "ta",
+        "ku",
+        "wa",
+        "e",
+        "ru"
+      ],
+      "distractors": [
+        "mi",
+        "su",
+        "no",
+        "te",
+        "ra",
+        "ko",
+        "zu",
+        "ho"
+      ]
+    },
+    {
+      "id": 25,
+      "hiragana": "詳",
+      "meaning": "Terperinci / Detail",
+      "readingType": "kunyomi",
+      "answerParts": [
+        "ku",
+        "wa",
+        "shi",
+        "i"
+      ],
+      "distractors": [
+        "ka",
+        "mi",
+        "su",
+        "no",
+        "te",
+        "ra",
+        "ko",
+        "zo"
+      ]
+    },
+    {
+      "id": 26,
+      "hiragana": "誤",
+      "meaning": "Keliru / Salah",
+      "readingType": "kunyomi",
+      "answerParts": [
+        "a",
+        "ya",
+        "ma",
+        "ru"
+      ],
+      "distractors": [
+        "mi",
+        "su",
+        "no",
+        "te",
+        "ra",
+        "ko",
+        "zu",
+        "ho"
+      ]
+    },
+    {
+      "id": 27,
+      "hiragana": "輝",
+      "meaning": "Bersinar / Bercahaya",
+      "readingType": "kunyomi",
+      "answerParts": [
+        "ka",
+        "ga",
+        "ya",
+        "ku"
+      ],
+      "distractors": [
+        "mi",
+        "su",
+        "no",
+        "te",
+        "ra",
+        "ko",
+        "zu",
+        "ho"
+      ]
+    },
+    {
+      "id": 28,
+      "hiragana": "雇",
+      "meaning": "Mempekerjakan",
+      "readingType": "kunyomi",
+      "answerParts": [
+        "ya",
+        "to",
+        "u"
+      ],
+      "distractors": [
+        "ka",
+        "mi",
+        "su",
+        "no",
+        "te",
+        "ra",
+        "ko",
+        "zu"
+      ]
+    },
+    {
+      "id": 29,
+      "hiragana": "滅",
+      "meaning": "Musnah / Padam",
+      "readingType": "kunyomi",
+      "answerParts": [
+        "ho",
+        "ro",
+        "bi",
+        "ru"
+      ],
+      "distractors": [
+        "ka",
+        "mi",
+        "su",
+        "no",
+        "te",
+        "ra",
+        "ko",
+        "zu"
+      ]
+    },
+    {
+      "id": 30,
+      "hiragana": "潜",
+      "meaning": "Bersembunyi / Menyelam",
+      "readingType": "kunyomi",
+      "answerParts": [
+        "hi",
+        "so",
+        "mu"
+      ],
+      "distractors": [
+        "ka",
+        "mi",
+        "ra",
+        "no",
+        "te",
+        "ko",
+        "zu",
+        "mo"
+      ]
+    }
+  ]
+}

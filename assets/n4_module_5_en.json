@@ -1,0 +1,382 @@
+[
+  {
+    "id": "question_n4_5_001",
+    "question": "「退院する」はどういう意味ですか？",
+    "furigana": "「退院[たいいん]する」はどういう意味[いみ]ですか？",
+    "romaji": "'Taiin suru' wa dou iu imi desu ka?",
+    "level": "N4",
+    "category": "VOCABULARY",
+    "options": [
+      "To be hospitalized for treatment",
+      "To be discharged from the hospital after recovery",
+      "To visit someone in the hospital",
+      "To transfer a patient to another hospital"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "What is the meaning of '退院する'?",
+    "answerExplanation": "'退院する' (taiin suru) means to leave the hospital after treatment is finished or after recovery. Kanji '退' (tai) = withdraw/leave, '院' (in) = institution/hospital. Its opposite is '入院する' (nyuuin suru = to be hospitalized). Example: '来週退院できるそうです' (It seems he can leave the hospital next week). Option A is wrong because that's '入院する'. Option C is wrong because that's 'お見舞いに行く'. Option D is wrong because that's '転院する'.",
+    "hint": "Kanji '退' means to withdraw or leave, and '院' refers to a hospital. This is the opposite of '入院する'.",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_5_002",
+    "question": "「届ける」はどういう意味ですか？",
+    "furigana": "「届[とど]ける」はどういう意味[いみ]ですか？",
+    "romaji": "'Todokeru' wa dou iu imi desu ka?",
+    "level": "N4",
+    "category": "VOCABULARY",
+    "options": [
+      "To receive something from someone",
+      "To store something in a safe place",
+      "To deliver or hand something to someone",
+      "To return a borrowed item"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "What is the meaning of '届ける'?",
+    "answerExplanation": "'届ける' (todokeru) means to deliver or convey something to someone. It is a transitive verb (他動詞). Its intransitive form is '届く' (todoku = to arrive/reach). Example: '友達に荷物を届けました' (I delivered a package to my friend). Option A is wrong because that's '受け取る'. Option B is wrong because that's 'しまう'. Option D is wrong because that's '返す'.",
+    "hint": "This verb is related to bringing something to its destination or to someone. Think about parcel delivery.",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_5_003",
+    "question": "「遠慮する」はどういう意味ですか？",
+    "furigana": "「遠慮[えんりょ]する」はどういう意味[いみ]ですか？",
+    "romaji": "'Enryo suru' wa dou iu imi desu ka?",
+    "level": "N4",
+    "category": "VOCABULARY",
+    "options": [
+      "To refrain or be reserved about something",
+      "To feel very angry at someone",
+      "To prepare for an important event",
+      "To gladly agree with someone's opinion"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "What is the meaning of '遠慮する'?",
+    "answerExplanation": "'遠慮する' (enryo suru) means to hold back, be reserved, or refrain from doing something out of politeness. Kanji '遠' (en) = far, '慮' (ryo) = consideration. Example: 'どうぞ遠慮しないでください' (Please don't hold back). Option B is wrong because that's '怒る'. Option C is wrong because that's '準備する'. Option D is wrong because that's '賛成する'.",
+    "hint": "This is an attitude that Japanese people often show out of politeness, for example politely declining an offer of food even when actually hungry.",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n4_5_004",
+    "question": "「相談する」はどういう意味ですか？",
+    "furigana": "「相談[そうだん]する」はどういう意味[いみ]ですか？",
+    "romaji": "'Soudan suru' wa dou iu imi desu ka?",
+    "level": "N4",
+    "category": "VOCABULARY",
+    "options": [
+      "To inform many people of important information",
+      "To discuss a problem with someone for advice",
+      "To debate a topic emotionally",
+      "To tell an interesting experience to a friend"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "What is the meaning of '相談する'?",
+    "answerExplanation": "'相談する' (soudan suru) means to consult or discuss a problem with someone to get advice or opinions. Kanji '相' (sou) = mutual, '談' (dan) = talk. Example: '先生に進路について相談しました' (I consulted the teacher about my future path). Option A is wrong because that's '知らせる'. Option C is wrong because that's '議論する/喧嘉する'. Option D is wrong because that's '話す'.",
+    "hint": "This word consists of '相' (mutual) and '談' (talk). Usually done when someone has a problem and needs another person's opinion.",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_5_005",
+    "question": "「間に合う」はどういう意味ですか？",
+    "furigana": "「間[ま]に合[あ]う」はどういう意味[いみ]ですか？",
+    "romaji": "'Ma ni au' wa dou iu imi desu ka?",
+    "level": "N4",
+    "category": "VOCABULARY",
+    "options": [
+      "To meet someone by chance on the street",
+      "To be on time or to make it before the deadline",
+      "To spend time pleasantly with friends",
+      "To wait for someone for a very long time"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "What is the meaning of '間に合う'?",
+    "answerExplanation": "'間に合う' (ma ni au) means to be on time, to make it before the deadline. Example: '走ったので、電車に間に合いました' (Because I ran, I made it to the train on time). It can also mean 'to suffice/be adequate'. Option A is wrong because that's '偶然会う'. Option C is wrong because that's '一緒に過ごす'. Option D is wrong because that's 'ずっと待つ'.",
+    "hint": "This expression is often used when talking about catching a train or meeting a deadline. '間' means time/interval, and 'に合う' means to fit/match.",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n4_5_006",
+    "question": "「経験」の読み方は？",
+    "furigana": "「経験[けいけん]」の読[よ]み方[かた]は？",
+    "romaji": "'Keiken' no yomikata wa?",
+    "level": "N4",
+    "category": "KANJI",
+    "options": [
+      "けいけん",
+      "けんけい",
+      "きょうけん",
+      "けいげん"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "How do you read '経験'?",
+    "answerExplanation": "'経験' is read as 'けいけん' (keiken) meaning experience. Kanji '経' (けい) often appears in '経済' (keizai = economy) and '経つ' (tatsu = to pass). Kanji '験' (けん) is also used in '試験' (shiken = exam) and '実験' (jikken = experiment). Example: '日本で働いた経験があります' (I have experience working in Japan).",
+    "hint": "The first kanji '経' is read 'けい' like in '経済' (economy). The second kanji '験' is read 'けん' like in '試験' (exam).",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_5_007",
+    "question": "「交通」の読み方は？",
+    "furigana": "「交通[こうつう]」の読[よ]み方[かた]は？",
+    "romaji": "'Koutsuu' no yomikata wa?",
+    "level": "N4",
+    "category": "KANJI",
+    "options": [
+      "こうとう",
+      "きょうつう",
+      "こうつう",
+      "かいつう"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "How do you read '交通'?",
+    "answerExplanation": "'交通' is read as 'こうつう' (koutsuu) meaning traffic or transportation. Kanji '交' (こう) is also used in '交差点' (kousaten = intersection) and '交換' (koukan = exchange). Kanji '通' (つう) also appears in '通り' (toori = street) and '通う' (kayou = commute). Example: '交通が便利な場所に住みたいです' (I want to live in a place with convenient transportation).",
+    "hint": "Kanji '交' is read 'こう' (not 'きょう'), and '通' is read 'つう'. This word relates to vehicles and roads.",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_5_008",
+    "question": "「受付」の読み方は？",
+    "furigana": "「受付[うけつけ]」の読[よ]み方[かた]は？",
+    "romaji": "'Uketsuke' no yomikata wa?",
+    "level": "N4",
+    "category": "KANJI",
+    "options": [
+      "じゅふ",
+      "うけつけ",
+      "じゅつき",
+      "うけづけ"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "How do you read '受付'?",
+    "answerExplanation": "'受付' is read as 'うけつけ' (uketsuke) meaning receptionist or reception desk. This comes from the verb '受け付ける' (uketsukeru = to accept/handle). Kanji '受' (う-ける) = receive, '付' (つ-ける) = attach. Example: '受付で名前を書いてください' (Please write your name at the reception). Note that the reading uses kunyomi, not onyomi.",
+    "hint": "Both kanji use kunyomi (native Japanese reading). '受' is read 'うけ' and '付' is read 'つけ'. This word is often seen in building lobbies or hospitals.",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n4_5_009",
+    "question": "「予約」の読み方は？",
+    "furigana": "「予約[よやく]」の読[よ]み方[かた]は？",
+    "romaji": "'Yoyaku' no yomikata wa?",
+    "level": "N4",
+    "category": "KANJI",
+    "options": [
+      "よやく",
+      "よさく",
+      "ちやく",
+      "よきゃく"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "How do you read '予約'?",
+    "answerExplanation": "'予約' is read as 'よやく' (yoyaku) meaning reservation or booking. Kanji '予' (よ) means 'beforehand' and is also used in '予定' (yotei = plan) and '予習' (yoshuu = preview study). Kanji '約' (やく) means 'promise' and is also used in '約束' (yakusoku = promise). Example: 'レストランを予約しました' (I made a reservation at a restaurant).",
+    "hint": "Kanji '予' is read 'よ' like in '予定' (plan), and '約' is read 'やく' like in '約束' (promise).",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_5_010",
+    "question": "「規則」の読み方は？",
+    "furigana": "「規則[きそく]」の読[よ]み方[かた]は？",
+    "romaji": "'Kisoku' no yomikata wa?",
+    "level": "N4",
+    "category": "KANJI",
+    "options": [
+      "きぞく",
+      "きそく",
+      "ぎそく",
+      "きのり"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "How do you read '規則'?",
+    "answerExplanation": "'規則' is read as 'きそく' (kisoku) meaning rules or regulations. Kanji '規' (き) is also used in '規模' (kibo = scale) and '正規' (seiki = official/regular). Kanji '則' (そく) also appears in '原則' (gensoku = principle). Example: '学校の規則を守ってください' (Please follow the school rules). Note the reading is 'きそく' not 'きぞく' (which means nobility/貴族).",
+    "hint": "Be careful with similar readings. '規則' (rules) is read 'きそく' with 'そ' without dakuten, while '貴族' (nobility) is read 'きぞく' with 'ぞ'.",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n4_5_011",
+    "question": "もっと早く起き___、電車に間に合ったのに。",
+    "furigana": "もっと早[はや]く起[お]き___、電車[でんしゃ]に間[ま]に合[あ]ったのに。",
+    "romaji": "Motto hayaku oki___, densha ni ma ni atta noni.",
+    "level": "N4",
+    "category": "GRAMMAR",
+    "options": [
+      "れば",
+      "たら",
+      "ると",
+      "ので"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "If only I had woken up earlier, I could have made it to the train.",
+    "answerExplanation": "The correct answer is 'れば' (conditional ~ば form). '起きれば' means 'if (I) wake up'. The ~ば pattern is used to express conditions. For group 2 verbs like '起きる', the ~ば form is: drop 'る' then add 'れば' → '起きれば'. This sentence uses '~ば...のに' which expresses regret: 'If only I had woken up earlier, I could have made it'. Option B 'たら' has a similar meaning but this question focuses on the ~ば pattern. Option C 'ると' is less appropriate for regret context. Option D 'ので' expresses reason, not condition.",
+    "hint": "The ~ば pattern is a conditional form. For group 2 verbs (ichidan), drop the ending 'る' and add 'れば'. This sentence expresses regret with '~のに' at the end.",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n4_5_012",
+    "question": "雨が降っ___、サッカーの試合は行われます。",
+    "furigana": "雨[あめ]が降[ふ]っ___、サッカーの試合[しあい]は行[おこな]われます。",
+    "romaji": "Ame ga fut___, sakkaa no shiai wa okonawaremasu.",
+    "level": "N4",
+    "category": "GRAMMAR",
+    "options": [
+      "たら",
+      "ても",
+      "から",
+      "ので"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Even if it rains, the soccer match will still be held.",
+    "answerExplanation": "The correct answer is 'ても' (even if/even though). '降っても' means 'even if it falls (rains)'. The pattern ~ても is used to express that even if a certain condition occurs, the result remains the same or unaffected. Another example: '高くても買います' (Even if it's expensive, I'll buy it). Option A 'たら' means 'if' (conditional). Options C 'から' and D 'ので' express reason.",
+    "hint": "This pattern means 'even if/even though'. The match will be held REGARDLESS of weather conditions. Think of a conjunction expressing concession.",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_5_013",
+    "question": "天気予報によると、明日は雪が降る___。",
+    "furigana": "天気予報[てんきよほう]によると、明日[あした]は雪[ゆき]が降[ふ]る___。",
+    "romaji": "Tenki yohou ni yoru to, ashita wa yuki ga furu ___.",
+    "level": "N4",
+    "category": "GRAMMAR",
+    "options": [
+      "ようです",
+      "らしいです",
+      "そうです",
+      "みたいです"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "According to the weather forecast, it will snow tomorrow.",
+    "answerExplanation": "The correct answer is 'そうです' (hearsay ~そうだ). '降るそうです' means 'they say it will fall (snow)'. The hearsay ~そうだ pattern is used to convey information heard from another source. Note this differs from the appearance ~そうだ which expresses visual impression. For hearsay, the verb/adjective is in plain form + そうです. The phrase 'によると' (according to...) is a strong clue for hearsay. Options A 'ようです' and D 'みたいです' express conjecture. Option B 'らしいです' could also be used but 'そうです' is most appropriate after 'によると'.",
+    "hint": "Pay attention to 'によると' (according to...) at the beginning. This indicates the information comes from another source (weather forecast), not from personal observation.",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n4_5_014",
+    "question": "健康のために、毎日野菜を食べる___しています。",
+    "furigana": "健康[けんこう]のために、毎日[まいにち]野菜[やさい]を食[た]べる___しています。",
+    "romaji": "Kenkou no tame ni, mainichi yasai wo taberu ___ shite imasu.",
+    "level": "N4",
+    "category": "GRAMMAR",
+    "options": [
+      "ことに",
+      "ように",
+      "ために",
+      "はずに"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "For health, I try to eat vegetables every day.",
+    "answerExplanation": "The correct answer is 'ように' (pattern ~ようにする). '食べるようにしています' means 'I try to eat' or 'I make it a habit to eat'. The pattern ~ようにする expresses effort to make something a habit. The form ~ようにしています (with ~ている) shows ongoing effort. Option A 'ことに' is used in ~ことにする meaning 'to decide to' (a one-time decision). Option C 'ために' expresses purpose. Option D 'はずに' doesn't exist in Japanese grammar.",
+    "hint": "This pattern expresses effort to do something continuously. This person doesn't just decide once, but keeps trying every day.",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n4_5_015",
+    "question": "来月から毎朝ジョギングする___しました。",
+    "furigana": "来月[らいげつ]から毎朝[まいあさ]ジョギングする___しました。",
+    "romaji": "Raigetsu kara maiasa jogingu suru ___ shimashita.",
+    "level": "N4",
+    "category": "GRAMMAR",
+    "options": [
+      "ように",
+      "ために",
+      "ことに",
+      "つもりに"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "I decided to jog every morning starting next month.",
+    "answerExplanation": "The correct answer is 'ことに' (pattern ~ことにする). 'ジョギングすることにしました' means 'decided to jog'. The pattern ~ことにする expresses a decision made by the speaker. The past form '~ことにしました' shows the decision has been made. Option A 'ように' is used in ~ようにする meaning 'to try to' (not a firm decision). Option B 'ために' expresses purpose. Option D 'つもりに' doesn't exist in Japanese grammar ('つもり' is used without 'に' before 'する').",
+    "hint": "This pattern expresses a personal decision. Note that this person has already made a firm decision (starting next month), not just trying.",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n4_5_016",
+    "question": "母は弟に毎日ピアノを練習___。",
+    "furigana": "母[はは]は弟[おとうと]に毎日[まいにち]ピアノを練習[れんしゅう]___。",
+    "romaji": "Haha wa otouto ni mainichi piano wo renshuu ___.",
+    "level": "N4",
+    "category": "GRAMMAR",
+    "options": [
+      "させます",
+      "されます",
+      "できます",
+      "なります"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "My mother makes my younger brother practice piano every day.",
+    "answerExplanation": "The correct answer is 'させます' (causative form ~させる). '練習させます' means 'makes (him) practice'. The causative pattern ~させる is used when someone makes or allows another person to do something. In this sentence, mother (subject) makes the younger brother (object with particle に) practice piano. For group 3 verb (する), the causative form is 'させる'. Option B 'されます' is passive. Option C 'できます' means 'can'. Option D 'なります' means 'become'.",
+    "hint": "Mother is the person who gives the order, and the younger brother is the one being told to do it. This pattern expresses making someone DO something.",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n4_5_017",
+    "question": "私は電車の中で知らない人に足を___。",
+    "furigana": "私[わたし]は電車[でんしゃ]の中[なか]で知[し]らない人[ひと]に足[あし]を___。",
+    "romaji": "Watashi wa densha no naka de shiranai hito ni ashi wo ___.",
+    "level": "N4",
+    "category": "GRAMMAR",
+    "options": [
+      "踏みました",
+      "踏まれました",
+      "踏ませました",
+      "踏めました"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "I had my foot stepped on by a stranger on the train.",
+    "answerExplanation": "The correct answer is '踏まれました' (passive form ~られる from '踏む'). '足を踏まれました' means 'had (my) foot stepped on'. The passive pattern ~られる is used when the subject receives or experiences an action from someone else, often with a negative nuance (迷惑の受身 = passive of inconvenience). For group 1 verb '踏む' (fumu), the passive form: drop 'む' → 'ふ' + 'まれる' → '踏まれる'. Option A '踏みました' is active (I stepped). Option C '踏ませました' is causative (made someone step). Option D '踏めました' is potential (could step).",
+    "hint": "In this sentence, 'I' am the victim who experienced something unpleasant. A stranger did the action to me. Which pattern expresses 'experiencing/receiving an action'?",
+    "difficultyScore": 4
+  },
+  {
+    "id": "question_n4_5_018",
+    "question": "次の文を読んでください。\n\n「料理教室のお知らせ\n毎週土曜日 午前10時～12時\n場所：3階の調理室\n※来週の土曜日は祝日のため、お休みです。再来週からまた始めます。持ち物：エプロン」\n\n料理教室について正しいものはどれですか？",
+    "furigana": "次[つぎ]の文[ぶん]を読[よ]んでください。\n\n「料理[りょうり]教室[きょうしつ]のお知[し]らせ\n毎週[まいしゅう]土曜日[どようび] 午前[ごぜん]10時[じ]～12時[じ]\n場所[ばしょ]：3階[かい]の調理室[ちょうりしつ]\n※来週[らいしゅう]の土曜日[どようび]は祝日[しゅくじつ]のため、お休[やす]みです。再来週[さらいしゅう]からまた始[はじ]めます。持[も]ち物[もの]：エプロン」\n\n料理[りょうり]教室[きょうしつ]について正[ただ]しいものはどれですか？",
+    "romaji": "Tsugi no bun wo yonde kudasai. 'Ryouri kyoushitsu no oshirase. Maishuu doyoubi gozen 10-ji kara 12-ji. Basho: 3-kai no chourishitsu. Raishuu no doyoubi wa shukujitsu no tame, oyasumi desu. Saraishuu kara mata hajimemasu. Mochimono: epuron.' Ryouri kyoushitsu ni tsuite tadashii mono wa dore desu ka?",
+    "level": "N4",
+    "category": "READING",
+    "options": [
+      "The cooking class is held every Sunday morning",
+      "The cooking class next week is closed due to a national holiday",
+      "Participants must bring their own ingredients",
+      "The cooking class lasts for 3 hours"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Please read the following text. [Cooking Class Announcement: Every Saturday 10 AM - 12 PM, Location: 3rd floor cooking room. Next Saturday is closed due to a holiday. Classes resume from the week after. Bring: apron.]\n\nWhich statement is correct about the cooking class?",
+    "answerExplanation": "The correct answer is B: 'The cooking class next week is closed due to a national holiday'. The text states '来週の土曜日は祝日のため、お休みです' (Next Saturday is closed because of a holiday). Option A is wrong because classes are held on Saturday (土曜日), not Sunday. Option C is wrong because what must be brought is an apron (エプロン), not ingredients. Option D is wrong because classes last 2 hours (10:00-12:00), not 3 hours.",
+    "hint": "Read the announcement carefully. Pay attention to the day it's held, the reason for closure, what to bring, and the class duration.",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_5_019",
+    "question": "次のメッセージを読んでください。\n\n「ゆきちゃん、土曜日ひま？新しくできたカフェに行かない？駅の東口を出て右に曲がったところにあるよ。ケーキがおいしいって聞いたの。午後2時はどう？だめだったら日曜日でもいいよ。　　みか」\n\nみかさんはゆきさんに何を伝えていますか？",
+    "furigana": "次[つぎ]のメッセージを読[よ]んでください。\n\n「ゆきちゃん、土曜日[どようび]ひま？新[あたら]しくできたカフェに行[い]かない？駅[えき]の東口[ひがしぐち]を出[で]て右[みぎ]に曲[ま]がったところにあるよ。ケーキがおいしいって聞[き]いたの。午後[ごご]2時[じ]はどう？だめだったら日曜日[にちようび]でもいいよ。　　みか」\n\nみかさんはゆきさんに何[なに]を伝[つた]えていますか？",
+    "romaji": "Tsugi no messeeji wo yonde kudasai. 'Yuki-chan, doyoubi hima? Atarashiku dekita kafe ni ikanai? Eki no higashiguchi wo dete migi ni magatta tokoro ni aru yo. Keeki ga oishii tte kiita no. Gogo 2-ji wa dou? Dame dattara nichiyoubi demo ii yo. Mika.' Mika-san wa Yuki-san ni nani wo tsutaete imasu ka?",
+    "level": "N4",
+    "category": "READING",
+    "options": [
+      "Mika invites Yuki to a new cafe near the station",
+      "Mika tells Yuki that their favorite cafe has closed",
+      "Mika asks Yuki to bake a cake for Saturday",
+      "Mika tells Yuki to meet at the west exit of the station"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Please read the following message. [From Mika to Yuki: Free Saturday? Want to go to the new cafe? It's near the station east exit, turn right. Heard the cake is good. How about 2 PM? Sunday works too if Saturday doesn't.]\n\nWhat is Mika telling Yuki?",
+    "answerExplanation": "The correct answer is A: 'Mika invites Yuki to a new cafe near the station'. Mika writes '新しくできたカフェに行かない？' (Want to go to the newly opened cafe?). The cafe is near the station (exit from the east gate, turn right). Option B is wrong because the cafe just opened, not closed. Option C is wrong because Mika invites to the cafe, not asking to make cake. Option D is wrong because the place is at the east exit (東口), not the west exit (西口).",
+    "hint": "Pay attention to '新しくできた' (newly opened) and '行かない？' (want to go?). Also note the direction from the station: '東口' means east exit.",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n4_5_020",
+    "question": "次のお知らせを読んでください。\n\n「春のセールのお知らせ\nさくらデパート　3月20日（金）～3月25日（水）\n全品20%オフ！食料品は10%オフです。\n※最終日は午後5時に閉店します。\n（通常は午後8時まで）\nポイントカードをお持ちのお客様は、さらに5%引きになります。」\n\nこのお知らせについて正しいものはどれですか？",
+    "furigana": "次[つぎ]のお知[し]らせを読[よ]んでください。\n\n「春[はる]のセールのお知[し]らせ\nさくらデパート　3月[がつ]20日[にち]（金[きん]）～3月[がつ]25日[にち]（水[すい]）\n全品[ぜんぴん]20%オフ！食料品[しょくりょうひん]は10%オフです。\n※最終日[さいしゅうび]は午後[ごご]5時[じ]に閉店[へいてん]します。\n（通常[つうじょう]は午後[ごご]8時[じ]まで）\nポイントカードをお持[も]ちのお客様[きゃくさま]は、さらに5%引[び]きになります。」\n\nこのお知[し]らせについて正[ただ]しいものはどれですか？",
+    "romaji": "Tsugi no oshirase wo yonde kudasai. 'Haru no seeru no oshirase. Sakura depaato. 3-gatsu 20-nichi (kin) kara 3-gatsu 25-nichi (sui). Zenpin 20% ofu! Shokuryouhin wa 10% ofu desu. Saishuu-bi wa gogo 5-ji ni heiten shimasu. (Tsujou wa gogo 8-ji made.) Pointo kaado wo omochi no okyakusama wa, sarani 5% biki ni narimasu.' Kono oshirase ni tsuite tadashii mono wa dore desu ka?",
+    "level": "N4",
+    "category": "READING",
+    "options": [
+      "All items including food get a 20% discount",
+      "On the last day of the sale, the store closes 3 hours earlier than usual",
+      "The sale lasts for a full week",
+      "Point card holders get an additional 10% discount"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Please read the following announcement. [Spring Sale at Sakura Department Store, March 20 (Fri) - March 25 (Wed). All items 20% off! Food items 10% off. Last day closes at 5 PM (normally 8 PM). Point card holders get an additional 5% discount.]\n\nWhich statement is correct about this announcement?",
+    "answerExplanation": "The correct answer is B: 'On the last day of the sale, the store closes 3 hours earlier than usual'. The announcement states the last day closes at 5 PM (午後5時), while normally it closes at 8 PM (午後8時), so 3 hours earlier. Option A is wrong because food (食料品) only gets 10% off, not 20%. Option C is wrong because the sale runs from March 20 to March 25 (6 days, not a full week). Option D is wrong because point card holders get an additional 5% discount (5%引き), not 10%.",
+    "hint": "Compare the normal closing time (通常 = normally) with the last day (最終日) closing time. Also note the food discount is different from other items.",
+    "difficultyScore": 3
+  }
+]

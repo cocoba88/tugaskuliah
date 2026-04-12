@@ -1,0 +1,382 @@
+[
+  {
+    "id": "question_n5_1_001",
+    "question": "あした　デパート___　行きます。",
+    "furigana": "明日[あした]　デパート___　行[い]きます。",
+    "romaji": "Ashita depaato ___ ikimasu.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "が",
+      "へ",
+      "を",
+      "で"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Tomorrow I will go to the department store.",
+    "answerExplanation": "The particle 'へ (e)' indicates the direction or destination of movement — where someone is going. 'で' indicates the place where an activity takes place (not a travel destination), 'が' is a subject marker, 'を' is a direct object marker. Only 'へ' fits after a destination name + the verb 行く.",
+    "hint": "Choose the particle that indicates DIRECTION or DESTINATION of travel",
+    "difficultyScore": 1
+  },
+  {
+    "id": "question_n5_1_002",
+    "question": "毎日　コーヒーを　___　飲みます。",
+    "furigana": "毎日[まいにち]　コーヒーを　___　飲[の]みます。",
+    "romaji": "Mainichi koohii o ___ nomimasu.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "二本",
+      "二枚",
+      "二杯",
+      "二冊"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Every day I drink two cups of coffee.",
+    "answerExplanation": "'杯 (hai/bai)' is a counter specifically for drinks in glasses, cups, or bowls. '本 (hon)' is for long/cylindrical objects like bottles or pencils, '枚 (mai)' is for thin, flat objects like paper or plates, '冊 (satsu)' is for bound books. Coffee is drunk from a cup, so the correct counter is 杯.",
+    "hint": "The counter used for drinks poured into glasses or cups",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_1_003",
+    "question": "きのう、図書館で　本を　___。",
+    "furigana": "昨日[きのう]、図書館[としょかん]で　本[ほん]を　___。",
+    "romaji": "Kinou, toshokan de hon o ___.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "読みます",
+      "読みたいです",
+      "読んでいます",
+      "読みました"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "Yesterday I read a book at the library.",
+    "answerExplanation": "The word 'きのう (yesterday)' indicates past time, so the polite past form ～ました must be used. '読みます' = habitual or future plan, '読みたいです' = want to read (desire, not yet done), '読んでいます' = currently reading. Only '読みました' indicates a completed action in the past.",
+    "hint": "Notice the word 'きのう' at the beginning of the sentence — it marks past time, so the verb must be in past tense",
+    "difficultyScore": 1
+  },
+  {
+    "id": "question_n5_1_004",
+    "question": "「花」の　読み方は　何ですか。",
+    "furigana": "「花」の　読[よ]み方[かた]は　何[なん]ですか。",
+    "romaji": "'Hana' no yomikata wa nan desu ka.",
+    "level": "N5",
+    "category": "KANJI",
+    "options": [
+      "はな",
+      "はし",
+      "かさ",
+      "くさ"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "How do you read the kanji '花'?",
+    "answerExplanation": "The kanji '花' is read 'はな (hana)' and means flower. This kanji has the radical 艹 (grass) on top and 化 below. Other options: 'はし (hashi)' = 橋 bridge / 箸 chopsticks, 'かさ (kasa)' = 傘 umbrella, 'くさ (kusa)' = 草 grass.",
+    "hint": "This kanji has the plant radical (艹) on top — think of something beautiful from plants",
+    "difficultyScore": 1
+  },
+  {
+    "id": "question_n5_1_005",
+    "question": "田中さんは　毎朝　公園___　走ります。",
+    "furigana": "田中[たなか]さんは　毎朝[まいあさ]　公園[こうえん]___　走[はし]ります。",
+    "romaji": "Tanaka-san wa maiasa kouen ___ hashirimasu.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "に",
+      "へ",
+      "を",
+      "で"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "Tanaka-san runs in the park every morning.",
+    "answerExplanation": "The particle 'で' indicates the place where an activity is performed. Tanaka runs IN the park, not to the park. 'に' indicates a point of existence (being at) or destination, 'へ' indicates direction of movement, 'を' indicates a direct object or route traveled. To express the location of the running activity, 'で' is correct.",
+    "hint": "Think of the particle that indicates the PLACE where an activity is done",
+    "difficultyScore": 1
+  },
+  {
+    "id": "question_n5_1_006",
+    "question": "ご飯を　___　前に、手を洗います。",
+    "furigana": "ご飯[はん]を　___　前[まえ]に、手[て]を洗[あら]います。",
+    "romaji": "Gohan o ___ mae ni, te o araimasu.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "食べた",
+      "食べる",
+      "食べて",
+      "食べない"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Before eating, I wash my hands.",
+    "answerExplanation": "The pattern for 'before doing X' in Japanese: Dictionary Form verb + 前に. '食べる' is the dictionary form of 食べます. '食べた' = past form (used with ～後で not ～前に), '食べて' = te-form (for connecting sentences), '食べない' = negative form. Only the dictionary form is used before 前に.",
+    "hint": "Before 前に always use the most basic verb form — the form ending with ~る or ~う",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_1_007",
+    "question": "「財布」の意味は？",
+    "furigana": "「財布[さいふ]」の意味[いみ]は？",
+    "romaji": "'Saifu' no imi wa?",
+    "level": "N5",
+    "category": "VOCABULARY",
+    "options": [
+      "Envelope",
+      "Wallet",
+      "Sling bag",
+      "Pencil case"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "What is the meaning of '財布 (さいふ)'?",
+    "answerExplanation": "'財布 (saifu)' means wallet — a small item for storing money, cards, and receipts. The kanji '財' means wealth/fortune, and '布' means cloth, literally describing a 'wealth cloth' or small pouch for valuables. Other words: 'ふうとう (fuutou)' = envelope, 'ショルダーバッグ' = shoulder bag, 'ふでばこ (fudebako)' = pencil case.",
+    "hint": "A small item you usually open when you want to pay at the cashier — a place to store money and cards",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_1_008",
+    "question": "この　りんごは　あの　りんご___　大きいです。",
+    "furigana": "この　りんごは　あの　りんご___　大[おお]きいです。",
+    "romaji": "Kono ringo wa ano ringo ___ ookii desu.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "から",
+      "まで",
+      "より",
+      "ほど"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "This apple is bigger than that apple.",
+    "answerExplanation": "The particle 'より' is used to compare two things (comparison/comparative). Pattern: A は B より ～ (A is more ～ than B). 'から' = from (starting point of time/place), 'まで' = until (end point), 'ほど' = as much as (used in negative sentences: ～ほど～ない). The correct particle for direct comparison is 'より'.",
+    "hint": "This particle is used to express comparison — 'more ... than'",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_1_009",
+    "question": "「曇り」の意味は？",
+    "furigana": "「曇[くも]り」の意味[いみ]は？",
+    "romaji": "'Kumori' no imi wa?",
+    "level": "N5",
+    "category": "VOCABULARY",
+    "options": [
+      "Cloudy",
+      "Heavy rain",
+      "Windy",
+      "Clear/Sunny"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "What is the meaning of '曇り (くもり)'?",
+    "answerExplanation": "'曇り (kumori)' means cloudy or overcast — a condition where the sky is covered with clouds so the sun is not clearly visible. This word comes from '雲 (くも/kumo)' meaning cloud, plus the suffix ～り to make it a weather condition adjective. Other weather words: '大雨 (ooame)' = heavy rain, '晴れ (hare)' = sunny/clear, '風 (kaze)' = wind.",
+    "hint": "Notice the beginning of this word: 'くも' in Japanese means cloud — think of a weather condition related to clouds",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_1_010",
+    "question": "私は　友達に　プレゼントを　___。",
+    "furigana": "私[わたし]は　友達[ともだち]に　プレゼントを　___。",
+    "romaji": "Watashi wa tomodachi ni purezento o ___.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "もらいました",
+      "くれました",
+      "あげました",
+      "かいました"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "I gave a present to my friend.",
+    "answerExplanation": "Key: identify WHO is the giver and WHO is the receiver. Subject '私は (I)' = giver, '友達に (to friend)' = receiver → I give to friend = あげました. 'もらいました' = I received from someone else (reverse direction). 'くれました' = someone else gave to me (reverse direction). 'かいました' = bought (not giving). Only 'あげました' indicates giving from me to someone else.",
+    "hint": "Notice the direction of giving: 私は = giver, 友達に = receiver. Choose the verb meaning 'to give from me to someone else'",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_1_011",
+    "question": "学校___　バスで　行きます。",
+    "furigana": "学校[がっこう]___　バスで　行[い]きます。",
+    "romaji": "Gakkou ___ basu de ikimasu.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "を",
+      "で",
+      "まで",
+      "から"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "I go to school by bus.",
+    "answerExplanation": "The particle 'まで' indicates the end point or destination limit (up to ~). 'を' is a direct object marker, 'で' indicates means/tools or place of activity — in this sentence 'バスで' already uses 'で' for the means, 'から' indicates the starting point (from ~). The correct particle to mark the final destination of the journey is 'まで'.",
+    "hint": "This particle indicates the end point or limit — 'up to where'",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_1_012",
+    "question": "「難しい」の　反対は　何ですか。",
+    "furigana": "「難[むずか]しい」の　反対[はんたい]は　何[なん]ですか。",
+    "romaji": "'Muzukashii' no hantai wa nan desu ka.",
+    "level": "N5",
+    "category": "VOCABULARY",
+    "options": [
+      "おもしろい",
+      "やさしい",
+      "たのしい",
+      "かわいい"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "What is the opposite of '難しい (difficult)'?",
+    "answerExplanation": "'難しい (muzukashii)' means difficult. Its opposite is 'やさしい (yasashii)' which in this context means easy (易しい). 'おもしろい' = interesting/funny, 'たのしい' = enjoyable, 'かわいい' = cute. Only 'やさしい' is the antonym of 'difficult'.",
+    "hint": "Think of the opposite of 'difficult' in the context of exams or lessons — this word can also mean 'kind/gentle' in another context",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_1_013",
+    "question": "ここに　名前を　___　ください。",
+    "furigana": "ここに　名前[なまえ]を　___　ください。",
+    "romaji": "Koko ni namae o ___ kudasai.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "書く",
+      "書き",
+      "書いた",
+      "書いて"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "Please write your name here.",
+    "answerExplanation": "The polite request pattern in Japanese: Te-form verb + ください. 書く (kaku) → te-form = 書いて (kaite) + ください = please write. '書く' = dictionary form (without ください it doesn't become a polite request), '書き' = masu-stem only, '書いた' = plain past form. Only the te-form is used before ください.",
+    "hint": "Before ください always use the て (te-form) of the verb",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_1_014",
+    "question": "私は　音楽が　___　です。",
+    "furigana": "私[わたし]は　音楽[おんがく]が　___　です。",
+    "romaji": "Watashi wa ongaku ga ___ desu.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "好き",
+      "上手",
+      "欲しい",
+      "ほしい"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "I like music.",
+    "answerExplanation": "The pattern ～は ～が 好きです is used to express liking. '好き (suki)' = like, fits this pattern. '上手 (jouzu)' = skilled/good at (describes ability, not feelings), '欲しい (hoshii)' = wanting a physical object (not for hobbies/likes). Note: '欲しい' and 'ほしい' are the same word — both are wrong here because music is not something 'wanted' in this context.",
+    "hint": "This sentence expresses the FEELING of liking music — not ability or desire to possess",
+    "difficultyScore": 1
+  },
+  {
+    "id": "question_n5_1_015",
+    "question": "この　スープは　___そうです。",
+    "furigana": "この　スープは　___そうです。",
+    "romaji": "Kono suupu wa ___ sou desu.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "おいしい",
+      "おいしく",
+      "おいし",
+      "おいしくて"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "This soup looks delicious.",
+    "answerExplanation": "The pattern for 'looks like/seems ~' with i-adjectives: remove the ending 'い' then add そうです. おいしい → おいし + そうです = おいしそうです. 'おいしい' = complete form (cannot directly + そう), 'おいしく' = adverbial form, 'おいしくて' = te-form of i-adjective. Only the stem without い is used before そうです.",
+    "hint": "For the ～そうです pattern with i-adjectives, you MUST remove the い ending first: おいしい → おいし → おいしそうです",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_1_016",
+    "question": "先生は　今　教室に　___。",
+    "furigana": "先生[せんせい]は　今[いま]　教室[きょうしつ]に　___。",
+    "romaji": "Sensei wa ima kyoushitsu ni ___.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "あります",
+      "います",
+      "です",
+      "します"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "The teacher is in the classroom now.",
+    "answerExplanation": "To express the existence of living things (people, animals), use 'います (imasu)'. 'あります (arimasu)' is used for inanimate objects. '先生 (sensei)' is a person → must use います. 'です' = is (does not express existence at a place), 'します' = to do (action verb).",
+    "hint": "先生 is a human — choose the existence verb specifically for living things",
+    "difficultyScore": 1
+  },
+  {
+    "id": "question_n5_1_017",
+    "question": "「飲み物」の　意味は　何ですか。",
+    "furigana": "「飲[の]み物[もの]」の　意味[いみ]は　何[なん]ですか。",
+    "romaji": "'Nomimono' no imi wa nan desu ka.",
+    "level": "N5",
+    "category": "VOCABULARY",
+    "options": [
+      "Food",
+      "Snack",
+      "Seasoning",
+      "Drink"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "What is the meaning of '飲み物 (のみもの)'?",
+    "answerExplanation": "'飲み物 (nomimono)' comes from '飲む (nomu = to drink)' + '物 (mono = thing/something)'. So it means 'something that is drunk' = Beverage/Drink. Compare with the same pattern: '食べ物 (tabemono)' = food (something eaten), '買い物 (kaimono)' = shopping/purchases (something bought).",
+    "hint": "Break down this word: 飲み = from the verb 'to drink', 物 = thing. Combine the meanings.",
+    "difficultyScore": 1
+  },
+  {
+    "id": "question_n5_1_018",
+    "question": "雨が　降りますから、傘を　___。",
+    "furigana": "雨[あめ]が　降[ふ]りますから、傘[かさ]を　___。",
+    "romaji": "Ame ga furimasu kara, kasa o ___.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "持ちましょう",
+      "持ちたいです",
+      "持ちません",
+      "持ちます"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Because it's raining, let's bring an umbrella.",
+    "answerExplanation": "The context of this sentence is an invitation: because it's raining → let's bring an umbrella. '持ちましょう (mochimashō)' = let's bring (invitation/let's ~), fits as a logical response to the reason 'it's raining'. '持ちたいです' = want to bring (expressing personal desire, not invitation), '持ちません' = don't bring (contradicts the sentence logic — rain means bring umbrella), '持ちます' = will bring (neutral statement, less fitting since the sentence has an invitational tone).",
+    "hint": "Because of the rain, the speaker is INVITING the listener — use the invitation form ～ましょう",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_1_019",
+    "question": "「重い」の意味は？",
+    "furigana": "「重[おも]い」の意味[いみ]は？",
+    "romaji": "'Omoi' no imi wa?",
+    "level": "N5",
+    "category": "VOCABULARY",
+    "options": [
+      "Light",
+      "Thin",
+      "Heavy",
+      "Thick"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "What is the meaning of '重い (おもい)'?",
+    "answerExplanation": "'重い (omoi)' means heavy — describing something with great mass or difficult to lift. Its opposite is '軽い (karui)' = light. Other adjectives: '薄い (usui)' = thin, '厚い (atsui)' = thick. Don't confuse with '思い (omoi)' which means thought/feeling — the kanji is different.",
+    "hint": "Imagine lifting something very difficult to lift — what adjective describes it?",
+    "difficultyScore": 1
+  },
+  {
+    "id": "question_n5_1_020",
+    "question": "部屋が　きれい___、広いです。",
+    "furigana": "部屋[へや]が　きれい___、広[ひろ]いです。",
+    "romaji": "Heya ga kirei ___, hiroi desu.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "くて",
+      "で",
+      "な",
+      "に"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "The room is clean and spacious.",
+    "answerExplanation": "'きれい' looks like an i-adjective because it ends with い, but it's actually a na-adjective. To connect a na-adjective with another description (te-form), use 'で': きれいで + 広いです = clean AND spacious. 'くて' = te-form for i-adjectives only (example: 大きくて), 'な' = used before nouns (きれいな部屋), 'に' = becomes an adverb of manner (きれいに掃除する).",
+    "hint": "きれい is a NA-adjective even though it ends with い. Te-form of na-adjective = add 'で'",
+    "difficultyScore": 2
+  }
+]

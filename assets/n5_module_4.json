@@ -1,0 +1,382 @@
+[
+  {
+    "id": "question_n5_4_001",
+    "question": "「水」が一つの単語として使われる時の読み方は？",
+    "furigana": "「水[みず]」が一[ひと]つの単語[たんご]として使[つか]われる時[とき]の読[よ]み方[かた]は？",
+    "romaji": "'Mizu' ga hitotsu no tango to shite tsukawareru toki no yomikata wa?",
+    "level": "N5",
+    "category": "KANJI",
+    "options": [
+      "すい",
+      "みず",
+      "みずうみ",
+      "みち"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Bagaimana cara membaca '水' saat berdiri sendiri sebagai satu kata?",
+    "answerExplanation": "'水' saat berdiri sendiri dibaca 'みず (mizu)' menggunakan kun-yomi, artinya air. 'すい (sui)' adalah on-yomi yang hanya dipakai dalam kata majemuk seperti 水曜日 (suiyoubi) atau 水泳 (suiei). 'みずうみ (mizuumi)' = 湖 danau (kata yang berbeda), 'みち (michi)' = 道 jalan (kanji yang berbeda).",
+    "hint": "Saat kanji berdiri sendiri biasanya menggunakan kun-yomi — pikirkan kata Jepang asli untuk 'air'",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_4_002",
+    "question": "ひるごはんは　いつも　12時___　食べます。",
+    "furigana": "昼[ひる]ごはんは　いつも　12時[じ]___　食[た]べます。",
+    "romaji": "Hirugohan wa itsumo 12-ji ___ tabemasu.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "で",
+      "を",
+      "に",
+      "が"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Makan siang selalu makan jam 12.",
+    "answerExplanation": "Partikel 'に' digunakan setelah waktu spesifik (jam, hari, tanggal) untuk menunjukkan kapan suatu aksi dilakukan. '12時に食べます' = makan pada jam 12. 'で' = tempat aktivitas atau alat, 'を' = objek langsung, 'が' = penanda subjek. Catatan: に TIDAK dipakai setelah kata waktu relatif seperti きのう, あした, いま.",
+    "hint": "Setelah waktu SPESIFIK (jam, tanggal), gunakan partikel penanda waktu",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_4_003",
+    "question": "「学校」の「校」の読み方は？",
+    "furigana": "「学校[がっこう]」の「校」の読[よ]み方[かた]は？",
+    "romaji": "'Gakkou' no 'kou' no yomikata wa?",
+    "level": "N5",
+    "category": "KANJI",
+    "options": [
+      "がっ",
+      "がく",
+      "こう",
+      "かお"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Bagaimana cara membaca kanji '校' dalam '学校'?",
+    "answerExplanation": "'校' dalam '学校 (がっこう)' dibaca 'こう'. Kata lengkapnya: 学 (がく → がっ karena sokuon) + 校 (こう) = がっこう. 'がっ' dan 'がく' adalah bacaan kanji 学 (bukan 校), 'かお' = 顔 wajah (kanji yang sama sekali berbeda). Kanji 校 juga muncul dalam 高校 (こうこう = SMA).",
+    "hint": "Pikirkan kata lengkapnya: がっ＿＿ — bunyi setelah がっ adalah bacaan kanji 校",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n5_4_004",
+    "question": "あした、友だち___　映画を見ます。",
+    "furigana": "あした、友[とも]だち___　映画[えいが]を見[み]ます。",
+    "romaji": "Ashita, tomodachi ___ eiga o mimasu.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "と",
+      "に",
+      "で",
+      "が"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Besok saya menonton film bersama teman.",
+    "answerExplanation": "Partikel 'と' menunjukkan 'bersama dengan' seseorang saat melakukan aktivitas. Pola: [orang] + と + [aktivitas]. 'に' = penanda tujuan/penerima (友だちに会う = bertemu teman), 'で' = tempat aktivitas atau alat, 'が' = penanda subjek. Di sini, teman adalah partner yang bersama-sama menonton film.",
+    "hint": "Partikel yang menunjukkan PARTNER — orang yang melakukan aktivitas BERSAMA Anda",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_4_005",
+    "question": "「本屋」の正しい読み方はどれですか。",
+    "furigana": "「本屋[ほんや]」の正[ただ]しい読[よ]み方[かた]はどれですか。",
+    "romaji": "'Honya' no tadashii yomikata wa dore desu ka.",
+    "level": "N5",
+    "category": "KANJI",
+    "options": [
+      "ほんいえ",
+      "もとや",
+      "ほんや",
+      "ほんおく"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Manakah cara membaca yang benar untuk '本屋'?",
+    "answerExplanation": "'本屋' dibaca 'ほんや (honya)' dan artinya toko buku. '本' = ほん (buku), '屋' = や (toko/rumah usaha). Pola ～屋 untuk toko: パン屋 (panya = toko roti), 花屋 (hanaya = toko bunga). 'ほんいえ' salah karena いえ (家) = rumah pribadi (berbeda dari 屋), 'もとや' menggunakan bacaan 本 yang salah, 'ほんおく' tidak ada.",
+    "hint": "Kanji 屋 sering dibaca 'や' dan berarti toko — pola yang sama dengan パン屋, 花屋",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n5_4_006",
+    "question": "きのう、図書館___　勉強しました。",
+    "furigana": "きのう、図書館[としょかん]___　勉強[べんきょう]しました。",
+    "romaji": "Kinou, toshokan ___ benkyou shimashita.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "に",
+      "で",
+      "を",
+      "へ"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Kemarin saya belajar di perpustakaan.",
+    "answerExplanation": "Partikel 'で' menunjukkan tempat di mana suatu aktivitas dilakukan. Di sini, perpustakaan adalah tempat aktivitas belajar berlangsung. 'に' = tempat keberadaan statis (dengan います/あります) atau tujuan, 'を' = objek langsung, 'へ' = arah tujuan pergerakan. Bedakan: 図書館に います (ada di perpustakaan) vs 図書館で 勉強します (belajar di perpustakaan).",
+    "hint": "Perpustakaan adalah TEMPAT melakukan AKTIVITAS belajar — bukan tempat keberadaan statis",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_4_007",
+    "question": "「日本」の「日」の読み方は？",
+    "furigana": "「日本[にほん]」の「日」の読[よ]み方[かた]は？",
+    "romaji": "'Nihon' no 'ni' no yomikata wa?",
+    "level": "N5",
+    "category": "KANJI",
+    "options": [
+      "ひ",
+      "にち",
+      "か",
+      "に"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "Bagaimana cara membaca kanji '日' dalam '日本'?",
+    "answerExplanation": "'日' dalam '日本 (にほん)' dibaca 'に'. Kanji 日 memiliki banyak bacaan tergantung konteks: 'に' dalam 日本, 'にち' dalam 日曜日 (にちようび), 'ひ' dalam 今日の日 (きょうのひ = hari ini), 'か' dalam 二日 (ふつか = tanggal 2). Yang diminta adalah bacaan dalam kata 日本 saja.",
+    "hint": "Pikirkan kata lengkapnya: ＿ほん — bunyi sebelum ほん adalah bacaan kanji ini",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n5_4_008",
+    "question": "「飼う」の意味は？",
+    "furigana": "「飼[か]う」の意味[いみ]は？",
+    "romaji": "'Kau' no imi wa?",
+    "level": "N5",
+    "category": "VOCABULARY",
+    "options": [
+      "Membeli",
+      "Menjual",
+      "Memelihara",
+      "Memegang"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Apa arti '飼う (かう)'?",
+    "answerExplanation": "'飼う (kau)' berarti memelihara hewan. PERHATIAN: bunyinya sama dengan '買う (kau)' = membeli, tapi kanjinya berbeda! Kanji '飼' mengandung elemen 食 (makanan) yang mengisyaratkan aksi memberi makan/merawat hewan. '売る (uru)' = menjual, '持つ (motsu)' = memegang/membawa. Contoh: 猫を飼う = memelihara kucing.",
+    "hint": "Kanji ini mengandung elemen 食 (makanan) — aksi ini berkaitan dengan merawat dan memberi makan makhluk hidup",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n5_4_009",
+    "question": "（Reading）\nわたしは まいあさ 6じに おきます。かおを あらって、ごはんを たべます。7じに いえを でて、がっこうへ いきます。がっこうは 8じから 3じまでです。\n\nしつもん：がっこうは なんじまでですか。",
+    "furigana": "わたしは まいあさ 6じに おきます。かおを あらって、ごはんを たべます。7じに いえを でて、がっこうへ いきます。がっこうは 8じから 3じまでです。\n\nしつもん：がっこうは なんじまでですか。",
+    "romaji": "Watashi wa maiasa 6-ji ni okimasu. Kao o aratte, gohan o tabemasu. 7-ji ni ie o dete, gakkou e ikimasu. Gakkou wa 8-ji kara 3-ji made desu.\n\nShitsumon: Gakkou wa nan-ji made desu ka.",
+    "level": "N5",
+    "category": "READING",
+    "options": [
+      "6じ",
+      "7じ",
+      "8じ",
+      "3じ"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "Saya bangun jam 6 setiap pagi. Cuci muka lalu makan. Keluar rumah jam 7, pergi ke sekolah. Sekolah dari jam 8 sampai jam 3.\n\nPertanyaan: Sampai jam berapa sekolahnya?",
+    "answerExplanation": "Teks: 'がっこうは 8じから 3じまでです' = sekolah dari jam 8 sampai jam 3. Kata 'まで' = sampai. Yang ditanyakan adalah jam berakhirnya (まで), yaitu 3じ. Jangan tertukar: 6じ = bangun, 7じ = keluar rumah, 8じ = sekolah mulai (から).",
+    "hint": "Perhatikan kata 'まで' (sampai) dalam pertanyaan — cari angka setelah 'まで' di teks",
+    "difficultyScore": 1
+  },
+  {
+    "id": "question_n5_4_010",
+    "question": "「大きい」の反対は？",
+    "furigana": "「大[おお]きい」の反対[はんたい]は？",
+    "romaji": "'Ookii' no hantai wa?",
+    "level": "N5",
+    "category": "VOCABULARY",
+    "options": [
+      "ながい",
+      "ちいさい",
+      "みじかい",
+      "ひくい"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Apa lawan kata dari '大きい (besar)'?",
+    "answerExplanation": "'大きい (ookii)' = besar. Lawan katanya adalah 'ちいさい (chiisai)' = kecil. Kata lain: 'ながい (nagai)' = panjang (lawan: みじかい), 'みじかい (mijikai)' = pendek (ukuran), 'ひくい (hikui)' = rendah (lawan: たかい). Semua adalah kata sifat ukuran/dimensi, tapi hanya ちいさい yang merupakan lawan dari 大きい.",
+    "hint": "Lawan dari 'besar' — pikirkan kata sifat yang menggambarkan ukuran yang berlawanan",
+    "difficultyScore": 1
+  },
+  {
+    "id": "question_n5_4_011",
+    "question": "このリンゴは___です。",
+    "furigana": "このリンゴは___です。",
+    "romaji": "Kono ringo wa ___ desu.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "あまくて",
+      "あまい",
+      "あまく",
+      "あまいの"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Apel ini manis.",
+    "answerExplanation": "Kata sifat-i dalam bentuk dasar langsung bisa diikuti 'です' untuk membuat kalimat deskriptif sopan. あまい + です = manis. 'あまくて' = te-form (untuk menghubungkan: manis DAN ~), 'あまく' = bentuk adverbia (mengubah kata kerja), 'あまいの' = nominalisasi (yang manis). Hanya bentuk dasar あまい yang tepat di depan です untuk kalimat sederhana.",
+    "hint": "Sebelum です, kata sifat-i tetap dalam bentuk DASAR (tidak perlu diubah ke bentuk lain)",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_4_012",
+    "question": "「長い」の反対語は？",
+    "furigana": "「長[なが]い」の反対語[はんたいご]は？",
+    "romaji": "'Nagai' no hantaigo wa?",
+    "level": "N5",
+    "category": "VOCABULARY",
+    "options": [
+      "高い",
+      "低い",
+      "小さい",
+      "短い"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "Apa lawan kata dari '長い (panjang)'?",
+    "answerExplanation": "'長い (nagai)' = panjang. Lawan katanya adalah '短い (mijikai)' = pendek (untuk ukuran panjang/durasi). Pasangan antonim lain: '高い (takai)' = tinggi/mahal ↔ '低い (hikui)' = rendah, '大きい (ookii)' = besar ↔ '小さい (chiisai)' = kecil. Semua menggambarkan dimensi/ukuran, tapi hanya 短い yang merupakan lawan dari 長い.",
+    "hint": "Pikirkan seutas tali yang tidak panjang — kata sifat untuk ukuran yang berlawanan dengan 'panjang'",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_4_013",
+    "question": "「花見」の正しい読み方はどれですか。",
+    "furigana": "「花見[はなみ]」の正[ただ]しい読[よ]み方[かた]はどれですか。",
+    "romaji": "'Hanami' no tadashii yomikata wa dore desu ka.",
+    "level": "N5",
+    "category": "KANJI",
+    "options": [
+      "かけん",
+      "はなけん",
+      "かみ",
+      "はなみ"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "Manakah cara membaca yang benar untuk '花見'?",
+    "answerExplanation": "'花見' dibaca 'はなみ (hanami)' dan artinya aktivitas melihat/menikmati bunga (terutama sakura). '花' = はな (bunga, kun-yomi), '見' = み (dari 見る miru = melihat, kun-yomi). Kedua kanji menggunakan kun-yomi karena ini kata asli Jepang. 'かけん' dan 'はなけん' menggunakan on-yomi yang salah, 'かみ' = 紙 (kertas) atau 髪 (rambut) — kata yang berbeda.",
+    "hint": "Tradisi Jepang menikmati bunga sakura di musim semi — kedua kanji dibaca dengan kun-yomi",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n5_4_014",
+    "question": "テストが　ありますから、たくさん___たいです。",
+    "furigana": "テストが　ありますから、たくさん___たいです。",
+    "romaji": "Tesuto ga arimasu kara, takusan ___ tai desu.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "べんきょうする",
+      "べんきょうし",
+      "べんきょうして",
+      "べんきょうした"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Karena ada ujian, saya ingin belajar banyak.",
+    "answerExplanation": "Pola keinginan 'ingin melakukan ~' = Masu-stem + たいです. べんきょうします → masu-stem = べんきょうし → べんきょうしたいです = ingin belajar. 'べんきょうする' = bentuk kamus (tidak bisa langsung + たい), 'べんきょうして' = te-form, 'べんきょうした' = bentuk lampau. Hanya masu-stem yang digunakan sebelum たいです.",
+    "hint": "Sebelum たいです, gunakan masu-stem — bentuk ます tanpa akhiran ます",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_4_015",
+    "question": "「月曜日」の「月」の読み方は？",
+    "furigana": "「月曜日[げつようび]」の「月」の読[よ]み方[かた]は？",
+    "romaji": "'Getsuyoubi' no 'getsu' no yomikata wa?",
+    "level": "N5",
+    "category": "KANJI",
+    "options": [
+      "がつ",
+      "つき",
+      "げつ",
+      "げつよう"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Bagaimana cara membaca kanji '月' dalam '月曜日'?",
+    "answerExplanation": "'月' dalam '月曜日 (げつようび)' dibaca 'げつ'. Kanji 月 memiliki beberapa bacaan: 'げつ' dalam 月曜日 (hari Senin), 'がつ' dalam 一月 (いちがつ = bulan Januari), 'つき' saat berdiri sendiri (bulan di langit). 'げつよう' = 月曜 keseluruhan (bukan bacaan kanji 月 saja).",
+    "hint": "Pikirkan kata lengkapnya: ＿＿ようび — bunyi sebelum ようび adalah bacaan kanji ini",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n5_4_016",
+    "question": "「高い」の意味は？",
+    "furigana": "「高[たか]い」の意味[いみ]は？",
+    "romaji": "'Takai' no imi wa?",
+    "level": "N5",
+    "category": "VOCABULARY",
+    "options": [
+      "Rendah",
+      "Murah",
+      "Tinggi / Mahal",
+      "Pendek"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Apa arti '高い (たかい)'?",
+    "answerExplanation": "'高い (takai)' memiliki dua arti: 'tinggi' (untuk ketinggian benda/bangunan) DAN 'mahal' (untuk harga). Contoh: この山は高い = gunung ini tinggi, この服は高い = baju ini mahal. Lawan katanya: '低い (hikui)' = rendah, '安い (yasui)' = murah. '短い (mijikai)' = pendek (ukuran panjang, bukan tinggi).",
+    "hint": "Kata sifat ini punya DUA arti yang berkaitan dengan ukuran vertikal DAN harga",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_4_017",
+    "question": "この　へやは　あかるい___、ひろいです。",
+    "furigana": "この　部屋[へや]は　明[あか]るい___、広[ひろ]いです。",
+    "romaji": "Kono heya wa akarui ___, hiroi desu.",
+    "level": "N5",
+    "category": "GRAMMAR",
+    "options": [
+      "で",
+      "し",
+      "くて",
+      "から"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Kamar ini terang dan luas.",
+    "answerExplanation": "Untuk menghubungkan dua kata sifat-i (terang DAN luas), gunakan te-form kata sifat-i: buang い lalu tambah くて. あかるい → あかるくて + ひろいです = terang DAN luas. 'で' = te-form untuk kata sifat-na (bukan -i), 'し' = menyebutkan alasan (lebih N4), 'から' = karena (hubungan sebab-akibat, bukan penggabungan sifat).",
+    "hint": "Menghubungkan dua kata sifat-i: ubah akhiran い menjadi bentuk penghubung yang tepat",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_4_018",
+    "question": "（Reading）\nわたしの かぞくは 4にんです。ちちと ははと あねと わたしです。ちちは かいしゃいんで、ははは せんせいです。あねは だいがくせいです。わたしは こうこうせいです。\n\nしつもん：おかあさんの しごとは なんですか。",
+    "furigana": "わたしの 家族[かぞく]は 4人[にん]です。父[ちち]と 母[はは]と 姉[あね]と わたしです。父[ちち]は 会社員[かいしゃいん]で、母[はは]は 先生[せんせい]です。姉[あね]は 大学生[だいがくせい]です。わたしは 高校生[こうこうせい]です。\n\nしつもん：おかあさんの 仕事[しごと]は なんですか。",
+    "romaji": "Watashi no kazoku wa 4-nin desu. Chichi to haha to ane to watashi desu. Chichi wa kaishain de, haha wa sensei desu. Ane wa daigakusei desu. Watashi wa koukousei desu.\n\nShitsumon: Okaasan no shigoto wa nan desu ka.",
+    "level": "N5",
+    "category": "READING",
+    "options": [
+      "かいしゃいん",
+      "せんせい",
+      "だいがくせい",
+      "こうこうせい"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Keluarga saya 4 orang: ayah, ibu, kakak perempuan, dan saya. Ayah karyawan, ibu guru. Kakak mahasiswa. Saya siswa SMA.\n\nPertanyaan: Apa pekerjaan ibu?",
+    "answerExplanation": "Teks: 'ははは せんせいです' = ibu adalah guru. PERHATIAN: pertanyaan menggunakan 'おかあさん' (panggilan sopan untuk ibu), yang sama dengan 'はは' (panggilan rendah diri untuk ibu sendiri) di teks. 'かいしゃいん' = pekerjaan ayah, 'だいがくせい' = status kakak, 'こうこうせい' = status penulis.",
+    "hint": "Cari kalimat tentang はは (ibu) di teks — ingat おかあさん = はは (sama-sama berarti ibu)",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n5_4_019",
+    "question": "「水色」はどんな色ですか。",
+    "furigana": "「水色[みずいろ]」はどんな色[いろ]ですか。",
+    "romaji": "'Mizuiro' wa donna iro desu ka.",
+    "level": "N5",
+    "category": "VOCABULARY",
+    "options": [
+      "Warna biru muda",
+      "Warna merah",
+      "Warna hijau",
+      "Warna kuning"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Warna apa yang dimaksud dengan '水色 (みずいろ)'?",
+    "answerExplanation": "'水色 (mizuiro)' secara harfiah berarti 'warna air' — yaitu biru muda/biru langit, seperti warna air jernih. '水 (mizu)' = air, '色 (iro)' = warna. Warna lain dalam bahasa Jepang: '赤 (aka)' = merah, '緑 (midori)' = hijau, '黄色 (kiiro)' = kuning.",
+    "hint": "Pikirkan warna air jernih di kolam atau laut dangkal — 水 = air, 色 = warna",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n5_4_020",
+    "question": "「飲む」の意味は？",
+    "furigana": "「飲[の]む」の意味[いみ]は？",
+    "romaji": "'Nomu' no imi wa?",
+    "level": "N5",
+    "category": "VOCABULARY",
+    "options": [
+      "Makan",
+      "Memasak",
+      "Mencuci",
+      "Minum"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "Apa arti '飲む (のむ)'?",
+    "answerExplanation": "'飲む (nomu)' berarti minum — memasukkan cairan ke dalam tubuh melalui mulut. Kanji '飲' mengandung elemen 食 (makanan/konsumsi) dan 欠 (membuka mulut). Kata lain: '食べる (taberu)' = makan, '料理する (ryouri suru)' = memasak, '洗う (arau)' = mencuci. Semuanya berkaitan dengan aktivitas sehari-hari tapi maknanya berbeda.",
+    "hint": "Aksi yang dilakukan dengan air, teh, kopi, atau jus — memasukkan cairan ke mulut",
+    "difficultyScore": 1
+  }
+]

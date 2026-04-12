@@ -1,0 +1,382 @@
+[
+  {
+    "id": "question_n4_3_001",
+    "question": "「片付ける」はどういう意味ですか？",
+    "furigana": "「片付[かたづ]ける」はどういう意味[いみ]ですか？",
+    "romaji": "'Katadzukeru' wa dou iu imi desu ka?",
+    "level": "N4",
+    "category": "VOCABULARY",
+    "options": [
+      "Dọn dẹp / sắp xếp",
+      "Làm bẩn / làm lộn xộn",
+      "Di chuyển / vận chuyển",
+      "Sắp đặt / lắp ráp"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "'片付ける' có nghĩa là gì?",
+    "answerExplanation": "'片付ける' (katadzukeru) có nghĩa là 'dọn dẹp' hoặc 'sắp xếp gọn gàng', ví dụ dọn phòng hoặc bàn. Ví dụ: '部屋を片付ける' (dọn phòng). Lựa chọn B 'làm bẩn' sai (đó là '汚す'). Lựa chọn C 'di chuyển/vận chuyển' sai (đó là '移す'). Lựa chọn D 'lắp ráp/sắp xếp' sai (đó là '組み立てる'). Mặc dù C và D cũng liên quan đến đồ vật, nghĩa khác với 'dọn dẹp'.",
+    "hint": "Từ này thường được dùng sau khi ăn hoặc khi phòng bừa bộn. Nó liên quan đến việc làm cho thứ gì đó gọn gàng trở lại.",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_3_002",
+    "question": "「親切」に似た意味の言葉はどれですか？",
+    "furigana": "「親切[しんせつ]」に似[に]た意味[いみ]の言葉[ことば]はどれですか？",
+    "romaji": "'Shinsetsu' ni nita imi no kotoba wa dore desu ka?",
+    "level": "N4",
+    "category": "VOCABULARY",
+    "options": [
+      "正直（しょうじき）",
+      "丁寧（ていねい）",
+      "真剣（しんけん）",
+      "優しい（やさしい）"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "Từ nào có nghĩa gần nhất với '親切'?",
+    "answerExplanation": "'親切' (shinsetsu) có nghĩa là tốt bụng/thân thiện theo nghĩa thích giúp đỡ người khác. Từ gần nhất là '優しい' (yasashii) = hiền lành/tốt bụng. Sự khác biệt sắc thái: 親切 nhấn mạnh hành động giúp đỡ cụ thể, trong khi 優しい chỉ bản chất hiền lành. Các lựa chọn khác có nghĩa khác: '正直' (shoujiki) = trung thực, '丁寧' (teinei) = lịch sự/cẩn thận, '真剣' (shinken) = nghiêm túc/chân thành.",
+    "hint": "親切 tập trung vào đặc điểm 'tốt bụng và thích giúp đỡ'. Cả bốn lựa chọn đều là đặc điểm tích cực, nhưng chỉ có một cái thực sự gần nghĩa với 'tốt bụng'.",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n4_3_003",
+    "question": "「褒める」はどういう意味ですか？",
+    "furigana": "「褒[ほ]める」はどういう意味[いみ]ですか？",
+    "romaji": "'Homeru' wa dou iu imi desu ka?",
+    "level": "N4",
+    "category": "VOCABULARY",
+    "options": [
+      "Mắng / khiển trách",
+      "Khen / tán dương",
+      "An ủi / động viên",
+      "Khuyến khích / cổ vũ"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "'褒める' có nghĩa là gì?",
+    "answerExplanation": "'褒める' (homeru) có nghĩa là 'khen ngợi' hoặc 'ca ngợi' ai đó. Ví dụ: '先生が学生を褒めた' (Giáo viên khen học sinh). Lựa chọn A 'mắng' sai (đó là '叱る'). Lựa chọn C 'an ủi' sai (đó là '慰める'). Lựa chọn D 'khuyến khích' sai (đó là '励ます'). Tất cả lựa chọn đều là hành động hướng tới người khác, nhưng mỗi cái có nghĩa khác nhau.",
+    "hint": "Từ này mô tả phản ứng tích cực đối với thành tích của ai đó. Khi trẻ được điểm cao, cha mẹ thường làm điều này.",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_3_004",
+    "question": "「参る」はどういう意味ですか？",
+    "furigana": "「参[まい]る」はどういう意味[いみ]ですか？",
+    "romaji": "'Mairu' wa dou iu imi desu ka?",
+    "level": "N4",
+    "category": "VOCABULARY",
+    "options": [
+      "Đi / đến (khiêm nhường ngữ)",
+      "Về / trở về (khiêm nhường ngữ)",
+      "Đợi / kiên nhẫn (kính ngữ)",
+      "Nhận / nhận được (khiêm nhường ngữ)"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "'参る' có nghĩa là gì?",
+    "answerExplanation": "'参る' (mairu) là dạng kenjougo (謙譲語 / ngôn ngữ khiêm nhường) của '行く' (đi) và '来る' (đến). Được dùng để hạ thấp bản thân khi nói với người có địa vị cao hơn. Ví dụ: '明日、そちらに参ります' (Ngày mai tôi sẽ đến đó). Lựa chọn B sai (trở về khiêm nhường không phải 参る). Lựa chọn C sai (đợi lịch sự = お待ちになる). Lựa chọn D sai (nhận khiêm nhường = いただく).",
+    "hint": "Đây là kenjougo (ngôn ngữ khiêm nhường). Từ này thay thế hai động từ cơ bản liên quan đến việc di chuyển.",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n4_3_005",
+    "question": "「触る」はどういう意味ですか？",
+    "furigana": "「触[さわ]る」はどういう意味[いみ]ですか？",
+    "romaji": "'Sawaru' wa dou iu imi desu ka?",
+    "level": "N4",
+    "category": "VOCABULARY",
+    "options": [
+      "Nắm / cầm chặt",
+      "Chỉ / hướng về",
+      "Chạm / sờ",
+      "Với lấy / túm lấy"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "'触る' có nghĩa là gì?",
+    "answerExplanation": "'触る' (sawaru) có nghĩa là 'chạm' hoặc 'sờ' — tiếp xúc vật lý nhẹ với bề mặt của thứ gì đó. Ví dụ: '美術館で絵に触らないでください' (Xin đừng chạm vào tranh trong bảo tàng). Lựa chọn A 'nắm chặt' sai (đó là '握る'). Lựa chọn B 'chỉ' sai (đó là '指す'). Lựa chọn D 'với lấy' sai (đó là '取る/つかむ'). Tất cả đều liên quan đến hành động tay, nhưng chỉ 触る có nghĩa tiếp xúc nhẹ mà không lấy.",
+    "hint": "Từ này mô tả tiếp xúc vật lý nhẹ bằng tay. Trong bảo tàng thường có biển cấm làm điều này với hiện vật.",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_3_006",
+    "question": "私はコーヒー___ジュースのほうが好きです。",
+    "furigana": "私[わたし]はコーヒー___ジュースのほうが好[す]きです。",
+    "romaji": "Watashi wa koohii ___ juusu no hou ga suki desu.",
+    "level": "N4",
+    "category": "GRAMMAR",
+    "options": [
+      "ほど",
+      "より",
+      "ほか",
+      "しか"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Tôi thích nước ép hơn cà phê.",
+    "answerExplanation": "Mẫu so sánh: 'AよりBのほうが~' = B hơn ~ so với A. Trợ từ 'より' (yori) đánh dấu điểm so sánh (bên 'kém' hơn). Ở đây: コーヒーより (hơn cà phê) → ジュースのほうが好き (thích nước ép hơn). Các lựa chọn khác: 'ほど' (hodo) dùng trong so sánh phủ định 'AほどBではない'; 'ほか' (hoka) = ngoài ra; 'しか' (shika) = chỉ (theo sau bởi phủ định).",
+    "hint": "Mẫu so sánh: A ___ B のほうが~. Trợ từ nào đánh dấu 'điểm tham chiếu thấp hơn' trong so sánh?",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_3_007",
+    "question": "先生が教室に___います。",
+    "furigana": "先生[せんせい]が教室[きょうしつ]に___います。",
+    "romaji": "Sensei ga kyoushitsu ni ___ imasu.",
+    "level": "N4",
+    "category": "GRAMMAR",
+    "options": [
+      "来ます",
+      "来る",
+      "来て",
+      "来られ"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Giáo viên đã đến và (đang) ở trong lớp.",
+    "answerExplanation": "Mẫu câu '~ている' sau các động từ thay đổi trạng thái (来る, 行く, 帰る v.v.) diễn đạt TRẠNG THÁI KẾT QUẢ của hành động, không phải hành động đang diễn ra. '来ている' = đã đến và đang ở đó. Dạng te '来て' cần thiết trước 'います'. Các lựa chọn khác: '来ます/来る' là dạng vị ngữ cuối (không thể trực tiếp + います), '来られ' là dạng khả năng/bị động không phù hợp.",
+    "hint": "Mẫu câu ~ている cho động từ 来る diễn đạt KẾT QUẢ của sự thay đổi. Dạng te của 来る (động từ bất quy tắc) = ?",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n4_3_008",
+    "question": "電車に___、本を読みました。",
+    "furigana": "電車[でんしゃ]に___、本[ほん]を読[よ]みました。",
+    "romaji": "Densha ni ___, hon wo yomimashita.",
+    "level": "N4",
+    "category": "GRAMMAR",
+    "options": [
+      "乗ったら",
+      "乗って",
+      "乗れば",
+      "乗るなら"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Sau khi lên tàu, tôi đọc sách.",
+    "answerExplanation": "Dạng te (~て) diễn đạt HÀNH ĐỘNG TUẦN TỰ — A rồi B. '電車に乗って、本を読みました' = Lên tàu rồi đọc sách. Các lựa chọn khác: '乗ったら' (tara) = điều kiện 'nếu/sau khi lên'; '乗れば' (ba) = điều kiện trang trọng; '乗るなら' = nếu bạn định đi. Trong câu chuyện tuần tự tự nhiên, dạng te phù hợp nhất.",
+    "hint": "Câu này mô tả hai hành động tuần tự tự nhiên: A → B. Dạng nào nối hai hành động trong một câu chuyện? (Không phải điều kiện)",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_3_009",
+    "question": "このかばんは重くて、___にくいです。",
+    "furigana": "このかばんは重[おも]くて、___にくいです。",
+    "romaji": "Kono kaban wa omokute, ___ nikui desu.",
+    "level": "N4",
+    "category": "GRAMMAR",
+    "options": [
+      "持つ",
+      "持った",
+      "持って",
+      "持ち"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "Cái túi này nặng và khó mang.",
+    "answerExplanation": "Mẫu câu '~にくい' (nikui) = 'khó để ~', được tạo với GỐC MASU + にくい. Động từ '持つ' (motsu) → dạng masu: 持ちます → gốc masu: '持ち'. Vì vậy: 持ちにくい = khó mang. Các mẫu tương tự: 読みにくい (khó đọc), 使いにくい (khó dùng). Các lựa chọn khác: 持つ = dạng từ điển, 持った = dạng ta, 持って = dạng te — không cái nào phù hợp với ~にくい.",
+    "hint": "Mẫu câu ~にくい yêu cầu GỐC MASU (phần trước ます). Với 持つ → 持ちます → phần trước ます là?",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n4_3_010",
+    "question": "約束したから、必ず___ください。",
+    "furigana": "約束[やくそく]したから、必[かなら]ず___ください。",
+    "romaji": "Yakusoku shita kara, kanarazu ___ kudasai.",
+    "level": "N4",
+    "category": "GRAMMAR",
+    "options": [
+      "来た",
+      "来られて",
+      "来て",
+      "来るの"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Vì đã hứa, xin hãy chắc chắn đến.",
+    "answerExplanation": "Mẫu yêu cầu lịch sự '~てください' được tạo với dạng te + ください. Dạng te của 来る (kuru, bất quy tắc) là '来て' (kite). Vì vậy: '必ず来てください' = xin hãy chắc chắn đến. Các lựa chọn khác: '来た' = dạng quá khứ không phải mệnh lệnh; '来られて' = dạng te của khả năng 来られる, nghĩa 'có thể đến' không phù hợp; '来るの' = danh từ hóa, không tạo mệnh lệnh lịch sự.",
+    "hint": "Mẫu câu ~てください yêu cầu dạng te. 来る là động từ bất quy tắc — dạng te không phải 来って mà là dạng đặc biệt.",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_3_011",
+    "question": "「教育」の読み方として正しいのはどれですか？",
+    "furigana": "「教育[きょういく]」の読[よ]み方[かた]として正[ただ]しいのはどれですか？",
+    "romaji": "'Kyouiku' no yomikata to shite tadashii no wa dore desu ka?",
+    "level": "N4",
+    "category": "KANJI",
+    "options": [
+      "きょうしつ",
+      "きょういく",
+      "きょうかい",
+      "きょうみ"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Cách đọc đúng của '教育' là gì?",
+    "answerExplanation": "'教育' được đọc là 'きょういく' (kyouiku) = giáo dục. Kanji '教' (kyou) = dạy, '育' (iku) = nuôi dưỡng. Các lựa chọn khác dùng cùng kanji '教': 'きょうしつ' = 教室 (lớp học), 'きょうかい' = 教会 (nhà thờ), 'きょうみ' = 興味 (sở thích) — thực ra dùng kanji khác (興) nhưng âm giống. Quan trọng phân biệt các từ ghép kanji bắt đầu bằng 'きょう'.",
+    "hint": "Kanji đầu tiên '教' được đọc là 'きょう'. Kanji thứ hai '育' thường xuất hiện trong '体育' (taiiku). Cách đọc độc lập của '育' là?",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_3_012",
+    "question": "「運転」の読み方として正しいのはどれですか？",
+    "furigana": "「運転[うんてん]」の読[よ]み方[かた]として正[ただ]しいのはどれですか？",
+    "romaji": "'Unten' no yomikata to shite tadashii no wa dore desu ka?",
+    "level": "N4",
+    "category": "KANJI",
+    "options": [
+      "うんどう",
+      "うんめい",
+      "うんてん",
+      "うんそう"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Cách đọc đúng của '運転' là gì?",
+    "answerExplanation": "'運転' được đọc là 'うんてん' (unten) = lái xe/vận hành. Kanji '運' (un) = mang/vận mệnh, '転' (ten) = quay/lăn. Các lựa chọn khác dùng cùng kanji '運': 'うんどう' = 運動 (thể dục/vận động), 'うんめい' = 運命 (số phận), 'うんそう' = 運送 (vận chuyển). Tất cả bắt đầu bằng 'うん' vì kanji 運.",
+    "hint": "Tất cả lựa chọn bắt đầu bằng 'うん' (từ kanji 運). Tập trung vào kanji thứ hai '転'. Kanji này cũng xuất hiện trong '自転車' (jitensha = xe đạp).",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_3_013",
+    "question": "「旅行」の読み方として正しいのはどれですか？",
+    "furigana": "「旅行[りょこう]」の読[よ]み方[かた]として正[ただ]しいのはどれですか？",
+    "romaji": "'Ryokou' no yomikata to shite tadashii no wa dore desu ka?",
+    "level": "N4",
+    "category": "KANJI",
+    "options": [
+      "りょかん",
+      "りょじん",
+      "りょこう",
+      "りょきゃく"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Cách đọc đúng của '旅行' là gì?",
+    "answerExplanation": "'旅行' được đọc là 'りょこう' (ryokou) = du lịch/chuyến đi. Kanji '旅' (ryo) = hành trình, '行' (kou) = đi. Các lựa chọn khác: 'りょかん' = 旅館 (nhà trọ truyền thống), 'りょじん' không phải từ thông dụng, 'りょきゃく' = 旅客 (hành khách). Quan trọng phân biệt: 旅行 (chuyến đi) ≠ 旅館 (nhà trọ).",
+    "hint": "Tất cả lựa chọn bắt đầu bằng 'りょ' (từ kanji 旅). Tập trung vào cách đọc kanji thứ hai '行' trong tổ hợp này.",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_3_014",
+    "question": "「工場」の読み方として正しいのはどれですか？",
+    "furigana": "「工場[こうじょう]」の読[よ]み方[かた]として正[ただ]しいのはどれですか？",
+    "romaji": "'Koujou' no yomikata to shite tadashii no wa dore desu ka?",
+    "level": "N4",
+    "category": "KANJI",
+    "options": [
+      "こうえん",
+      "こうつう",
+      "こうちょう",
+      "こうじょう"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "Cách đọc đúng của '工場' là gì?",
+    "answerExplanation": "'工場' được đọc là 'こうじょう' (koujou) = nhà máy. Kanji '工' (kou) = thủ công/công nghiệp, '場' (jou) = nơi. Các lựa chọn khác dùng tiền tố 'こう' tương tự: 'こうえん' = 公園 (công viên), 'こうつう' = 交通 (giao thông), 'こうちょう' = 校長 (hiệu trưởng). Tất cả kanji đầu khác nhau mặc dù đều đọc là 'こう'.",
+    "hint": "Kanji '場' thường được đọc 'じょう' trong từ ghép (như 駐車場 = ちゅうしゃじょう). Kanji đầu '工' được đọc 'こう'. Kết hợp cả hai.",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n4_3_015",
+    "question": "「手紙」の読み方として正しいのはどれですか？",
+    "furigana": "「手紙[てがみ]」の読[よ]み方[かた]として正[ただ]しいのはどれですか？",
+    "romaji": "'Tegami' no yomikata to shite tadashii no wa dore desu ka?",
+    "level": "N4",
+    "category": "KANJI",
+    "options": [
+      "てじゅん",
+      "てほん",
+      "てがき",
+      "てがみ"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "Cách đọc đúng của '手紙' là gì?",
+    "answerExplanation": "'手紙' được đọc là 'てがみ' (tegami) = thư/bức thư. Kanji '紙' thường được đọc 'かみ' (giấy), nhưng trong '手紙' nó trở thành 'がみ' do rendaku (biến đổi âm). Các lựa chọn khác dùng kanji '手' (te): 'てじゅん' = 手順 (thủ tục), 'てほん' = 手本 (mẫu/ví dụ), 'てがき' = 手書き (chữ viết tay).",
+    "hint": "Tất cả lựa chọn bắt đầu bằng 'て' (từ kanji 手). Tập trung vào kanji '紙' — cách đọc cơ bản là 'かみ' nhưng có thể thay đổi trong từ ghép do rendaku.",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_3_016",
+    "question": "昨日、家族で動物園へ行きました。いろいろな動物を見ました。象は大きくて、猿は面白かったです。一番好きだったのはパンダです。とてもかわいかったです。\n\n質問：この人が動物園について言っていないことはどれですか。",
+    "furigana": "昨日[きのう]、家族[かぞく]で動物園[どうぶつえん]へ行[い]きました。いろいろな動物[どうぶつ]を見[み]ました。象[ぞう]は大[おお]きくて、猿[さる]は面白[おもしろ]かったです。一番[いちばん]好[す]きだったのはパンダです。とてもかわいかったです。\n\n質問[しつもん]：この人[ひと]が動物園[どうぶつえん]について言[い]っていないことはどれですか。",
+    "romaji": "Kinou, kazoku de doubutsuen e ikimashita. Iroiro na doubutsu wo mimashita. Zou wa ookikute, saru wa omoshirokatta desu. Ichiban suki datta no wa panda desu. Totemo kawaikatta desu.\n\nShitsumon: Kono hito ga doubutsuen ni tsuite itte inai koto wa dore desu ka.",
+    "level": "N4",
+    "category": "READING",
+    "options": [
+      "パンダが一番好きだった",
+      "象は大きかった",
+      "動物園は混んでいた",
+      "猿は面白かった"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Hôm qua, tôi đã đi sở thú với gia đình. Tôi đã xem nhiều loài động vật. Con voi to, và con khỉ thú vị. Con vật tôi thích nhất là gấu trúc. Nó rất dễ thương.\n\nCâu hỏi: Điều nào người này KHÔNG đề cập về sở thú?",
+    "answerExplanation": "Câu hỏi tìm thông tin KHÔNG có trong văn bản. (A) パンダが一番好き ✓ có đề cập; (B) 象は大きい ✓ có đề cập; (D) 猿は面白い ✓ có đề cập. Điều KHÔNG được đề cập: (C) 動物園は混んでいた (sở thú đông) — hoàn toàn không có trong văn bản.",
+    "hint": "Đọc văn bản cẩn thận và loại bỏ các lựa chọn thực sự được đề cập. Một lựa chọn nói về tình trạng của nơi đó mà tác giả hoàn toàn không nhắc đến.",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_3_017",
+    "question": "来週の水曜日、学校で音楽会があります。午後2時から4時までです。参加したい人は、今週中に先生に言ってください。\n\n質問：参加したい人はどうしなければなりませんか。",
+    "furigana": "来週[らいしゅう]の水曜日[すいようび]、学校[がっこう]で音楽会[おんがくかい]があります。午後[ごご]2時[にじ]から4時[よじ]までです。参加[さんか]したい人[ひと]は、今週[こんしゅう]中[じゅう]に先生[せんせい]に言[い]ってください。\n\n質問[しつもん]：参加[さんか]したい人[ひと]はどうしなければなりませんか。",
+    "romaji": "Raishuu no suiyoubi, gakkou de ongakukai ga arimasu. Gogo ni-ji kara yo-ji made desu. Sanka shitai hito wa, konshuuchuu ni sensei ni itte kudasai.\n\nShitsumon: Sanka shitai hito wa dou shinakereba narimasen ka.",
+    "level": "N4",
+    "category": "READING",
+    "options": [
+      "来週の水曜日に学校へ行く",
+      "今週中に先生に知らせる",
+      "午後2時前に学校に着く",
+      "友達を誘って一緒に参加する"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Thứ Tư tuần sau, sẽ có buổi hòa nhạc ở trường. Từ 2 giờ chiều đến 4 giờ. Những ai muốn tham gia, xin hãy thông báo cho giáo viên trong tuần này.\n\nCâu hỏi: Những người muốn tham gia phải làm gì?",
+    "answerExplanation": "Văn bản nêu: '参加したい人は、今週中に先生に言ってください' = những ai muốn tham gia phải thông báo cho giáo viên trong tuần này. (A) sai — đến trường thứ Tư không phải yêu cầu đặc biệt cho người tham gia; (C) giờ đến không được đề cập; (D) rủ bạn không được đề cập.",
+    "hint": "Tìm câu có hướng dẫn cụ thể cho '参加したい人は~'. Từ khóa nằm ở câu cuối của văn bản.",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_3_018",
+    "question": "田中さんへ\n先週借りた本を返します。ありがとうございました。とても面白かったです。今度、一緒に映画を見に行きませんか。\n山田より\n\n質問：この手紙について正しいのはどれですか。",
+    "furigana": "田中[たなか]さんへ\n先週[せんしゅう]借[か]りた本[ほん]を返[かえ]します。ありがとうございました。とても面白[おもしろ]かったです。今度[こんど]、一緒[いっしょ]に映画[えいが]を見[み]に行[い]きませんか。\n山田[やまだ]より\n\n質問[しつもん]：この手紙[てがみ]について正[ただ]しいのはどれですか。",
+    "romaji": "Tanaka-san e\nSenshuu karita hon wo kaeshimasu. Arigatou gozaimashita. Totemo omoshirokatta desu. Kondo, issho ni eiga wo mi ni ikimasen ka.\nYamada yori\n\nShitsumon: Kono tegami ni tsuite tadashii no wa dore desu ka.",
+    "level": "N4",
+    "category": "READING",
+    "options": [
+      "山田さんは田中さんに本を借りたい",
+      "山田さんは田中さんと映画を見に行くつもりだ",
+      "山田さんは田中さんに本を返し、映画に誘っている",
+      "山田さんは田中さんへのお礼だけを伝えている"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Gửi Tanaka-san,\nTôi sẽ trả lại cuốn sách đã mượn tuần trước. Cảm ơn rất nhiều. Nó rất thú vị. Lần sau, bạn có muốn đi xem phim cùng không?\nTừ Yamada\n\nCâu hỏi: Điều nào đúng về bức thư này?",
+    "answerExplanation": "Bức thư có hai mục đích: (1) trả sách '先週借りた本を返します' và (2) mời xem phim '映画を見に行きませんか'. (A) sai — Yamada đang trả, không phải mượn; (B) 'つもり' ngụ ý chắc chắn, nhưng đây chỉ là lời mời; (D) không đầy đủ — còn có lời mời xem phim.",
+    "hint": "Đọc toàn bộ bức thư. Yamada truyền đạt nhiều hơn một điều. Lựa chọn nào bao gồm TẤT CẢ nội dung của bức thư một cách chính xác?",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_3_019",
+    "question": "駅前の新しいカフェは、コーヒーがおいしくて、値段も安いです。それに、静かで勉強しやすいです。学生がよく利用しています。\n\n質問：このカフェについて正しくないのはどれですか。",
+    "furigana": "駅前[えきまえ]の新[あたら]しいカフェは、コーヒーがおいしくて、値段[ねだん]も安[やす]いです。それに、静[しず]かで勉強[べんきょう]しやすいです。学生[がくせい]がよく利用[りよう]しています。\n\n質問[しつもん]：このカフェについて正[ただ]しくないのはどれですか。",
+    "romaji": "Ekimae no atarashii kafe wa, koohii ga oishikute, nedan mo yasui desu. Sore ni, shizuka de benkyou shiyasui desu. Gakusei ga yoku riyou shite imasu.\n\nShitsumon: Kono kafe ni tsuite tadashikunai no wa dore desu ka.",
+    "level": "N4",
+    "category": "READING",
+    "options": [
+      "コーヒーがおいしい",
+      "値段が安い",
+      "駅から遠い場所にある",
+      "学生がよく使っている"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Quán cà phê mới trước ga, cà phê ngon và giá cũng rẻ. Hơn nữa, yên tĩnh và dễ học bài. Nhiều sinh viên hay đến.\n\nCâu hỏi: Điều nào KHÔNG đúng về quán cà phê này?",
+    "answerExplanation": "Văn bản đề cập '駅前' (trước ga) = GẦN ga. (A) コーヒーがおいしい ✓; (B) 値段も安い ✓; (D) 学生がよく利用している ✓. (C) '駅から遠い' (xa ga) trực tiếp mâu thuẫn với '駅前'.",
+    "hint": "Đây là câu hỏi 'cái nào SAI'. Chú ý từ '駅前' trong câu đầu tiên — nó có nghĩa gì và có khớp với lựa chọn nào không?",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_3_020",
+    "question": "A: 「今週末、海へ行きませんか。」\nB: 「いいですね。でも、天気が心配です。」\nA: 「大丈夫ですよ。天気予報によると、晴れるそうです。」\n\n質問：この会話から正しいことはどれですか。",
+    "furigana": "A: 「今週末[こんしゅうまつ]、海[うみ]へ行[い]きませんか。」\nB: 「いいですね。でも、天気[てんき]が心配[しんぱい]です。」\nA: 「大丈夫[だいじょうぶ]ですよ。天気予報[てんきよほう]によると、晴[は]れるそうです。」\n\n質問[しつもん]：この会話[かいわ]から正[ただ]しいことはどれですか。",
+    "romaji": "A: 'Konshuumatsu, umi e ikimasen ka.'\nB: 'Ii desu ne. Demo, tenki ga shinpai desu.'\nA: 'Daijoubu desu yo. Tenkiyohou ni yoru to, hareru sou desu.'\n\nShitsumon: Kono kaiwa kara tadashii koto wa dore desu ka.",
+    "level": "N4",
+    "category": "READING",
+    "options": [
+      "Bは海に行きたくない",
+      "Aは天気予報を確認した",
+      "天気予報では雨になるそうだ",
+      "BはAの誘いを断った"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "A: 'Cuối tuần này, bạn có muốn đi biển không?'\nB: 'Nghe hay đấy. Nhưng tôi lo về thời tiết.'\nA: 'Không sao. Theo dự báo thời tiết, sẽ nắng.'\n\nCâu hỏi: Điều nào đúng dựa trên cuộc hội thoại này?",
+    "answerExplanation": "(B) đúng: A dẫn dự báo thời tiết '天気予報によると' nghĩa là A đã kiểm tra. (A) sai — B nói 'いいですね' = quan tâm, không phải từ chối; (C) sai — dự báo nói 晴れる (nắng), không phải mưa; (D) sai — B không từ chối, chỉ lo lắng.",
+    "hint": "Chú ý câu cuối của A: '天気予報によると~'. Cụm từ 'によると' có nghĩa là 'theo (nguồn)'. Có thể kết luận gì từ việc A dẫn dự báo thời tiết?",
+    "difficultyScore": 3
+  }
+]

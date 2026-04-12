@@ -1,0 +1,382 @@
+[
+  {
+    "id": "question_n4_1_001",
+    "question": "明日、雨が___たら、行きません。",
+    "furigana": "明日[あした]、雨[あめ]が___たら、行[い]きません。",
+    "romaji": "Ashita, ame ga ___ tara, ikimasen.",
+    "level": "N4",
+    "category": "GRAMMAR",
+    "options": [
+      "ふる",
+      "ふり",
+      "ふれ",
+      "ふっ"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "Besok, jika hujan turun, saya tidak akan pergi.",
+    "answerExplanation": "Pola 〜たら (tara) dibentuk dari ta-form kata kerja. '降る' (furu) adalah u-verb berakhiran '-る' (setelah konsonan). Aturan konjugasi: う/つ/る → った. Maka 降る → 降った → bagian sebelum 'たら' adalah 'ふっ'. Pilihan lain: 'ふる' = bentuk kamus, 'ふり' = masu-stem, 'ふれ' = bentuk perintah/conditional え-form.",
+    "hint": "Pola ~たら memerlukan ta-form. Untuk u-verb berakhiran う/つ/る, aturannya: → った. Jadi 降る → 降っ + たら.",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_1_002",
+    "question": "「見つかる」はどういう意味ですか？",
+    "furigana": "「見[み]つかる」はどういう意味[いみ]ですか？",
+    "romaji": "'Mitsukaru' wa dou iu imi desu ka?",
+    "level": "N4",
+    "category": "VOCABULARY",
+    "options": [
+      "Memperhatikan dengan seksama",
+      "Ditemukan / ketemu",
+      "Terlihat / tampak",
+      "Mencari / menelusuri"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Apa arti dari '見つかる'?",
+    "answerExplanation": "'見つかる' (mitsukaru) adalah kata kerja intransitif yang berarti 'ditemukan / ketemu' — sesuatu yang tadinya hilang atau dicari akhirnya ada. Contoh: '鍵が見つかった' (Kuncinya ketemu). Pilihan A 'memperhatikan dengan seksama' salah (itu lebih dekat ke '見つめる'). Pilihan C 'terlihat/tampak' salah (itu '見える'). Pilihan D 'mencari/menelusuri' salah (itu '探す'). Semua opsi berhubungan dengan aktivitas mata/penglihatan, namun maknanya berbeda.",
+    "hint": "Kata ini bentuk intransitif (自動詞) — subjeknya bukan orang yang melakukan aksi, tapi benda yang 'muncul' atau 'ada'. Pikirkan situasi saat barang hilang tiba-tiba ketemu.",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_1_003",
+    "question": "日曜日に友だちと映画を___つもりです。",
+    "furigana": "日曜日[にちようび]に友[とも]だちと映画[えいが]を___つもりです。",
+    "romaji": "Nichiyoubi ni tomodachi to eiga o ___ tsumori desu.",
+    "level": "N4",
+    "category": "GRAMMAR",
+    "options": [
+      "見た",
+      "見て",
+      "見る",
+      "見よう"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Saya berencana menonton film dengan teman hari Minggu.",
+    "answerExplanation": "Pola '〜つもりです' (tsumori desu) menyatakan rencana/niat dan memerlukan bentuk kamus (dictionary form) sebelumnya. '見る' (miru) sudah dalam bentuk kamus, sehingga menjadi '見るつもりです'. Pilihan lain: '見た' = bentuk lampau, '見て' = te-form, '見よう' = bentuk volitional — ketiganya tidak digunakan sebelum 'つもり'.",
+    "hint": "Pola ~つもりです (berencana untuk ~) memerlukan bentuk dasar (dictionary form) kata kerja sebelum つもり.",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_1_004",
+    "question": "「暖かい」の正しい読み方は？",
+    "furigana": "「暖[あたた]かい」の正[ただ]しい読[よ]み方[かた]は？",
+    "romaji": "'Atatakai' no tadashii yomikata wa?",
+    "level": "N4",
+    "category": "KANJI",
+    "options": [
+      "あつかい",
+      "あたたかい",
+      "あたらかい",
+      "あったかい"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Manakah cara baca yang benar untuk '暖かい'?",
+    "answerExplanation": "'暖かい' dibaca 'あたたかい' (atatakai) yang berarti 'hangat' (untuk cuaca/suhu udara). Jangan keliru dengan: 'あつかい' yang bukan kata baku, 'あたらかい' yang tidak ada dalam bahasa Jepang, dan 'あったかい' yang merupakan bentuk percakapan informal dari あたたかい tetapi bukan pembacaan kanji yang standar.",
+    "hint": "Kanji 暖 berhubungan dengan kehangatan. Cara bacanya terdiri dari pengulangan suku kata 'た'.",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_1_005",
+    "question": "父は大学で___います。",
+    "furigana": "父[ちち]は大学[だいがく]で___います。",
+    "romaji": "Chichi wa daigaku de ___ imasu.",
+    "level": "N4",
+    "category": "GRAMMAR",
+    "options": [
+      "はたらく",
+      "はたらき",
+      "はたらいて",
+      "はたらか"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Ayah bekerja di universitas.",
+    "answerExplanation": "Pola '〜ています' (te imasu) memerlukan te-form kata kerja. '働く' (hataraku) adalah u-verb berakhiran 'く', sehingga te-form-nya: く → いて → '働いて' (hataraite). Lalu disambung dengan 'います'. Pilihan lain: 'はたらく' = bentuk kamus, 'はたらき' = masu-stem, 'はたらか' = nai-form stem.",
+    "hint": "Pola ~ている memerlukan te-form. Untuk u-verb berakhiran く, aturannya: く → いて. Jadi 働く → 働いて + います.",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_1_006",
+    "question": "映画が終わった___、家へ帰りました。",
+    "furigana": "映画[えいが]が終[お]わった___、家[いえ]へ帰[かえ]りました。",
+    "romaji": "Eiga ga owatta ___, ie e kaerimashita.",
+    "level": "N4",
+    "category": "GRAMMAR",
+    "options": [
+      "まえに",
+      "あとで",
+      "あいだに",
+      "ながら"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Setelah film selesai, saya pulang ke rumah.",
+    "answerExplanation": "'〜たあとで' berarti 'setelah melakukan ~'. Pola ini digunakan setelah ta-form untuk menyatakan urutan kejadian. 'まえに' (sebelum) digunakan dengan bentuk kamus, bukan ta-form. 'あいだに' (selama) menyatakan sesuatu terjadi di tengah kegiatan lain. 'ながら' (sambil) menyatakan dua aksi bersamaan. Karena 'owatta' sudah ta-form, hanya 'あとで' yang cocok.",
+    "hint": "Kata kerja sudah dalam bentuk lampau (ta-form). Kata penghubung manakah yang berarti 'sesudah itu' dan cocok setelah ta-form?",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_1_007",
+    "question": "「つもり」の意味は？",
+    "furigana": "「つもり」の意味[いみ]は？",
+    "romaji": "'Tsumori' no imi wa?",
+    "level": "N4",
+    "category": "VOCABULARY",
+    "options": [
+      "Rencana / bermaksud",
+      "Kebiasaan / rutinitas",
+      "Pengalaman / pernah",
+      "Kewajiban / harus"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Apa arti 'つもり'?",
+    "answerExplanation": "'つもり' (tsumori) berarti 'bermaksud' atau 'berencana'. Pola ini digunakan setelah bentuk kamus kata kerja untuk menyatakan niat/rencana. Contoh: 来年、日本に行くつもりです (Tahun depan, saya berencana pergi ke Jepang). Pilihan lain — kebiasaan, pengalaman, kewajiban — merujuk pada pola tata bahasa lain seperti ことがある, なければならない, dll.",
+    "hint": "'つもり' adalah kata bantu yang sering muncul di N4, digunakan setelah bentuk kamus kata kerja untuk menyatakan niat atau rencana seseorang.",
+    "difficultyScore": 1
+  },
+  {
+    "id": "question_n4_1_008",
+    "question": "私は日本語が少し___話せません。",
+    "furigana": "私[わたし]は日本語[にほんご]が少[すこ]し___話[はな]せません。",
+    "romaji": "Watashi wa nihongo ga sukoshi ___ hanasemasen.",
+    "level": "N4",
+    "category": "GRAMMAR",
+    "options": [
+      "だけ",
+      "しか",
+      "ほど",
+      "でも"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Saya hanya bisa berbicara bahasa Jepang sedikit saja.",
+    "answerExplanation": "'しか〜ない' adalah pola yang berarti 'hanya ~ saja (dan tidak lebih)'. Ciri khas: しか WAJIB diikuti bentuk negatif. Kalimat ini berakhir '話せません' (negatif), sehingga しか cocok. Bandingkan 'だけ' yang juga berarti 'hanya' tetapi diikuti bentuk positif: '少しだけ話せます'. 'ほど' = sejauh/sekitar, 'でも' = bahkan/pun — keduanya tidak cocok secara gramatikal di sini.",
+    "hint": "Predikat kalimat ini NEGATIF (話せません). Hanya satu partikel dari pilihan yang WAJIB berpasangan dengan bentuk negatif.",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n4_1_009",
+    "question": "日本に___ことがあります。",
+    "furigana": "日本[にほん]に___ことがあります。",
+    "romaji": "Nihon ni ___ koto ga arimasu.",
+    "level": "N4",
+    "category": "GRAMMAR",
+    "options": [
+      "行く",
+      "行った",
+      "行って",
+      "行き"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Saya pernah pergi ke Jepang.",
+    "answerExplanation": "Pola 〜たことがある (ta koto ga aru) digunakan untuk menyatakan pengalaman — 'pernah melakukan ~'. Kata kerja sebelum ことがある harus dalam bentuk ta-form (lampau). '行く' (iku) → ta-form: '行った' (itta). Pilihan lain: '行く' = bentuk kamus, '行って' = te-form, '行き' = masu-stem.",
+    "hint": "Pola ~たことがある menyatakan pengalaman. Kata kerja sebelum ことがある harus dalam bentuk lampau (ta-form).",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_1_010",
+    "question": "この漢字「届」の読み方は？「届ける」",
+    "furigana": "この漢字[かんじ]「届」の読[よ]み方[かた]は？「届[とど]ける」",
+    "romaji": "Kono kanji 'todoku' no yomikata wa? 'Todokeru'",
+    "level": "N4",
+    "category": "KANJI",
+    "options": [
+      "とど",
+      "おく",
+      "つた",
+      "わた"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Apa cara baca kanji '届' dalam kata '届ける'?",
+    "answerExplanation": "'届ける' (todokeru) berarti 'mengantarkan / menyampaikan'. Kanji '届' dibaca 'とど' (todo) dalam kun'yomi. Bentuk intransitifnya: '届く' (todoku) = sampai/tiba. Contoh: 荷物が届いた (Paket sudah sampai). Pilihan lain — おく, つた, わた — adalah bacaan kanji lain yang berbeda.",
+    "hint": "Kanji '届' sering digunakan dalam konteks pengiriman barang. Pikirkan kata 'todokeru' (mengantarkan) — huruf apa sebelum 'ける'?",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_1_011",
+    "question": "このりんごは___おいしいです。",
+    "furigana": "このりんごは___おいしいです。",
+    "romaji": "Kono ringo wa ___ oishii desu.",
+    "level": "N4",
+    "category": "GRAMMAR",
+    "options": [
+      "とても",
+      "あまり",
+      "まだ",
+      "ぜんぜん"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Apel ini sangat enak.",
+    "answerExplanation": "'とても' (totemo) = sangat, digunakan untuk memperkuat kata sifat dalam kalimat positif. Pilihan lain tidak cocok: 'あまり' (amari) = tidak begitu, HARUS diikuti bentuk negatif (contoh: あまりおいしくない); 'まだ' (mada) = masih/belum, tidak relevan untuk mendeskripsikan rasa; 'ぜんぜん' (zenzen) = sama sekali tidak, juga HARUS diikuti bentuk negatif.",
+    "hint": "Kalimat ini POSITIF (おいしいです). Dua dari pilihan ini hanya bisa dipakai dengan kalimat negatif. Pilih kata yang memperkuat makna positif.",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_1_012",
+    "question": "「〜なければなりません」はどんな意味ですか？",
+    "furigana": "「〜なければなりません」はどんな意味[いみ]ですか？",
+    "romaji": "'~nakereba narimasen' wa donna imi desu ka?",
+    "level": "N4",
+    "category": "GRAMMAR",
+    "options": [
+      "Tidak perlu melakukan ~",
+      "Boleh tidak melakukan ~",
+      "Harus melakukan ~",
+      "Sebaiknya melakukan ~"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Apa makna pola '〜なければなりません'?",
+    "answerExplanation": "'〜なければなりません' (nakereba narimasen) berarti 'harus ~' — menyatakan kewajiban atau keharusan. Secara harfiah: 'kalau tidak melakukan X, tidak akan bisa/tidak baik'. Contoh: '薬を飲まなければなりません' = Harus minum obat. Pola terkait: '〜なくてもいいです' = tidak perlu ~ (pilihan A), '〜てもいいです' = boleh ~ (pilihan B), '〜ほうがいいです' = sebaiknya ~ (pilihan D).",
+    "hint": "Perhatikan struktur: bentuk negatif (-ない → -なければ) + 'なりません' (tidak bisa jadi). Jika tidak dilakukan, 'tidak bisa jadi' → artinya HARUS dilakukan.",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_1_013",
+    "question": "山田さんは英語___上手です。",
+    "furigana": "山田[やまだ]さんは英語[えいご]___上手[じょうず]です。",
+    "romaji": "Yamada-san wa eigo ___ jouzu desu.",
+    "level": "N4",
+    "category": "GRAMMAR",
+    "options": [
+      "を",
+      "が",
+      "で",
+      "に"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Yamada pandai berbahasa Inggris.",
+    "answerExplanation": "Kata sifat na seperti '上手' (jouzu = pandai), '下手' (heta = tidak pandai), '好き' (suki = suka), dan '嫌い' (kirai = tidak suka) menggunakan partikel 'が' untuk menandai bidang/hal yang dikuasai atau disukai. Ini berbeda dari kata kerja transitif yang menggunakan 'を'. Jadi: 英語が上手 (pandai bahasa Inggris). Pilihan lain: 'を' untuk objek kata kerja aksi, 'で' untuk tempat/alat, 'に' untuk tujuan/arah.",
+    "hint": "Kata sifat seperti 上手・好き・得意 memerlukan partikel khusus yang BERBEDA dari partikel objek biasa (を). Partikel ini juga dipakai dengan わかる.",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n4_1_014",
+    "question": "「届ける」の意味は？",
+    "furigana": "「届[とど]ける」の意味[いみ]は？",
+    "romaji": "'Todokeru' no imi wa?",
+    "level": "N4",
+    "category": "VOCABULARY",
+    "options": [
+      "Menerima / mendapatkan",
+      "Mengembalikan / mengirim balik",
+      "Mengantarkan / menyampaikan",
+      "Mengumpulkan / menghimpun"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Apa arti '届ける'?",
+    "answerExplanation": "'届ける' (todokeru) berarti 'mengantarkan' atau 'menyampaikan' — membawa sesuatu kepada seseorang atau suatu tempat. Ini adalah kata kerja transitif (memerlukan objek). Contoh: 荷物を届ける = mengantarkan paket. Jangan keliru dengan '届く' (todoku) yang intransitif, berarti 'sampai/tiba' (subjek yang sampai sendiri). Pilihan lain: 'menerima' = 受け取る (uketoru), 'mengembalikan' = 返す (kaesu), 'mengumpulkan' = 集める (atsumeru).",
+    "hint": "Kanji '届' berhubungan dengan sesuatu yang 'sampai' ke tujuan. Versi transitif (-ける) berarti pelaku yang MEMBUAT sesuatu sampai ke tujuan.",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_1_015",
+    "question": "「建物」の意味は？",
+    "furigana": "「建物[たてもの]」の意味[いみ]は？",
+    "romaji": "'Tatemono' no imi wa?",
+    "level": "N4",
+    "category": "VOCABULARY",
+    "options": [
+      "Bangunan / gedung",
+      "Pemandangan / panorama",
+      "Peralatan / perlengkapan",
+      "Pekerjaan / konstruksi"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Apa arti '建物'?",
+    "answerExplanation": "'建物' (たてもの, tatemono) berarti bangunan atau gedung — struktur fisik yang dibangun seperti rumah, kantor, atau sekolah. Kanji '建' (tate) berasal dari '建てる' (tateru = membangun/mendirikan), dan '物' (mono) berarti benda/hal. Jadi secara harfiah: 'benda yang dibangun'. Pilihan lain: '景色' (keshiki = pemandangan), '道具' (dougu = peralatan), '工事' (kouji = pekerjaan konstruksi) — ketiganya berhubungan dengan konteks bangunan tetapi berbeda makna.",
+    "hint": "Kanji '建' berasal dari '建てる' (mendirikan). Kanji '物' berarti 'benda'. Gabungkan: benda yang didirikan/dibangun = ?",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_1_016",
+    "question": "友達が来る___に、部屋をそうじしました。",
+    "furigana": "友達[ともだち]が来[く]る___に、部屋[へや]をそうじしました。",
+    "romaji": "Tomodachi ga kuru ___ ni, heya o souji shimashita.",
+    "level": "N4",
+    "category": "GRAMMAR",
+    "options": [
+      "あと",
+      "あいだ",
+      "まえ",
+      "うち"
+    ],
+    "correctIndex": 2,
+    "questionTranslation": "Sebelum teman datang, saya membersihkan kamar.",
+    "answerExplanation": "Pola '(bentuk kamus) + まえに' berarti 'sebelum ~'. '来るまえに' = sebelum datang. Pola ini menggunakan bentuk kamus sebelum 'まえ'. Pilihan lain: 'あと' (setelah) dipakai setelah ta-form (来たあとに), bukan bentuk kamus; 'あいだ' (selama) menyatakan durasi; 'うち' (selagi) juga menyatakan durasi terbatas. Secara logika, membersihkan kamar dilakukan SEBELUM tamu tiba.",
+    "hint": "Kata kerja dalam bentuk kamus (来る) + ___ + に. Logikanya: membersihkan kamar dilakukan lebih dulu, lalu teman datang. Kata apa yang menyatakan 'sebelum'?",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_1_017",
+    "question": "「季節」の読み方は？",
+    "furigana": "「季節」の読[よ]み方[かた]は？",
+    "romaji": "'Kisetsu' no yomikata wa?",
+    "level": "N4",
+    "category": "KANJI",
+    "options": [
+      "きせつ",
+      "きぶん",
+      "きかい",
+      "きおん"
+    ],
+    "correctIndex": 0,
+    "questionTranslation": "Bagaimana cara membaca '季節'?",
+    "answerExplanation": "「季節」 dibaca 'きせつ' (kisetsu) yang berarti 'musim'. Jepang memiliki empat musim: 春 (haru = musim semi), 夏 (natsu = musim panas), 秋 (aki = musim gugur), 冬 (fuyu = musim dingin). Pilihan lain adalah kata-kata yang juga dimulai dengan 'き': 'きぶん' (気分 = perasaan/suasana hati), 'きかい' (機会 = kesempatan), 'きおん' (気温 = suhu udara) — semuanya berbeda kanji dan makna.",
+    "hint": "Kanji '季' berhubungan dengan waktu/periode, dan '節' berarti bagian/ruas. Gabungan ini merujuk pada pembagian waktu dalam setahun. Semua pilihan dimulai dengan 'き'.",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_1_018",
+    "question": "（Reading） メアリーさんは、月曜日から金曜日まで会社で働いています。土曜日と日曜日は休みです。昨日は日曜日でしたから、メアリーさんは働きませんでした。友達と公園へ行きました。\n\n質問：メアリーさんはいつ公園へ行きましたか。",
+    "furigana": "メアリーさんは、月曜日[げつようび]から金曜日[きんようび]まで会社[かいしゃ]で働[はたら]いています。土曜日[どようび]と日曜日[にちようび]は休[やす]みです。昨日[きのう]は日曜日[にちようび]でしたから、メアリーさんは働[はたら]きませんでした。友達[ともだち]と公園[こうえん]へ行[い]きました。\n\n質問[しつもん]：メアリーさんはいつ公園[こうえん]へ行[い]きましたか。",
+    "romaji": "Mearii-san wa, getsuyoubi kara kinyoubi made kaisha de hataraite imasu. Doyoubi to nichiyoubi wa yasumi desu. Kinou wa nichiyoubi deshita kara, Mearii-san wa hatarakimasen deshita. Tomodachi to kouen e ikimashita.\n\nShitsumon: Mearii-san wa itsu kouen e ikimashita ka.",
+    "level": "N4",
+    "category": "READING",
+    "options": [
+      "金曜日 (きんようび)",
+      "月曜日 (げつようび)",
+      "土曜日 (どようび)",
+      "日曜日 (にちようび)"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "Mary bekerja dari Senin sampai Jumat di kantor. Sabtu dan Minggu adalah hari liburnya. Kemarin adalah hari Minggu, jadi Mary tidak bekerja. Dia pergi ke taman bersama temannya.\n\nPertanyaan: Kapan Mary pergi ke taman?",
+    "answerExplanation": "Teks menyatakan: '昨日は日曜日でした' (Kemarin adalah hari Minggu). Kemudian Mary tidak bekerja dan pergi ke taman. Jadi Mary pergi ke taman pada hari Minggu (日曜日). Distractor '土曜日' juga hari libur Mary, tetapi teks secara eksplisit menyebut 'kemarin = Minggu' sebagai hari yang dimaksud.",
+    "hint": "Cari kata kunci '昨日' (kemarin) dan identifikasi hari apa 'kemarin' menurut teks. Jangan terkecoh oleh hari libur lainnya (土曜日).",
+    "difficultyScore": 2
+  },
+  {
+    "id": "question_n4_1_019",
+    "question": "部屋に誰___いませんでした。",
+    "furigana": "部屋[へや]に誰[だれ]___いませんでした。",
+    "romaji": "Heya ni dare ___ imasen deshita.",
+    "level": "N4",
+    "category": "GRAMMAR",
+    "options": [
+      "と",
+      "は",
+      "が",
+      "も"
+    ],
+    "correctIndex": 3,
+    "questionTranslation": "Tidak ada seorang pun di dalam kamar.",
+    "answerExplanation": "Pola '疑問詞 + も + 否定形' menyatakan 'tidak ada satupun'. '誰もいない' = tidak ada seorang pun, '何もない' = tidak ada apa pun, 'どこにもない' = tidak ada di mana pun. Partikel 'も' di sini berfungsi sebagai penegas totalitas dalam konteks negatif, BUKAN berarti 'juga'. Pilihan lain: 'と' = dan/bersama, 'は' = topik, 'が' = subjek spesifik — semuanya tidak membentuk pola 'tidak ada satupun'.",
+    "hint": "Pola: kata tanya (誰/何/どこ) + ___ + bentuk negatif = 'tidak ada satupun'. Partikel apa yang melengkapi pola ini?",
+    "difficultyScore": 3
+  },
+  {
+    "id": "question_n4_1_020",
+    "question": "先生に___、よくわかりました。",
+    "furigana": "先生[せんせい]に___、よくわかりました。",
+    "romaji": "Sensei ni ___, yoku wakarimashita.",
+    "level": "N4",
+    "category": "GRAMMAR",
+    "options": [
+      "説明して",
+      "説明してもらって",
+      "説明させて",
+      "説明した"
+    ],
+    "correctIndex": 1,
+    "questionTranslation": "Setelah guru menjelaskan (untuk saya), saya memahaminya dengan baik.",
+    "answerExplanation": "Pola '〜に〜てもらう' berarti 'menerima tindakan dari seseorang' — seseorang melakukan sesuatu untuk keuntungan pembicara. '先生に説明してもらって' = menerima penjelasan dari guru (lalu saya paham). Pilihan lain: '説明して' = te-form biasa, tidak mengandung nuansa 'menerima manfaat dari orang lain'; '説明させて' = kausatif 'biarkan (saya) menjelaskan', tidak cocok karena yang menjelaskan adalah guru; '説明した' = bentuk lampau biasa, tidak cocok setelah 'に'.",
+    "hint": "Subjek kalimat = saya (yang memahami). Guru = orang yang melakukan penjelasan untuk saya. Pola mana yang menyatakan 'menerima tindakan baik dari orang lain'? Formatnya: (orang)に〜て___。",
+    "difficultyScore": 3
+  }
+]
