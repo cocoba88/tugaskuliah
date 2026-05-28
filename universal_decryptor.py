@@ -4,12 +4,12 @@ Universal Python Decryptor
 Mendukung berbagai teknik enkripsi Python berdasarkan signature detection:
 
 Encryption Techniques Supported:
-- emoji_unicode_v1: Emoji-to-ASCII mapping (Dramora style)
-- emoji_map_dual: Dual emoji maps for base64-like encoding (ClaudeCode style)
+- emoji_unicode_v1: Emoji-to-ASCII mapping dengan single digit encoding
+- emoji_map_dual: Dual emoji maps untuk base64-like encoding
 - marshal_bytecode: Raw Python marshal bytecode
 - multi_layer_zlib_b64_rev: Nested layers - reverse → base64 → zlib (up to 100 layers!)
-- base85_xor_marshal: Base85 + XOR + zlib + marshal (FarmVille2/HunterAssassin style)
-- xor_obfuscation: XOR encryption with string obfuscation (TestProtection style)
+- base85_xor_marshal: Base85 + XOR multiple keys + zlib + marshal
+- xor_obfuscation: XOR encryption dengan string obfuscation
 - base64_zlib_simple: Generic base64 + zlib compression
 
 Auto-detection based on code signatures, not filename patterns.
@@ -25,7 +25,7 @@ import importlib.util
 from pathlib import Path
 
 # ============================================================================
-# EMOJI DECRYPTION (untuk DramoraFlutterPatch.py dan claudecode.py)
+# EMOJI DECRYPTION (Emoji Unicode Encryption)
 # ============================================================================
 
 EMOJI_MAP_DRAMORA = {
@@ -33,8 +33,8 @@ EMOJI_MAP_DRAMORA = {
     '😉': 7, '😊': 8, '😛': 9, '🤣': 5
 }
 
-def decrypt_emoji_string_dramora(encrypted_string):
-    """Decrypt string emoji Dramora (setiap grup emoji = ASCII code)"""
+def decrypt_emoji_string_v1(encrypted_string):
+    """Decrypt string emoji dengan mapping v1 (setiap grup emoji = ASCII code)"""
     decrypted_chars = []
     groups = re.split(r'\s{2,}', encrypted_string.strip())
     
@@ -55,8 +55,8 @@ def decrypt_emoji_string_dramora(encrypted_string):
     return "".join(decrypted_chars)
 
 
-def decrypt_dramora_file(filepath):
-    """Extract dan decrypt file DramoraFlutterPatch.py"""
+def decrypt_emoji_unicode_v1(filepath):
+    """Extract dan decrypt file dengan enkripsi emoji unicode v1"""
     with open(filepath, 'r', encoding='utf-8') as f:
         content = f.read()
     
@@ -78,7 +78,7 @@ def decrypt_dramora_file(filepath):
     emoji_string = content[quote_start:split_pos]
     emoji_string = emoji_string.replace('\\\n', ' ').replace('\\\r\n', ' ')
     
-    return decrypt_emoji_string_dramora(emoji_string)
+    return decrypt_emoji_string_v1(emoji_string)
 
 
 # ============================================================================
@@ -86,7 +86,7 @@ def decrypt_dramora_file(filepath):
 # ============================================================================
 
 def build_claudecode_maps():
-    """Build emoji maps untuk claudecode.py"""
+    """Build emoji maps untuk file dengan dual emoji maps"""
     _gawfe = ['😀', '😁', '😂', '🤣', '😃', '😄', '😅', '😆', '😉', '😊', '😋', '😎', '😍', '😘', '😗', '😙', '😚', '🙂', '🤗', '🤔', '😐', '😑', '😶', '🙄', '😏', '😣', '😥', '😮', '🤐', '😯', '😪', '😫', '😴', '😌', '😛', '😜', '😝', '🤤', '😒', '😓', '😔', '😕', '🙃', '🤑', '😲', '😖', '😞', '😟', '😤', '😢', '😭', '😦', '😧', '😨', '😩', '😬', '😰', '😱', '😳', '😵', '😡', '😠', '🥶', '🥵']
     _zmadetxda = ['⚡', '🔥', '💀', '👾', '🎯', '🔑', '🔒', '💎', '🌀', '⭐', '🎭', '🔮', '💫', '🌊', '🎪', '🔬', '🧬', '💥', '🎲', '🌈', '🔭', '🎸', '🧩', '🏆', '🔐', '🧪', '💡', '🌙', '🎵', '🧲', '🔋', '📡', '🛸', '🎨', '🧿', '🪄', '🔱', '🌟', '💠', '🔴', '🟢', '🔵', '🟡', '🟣', '🔶', '🔷', '🔸', '🔹', '🔺', '🔻', '💲', '🔄', '🔃', '🔁', '🔂', '⏩', '⏫', '🔼', '🎀', '🎁', '🎂', '🎃', '🎄', '🎆', '🎇', '🧨']
     
@@ -123,7 +123,7 @@ def tkvdhxm(akboqndekm, ooghrdb):
 
 
 def decrypt_claudecode(filepath):
-    """Decrypt claudecode.py"""
+    """Decrypt file dengan dual emoji maps"""
     with open(filepath, 'r', encoding='utf-8') as f:
         content = f.read()
     
@@ -161,11 +161,11 @@ def decrypt_claudecode(filepath):
             pass
     
     # Alternatif: coba execute dan capture output
-    return "ClaudeCode decryption requires runtime execution"
+    return "Emoji Map Dual decryption requires runtime execution"
 
 
 # ============================================================================
-# MARSHAL BYTECODE DECRYPTION (blutter_execution.py)
+# MARSHAL BYTECODE DECRYPTION (file dengan marshal bytecode)
 # ============================================================================
 
 def decrypt_marshal_file(filepath):
@@ -194,7 +194,7 @@ def decrypt_marshal_file(filepath):
 
 
 # ============================================================================
-# BASE64/BASE85 + ZLIB DECRYPTION (mtcr_menu.py, FarmVille2.py, HunterAssassin.py)
+# BASE64/BASE85 + ZLIB DECRYPTION (file dengan multi-layer encryption, file dengan base85+xor+marshal)
 # ============================================================================
 
 def decrypt_single_layer(data):
@@ -211,9 +211,9 @@ def decrypt_single_layer(data):
         return data, False
 
 
-def decrypt_mtcr_menu(filepath, max_layers=100):
+def decrypt_multi_layer_zlib_b64_rev(filepath, max_layers=100):
     """
-    Decrypt mtcr_menu.py dengan multi-layer nested encryption.
+    Decrypt file dengan multi-layer encryption dengan multi-layer nested encryption.
     Pattern: exec((_)(b'...')) dimana setiap layer adalah reverse+base64+zlib
     Support hingga 100 layers atau sampai tidak ada lagi nested exec()
     """
@@ -275,7 +275,7 @@ def decrypt_mtcr_menu(filepath, max_layers=100):
         try:
             decoded_str = current_data.decode('utf-8', errors='ignore')
             
-            # Look for nested exec((_)(b'...')) pattern - EXACT pattern from mtcr_menu
+            # Look for nested exec((_)(b'...')) pattern - EXACT pattern multi-layer encryption
             nested_match = re.search(r'exec\(\(_\)\((b\'[^\']+\'\))\)', decoded_str)
             if nested_match:
                 # Extract the inner b'...' part
@@ -322,7 +322,7 @@ def decrypt_mtcr_menu(filepath, max_layers=100):
 
 
 def decrypt_farmville_style(filepath):
-    """Decrypt FarmVille2.py dan HunterAssassin.py style"""
+    """Decrypt file dengan base85+xor+marshal style"""
     with open(filepath, 'r', encoding='utf-8') as f:
         content = f.read()
     
@@ -381,11 +381,11 @@ def decrypt_farmville_style(filepath):
 
 
 # ============================================================================
-# XOR DECRYPTION (TestProtection.py)
+# XOR DECRYPTION (file dengan xor obfuscation)
 # ============================================================================
 
 def decrypt_test_protection(filepath):
-    """Decrypt TestProtection.py (XOR dengan key)"""
+    """Decrypt file dengan xor obfuscation (XOR dengan key)"""
     with open(filepath, 'r', encoding='utf-8') as f:
         content = f.read()
     
@@ -409,7 +409,7 @@ def decrypt_test_protection(filepath):
     
     if class_matches:
         # Ini adalah obfuscated strings, coba extract
-        output = ["# Decrypted strings from TestProtection.py:"]
+        output = ["# Decrypted strings from file dengan xor obfuscation:"]
         for i, cm in enumerate(class_matches[:5]):
             try:
                 # Extract key dan indices dari lambda
@@ -422,7 +422,7 @@ def decrypt_test_protection(filepath):
                 pass
         return "\n".join(output)
     
-    return "Unable to fully decrypt TestProtection.py - heavy obfuscation"
+    return "Unable to fully decrypt file dengan xor obfuscation - heavy obfuscation"
 
 
 # ============================================================================
@@ -441,7 +441,7 @@ def detect_encryption_type(filepath):
     # SIGNATURE-BASED DETECTION
     # ========================================================================
     
-    # 1. MULTI_LAYER_ZLIB_B64_REV (sebelumnya: mtcr_menu)
+    # 1. MULTI_LAYER_ZLIB_B64_REV (teknik: nested exec dengan reverse+base64+zlib)
     # Signature: lambda dengan reverse + base64 + zlib, atau nested exec(b'...')
     if "lambda __ : __import__('zlib').decompress(__import__('base64').b64decode(__[::-1]))" in content:
         return 'multi_layer_zlib_b64_rev'
@@ -453,7 +453,7 @@ def detect_encryption_type(filepath):
     if re.search(r'exec\(_\)\(b\'[A-Za-z0-9+/=]+\'\)', content):
         return 'multi_layer_zlib_b64_rev'
     
-    # 2. MARSHAL_BYTECODE (sebelumnya: marshal/blutter_execution)
+    # 2. MARSHAL_BYTECODE (teknik: marshal.loads langsung)
     # Signature: marshal.loads tanpa b85decode/XOR kompleks
     if 'marshal.loads' in content:
         if 'b85decode' not in content and 'base64.b85decode' not in content:
@@ -508,10 +508,10 @@ def decrypt_file(filepath, output_path=None):
     
     # Mapping dari technique name ke fungsi decrypt
     technique_map = {
-        'emoji_unicode_v1': ('Emoji Unicode v1 (Dramora-style)', decrypt_dramora_file),
-        'emoji_map_dual': ('Dual Emoji Map (ClaudeCode-style)', decrypt_claudecode),
+        'emoji_unicode_v1': ('Emoji Unicode v1', decrypt_emoji_unicode_v1),
+        'emoji_map_dual': ('Dual Emoji Map (Emoji Map Dual-style)', decrypt_claudecode),
         'marshal_bytecode': ('Marshal Bytecode', decrypt_marshal_file),
-        'multi_layer_zlib_b64_rev': ('Multi-Layer Zlib/Base64/Reverse', decrypt_mtcr_menu),
+        'multi_layer_zlib_b64_rev': ('Multi-Layer Zlib/Base64/Reverse', decrypt_multi_layer_zlib_b64_rev),
         'base85_xor_marshal': ('Base85 + XOR + Marshal', decrypt_farmville_style),
         'xor_obfuscation': ('XOR Obfuscation', decrypt_test_protection),
         'base64_zlib_simple': ('Base64 + Zlib Simple', lambda f: "Generic Base64+Zlib - requires custom handling"),
@@ -573,40 +573,40 @@ Examples:
         print("1. emoji_unicode_v1")
         print("   Description: Each ASCII character encoded as group of emojis")
         print("   Detection: Emoji dict {'😀': 0, '😁': 3, ...} + split()")
-        print("   Example: DramoraFlutterPatch.py")
+        print("   Deteksi: Emoji dict + split pattern")
         print()
         print("2. emoji_map_dual")
         print("   Description: Two emoji maps for base64-like encoding")
         print("   Detection: Variables _gawfe, _zmadetxda, __acvwst, __ooghrdb")
-        print("   Example: claudecode.py")
+        print("   Deteksi: Dual emoji maps variables")
         print()
         print("3. marshal_bytecode")
         print("   Description: Raw Python marshal bytecode embedded in script")
         print("   Detection: marshal.loads() without additional encoding")
-        print("   Example: blutter_execution.py")
+        print("   Deteksi: marshal.loads() langsung")
         print()
         print("4. multi_layer_zlib_b64_rev ⭐")
         print("   Description: Multiple nested layers of encryption")
         print("   Process: reverse string → base64 decode → zlib decompress")
         print("   Layers: Supports up to 100 nested layers automatically!")
         print("   Detection: lambda with [::-1] + b64decode + decompress")
-        print("   Example: mtcr_menu.py (32 layers)")
+        print("   Deteksi: lambda reverse+b64+zlib atau nested exec")
         print()
         print("5. base85_xor_marshal")
         print("   Description: Multi-stage encoding with XOR keys")
         print("   Process: base85 decode → XOR with multiple keys → zlib → marshal")
         print("   Detection: b85decode + hashlib + marshal.loads")
-        print("   Example: FarmVille2.py, HunterAssassin.py")
+        print("   Deteksi: b85decode+hashlib+marshal")
         print()
         print("6. xor_obfuscation")
         print("   Description: XOR encryption with obfuscated strings")
         print("   Detection: Hex-named functions (_0x...), lambda chains")
-        print("   Example: TestProtection.py")
+        print("   Deteksi: Hex function names + lambda chains")
         print()
         print("7. base64_zlib_simple")
         print("   Description: Basic base64 encoding + zlib compression")
         print("   Detection: b64decode + decompress without nesting")
-        print("   Example: Generic protected scripts")
+        print("   Deteksi: b64decode + decompress sederhana")
         print()
         print("="*70)
         return
