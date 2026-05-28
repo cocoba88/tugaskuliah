@@ -190,28 +190,128 @@ def decrypt_marshal_file(filepath):
 # BASE64/BASE85 + ZLIB DECRYPTION (mtcr_menu.py, FarmVille2.py, HunterAssassin.py)
 # ============================================================================
 
-def decrypt_mtcr_menu(filepath):
-    """Decrypt mtcr_menu.py (base64 + zlib, reversed)"""
+def decrypt_single_layer(data):
+    """Decrypt single layer: reverse -> base64 decode -> zlib decompress"""
+    try:
+        # Reverse the data
+        reversed_data = data[::-1]
+        # Base64 decode
+        decoded = base64.b64decode(reversed_data)
+        # Zlib decompress
+        decompressed = zlib.decompress(decoded)
+        return decompressed, True
+    except Exception as e:
+        return data, False
+
+
+def decrypt_mtcr_menu(filepath, max_layers=100):
+    """
+    Decrypt mtcr_menu.py dengan multi-layer nested encryption.
+    Pattern: exec((_)(b'...')) dimana setiap layer adalah reverse+base64+zlib
+    Support hingga 100 layers atau sampai tidak ada lagi nested exec()
+    """
     with open(filepath, 'r', encoding='utf-8') as f:
         content = f.read()
     
-    # Pattern: _ = lambda __ : __import__('zlib').decompress(__import__('base64').b64decode(__[::-1]))
-    match = re.search(r'exec\(_\)\((b\'[^\']+\')\)', content)
-    if not match:
-        # Try alternative pattern
-        match = re.search(r'_\)\((b?\'[\w=+/]+\'?)\)', content)
-    
+    # Extract initial encoded data - handle nested exec((_)(b'...'))
+    # The pattern is: exec((_)(b'...')) where the inner () returns another exec((_)(b'...'))
+    match = re.search(r'exec\(\(_\)\((b\'[^\']+\'\))\)', content)
     if match:
-        encoded_data = eval(match.group(1))
-        if isinstance(encoded_data, str):
-            encoded_data = encoded_data.encode()
-        # Reverse dan decode
-        reversed_data = encoded_data[::-1]
-        decoded = base64.b64decode(reversed_data)
-        decompressed = zlib.decompress(decoded)
-        return decompressed.decode('utf-8', errors='replace')
+        # Get the inner b'...' part
+        inner_match = re.search(r"b'([^']+)'", match.group(1))
+        if inner_match:
+            encoded_data = inner_match.group(1).encode()
+        else:
+            encoded_data = match.group(1).encode()
+    else:
+        # Fallback patterns
+        patterns = [
+            r'exec\(_\)\((b\'[^\']+\')\)',
+            r'_\)\((b\'[^\']+\')\)',
+        ]
+        encoded_data = None
+        for pattern in patterns:
+            match = re.search(pattern, content)
+            if match:
+                encoded_data = eval(match.group(1))
+                break
+        
+        if not encoded_data:
+            match = re.search(r"b'([A-Za-z0-9+/=]+)'", content)
+            if match:
+                encoded_data = match.group(1).encode()
     
-    raise ValueError("Tidak dapat menemukan encoded data")
+    if not encoded_data:
+        raise ValueError("Tidak dapat menemukan encoded data")
+    
+    if isinstance(encoded_data, str):
+        encoded_data = encoded_data.encode()
+    
+    # Multi-layer decryption loop
+    current_data = encoded_data
+    layers_decrypted = 0
+    
+    print(f"Starting multi-layer decryption (max {max_layers} layers)...")
+    
+    while layers_decrypted < max_layers:
+        # Try to decrypt current layer
+        decrypted_data, success = decrypt_single_layer(current_data)
+        
+        if not success:
+            print(f"Layer {layers_decrypted + 1}: Decryption failed, stopping.")
+            break
+        
+        layers_decrypted += 1
+        current_data = decrypted_data
+        
+        # Check if there's still nested exec() pattern in the decrypted data
+        try:
+            decoded_str = current_data.decode('utf-8', errors='ignore')
+            
+            # Look for nested exec((_)(b'...')) pattern - EXACT pattern from mtcr_menu
+            nested_match = re.search(r'exec\(\(_\)\((b\'[^\']+\'\))\)', decoded_str)
+            if nested_match:
+                # Extract the inner b'...' part
+                inner = re.search(r"b'([^']+)'", nested_match.group(1))
+                if inner:
+                    current_data = inner.group(1).encode()
+                    print(f"Layer {layers_decrypted}: Found nested exec(), continuing to next layer...")
+                    continue
+            
+            # Also check simpler pattern: exec((_)(b'...'))
+            nested_match2 = re.search(r'exec\(_\)\((b\'[^\']+\')\)', decoded_str)
+            if nested_match2:
+                current_data = eval(nested_match2.group(1))
+                if isinstance(current_data, str):
+                    current_data = current_data.encode()
+                print(f"Layer {layers_decrypted}: Found nested exec (simple), continuing...")
+                continue
+            
+            # No more nested exec, check if it's valid Python code
+            if (decoded_str.strip().startswith('import ') or 
+                decoded_str.strip().startswith('def ') or 
+                decoded_str.strip().startswith('#') or
+                decoded_str.strip().startswith('"""') or
+                'print(' in decoded_str or
+                'sys.exit' in decoded_str or
+                'os.' in decoded_str):
+                print(f"Layer {layers_decrypted}: Valid Python code found!")
+                break
+            else:
+                print(f"Layer {layers_decrypted}: No nested exec found, checking if final code...")
+                break
+                    
+        except Exception as e:
+            print(f"Layer {layers_decrypted}: Error checking nested exec: {e}")
+            break
+    
+    # Final result should be valid Python source code
+    try:
+        final_code = current_data.decode('utf-8')
+        print(f"Successfully decrypted {layers_decrypted} layers!")
+        return final_code
+    except UnicodeDecodeError:
+        return current_data.decode('utf-8', errors='replace')
 
 
 def decrypt_farmville_style(filepath):
@@ -327,10 +427,17 @@ def detect_encryption_type(filepath):
     with open(filepath, 'r', encoding='utf-8', errors='ignore') as f:
         content = f.read()
     
+    # Check for mtcr_menu pattern first (most specific)
+    # Pattern: _ = lambda __ : __import__('zlib').decompress(__import__('base64').b64decode(__[::-1]))
+    if "lambda __ : __import__('zlib').decompress(__import__('base64').b64decode(__[::-1]))" in content:
+        return 'mtcr_menu'
+    
+    # Also check for nested exec pattern characteristic of mtcr_menu
+    if re.search(r'exec\(_\)\(b\'[A-Za-z0-9+/=]+\'\)', content):
+        return 'mtcr_menu'
+    
     if 'marshal.loads' in content:
-        if 'b64decode' in content and '[::-1]' in content:
-            return 'mtcr_menu'
-        elif 'b85decode' in content and 'hashlib.sha256' in content:
+        if 'b85decode' in content and 'hashlib.sha256' in content:
             return 'farmville'
         elif 'marshal.loads' in content:
             return 'marshal'
@@ -386,7 +493,7 @@ def main():
     import argparse
     
     parser = argparse.ArgumentParser(description='Universal Python Decryptor')
-    parser.add_argument('files', nargs='+', help='Files to decrypt')
+    parser.add_argument('files', nargs='*', help='Files to decrypt')
     parser.add_argument('-o', '--output', help='Output directory for decrypted files')
     parser.add_argument('-l', '--list', action='store_true', help='List supported encryption types')
     
@@ -397,9 +504,13 @@ def main():
         print("  - dramora: Emoji encoding (DramoraFlutterPatch.py)")
         print("  - claudecode: Custom emoji encoding (claudecode.py)")
         print("  - marshal: Python marshal bytecode (blutter_execution.py)")
-        print("  - mtcr_menu: Base64 + zlib reversed (mtcr_menu.py)")
+        print("  - mtcr_menu: Multi-layer Base64 + zlib reversed (mtcr_menu.py) - UP TO 100 LAYERS!")
         print("  - farmville: Base85 + XOR + zlib + marshal (FarmVille2.py, HunterAssassin.py)")
         print("  - testprotection: XOR with obfuscation (TestProtection.py)")
+        return
+    
+    if not args.files:
+        parser.print_help()
         return
     
     output_dir = Path(args.output) if args.output else None
