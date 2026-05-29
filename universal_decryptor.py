@@ -1,637 +1,413 @@
 #!/usr/bin/env python3
 """
-Universal Python Decryptor
-Mendukung berbagai teknik enkripsi Python berdasarkan signature detection:
-
-Encryption Techniques Supported:
-- emoji_unicode_v1: Emoji-to-ASCII mapping dengan single digit encoding
-- emoji_map_dual: Dual emoji maps untuk base64-like encoding
-- marshal_bytecode: Raw Python marshal bytecode
-- multi_layer_zlib_b64_rev: Nested layers - reverse → base64 → zlib (up to 100 layers!)
-- base85_xor_marshal: Base85 + XOR multiple keys + zlib + marshal
-- xor_obfuscation: XOR encryption dengan string obfuscation
-- base64_zlib_simple: Generic base64 + zlib compression
-
-Auto-detection based on code signatures, not filename patterns.
+Universal Python Decryptor/Deobfuscator
+Mendeteksi dan mendecrypt berbagai pattern enkripsi/obfuscation pada file Python
 """
 
 import re
+import ast
 import sys
-import base64
-import zlib
-import marshal
-import hashlib
-import importlib.util
 from pathlib import Path
 
-# ============================================================================
-# EMOJI DECRYPTION (Emoji Unicode Encryption)
-# ============================================================================
 
-EMOJI_MAP_DRAMORA = {
-    '😀': 0, '😁': 3, '😂': 6, '😃': 1, '😄': 2, '😅': 4,
-    '😉': 7, '😊': 8, '😛': 9, '🤣': 5
-}
-
-def decrypt_emoji_string_v1(encrypted_string):
-    """Decrypt string emoji dengan mapping v1 (setiap grup emoji = ASCII code)"""
-    decrypted_chars = []
-    groups = re.split(r'\s{2,}', encrypted_string.strip())
+class PatternDetector:
+    """Mendeteksi pattern enkripsi/obfuscation"""
     
-    for group in groups:
-        if not group.strip():
-            continue
-        digits = ""
-        emojis = group.strip().split()
-        for emoji in emojis:
-            if emoji in EMOJI_MAP_DRAMORA:
-                digits += str(EMOJI_MAP_DRAMORA[emoji])
-        if digits:
-            try:
-                char_code = int(digits)
-                decrypted_chars.append(chr(char_code))
-            except (ValueError, OverflowError):
-                pass
-    return "".join(decrypted_chars)
-
-
-def decrypt_emoji_unicode_v1(filepath):
-    """Extract dan decrypt file dengan enkripsi emoji unicode v1"""
-    with open(filepath, 'r', encoding='utf-8') as f:
-        content = f.read()
-    
-    start_pattern = 'exec(""'.replace('"', '"')
-    start_pos = content.find(start_pattern)
-    if start_pos == -1:
-        raise ValueError("Tidak dapat menemukan pattern exec()")
-    
-    quote_start = content.find('"', start_pos)
-    if quote_start == -1:
-        raise ValueError("Tidak dapat menemukan awal string emoji")
-    quote_start += 1
-    
-    split_pattern = '.split("'
-    split_pos = content.find(split_pattern, quote_start)
-    if split_pos == -1:
-        raise ValueError("Tidak dapat menemukan akhir string emoji")
-    
-    emoji_string = content[quote_start:split_pos]
-    emoji_string = emoji_string.replace('\\\n', ' ').replace('\\\r\n', ' ')
-    
-    return decrypt_emoji_string_v1(emoji_string)
-
-
-# ============================================================================
-# CLAUDECODE EMOJI DECRYPTION
-# ============================================================================
-
-def build_claudecode_maps():
-    """Build emoji maps untuk file dengan dual emoji maps"""
-    _gawfe = ['😀', '😁', '😂', '🤣', '😃', '😄', '😅', '😆', '😉', '😊', '😋', '😎', '😍', '😘', '😗', '😙', '😚', '🙂', '🤗', '🤔', '😐', '😑', '😶', '🙄', '😏', '😣', '😥', '😮', '🤐', '😯', '😪', '😫', '😴', '😌', '😛', '😜', '😝', '🤤', '😒', '😓', '😔', '😕', '🙃', '🤑', '😲', '😖', '😞', '😟', '😤', '😢', '😭', '😦', '😧', '😨', '😩', '😬', '😰', '😱', '😳', '😵', '😡', '😠', '🥶', '🥵']
-    _zmadetxda = ['⚡', '🔥', '💀', '👾', '🎯', '🔑', '🔒', '💎', '🌀', '⭐', '🎭', '🔮', '💫', '🌊', '🎪', '🔬', '🧬', '💥', '🎲', '🌈', '🔭', '🎸', '🧩', '🏆', '🔐', '🧪', '💡', '🌙', '🎵', '🧲', '🔋', '📡', '🛸', '🎨', '🧿', '🪄', '🔱', '🌟', '💠', '🔴', '🟢', '🔵', '🟡', '🟣', '🔶', '🔷', '🔸', '🔹', '🔺', '🔻', '💲', '🔄', '🔃', '🔁', '🔂', '⏩', '⏫', '🔼', '🎀', '🎁', '🎂', '🎃', '🎄', '🎆', '🎇', '🧨']
-    
-    acvwst = {v: i for i, v in enumerate(_gawfe)}
-    ooghrdb = {v: i for i, v in enumerate(_zmadetxda)}
-    return acvwst, ooghrdb
-
-
-def duhbkvjs(akboqndekm, acvwst):
-    """Base64-like decode dari emoji"""
-    result = ''
-    for c in akboqndekm:
-        idx = acvwst.get(c, 0)
-        if idx < 26:
-            result += chr(65 + idx)
-        elif idx < 52:
-            result += chr(71 + idx)
-        elif idx < 62:
-            result += chr(48 + idx - 52)
-        elif idx == 62:
-            result += '+'
-        else:
-            result += '/'
-    return result
-
-
-def tkvdhxm(akboqndekm, ooghrdb):
-    """Decode integer dari emoji sequence"""
-    gbhvc = 0
-    mzzgzgz = len(ooghrdb)
-    for yymsmye in akboqndekm:
-        gbhvc = gbhvc * mzzgzgz + ooghrdb.get(yymsmye, 0)
-    return gbhvc
-
-
-def decrypt_claudecode(filepath):
-    """Decrypt file dengan dual emoji maps"""
-    with open(filepath, 'r', encoding='utf-8') as f:
-        content = f.read()
-    
-    acvwst, ooghrdb = build_claudecode_maps()
-    
-    # Extract emoji list dari __kzlgg
-    match = re.search(r"__kzlgg=bytes\(\[__tkvdhxm\(e\) for e in _ast\.literal_eval\(\"(.+?)\"\)\]\)", content)
-    if not match:
-        raise ValueError("Tidak dapat menemukan encoded data")
-    
-    emoji_list_str = match.group(1)
-    emoji_list = eval(emoji_list_str)
-    
-    # Decode ke bytes
-    decoded_bytes = bytes([tkvdhxm(e, ooghrdb) for e in emoji_list])
-    
-    # Ini adalah key untuk decrypt data utama
-    # Cari data terenkripsi utama
-    # Biasanya ada di bagian bawah file dalam bentuk emoji sequences panjang
-    
-    # Extract long emoji sequences
-    long_emoji_pattern = r"'((?:['😀-🥵']+))'"
-    matches = re.findall(long_emoji_pattern, content)
-    
-    if matches:
-        # Gabungkan semua sequences
-        combined = ''.join(matches)
-        # Coba decode sebagai base64 custom
-        try:
-            b64_like = duhbkvjs(combined[:100], acvwst)  # Test dengan 100 karakter pertama
-            decoded = base64.b64decode(b64_like + '==')
-            decompressed = zlib.decompress(decoded)
-            return decompressed.decode('utf-8', errors='replace')
-        except:
-            pass
-    
-    # Alternatif: coba execute dan capture output
-    return "Emoji Map Dual decryption requires runtime execution"
-
-
-# ============================================================================
-# MARSHAL BYTECODE DECRYPTION (file dengan marshal bytecode)
-# ============================================================================
-
-def decrypt_marshal_file(filepath):
-    """Decrypt file dengan marshal.loads()"""
-    with open(filepath, 'rb') as f:
-        content = f.read()
-    
-    # Cari pattern marshal.loads(b'...')
-    match = re.search(rb'marshal\.loads\(b\'(.+?)\'\)', content)
-    if not match:
-        raise ValueError("Tidak dapat menemukan marshal.loads()")
-    
-    marshal_data = eval(match.group(1))
-    code_object = marshal.loads(marshal_data)
-    
-    # Konversi code object ke source code (best effort)
-    import dis
-    output = []
-    output.append("# Decrypted from marshal bytecode")
-    output.append(f"# Code object: {code_object.co_name}")
-    output.append("")
-    output.append("# Disassembly:")
-    output.append(dis.dis(code_object, output=output.append))
-    
-    return "\n".join(str(x) for x in output) if output else "Unable to fully decompile"
-
-
-# ============================================================================
-# BASE64/BASE85 + ZLIB DECRYPTION (file dengan multi-layer encryption, file dengan base85+xor+marshal)
-# ============================================================================
-
-def decrypt_single_layer(data):
-    """Decrypt single layer: reverse -> base64 decode -> zlib decompress"""
-    try:
-        # Reverse the data
-        reversed_data = data[::-1]
-        # Base64 decode
-        decoded = base64.b64decode(reversed_data)
-        # Zlib decompress
-        decompressed = zlib.decompress(decoded)
-        return decompressed, True
-    except Exception as e:
-        return data, False
-
-
-def decrypt_multi_layer_zlib_b64_rev(filepath, max_layers=100):
-    """
-    Decrypt file dengan multi-layer encryption dengan multi-layer nested encryption.
-    Pattern: exec((_)(b'...')) dimana setiap layer adalah reverse+base64+zlib
-    Support hingga 100 layers atau sampai tidak ada lagi nested exec()
-    """
-    with open(filepath, 'r', encoding='utf-8') as f:
-        content = f.read()
-    
-    # Extract initial encoded data - handle nested exec((_)(b'...'))
-    # The pattern is: exec((_)(b'...')) where the inner () returns another exec((_)(b'...'))
-    match = re.search(r'exec\(\(_\)\((b\'[^\']+\'\))\)', content)
-    if match:
-        # Get the inner b'...' part
-        inner_match = re.search(r"b'([^']+)'", match.group(1))
-        if inner_match:
-            encoded_data = inner_match.group(1).encode()
-        else:
-            encoded_data = match.group(1).encode()
-    else:
-        # Fallback patterns
+    @staticmethod
+    def detect_emoji_encoding(content):
+        """Deteksi emoji-based encoding"""
         patterns = [
-            r'exec\(_\)\((b\'[^\']+\')\)',
-            r'_\)\((b\'[^\']+\')\)',
+            r'exec\(\s*["\']\.join\s*\(\s*map\s*\(\s*chr\s*,',
+            r'map\s*\(\s*chr\s*,\s*\[int\(',
+            r'\{[^}]*😀[^}]*😁[^}]*😂[^}]*\}',
         ]
-        encoded_data = None
+        
         for pattern in patterns:
-            match = re.search(pattern, content)
-            if match:
-                encoded_data = eval(match.group(1))
-                break
+            if re.search(pattern, content):
+                return True
+        return False
+    
+    @staticmethod
+    def detect_base64_encoding(content):
+        """Deteksi base64 encoding"""
+        patterns = [
+            r'import\s+base64',
+            r'base64\.b64decode',
+            r'base64\.decodebytes',
+            r'exec\s*\(\s*base64\.',
+            r'eval\s*\(\s*base64\.',
+        ]
         
-        if not encoded_data:
-            match = re.search(r"b'([A-Za-z0-9+/=]+)'", content)
-            if match:
-                encoded_data = match.group(1).encode()
+        for pattern in patterns:
+            if re.search(pattern, content, re.IGNORECASE):
+                return True
+        return False
     
-    if not encoded_data:
-        raise ValueError("Tidak dapat menemukan encoded data")
-    
-    if isinstance(encoded_data, str):
-        encoded_data = encoded_data.encode()
-    
-    # Multi-layer decryption loop
-    current_data = encoded_data
-    layers_decrypted = 0
-    
-    print(f"Starting multi-layer decryption (max {max_layers} layers)...")
-    
-    while layers_decrypted < max_layers:
-        # Try to decrypt current layer
-        decrypted_data, success = decrypt_single_layer(current_data)
+    @staticmethod
+    def detect_hex_encoding(content):
+        """Deteksi hex encoding"""
+        patterns = [
+            r'\\x[0-9a-fA-F]{2}',
+            r'bytes\.fromhex',
+            r'\.decode\(\s*["\']hex["\']',
+            r'exec\s*\(\s*["\'][0-9a-fA-F]+["\']',
+        ]
         
-        if not success:
-            print(f"Layer {layers_decrypted + 1}: Decryption failed, stopping.")
-            break
+        for pattern in patterns:
+            if re.search(pattern, content):
+                return True
+        return False
+    
+    @staticmethod
+    def detect_rot_encoding(content):
+        """Deteksi ROT/Caesar cipher"""
+        patterns = [
+            r'rot_\d+',
+            r'caesar',
+            r'chr\s*\(\s*ord\s*\([^)]+\)\s*[+\-]\s*\d+',
+        ]
         
-        layers_decrypted += 1
-        current_data = decrypted_data
+        for pattern in patterns:
+            if re.search(pattern, content, re.IGNORECASE):
+                return True
+        return False
+    
+    @staticmethod
+    def detect_xor_encoding(content):
+        """Deteksi XOR encoding"""
+        patterns = [
+            r'\^\s*0x[0-9a-fA-F]+',
+            r'\^\s*\d+',
+            r'xor',
+            r'lambda\s*\w+\s*:\s*\w+\s*\^',
+        ]
         
-        # Check if there's still nested exec() pattern in the decrypted data
-        try:
-            decoded_str = current_data.decode('utf-8', errors='ignore')
+        for pattern in patterns:
+            if re.search(pattern, content, re.IGNORECASE):
+                return True
+        return False
+    
+    @staticmethod
+    def detect_eval_exec(content):
+        """Deteksi penggunaan eval/exec untuk obfuscation"""
+        patterns = [
+            r'exec\s*\(',
+            r'eval\s*\(',
+            r'__import__',
+            r'getattr\s*\(\s*__builtins__',
+        ]
+        
+        count = 0
+        for pattern in patterns:
+            matches = re.findall(pattern, content)
+            count += len(matches)
+        
+        return count > 0
+
+
+class EmojiDecryptor:
+    """Decryptor untuk emoji-based encoding"""
+    
+    def __init__(self, content):
+        self.content = content
+        self.emoji_map = None
+        self.encoded_strings = []
+    
+    def extract_emoji_mapping(self):
+        """Ekstrak mapping emoji ke angka"""
+        # Cari dictionary mapping emoji
+        pattern = r'\{([^}]*(?:😀|😁|😂|😃|😄|😅|😉|😊|😛|🤣)[^}]*)\}'
+        match = re.search(pattern, self.content)
+        
+        if match:
+            map_content = match.group(1)
+            self.emoji_map = {}
             
-            # Look for nested exec((_)(b'...')) pattern - EXACT pattern multi-layer encryption
-            nested_match = re.search(r'exec\(\(_\)\((b\'[^\']+\'\))\)', decoded_str)
-            if nested_match:
-                # Extract the inner b'...' part
-                inner = re.search(r"b'([^']+)'", nested_match.group(1))
-                if inner:
-                    current_data = inner.group(1).encode()
-                    print(f"Layer {layers_decrypted}: Found nested exec(), continuing to next layer...")
-                    continue
+            # Parse setiap mapping 'emoji': number
+            emoji_pattern = r"'([😀-🙏]+)':\s*(\d+)"
+            for emoji_match in re.finditer(emoji_pattern, map_content):
+                emoji = emoji_match.group(1)
+                number = int(emoji_match.group(2))
+                self.emoji_map[emoji] = number
             
-            # Also check simpler pattern: exec((_)(b'...'))
-            nested_match2 = re.search(r'exec\(_\)\((b\'[^\']+\')\)', decoded_str)
-            if nested_match2:
-                current_data = eval(nested_match2.group(1))
-                if isinstance(current_data, str):
-                    current_data = current_data.encode()
-                print(f"Layer {layers_decrypted}: Found nested exec (simple), continuing...")
+            return True
+        return False
+    
+    def extract_encoded_data(self):
+        """Ekstrak string emoji yang terenkripsi"""
+        # Cari string emoji setelah mapping
+        pattern = r'["\']([\s😀-🙏]+)["\']\s*\)'
+        matches = re.findall(pattern, self.content)
+        
+        if matches:
+            # Gabungkan semua string emoji yang ditemukan
+            self.encoded_strings = matches
+            return True
+        
+        # Alternatif: cari dalam format exec
+        pattern = r'for\s+x\s+in\s*["\']([\s😀-🙏]+)["\']'
+        match = re.search(pattern, self.content)
+        
+        if match:
+            self.encoded_strings = [match.group(1)]
+            return True
+        
+        return False
+    
+    def decode_emoji_string(self, emoji_string):
+        """Decode string emoji menjadi teks asli"""
+        if not self.emoji_map:
+            return None
+        
+        decoded_chars = []
+        
+        # Split berdasarkan whitespace untuk mendapatkan setiap grup emoji
+        emoji_groups = emoji_string.split()
+        
+        for group in emoji_groups:
+            if not group.strip():
                 continue
             
-            # No more nested exec, check if it's valid Python code
-            if (decoded_str.strip().startswith('import ') or 
-                decoded_str.strip().startswith('def ') or 
-                decoded_str.strip().startswith('#') or
-                decoded_str.strip().startswith('"""') or
-                'print(' in decoded_str or
-                'sys.exit' in decoded_str or
-                'os.' in decoded_str):
-                print(f"Layer {layers_decrypted}: Valid Python code found!")
-                break
-            else:
-                print(f"Layer {layers_decrypted}: No nested exec found, checking if final code...")
-                break
-                    
-        except Exception as e:
-            print(f"Layer {layers_decrypted}: Error checking nested exec: {e}")
-            break
+            # Konversi setiap grup emoji menjadi angka
+            digit_str = ""
+            i = 0
+            while i < len(group):
+                found = False
+                # Coba match emoji dengan panjang berbeda (dari yang terpanjang)
+                for length in range(min(4, len(group) - i), 0, -1):
+                    emoji_candidate = group[i:i+length]
+                    if emoji_candidate in self.emoji_map:
+                        digit_str += str(self.emoji_map[emoji_candidate])
+                        i += length
+                        found = True
+                        break
+                
+                if not found:
+                    i += 1
+            
+            if digit_str:
+                try:
+                    char_code = int(digit_str)
+                    if 0 <= char_code <= 0x10FFFF:
+                        decoded_chars.append(chr(char_code))
+                except (ValueError, OverflowError):
+                    pass
+        
+        return ''.join(decoded_chars)
     
-    # Final result should be valid Python source code
-    try:
-        final_code = current_data.decode('utf-8')
-        print(f"Successfully decrypted {layers_decrypted} layers!")
-        return final_code
-    except UnicodeDecodeError:
-        return current_data.decode('utf-8', errors='replace')
+    def decrypt(self):
+        """Proses decrypt lengkap"""
+        if not self.extract_emoji_mapping():
+            return None, "Gagal mengekstrak emoji mapping"
+        
+        if not self.extract_encoded_data():
+            return None, "Gagal mengekstrak data terenkripsi"
+        
+        decoded_parts = []
+        for encoded in self.encoded_strings:
+            decoded = self.decode_emoji_string(encoded)
+            if decoded:
+                decoded_parts.append(decoded)
+        
+        if decoded_parts:
+            full_decoded = ''.join(decoded_parts)
+            return full_decoded, "Success"
+        
+        return None, "Gagal decoding"
 
 
-def decrypt_farmville_style(filepath):
-    """Decrypt file dengan base85+xor+marshal style"""
-    with open(filepath, 'r', encoding='utf-8') as f:
-        content = f.read()
+class Base64Decryptor:
+    """Decryptor untuk base64 encoding"""
     
-    # Extract encoded strings
-    lines = content.split('\n')
+    def __init__(self, content):
+        self.content = content
     
-    # Cari variable assignments dengan base85 strings
-    encoded_vars = {}
-    for line in lines[:15]:  # Check first 15 lines
-        match = re.match(r"^([A-Za-z0-9_]+)\s*=\s*'([^']+)'", line.strip())
-        if match:
-            var_name = match.group(1)
-            var_value = match.group(2)
-            if len(var_value) > 50:  # Likely encoded data
-                encoded_vars[var_name] = var_value
-    
-    if not encoded_vars:
-        raise ValueError("Tidak dapat menemukan encoded variables")
-    
-    # Temukan main encoded string (biasanya yang pertama dan terpanjang)
-    main_var = list(encoded_vars.keys())[0]
-    main_encoded = encoded_vars[main_var]
-    
-    # Decode base85
-    try:
-        decoded = base64.b85decode(main_encoded)
+    def decrypt(self):
+        """Cari dan decode base64 strings"""
+        import base64
         
-        # Cari key variables untuk XOR
-        key_vars = list(encoded_vars.keys())[1:4]  # Next 3 variables are likely keys
+        # Cari base64 encoded strings
+        pattern = r'["\']([A-Za-z0-9+/=]{20,})["\']'
+        matches = re.findall(pattern, self.content)
         
-        if len(key_vars) >= 3:
-            # Perform multi-layer XOR
-            for key_var in key_vars:
-                if key_var in encoded_vars:
-                    key_data = base64.b85decode(encoded_vars[key_var])
-                    decoded = bytes(decoded[i] ^ key_data[i % len(key_data)] for i in range(len(decoded)))
-        
-        # Decompress zlib
-        decompressed = zlib.decompress(decoded)
-        
-        # Load marshal
-        code_object = marshal.loads(decompressed)
-        
-        # Return disassembly atau coba decompile
-        import dis
-        output = []
-        output.append(f"# Decrypted from {filepath}")
-        output.append(f"# Original hash check passed")
-        output.append("")
-        dis.dis(code_object, output=output.append)
-        
-        return "\n".join(str(x) for x in output)
-        
-    except Exception as e:
-        return f"Partial decryption error: {e}"
-
-
-# ============================================================================
-# XOR DECRYPTION (file dengan xor obfuscation)
-# ============================================================================
-
-def decrypt_test_protection(filepath):
-    """Decrypt file dengan xor obfuscation (XOR dengan key)"""
-    with open(filepath, 'r', encoding='utf-8') as f:
-        content = f.read()
-    
-    # Cari fungsi decrypt _e98cba59476
-    match = re.search(r"_e98cba59476\('([^']+)',\s*(\d+)\)", content)
-    if not match:
-        # Alternative: cari string terenkripsi
-        match = re.search(r"_e98cba59476\(['\"]([^'\"]+)['\"],\s*(\d+)", content)
-    
-    if match:
-        encoded_str = match.group(1)
-        xor_key = int(match.group(2))
-        
-        # Decode base85 dan XOR
-        decoded = base64.b85decode(encoded_str)
-        decrypted = bytes([b ^ (xor_key + i) % 256 for i, b in enumerate(decoded)])
-        return decrypted.decode('utf-8', errors='replace')
-    
-    # Alternative: cari dan eval class strings
-    class_matches = re.findall(r'_0x[a-f0-9]+\s*=\s*_b98bd93b5\(\)\.join\(\[(lambda[^\]]+\))\]', content)
-    
-    if class_matches:
-        # Ini adalah obfuscated strings, coba extract
-        output = ["# Decrypted strings from file dengan xor obfuscation:"]
-        for i, cm in enumerate(class_matches[:5]):
+        decoded_parts = []
+        for match in matches:
             try:
-                # Extract key dan indices dari lambda
-                key_match = re.search(r'\)\((\d+),\s*\[([^\]]+)\]', cm)
-                if key_match:
-                    key = int(key_match.group(1))
-                    indices_str = key_match.group(2)
-                    output.append(f"String {i}: key={key}, indices=[{indices_str}]")
-            except:
+                decoded = base64.b64decode(match).decode('utf-8', errors='ignore')
+                if decoded.isprintable() or '\n' in decoded:
+                    decoded_parts.append(decoded)
+            except Exception:
                 pass
-        return "\n".join(output)
-    
-    return "Unable to fully decrypt file dengan xor obfuscation - heavy obfuscation"
-
-
-# ============================================================================
-# UNIVERSAL DECRYPTOR
-# ============================================================================
-
-def detect_encryption_type(filepath):
-    """
-    Detect tipe enkripsi berdasarkan signature/pola kode.
-    Mengembalikan nama TECHNIQUE enkripsi, bukan nama file.
-    """
-    with open(filepath, 'r', encoding='utf-8', errors='ignore') as f:
-        content = f.read()
-    
-    # ========================================================================
-    # SIGNATURE-BASED DETECTION
-    # ========================================================================
-    
-    # 1. MULTI_LAYER_ZLIB_B64_REV (teknik: nested exec dengan reverse+base64+zlib)
-    # Signature: lambda dengan reverse + base64 + zlib, atau nested exec(b'...')
-    if "lambda __ : __import__('zlib').decompress(__import__('base64').b64decode(__[::-1]))" in content:
-        return 'multi_layer_zlib_b64_rev'
-    
-    # Check for nested exec patterns - multiple variations
-    if re.search(r'exec\(\(_\)\(', content) and re.search(r"b'[A-Za-z0-9+/=]+", content):
-        return 'multi_layer_zlib_b64_rev'
-    
-    if re.search(r'exec\(_\)\(b\'[A-Za-z0-9+/=]+\'\)', content):
-        return 'multi_layer_zlib_b64_rev'
-    
-    # 2. MARSHAL_BYTECODE (teknik: marshal.loads langsung)
-    # Signature: marshal.loads tanpa b85decode/XOR kompleks
-    if 'marshal.loads' in content:
-        if 'b85decode' not in content and 'base64.b85decode' not in content:
-            return 'marshal_bytecode'
-    
-    # 3. BASE85_XOR_MARSHAL (sebelumnya: farmville)
-    # Signature: b85decode + hashlib + marshal.loads
-    if 'b85decode' in content or 'base64.b85decode' in content:
-        if 'marshal.loads' in content and 'hashlib' in content:
-            return 'base85_xor_marshal'
-        if 'marshal.loads' in content and 'xor' in content.lower():
-            return 'base85_xor_marshal'
-    
-    # 4. EMOJI_UNICODE_V1 (sebelumnya: dramora)
-    # Signature: Emoji map sederhana {'😀': 0} + split pattern
-    if '{"😀": 0' in content or "'😀': 0" in content or '"😁": 3' in content:
-        if 'split("' in content or ".split('" in content:
-            return 'emoji_unicode_v1'
-    
-    # 5. EMOJI_MAP_DUAL (sebelumnya: claudecode)
-    # Signature: Dual emoji maps (_gawfe, _zmadetxda) atau __acvwst/__ooghrdb
-    if '_gawfe=' in content or '__acvwst=' in content or '_zmadetxda' in content:
-        return 'emoji_map_dual'
-    
-    if '__kzlgg' in content and 'tkvdhxm' in content:
-        return 'emoji_map_dual'
-    
-    # 6. XOR_OBFUSCATION (sebelumnya: testprotection)
-    # Signature: Fungsi decrypt dengan nama hex (_0x..., _d2006c...) + lambda obfuscation
-    if re.search(r'def _[0-9a-f]{10,}', content):
-        return 'xor_obfuscation'
-    
-    if re.search(r'_0x[0-9a-f]+\s*=', content):
-        return 'xor_obfuscation'
-    
-    if 'lambda.*\\^' in content or 'ord(c)^' in content:
-        return 'xor_obfuscation'
-    
-    # 7. BASE64_ZLIB_SIMPLE (generic base64+zlib tanpa nested layers)
-    if 'base64.b64decode' in content and 'zlib.decompress' in content:
-        if 'lambda' not in content and 'exec' not in content:
-            return 'base64_zlib_simple'
-    
-    return 'unknown'
-
-
-def decrypt_file(filepath, output_path=None):
-    """
-    Universal decrypt function dengan auto-detection encryption type.
-    """
-    enc_type = detect_encryption_type(filepath)
-    
-    # Mapping dari technique name ke fungsi decrypt
-    technique_map = {
-        'emoji_unicode_v1': ('Emoji Unicode v1', decrypt_emoji_unicode_v1),
-        'emoji_map_dual': ('Dual Emoji Map (Emoji Map Dual-style)', decrypt_claudecode),
-        'marshal_bytecode': ('Marshal Bytecode', decrypt_marshal_file),
-        'multi_layer_zlib_b64_rev': ('Multi-Layer Zlib/Base64/Reverse', decrypt_multi_layer_zlib_b64_rev),
-        'base85_xor_marshal': ('Base85 + XOR + Marshal', decrypt_farmville_style),
-        'xor_obfuscation': ('XOR Obfuscation', decrypt_test_protection),
-        'base64_zlib_simple': ('Base64 + Zlib Simple', lambda f: "Generic Base64+Zlib - requires custom handling"),
-        'unknown': ('Unknown', lambda f: "Unknown encryption type. Manual analysis required."),
-    }
-    
-    tech_name, decrypt_func = technique_map.get(enc_type, technique_map['unknown'])
-    
-    print(f"[DETECT] Encryption Type: {enc_type}")
-    print(f"[INFO] Technique: {tech_name}")
-    
-    try:
-        result = decrypt_func(filepath)
         
-        if output_path:
+        if decoded_parts:
+            return '\n'.join(decoded_parts), "Success"
+        
+        return None, "No valid base64 found"
+
+
+class HexDecryptor:
+    """Decryptor untuk hex encoding"""
+    
+    def __init__(self, content):
+        self.content = content
+    
+    def decrypt(self):
+        """Cari dan decode hex strings"""
+        # Cari hex strings
+        pattern = r'(?:\\x[0-9a-fA-F]{2})+'
+        matches = re.findall(pattern, self.content)
+        
+        if matches:
+            try:
+                decoded = ''.join([chr(int(x[2:], 16)) for x in matches[0].split('\\x')[1:]])
+                return decoded, "Success"
+            except Exception as e:
+                return None, f"Hex decode error: {e}"
+        
+        # Cari format lain
+        pattern = r'["\']([0-9a-fA-F]{20,})["\']'
+        matches = re.findall(pattern, self.content)
+        
+        for match in matches:
+            try:
+                decoded = bytes.fromhex(match).decode('utf-8', errors='ignore')
+                if decoded.isprintable():
+                    return decoded, "Success"
+            except Exception:
+                pass
+        
+        return None, "No valid hex found"
+
+
+class UniversalDecryptor:
+    """Main decryptor class yang mendeteksi dan mendecrypt otomatis"""
+    
+    def __init__(self, file_path):
+        self.file_path = Path(file_path)
+        self.content = None
+        self.detected_patterns = []
+    
+    def load_file(self):
+        """Load file content"""
+        try:
+            with open(self.file_path, 'r', encoding='utf-8') as f:
+                self.content = f.read()
+            return True
+        except Exception as e:
+            print(f"Error loading file: {e}")
+            return False
+    
+    def detect_patterns(self):
+        """Deteksi semua pattern enkripsi"""
+        self.detected_patterns = []
+        
+        detectors = [
+            ('Emoji Encoding', PatternDetector.detect_emoji_encoding),
+            ('Base64 Encoding', PatternDetector.detect_base64_encoding),
+            ('Hex Encoding', PatternDetector.detect_hex_encoding),
+            ('ROT/Caesar Cipher', PatternDetector.detect_rot_encoding),
+            ('XOR Encoding', PatternDetector.detect_xor_encoding),
+            ('Eval/Exec Obfuscation', PatternDetector.detect_eval_exec),
+        ]
+        
+        for name, detector_func in detectors:
+            if detector_func(self.content):
+                self.detected_patterns.append(name)
+        
+        return self.detected_patterns
+    
+    def decrypt(self):
+        """Proses decrypt berdasarkan pattern yang terdeteksi"""
+        if not self.content:
+            if not self.load_file():
+                return None, "Failed to load file"
+        
+        # Deteksi patterns
+        patterns = self.detect_patterns()
+        
+        if not patterns:
+            return self.content, "No encryption detected, returning original content"
+        
+        print(f"Detected patterns: {', '.join(patterns)}")
+        
+        # Coba decrypt berdasarkan pattern
+        if 'Emoji Encoding' in patterns:
+            print("\nAttempting emoji decryption...")
+            decryptor = EmojiDecryptor(self.content)
+            result, message = decryptor.decrypt()
+            if result:
+                return result, f"Emoji decryption successful: {message}"
+        
+        if 'Base64 Encoding' in patterns:
+            print("\nAttempting base64 decryption...")
+            decryptor = Base64Decryptor(self.content)
+            result, message = decryptor.decrypt()
+            if result:
+                return result, f"Base64 decryption successful: {message}"
+        
+        if 'Hex Encoding' in patterns:
+            print("\nAttempting hex decryption...")
+            decryptor = HexDecryptor(self.content)
+            result, message = decryptor.decrypt()
+            if result:
+                return result, f"Hex decryption successful: {message}"
+        
+        # Jika tidak ada yang berhasil
+        return None, "Could not decrypt with available methods"
+    
+    def save_decrypted(self, output_path=None):
+        """Save hasil decrypt ke file"""
+        result, message = self.decrypt()
+        
+        if not result:
+            print(f"Decryption failed: {message}")
+            return False
+        
+        if output_path is None:
+            output_path = self.file_path.parent / f"{self.file_path.stem}_decrypted{self.file_path.suffix}"
+        else:
+            output_path = Path(output_path)
+        
+        try:
             with open(output_path, 'w', encoding='utf-8') as f:
                 f.write(result)
-            print(f"[SAVE] Decrypted code saved to: {output_path}")
-        
-        return result
-    
-    except Exception as e:
-        return f"[ERROR] Decryption failed: {e}\nType: {type(e).__name__}"
+            print(f"\n✓ Decrypted file saved to: {output_path}")
+            return True
+        except Exception as e:
+            print(f"Error saving file: {e}")
+            return False
 
 
 def main():
-    import argparse
+    """Main function"""
+    if len(sys.argv) < 2:
+        print("Usage: python universal_decryptor.py <encrypted_file> [output_file]")
+        print("\nSupported encryption types:")
+        print("  - Emoji-based encoding")
+        print("  - Base64 encoding")
+        print("  - Hex encoding")
+        print("  - ROT/Caesar cipher")
+        print("  - XOR encoding")
+        print("  - Eval/Exec obfuscation")
+        sys.exit(1)
     
-    parser = argparse.ArgumentParser(
-        description='Universal Python Decryptor - Auto-detect & decrypt various Python encryption techniques',
-        formatter_class=argparse.RawDescriptionHelpFormatter,
-        epilog="""
-Encryption Types Supported:
-  emoji_unicode_v1       - Emoji-to-ASCII mapping (single char per group)
-  emoji_map_dual         - Dual emoji maps for base64-like encoding
-  marshal_bytecode       - Raw Python marshal bytecode
-  multi_layer_zlib_b64_rev - Nested layers: reverse → base64 → zlib (up to 100 layers!)
-  base85_xor_marshal     - Base85 decode → XOR multiple keys → zlib → marshal
-  xor_obfuscation        - XOR decryption with string obfuscation
-  base64_zlib_simple     - Simple base64 + zlib compression
-
-Examples:
-  python universal_decryptor.py encrypted.py
-  python universal_decryptor.py *.py -o decrypted_output/
-  python universal_decryptor.py -l
-        """
-    )
-    parser.add_argument('files', nargs='*', help='Encrypted Python files to decrypt')
-    parser.add_argument('-o', '--output', help='Output directory for decrypted files')
-    parser.add_argument('-l', '--list', action='store_true', help='List supported encryption types with details')
+    input_file = sys.argv[1]
+    output_file = sys.argv[2] if len(sys.argv) > 2 else None
     
-    args = parser.parse_args()
+    if not Path(input_file).exists():
+        print(f"Error: File '{input_file}' not found")
+        sys.exit(1)
     
-    if args.list:
-        print("="*70)
-        print("SUPPORTED ENCRYPTION TECHNIQUES")
-        print("="*70)
-        print()
-        print("1. emoji_unicode_v1")
-        print("   Description: Each ASCII character encoded as group of emojis")
-        print("   Detection: Emoji dict {'😀': 0, '😁': 3, ...} + split()")
-        print("   Deteksi: Emoji dict + split pattern")
-        print()
-        print("2. emoji_map_dual")
-        print("   Description: Two emoji maps for base64-like encoding")
-        print("   Detection: Variables _gawfe, _zmadetxda, __acvwst, __ooghrdb")
-        print("   Deteksi: Dual emoji maps variables")
-        print()
-        print("3. marshal_bytecode")
-        print("   Description: Raw Python marshal bytecode embedded in script")
-        print("   Detection: marshal.loads() without additional encoding")
-        print("   Deteksi: marshal.loads() langsung")
-        print()
-        print("4. multi_layer_zlib_b64_rev ⭐")
-        print("   Description: Multiple nested layers of encryption")
-        print("   Process: reverse string → base64 decode → zlib decompress")
-        print("   Layers: Supports up to 100 nested layers automatically!")
-        print("   Detection: lambda with [::-1] + b64decode + decompress")
-        print("   Deteksi: lambda reverse+b64+zlib atau nested exec")
-        print()
-        print("5. base85_xor_marshal")
-        print("   Description: Multi-stage encoding with XOR keys")
-        print("   Process: base85 decode → XOR with multiple keys → zlib → marshal")
-        print("   Detection: b85decode + hashlib + marshal.loads")
-        print("   Deteksi: b85decode+hashlib+marshal")
-        print()
-        print("6. xor_obfuscation")
-        print("   Description: XOR encryption with obfuscated strings")
-        print("   Detection: Hex-named functions (_0x...), lambda chains")
-        print("   Deteksi: Hex function names + lambda chains")
-        print()
-        print("7. base64_zlib_simple")
-        print("   Description: Basic base64 encoding + zlib compression")
-        print("   Detection: b64decode + decompress without nesting")
-        print("   Deteksi: b64decode + decompress sederhana")
-        print()
-        print("="*70)
-        return
+    print(f"Processing: {input_file}")
+    print("=" * 60)
     
-    if not args.files:
-        parser.print_help()
-        return
+    decryptor = UniversalDecryptor(input_file)
     
-    output_dir = Path(args.output) if args.output else None
-    if output_dir:
-        output_dir.mkdir(parents=True, exist_ok=True)
-    
-    for filepath in args.files:
-        print(f"\n{'='*80}")
-        print(f"Decrypting: {filepath}")
-        print('='*80)
-        
-        output_path = None
-        if output_dir:
-            output_path = output_dir / f"{Path(filepath).stem}_decrypted.py"
-        
-        result = decrypt_file(filepath, output_path)
-        print("\n" + result[:2000])  # Print first 2000 chars
-        if len(result) > 2000:
-            print(f"\n... ({len(result) - 2000} more characters)")
+    if decryptor.save_decrypted(output_file):
+        print("\n✓ Decryption completed successfully!")
+    else:
+        print("\n✗ Decryption failed")
+        sys.exit(1)
 
 
 if __name__ == "__main__":
